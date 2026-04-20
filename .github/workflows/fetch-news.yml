@@ -1,0 +1,39 @@
+name: Obtener noticias de IA cada 24 horas
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 8:00 AM UTC (4-5 AM hora latinoamérica)
+    - cron: "0 8 * * *"
+  # Permite ejecutarlo manualmente desde GitHub cuando quieras
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Ejecutar script de noticias
+        run: node scripts/fetch-news.mjs
+
+      - name: Guardar noticias en el repositorio
+        run: |
+          git config --local user.email "diarioia-bot@noreply.github.com"
+          git config --local user.name "DiarioIA Bot"
+          git add data/noticias/
+          git diff --staged --quiet || git commit -m "chore: actualización automática de noticias $(date +'%Y-%m-%d')"
+          git push
