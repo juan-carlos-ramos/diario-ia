@@ -2,6 +2,15 @@
 
 Todos los cambios notables del proyecto se documentan en este archivo.
 
+## [0.5.0] — Fase 5 — Página de Detalle y SEO
+
+### Añadido
+- Página individual por noticia con URL propia (/noticia/[id])
+- Metadatos SEO dinámicos por noticia (título, descripción, OpenGraph)
+- Vista previa para WhatsApp, Twitter y redes sociales
+- Página 404 personalizada para noticias no encontradas
+- Las tarjetas ahora abren la página de detalle interna
+
 ## [0.4.0] — Fase 3 — Filtros y Búsqueda
 
 ### Añadido

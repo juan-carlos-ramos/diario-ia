@@ -61,3 +61,27 @@ export function listarFechasDisponibles(): string[] {
     return [];
   }
 }
+
+// Busca una noticia específica por su ID en todos los archivos del historial
+export function buscarNoticiaPorId(id: string): Noticia | null {
+  const fechas = listarFechasDisponibles();
+  for (const fecha of fechas) {
+    const archivo = leerArchivoPorFecha(fecha);
+    if (!archivo) continue;
+    const noticia = archivo.noticias.find((n) => n.id === id);
+    if (noticia) return noticia;
+  }
+  return null;
+}
+
+// Genera un slug legible a partir del título de la noticia
+export function generarSlug(titulo: string): string {
+  return titulo
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9\s-]/g, "")
+    .trim()
+    .replace(/\s+/g, "-")
+    .slice(0, 80);
+}

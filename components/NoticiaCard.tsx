@@ -17,11 +17,9 @@ export default function NoticiaCard({ noticia }: Props) {
 
   return (
     <a
-      href={noticia.url}
-      target="_blank"
-      rel="noopener noreferrer"
+      href={`/noticia/${noticia.id}`}
       className="group block bg-white rounded-[12px] overflow-hidden border border-gray-100 hover:shadow-md transition-all duration-200 hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-[#1A73E8] focus:ring-offset-2"
-      aria-label={`Leer noticia: ${noticia.titulo}`}
+      aria-label={`Ver noticia: ${noticia.titulo}`}
     >
       {/* Imagen */}
       <div className="w-full h-48 bg-[#F8F9FA] flex items-center justify-center overflow-hidden">
