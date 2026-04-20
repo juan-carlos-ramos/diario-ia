@@ -37,3 +37,8 @@ body {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+/* Ocultar scrollbar en filtros horizontales */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}

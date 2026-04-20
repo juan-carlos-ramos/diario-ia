@@ -25,9 +25,10 @@ export default function FiltroCategoria() {
 
   return (
     <div
-      className="flex gap-2 flex-wrap"
+      className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide"
       role="group"
       aria-label="Filtrar por categoría"
+      style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
     >
       {CATEGORIAS.map((cat) => (
         <button
