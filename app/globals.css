@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary: #1a73e8;
+  --color-text-main: #202124;
+  --color-text-secondary: #5f6368;
+  --color-background: #ffffff;
+  --color-card: #f8f9fa;
+  --color-hover: #e8f0fe;
+  --color-error: #d93025;
+  --color-success: #1e8e3e;
+  --border-radius-card: 12px;
+  --border-radius-button: 8px;
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: var(--color-text-main);
+  background-color: var(--color-background);
+}
