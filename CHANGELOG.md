@@ -2,6 +2,17 @@
 
 Todos los cambios notables del proyecto se documentan en este archivo.
 
+## [0.3.0] — Fase 2 — UI/UX Interfaz Visual
+
+### Añadido
+- Header fijo con logo DiarioIA
+- Tarjetas de noticias estilo Google Blog
+- Skeleton de carga animado
+- Estados de vacío y error
+- Selector de historial por fecha
+- Grid responsivo: 1 columna móvil, 2 tablet, 3 escritorio
+- Utilidades de formateo de fechas en español
+
 ## [0.1.0] — Fase 0 — Setup Base
 
 ### Añadido
