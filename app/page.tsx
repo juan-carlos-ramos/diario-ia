@@ -9,9 +9,12 @@ import Header from "@/components/Header";
 import NoticiaCard from "@/components/NoticiaCard";
 import EstadoVacio from "@/components/EstadoVacio";
 import SelectorFecha from "@/components/SelectorFecha";
+import Buscador from "@/components/Buscador";
+import FiltroCategoria from "@/components/FiltroCategoria";
+import { Suspense } from "react";
 
 interface Props {
-  searchParams: Promise<{ fecha?: string }>;
+  searchParams: Promise<{ fecha?: string; q?: string; categoria?: string }>;
 }
 
 export default async function Home({ searchParams }: Props) {
@@ -23,7 +26,22 @@ export default async function Home({ searchParams }: Props) {
     ? leerArchivoPorFecha(fechaSeleccionada)
     : obtenerNoticiasDeHoy();
 
-  const noticias = archivo?.noticias ?? [];
+  let noticias = archivo?.noticias ?? [];
+
+  // Filtrar por categoría
+  if (params.categoria) {
+    noticias = noticias.filter((n) => n.categoria === params.categoria);
+  }
+
+  // Filtrar por búsqueda
+  if (params.q) {
+    const busqueda = params.q.toLowerCase();
+    noticias = noticias.filter(
+      (n) =>
+        n.titulo.toLowerCase().includes(busqueda) ||
+        n.resumen.toLowerCase().includes(busqueda),
+    );
+  }
 
   return (
     <>
@@ -47,6 +65,19 @@ export default async function Home({ searchParams }: Props) {
           </p>
         </section>
 
+        {/* Buscador y filtros */}
+        <section
+          className="mb-6 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between"
+          aria-label="Filtros y búsqueda"
+        >
+          <Suspense>
+            <FiltroCategoria />
+          </Suspense>
+          <Suspense>
+            <Buscador />
+          </Suspense>
+        </section>
+
         {/* Selector de historial */}
         {fechas.length > 1 && (
           <section className="mb-8" aria-label="Navegación por historial">
@@ -55,14 +86,17 @@ export default async function Home({ searchParams }: Props) {
         )}
 
         {/* Contador */}
-        {noticias.length > 0 && (
-          <p className="text-sm text-[#5F6368] mb-6" aria-live="polite">
-            {noticias.length}{" "}
-            {noticias.length === 1
-              ? "noticia encontrada"
-              : "noticias encontradas"}
-          </p>
-        )}
+        <p className="text-sm text-[#5F6368] mb-6" aria-live="polite">
+          {noticias.length}{" "}
+          {noticias.length === 1
+            ? "noticia encontrada"
+            : "noticias encontradas"}
+          {params.q && (
+            <span className="ml-1">
+              para <strong>"{params.q}"</strong>
+            </span>
+          )}
+        </p>
 
         {/* Grid de noticias */}
         <section

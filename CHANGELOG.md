@@ -2,6 +2,13 @@
 
 Todos los cambios notables del proyecto se documentan en este archivo.
 
+## [0.4.0] — Fase 3 — Filtros y Búsqueda
+
+### Añadido
+- Buscador por palabras clave en título y resumen
+- Filtros por categoría: Todas, Tecnología, Investigación, Productividad
+- Contador de resultados con texto de búsqueda activa
+
 ## [0.3.0] — Fase 2 — UI/UX Interfaz Visual
 
 ### Añadido
