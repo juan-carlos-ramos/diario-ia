@@ -1,3 +1,5 @@
+"use client";
+
 // Tarjeta individual de noticia estilo Google Blog
 import { Noticia } from "@/lib/noticias";
 import { formatearFecha } from "@/lib/utils";

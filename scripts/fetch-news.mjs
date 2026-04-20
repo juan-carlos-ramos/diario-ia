@@ -73,11 +73,27 @@ function esRelevante(titulo, resumen) {
 }
 
 function extraerImagen(item) {
+  // Intento 1: campos media estándar
   if (item.mediaContent?.$.url) return item.mediaContent.$.url;
   if (item.mediaThumbnail?.$.url) return item.mediaThumbnail.$.url;
-  if (item.enclosure?.url) return item.enclosure.url;
+  if (
+    item.enclosure?.url &&
+    item.enclosure.type?.startsWith("image/")
+  )
+    return item.enclosure.url;
   if (item.itunes?.image) return item.itunes.image;
-  return null;
+
+  // Intento 2: buscar <img> en el contenido HTML del artículo
+  const contenidoHTML =
+    item["content:encoded"] || item.content || item.summary || "";
+  if (contenidoHTML) {
+    const match = contenidoHTML.match(/<img[^>]+src=["']([^"']+)["']/i);
+    if (match?.[1] && match[1].startsWith("http")) return match[1];
+  }
+
+  // Intento 3: imagen genérica por categoría desde Picsum (siempre disponible, gratis)
+  const semilla = Math.floor(Math.random() * 500);
+  return `https://picsum.photos/seed/${semilla}/800/450`;
 }
 
 async function obtenerNoticias() {
