@@ -2,6 +2,14 @@
 
 Todos los cambios notables del proyecto se documentan en este archivo.
 
+## [0.7.0] — Modo Oscuro
+
+### Añadido
+- Modo oscuro completo con next-themes
+- Botón de alternancia en el header
+- Respeta la preferencia del sistema operativo automáticamente
+
+
 ## [0.6.0] — Fase 6 — Integración Telegram
 
 ### Añadido
