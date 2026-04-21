@@ -1,5 +1,4 @@
 import Image from "next/image";
-import BotonTema from "@/components/BotonTema";
 
 export default function Header() {
   return (
@@ -18,7 +17,6 @@ export default function Header() {
           </span>
         </a>
         <div className="flex items-center gap-2">
-          <BotonTema />
           <a
             href="https://t.me/diariodeia"
             target="_blank"
