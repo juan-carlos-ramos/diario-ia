@@ -34,10 +34,10 @@ export default function FiltroCategoria() {
         <button
           key={cat.valor}
           onClick={() => handleCategoria(cat.valor)}
-          className={`text-sm px-4 py-1.5 rounded-full border transition-colors focus:outline-none focus:ring-2 focus:ring-[#1A73E8] focus:ring-offset-1 ${
+          className={`flex-shrink-0 text-xs font-semibold tracking-[0.06em] uppercase px-4 py-2 rounded-full border transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] focus:ring-offset-1 focus:ring-offset-black ${
             categoriaActual === cat.valor
-              ? "bg-[#1A73E8] text-white border-[#1A73E8]"
-              : "bg-white text-[#5F6368] border-gray-200 hover:border-[#1A73E8] hover:text-[#1A73E8]"
+              ? "bg-[#00E5FF] text-black border-[#00E5FF]"
+              : "bg-transparent text-[#666666] border-[#333333] hover:border-[#00E5FF] hover:text-[#00E5FF]"
           }`}
           aria-pressed={categoriaActual === cat.valor}
         >

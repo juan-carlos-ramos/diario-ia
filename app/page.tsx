@@ -1,11 +1,7 @@
-// Página principal de DiarioIA
-import {
-  obtenerNoticiasDeHoy,
-  leerArchivoPorFecha,
-  listarFechasDisponibles,
-} from "@/lib/noticias";
+import { obtenerNoticiasDeHoy, leerArchivoPorFecha, listarFechasDisponibles } from "@/lib/noticias";
 import Header from "@/components/Header";
 import NoticiaCard from "@/components/NoticiaCard";
+import NoticiaHero from "@/components/NoticiaHero";
 import EstadoVacio from "@/components/EstadoVacio";
 import SelectorFecha from "@/components/SelectorFecha";
 import Buscador from "@/components/Buscador";
@@ -36,44 +32,49 @@ export default async function Home({ searchParams }: Props) {
     noticias = noticias.filter(
       (n) =>
         n.titulo.toLowerCase().includes(busqueda) ||
-        n.resumen.toLowerCase().includes(busqueda),
+        n.resumen.toLowerCase().includes(busqueda)
     );
   }
+
+  const noticiaHero = noticias[0] ?? null;
+  const noticiasGrid = noticias.slice(1);
 
   return (
     <>
       <Header />
-      <main className="max-w-6xl mx-auto px-4 py-8">
+      <main className="max-w-6xl mx-auto px-4 py-8 pb-24 sm:pb-8">
+
         {/* Hero */}
-        <section className="mb-6" aria-labelledby="titulo-principal">
-          <h1
-            id="titulo-principal"
-            className="text-3xl sm:text-4xl font-bold text-[#202124] dark:text-white mb-1"
-          >
-            Noticias de IA
+        <section className="mb-6">
+          <h1 className="text-xs font-semibold tracking-[0.12em] uppercase text-[#00E5FF] mb-6">
+            Noticias de Inteligencia Artificial
           </h1>
-          <p className="text-[#5F6368] dark:text-gray-400 text-base sm:text-lg">
-            Lo más relevante sobre inteligencia artificial.
-          </p>
+
+          {/* Noticia principal grande */}
+          {noticiaHero && !params.q && !params.categoria && (
+            <div className="mb-8">
+              <NoticiaHero noticia={noticiaHero} />
+            </div>
+          )}
         </section>
 
-        {/* Búsqueda — ancho completo */}
+        {/* Búsqueda */}
         <section className="mb-4" aria-label="Búsqueda">
           <Suspense>
             <Buscador />
           </Suspense>
         </section>
 
-        {/* Filtros de categoría */}
-        <section className="mb-4" aria-label="Filtros por categoría">
+        {/* Filtros */}
+        <section className="mb-4" aria-label="Filtros">
           <Suspense>
             <FiltroCategoria />
           </Suspense>
         </section>
 
-        {/* Historial — colapsable en móvil */}
+        {/* Historial */}
         {fechas.length > 1 && (
-          <section className="mb-6" aria-label="Historial de fechas">
+          <section className="mb-6">
             <Suspense>
               <SelectorFecha fechas={fechas} fechaActual={fechaSeleccionada} />
             </Suspense>
@@ -81,39 +82,29 @@ export default async function Home({ searchParams }: Props) {
         )}
 
         {/* Contador */}
-        <p
-          className="text-sm text-[#5F6368] dark:text-gray-400 mb-6"
-          aria-live="polite"
-        >
-          {noticias.length}{" "}
-          {noticias.length === 1
-            ? "noticia encontrada"
-            : "noticias encontradas"}
-          {params.q && (
-            <span className="ml-1">
-              para <strong>"{params.q}"</strong>
-            </span>
-          )}
+        <p className="text-xs text-[#444444] mb-6 tracking-wide" aria-live="polite">
+          {noticias.length} {noticias.length === 1 ? "noticia" : "noticias"}
+          {params.q && <span className="ml-1">para <span className="text-[#00E5FF]">"{params.q}"</span></span>}
         </p>
 
-        {/* Grid de noticias */}
+        {/* Grid */}
         <section
           aria-label="Lista de noticias"
-          className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
+          className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"
         >
-          {noticias.length === 0 ? (
+          {(params.q || params.categoria ? noticias : noticiasGrid).length === 0 ? (
             <EstadoVacio />
           ) : (
-            noticias.map((noticia) => (
+            (params.q || params.categoria ? noticias : noticiasGrid).map((noticia) => (
               <NoticiaCard key={noticia.id} noticia={noticia} />
             ))
           )}
         </section>
+
       </main>
 
-      <footer className="mt-16 border-t border-gray-100 dark:border-gray-800 py-8 text-center text-xs text-[#9AA0A6]">
-        DiarioIA · Actualizado automáticamente cada 24 horas · Solo noticias en
-        español
+      <footer className="mt-16 border-t border-[#111111] py-8 text-center text-xs text-[#333333]">
+        DiarioIA · Actualizado cada 24 horas
       </footer>
     </>
   );

@@ -1,30 +1,61 @@
-@import "tailwindcss";
-@config "../tailwind.config.ts";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
-  --color-primary: #1a73e8;
-  --color-text-main: #202124;
-  --color-text-secondary: #5f6368;
-  --color-background: #ffffff;
-  --color-card: #f8f9fa;
-  --color-hover: #e8f0fe;
-  --color-error: #d93025;
-  --color-success: #1e8e3e;
+  --color-bg: #0A0A0A;
+  --color-surface: #111111;
+  --color-card: #161616;
+  --color-border: #222222;
+  --color-accent: #00E5FF;
+  --color-accent-dim: #00B8CC;
+  --color-text: #F0F0F0;
+  --color-muted: #666666;
+  --color-subtle: #333333;
   --border-radius-card: 12px;
-  --border-radius-button: 8px;
-  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.12);
 }
 
 * {
   box-sizing: border-box;
 }
 
-body {
-  color: var(--color-text-main);
-  background-color: var(--color-background);
+html {
+  background-color: var(--color-bg);
 }
 
-/* Limitar líneas de texto en tarjetas */
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scrollbar personalizado */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-subtle);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent);
+}
+
+/* Ocultar scrollbar horizontal en filtros */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+/* Line clamp */
 .line-clamp-2 {
   display: -webkit-box;
   -webkit-line-clamp: 2;
@@ -39,41 +70,8 @@ body {
   overflow: hidden;
 }
 
-/* Ocultar scrollbar en filtros horizontales */
-.scrollbar-hide::-webkit-scrollbar {
-  display: none;
-}
-
-/* Modo oscuro */
-.dark body {
-  background-color: #111827;
-  color: #F9FAFB;
-}
-
-.dark .bg-white {
-  background-color: #1F2937 !important;
-}
-
-.dark .bg-\[\#F8F9FA\] {
-  background-color: #111827 !important;
-}
-
-.dark .text-\[\#202124\] {
-  color: #F9FAFB !important;
-}
-
-.dark .text-\[\#5F6368\] {
-  color: #9CA3AF !important;
-}
-
-.dark .text-\[\#3C4043\] {
-  color: #D1D5DB !important;
-}
-
-.dark .border-gray-100 {
-  border-color: #374151 !important;
-}
-
-.dark .border-gray-200 {
-  border-color: #374151 !important;
+/* Selección de texto con acento */
+::selection {
+  background-color: #00E5FF33;
+  color: #00E5FF;
 }

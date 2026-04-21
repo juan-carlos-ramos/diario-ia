@@ -1,6 +1,4 @@
 "use client";
-
-// Tarjeta individual de noticia estilo Google Blog
 import { Noticia } from "@/lib/noticias";
 import { formatearFecha } from "@/lib/utils";
 
@@ -9,60 +7,44 @@ interface Props {
 }
 
 export default function NoticiaCard({ noticia }: Props) {
-  const categoriaColor: Record<string, string> = {
-    tecnologia: "bg-blue-100 text-blue-700",
-    investigacion: "bg-purple-100 text-purple-700",
-    productividad: "bg-green-100 text-green-700",
-  };
-
   return (
     <a
       href={`/noticia/${noticia.id}`}
-      className="group block bg-white rounded-[12px] overflow-hidden border border-gray-100 hover:shadow-md transition-all duration-200 hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-[#1A73E8] focus:ring-offset-2"
-      aria-label={`Ver noticia: ${noticia.titulo}`}
+      className="group flex flex-col bg-[#161616] rounded-[12px] overflow-hidden hover:bg-[#1A1A1A] transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] focus:ring-offset-2 focus:ring-offset-black"
+      aria-label={`Leer noticia: ${noticia.titulo}`}
     >
       {/* Imagen */}
-      <div className="w-full h-48 bg-[#F8F9FA] flex items-center justify-center overflow-hidden">
+      <div className="w-full h-44 bg-[#111111] overflow-hidden flex-shrink-0">
         {noticia.imagen ? (
           <img
             src={noticia.imagen}
             alt={noticia.titulo}
-            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
             onError={(e) => {
               (e.target as HTMLImageElement).style.display = "none";
             }}
           />
         ) : (
-          <span className="text-5xl opacity-30">🤖</span>
+          <div className="w-full h-full flex items-center justify-center">
+            <span className="text-4xl opacity-10">◈</span>
+          </div>
         )}
       </div>
 
       {/* Contenido */}
-      <div className="p-5">
-        {/* Categoría y fuente */}
-        <div className="flex items-center gap-2 mb-3">
-          <span
-            className={`text-xs font-medium px-2 py-0.5 rounded-full ${
-              categoriaColor[noticia.categoria] ?? "bg-gray-100 text-gray-600"
-            }`}
-          >
-            {noticia.categoria}
-          </span>
-          <span className="text-xs text-[#5F6368]">{noticia.fuente}</span>
-        </div>
+      <div className="flex flex-col flex-1 p-4">
+        {/* Fuente */}
+        <span className="text-[10px] font-semibold tracking-[0.08em] uppercase text-[#00E5FF] mb-2">
+          {noticia.fuente}
+        </span>
 
         {/* Título */}
-        <h2 className="text-base font-semibold text-[#202124] leading-snug mb-2 group-hover:text-[#1A73E8] transition-colors line-clamp-2">
+        <h2 className="text-sm font-bold tracking-[-0.01em] text-[#F0F0F0] leading-snug mb-auto line-clamp-3 group-hover:text-[#00E5FF] transition-colors duration-200">
           {noticia.titulo}
         </h2>
 
-        {/* Resumen */}
-        <p className="text-sm text-[#5F6368] leading-relaxed line-clamp-3 mb-4">
-          {noticia.resumen}
-        </p>
-
         {/* Fecha */}
-        <p className="text-xs text-[#9AA0A6]">
+        <p className="text-[11px] text-[#444444] mt-3">
           {formatearFecha(noticia.fechaPublicacion)}
         </p>
       </div>
