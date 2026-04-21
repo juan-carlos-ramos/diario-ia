@@ -29,6 +29,9 @@ jobs:
 
       - name: Ejecutar script de noticias
         run: node scripts/fetch-news.mjs
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
 
       - name: Guardar noticias en el repositorio
         run: |

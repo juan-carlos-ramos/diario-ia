@@ -159,12 +159,66 @@ async function guardarNoticias(noticias) {
 
   fs.writeFileSync(archivo, JSON.stringify(contenido, null, 2), "utf-8");
   console.log(`✅ ${noticias.length} noticias guardadas en ${archivo}`);
+  return noticias;
+}
+
+// Publica las noticias nuevas en el canal de Telegram
+async function publicarEnTelegram(noticias) {
+  const token = process.env.TELEGRAM_BOT_TOKEN;
+  const canal = process.env.TELEGRAM_CHANNEL;
+
+  if (!token || !canal) {
+    console.log("⚠️ Variables de Telegram no configuradas, omitiendo publicación.");
+    return;
+  }
+
+  // Publicar solo las primeras 10 noticias para no saturar el canal
+  const noticiasPara = noticias.slice(0, 10);
+
+  for (const noticia of noticiasPara) {
+    const mensaje = `📰 *${escaparMarkdown(noticia.titulo)}*\n\n${escaparMarkdown(noticia.resumen)}\n\n🔗 [Leer en DiarioIA](https://diario-ia.vercel.app/noticia/${noticia.id})\n📌 _${noticia.fuente}_`;
+
+    try {
+      const url = `https://api.telegram.org/bot${token}/sendMessage`;
+      const res = await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          chat_id: `@${canal}`,
+          text: mensaje,
+          parse_mode: "MarkdownV2",
+          disable_web_page_preview: false,
+        }),
+      });
+
+      const data = await res.json();
+      if (!data.ok) {
+        console.error(`Error publicando en Telegram: ${data.description}`);
+      } else {
+        console.log(`✅ Publicado en Telegram: ${noticia.titulo.slice(0, 50)}...`);
+      }
+
+      // Pausa de 2 segundos entre mensajes para no saturar la API
+      await new Promise((r) => setTimeout(r, 2000));
+    } catch (error) {
+      console.error(`Error enviando a Telegram: ${error.message}`);
+    }
+  }
+}
+
+// Escapa caracteres especiales requeridos por MarkdownV2 de Telegram
+function escaparMarkdown(texto) {
+  return texto.replace(/[_*[\]()~`>#+\-=|{}.!]/g, "\\$&");
 }
 
 // Ejecutar
-obtenerNoticias()
-  .then(guardarNoticias)
-  .catch((err) => {
-    console.error("Error fatal:", err);
-    process.exit(1);
-  });
+async function main() {
+  const noticias = await obtenerNoticias();
+  await guardarNoticias(noticias);
+  await publicarEnTelegram(noticias);
+}
+
+main().catch((err) => {
+  console.error("Error fatal:", err);
+  process.exit(1);
+});

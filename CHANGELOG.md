@@ -2,6 +2,15 @@
 
 Todos los cambios notables del proyecto se documentan en este archivo.
 
+## [0.6.0] — Fase 6 — Integración Telegram
+
+### Añadido
+- Bot de Telegram publica automáticamente las 10 noticias principales cada 24h
+- Mensajes con formato Markdown, resumen y link directo a DiarioIA
+- Variables de entorno para token y canal de Telegram
+- Secrets configurados en GitHub Actions
+
+
 ## [0.5.0] — Fase 5 — Página de Detalle y SEO
 
 ### Añadido
