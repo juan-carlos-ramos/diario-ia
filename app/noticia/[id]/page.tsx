@@ -1,9 +1,10 @@
 // Página de detalle de una noticia individual
-import { buscarNoticiaPorId } from "@/lib/noticias";
+import { buscarNoticiaPorId, obtenerNoticiasDeHoy } from "@/lib/noticias";
 import { formatearFecha } from "@/lib/utils";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Header from "@/components/Header";
+import NoticiaCard from "@/components/NoticiaCard";
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -43,6 +44,12 @@ export default async function PaginaDetalle({ params }: Props) {
 
   if (!noticia) notFound();
 
+  // Obtener "Lectura Recomendada" (máximo 3 noticias distintas a la actual)
+  const archivoHoy = obtenerNoticiasDeHoy();
+  const recomendadas = archivoHoy 
+    ? archivoHoy.noticias.filter((n) => n.id !== id).slice(0, 3) 
+    : [];
+
   return (
     <>
       <Header />
@@ -80,12 +87,12 @@ export default async function PaginaDetalle({ params }: Props) {
         </div>
 
         {/* Título */}
-        <h1 className="text-2xl sm:text-4xl font-black tracking-[-0.02em] text-[#F0F0F0] leading-tight mb-8">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight text-[#F0F0F0] leading-tight mb-8">
           {noticia.titulo}
         </h1>
 
         {/* Resumen */}
-        <p className="text-base sm:text-lg text-[#888888] leading-relaxed mb-10 border-l-2 border-[#00E5FF] pl-5">
+        <p className="text-lg sm:text-xl text-[#A0A0A0] leading-relaxed mb-10 border-l-4 border-[#00E5FF] pl-6">
           {noticia.resumen}
         </p>
 
@@ -94,12 +101,25 @@ export default async function PaginaDetalle({ params }: Props) {
           href={noticia.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center gap-2 px-6 py-3 bg-[#00E5FF] text-black text-sm font-bold rounded-full hover:bg-[#00B8CC] transition-colors focus:outline-none focus:ring-2 focus:ring-[#00E5FF] focus:ring-offset-2 focus:ring-offset-black"
+          className="inline-flex items-center gap-2 px-6 py-3 bg-[#00E5FF] text-black text-sm font-bold rounded-full hover:bg-[#00B8CC] transition-colors focus:outline-none focus:ring-2 focus:ring-[#00E5FF] focus:ring-offset-2 focus:ring-offset-black mb-16"
           aria-label={`Leer artículo completo en ${noticia.fuente}`}
         >
           Leer artículo completo →
         </a>
 
+        {/* Lectura Recomendada */}
+        {recomendadas.length > 0 && (
+          <section className="border-t border-[#222222] pt-12 mt-8">
+            <h3 className="text-xl font-bold tracking-tight text-[#E0E0E0] mb-6">
+              Lectura recomendada
+            </h3>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {recomendadas.map((item) => (
+                <NoticiaCard key={item.id} noticia={item} />
+              ))}
+            </div>
+          </section>
+        )}
       </main>
     </>
   );
