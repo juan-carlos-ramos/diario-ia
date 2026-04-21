@@ -21,16 +21,16 @@ export default function Buscador() {
   );
 
   return (
-    <div className="relative w-full sm:w-80">
-      <span className="absolute left-3 top-1/2 -translate-y-1/2 text-[#9AA0A6]">
+    <div className="relative w-full">
+      <span className="absolute left-4 top-1/2 -translate-y-1/2 text-[#9AA0A6]">
         🔍
       </span>
       <input
         type="search"
-        placeholder="Buscar noticias..."
+        placeholder="Buscar noticias de IA..."
         defaultValue={searchParams.get("q") ?? ""}
         onChange={handleBusqueda}
-        className="w-full pl-9 pr-4 py-2 text-sm border border-gray-200 rounded-full bg-[#F8F9FA] focus:outline-none focus:ring-2 focus:ring-[#1A73E8] focus:border-transparent placeholder-[#9AA0A6] text-[#202124]"
+        className="w-full pl-10 pr-4 py-3 text-sm border border-gray-200 rounded-full bg-[#F8F9FA] dark:bg-gray-800 dark:border-gray-700 dark:text-white focus:outline-none focus:ring-2 focus:ring-[#1A73E8] focus:border-transparent placeholder-[#9AA0A6]"
         aria-label="Buscar noticias de IA"
       />
     </div>
