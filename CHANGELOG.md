@@ -2,6 +2,16 @@
 
 Todos los cambios notables del proyecto se documentan en este archivo.
 
+## [0.8.0] — Rediseño Visual Completo
+
+### Añadido
+- Tema dark profundo con acento cian #00E5FF
+- Noticia hero de gran formato en página principal
+- Bottom NavBar fija en móvil
+- Página de detalle rediseñada estilo editorial
+- Sistema de tipografía Inter con tracking editorial
+- Scrollbar personalizado con acento cian
+
 ## [0.7.0] — Modo Oscuro
 
 ### Añadido
