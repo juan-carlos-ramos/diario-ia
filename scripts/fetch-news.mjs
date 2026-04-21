@@ -43,6 +43,26 @@ const FUENTES = [
     url: "https://feeds.weblogssl.com/xatakaciencia",
     categoria: "investigacion",
   },
+  {
+    nombre: "ADSLZone",
+    url: "https://www.adslzone.net/feed/",
+    categoria: "tecnologia",
+  },
+  {
+    nombre: "RedesZone",
+    url: "https://www.redeszone.net/feed/",
+    categoria: "tecnologia",
+  },
+  {
+    nombre: "HardZone",
+    url: "https://hardzone.es/feed/",
+    categoria: "tecnologia",
+  },
+  {
+    nombre: "MuyComputer",
+    url: "https://www.muycomputer.com/feed/",
+    categoria: "tecnologia",
+  },
 ];
 
 // Palabras clave que DEBEN aparecer para que la noticia sea relevante
