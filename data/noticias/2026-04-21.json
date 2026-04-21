@@ -1,10 +1,307 @@
 {
   "fecha": "2026-04-21",
-  "generado": "2026-04-21T09:27:28.286Z",
-  "total": 21,
+  "generado": "2026-04-21T18:26:32.512Z",
+  "total": 66,
   "noticias": [
     {
-      "id": "a69a71fc-3b8b-4b87-8286-8de254480c70",
+      "id": "62731ec5-33c1-4279-a2e7-d50d70ab89e2",
+      "titulo": "En dos días se estrena en Netflix el spin-off animado de la única franquicia potente de la plataforma: 'Stranger Things'",
+      "resumen": "El 31 de diciembre de 2025, Netflix emitió el episodio final de 'Stranger Things'. La plataforma registró con él su emisión de Año Nuevo más vista de la historia y puso el broche de oro a la serie más vista de la plataforma, superando los 1.200 millones de visionados acumulados. Y cuatro meses despu",
+      "url": "https://www.xataka.com/streaming/dos-dias-se-estrena-netflix-spin-off-animado-unica-franquicia-potente-plataforma-stranger-things",
+      "imagen": "https://i.blogs.es/42b62c/captura-de-pantalla-2026-04-21-a-las-15.45.57/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T18:00:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.046Z"
+    },
+    {
+      "id": "eb57a949-0bed-4351-b339-5d5b98d23093",
+      "titulo": "Japón lo ha probado todo para activar su natalidad. Ahora juega su última baza: pagarles a los jóvenes las apps de citas",
+      "resumen": "A problemas desesperados, soluciones desesperadas. En plena debacle demográfica, las autoridades de Kōchi (una prefectura del sur de Japón) han decidido ayudar a sus jóvenes a buscar pareja de una forma peculiar: pagándoles la suscripción a apps de citas. La ayuda solo está dirigida a residentes de",
+      "url": "https://www.xataka.com/magnet/japon-ha-probado-todo-para-activar-su-natalidad-ahora-juega-su-ultima-baza-pagarle-a-jovenes-apps-citas",
+      "imagen": "https://i.blogs.es/e91545/victoriano-izquierdo-cs8get8ggbi-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T17:30:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.047Z"
+    },
+    {
+      "id": "55f9b489-7a91-4b3a-b969-ad3372ecdc80",
+      "titulo": "OPPO Find X9 Ultra, primeras impresiones: el desembarco del primer Ultra de OPPO en España empieza con una cámara descomunal",
+      "resumen": "A veces basta con mirar un dispositivo unos segundos para entender por dónde va la apuesta de una marca, y eso es justo lo que me ha pasado con el OPPO Find X9 Ultra. Sobre el papel, su tamaño y el volumen del módulo fotográfico podían hacer pensar en un móvil aparatoso, y lo es, pero en la mano tam",
+      "url": "https://www.xataka.com/analisis/oppo-find-x9-ultra-opiniones-toma-contacto-fotos-video",
+      "imagen": "https://i.blogs.es/b6ce3a/oppo-find-x9-ultra-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T17:00:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.047Z"
+    },
+    {
+      "id": "cce60571-69cc-488b-b77e-0b779c91ed63",
+      "titulo": "El puente más largo del mundo para peatones se acaba de inaugurar en Helsinki: la meta es que dure unos 200 años",
+      "resumen": "Helsinki inauguró el pasado 18 de abril un puente de 1,2 kilómetros por el que no circulará ningún coche. El puente se llenó de gente casi en el mismo momento en que abrió, y los organizadores animaron a los visitantes a acudir con coronas, en referencia al nombre ‘Kruunuvuori’ (literalmente, montañ",
+      "url": "https://www.xataka.com/movilidad/puente-largo-mundo-para-peatones-tranvia-esta-helsinki-meta-que-dure-al-unos-200-anos",
+      "imagen": "https://i.blogs.es/d344f9/bb5492c89e0c4a26_org/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T16:30:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.047Z"
+    },
+    {
+      "id": "09bc095b-f130-4db2-b169-65bffbde8116",
+      "titulo": "El legado real de Tim Cook: qué Apple hereda John Ternus y dónde están las grietas",
+      "resumen": "Llegó anoche para el horario español, pero es la noticia del día. Tras 15 años al frente de Apple, Tim Cook dejará su puesto el próximo 1 de septiembre. Será el momento en el que un John Ternus, de 50 años y con 25 en la empresa, asumirá el cargo de CEO. De un tiburón de las ventas, pasaremos a un h",
+      "url": "https://www.xataka.com/empresas-y-economia/legado-real-tim-cook-que-apple-hereda-john-ternus-donde-estan-grietas",
+      "imagen": "https://i.blogs.es/092d81/chatgpt-image-21-abr-2026-16_43_09/1024_2000.png",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T15:30:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.047Z"
+    },
+    {
+      "id": "7ceba356-8008-4615-a24c-eedde96ffe60",
+      "titulo": "La guerra de Ryanair contra Aena le está saliendo rentable a sus rivales: Vueling y Wizz Air recortan terreno en El Prat",
+      "resumen": "El pulso entre Ryanair y Aena por la subida de las tasas aeroportuarias ha hecho que la aerolínea retire millones de plazas en buena parte de los aeropuertos regionales de España. Este verano también se avecina movida en este aspecto, una maniobra con la que a Ryanair le está valiendo para ejercer p",
+      "url": "https://www.xataka.com/movilidad/estrategia-tierra-quemada-ryanair-aena-le-esta-saliendo-muy-rentable-a-sus-rivales-vueling-wizz-air-recortan-terreno-prat",
+      "imagen": "https://i.blogs.es/69d0cd/photo_2026-04-21_12-09-48/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T15:00:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.047Z"
+    },
+    {
+      "id": "ab7d6c78-196a-48f4-bc8b-dbaba8aaf434",
+      "titulo": "Sanidad dicta la sentencia definitiva contra la homeopatía: no cura nada y su negocio se diluyen en España",
+      "resumen": "La homeopatía ha recibido hoy un duro golpe por parte de las autoridades sanitarias españolas, y más concretamente la propia AEMPS, al apuntar en un demoledor informe que la homeopatía no tiene ninguna eficacia demostrada a la hora de tratar diferentes dolencias, pese a que prometen algo completamen",
+      "url": "https://www.xataka.com/medicina-y-salud/sanidad-dicta-sentencia-definitiva-homeopatia-no-cura-nada-su-negocio-se-diluyen-espana",
+      "imagen": "https://i.blogs.es/3efd96/homeopatia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T14:46:39.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.048Z"
+    },
+    {
+      "id": "963930b9-b440-45c7-90be-f6e171216fc4",
+      "titulo": "Ozempic, 'clean look' y TikTok: la tormenta perfecta que está dejando calvas a las adolescentes",
+      "resumen": "Es hora de desterrar el viejo mito de que la calvicie es un problema exclusivo de los hombres mayores. Hoy en día, las salas de espera de las consultas dermatológicas están llenas de un perfil muy distinto: mujeres jóvenes que ven cómo su melena pierde densidad a un ritmo alarmante. Los datos son co",
+      "url": "https://www.xataka.com/medicina-y-salud/ozempic-clean-look-tiktok-tormenta-perfecta-que-esta-dejando-calvas-a-adolescentes",
+      "imagen": "https://i.blogs.es/74a64f/guia-de-imagenes-destacadas-1-/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T14:30:39.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.048Z"
+    },
+    {
+      "id": "2719b750-631c-4149-b563-b38b61b56bc6",
+      "titulo": "Dormir cuatro horas al día y rendir al máximo no es un mito, es una rareza genética del 1% de la población",
+      "resumen": "Hay gente que presume de dormir apenas cuatro o cinco horas diarias y asegura levantarse fresco como una lechuga, algo que puede generar mucha envidia, pero también escepticismo, ya que parece poco creíble el poder dormir poco y estar tan activo. Y es que la ciencia no ha parado de decir que dormir",
+      "url": "https://www.xataka.com/medicina-y-salud/dormir-cuatro-horas-al-dia-rendir-al-maximo-no-mito-rareza-genetica-1-poblacion",
+      "imagen": "https://i.blogs.es/0a2d08/dormir-poco/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T14:00:39.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.048Z"
+    },
+    {
+      "id": "caf4619d-a952-4aca-b6b7-2eee73a7ce8c",
+      "titulo": "'Dune 3' le ha bloqueado IMAX a 'Vengadores: Doomsday. La respuesta de Disney ha sido inventarse su propio IMAX",
+      "resumen": "El 18 de diciembre de 2026, dos de los blockbusters más esperados de la última década comparten fecha de estreno. Warner Bros. tiene contratada la exclusividad de todas las pantallas IMAX de Estados Unidos para 'Dune: Parte Tres' durante tres semanas. Se trata de un espacio vital para la taquilla de",
+      "url": "https://www.xataka.com/cine-y-tv/dune-3-le-ha-bloqueado-imax-a-vengadores-doomsday-respuesta-disney-ha-sido-inventarse-su-propio-imax",
+      "imagen": "https://i.blogs.es/ef650c/ps---plantilla-portadas-xtk/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T13:30:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.048Z"
+    },
+    {
+      "id": "fd2e506e-b6dc-46c8-8000-8edb78138a5b",
+      "titulo": "Kindle, Kobo y Pocketbook: cinco eReader en oferta para devorar novelas en el Día del Libro",
+      "resumen": "Quedan tan sólo dos días para la llegada del Día del Libro, por lo que si te animas a dar el salto al formato digital o si simplemente quieres hacer un \"cambio de armario\" para renovar el que ya tienes, hoy vamos a repasar las cinco mejores ofertas que podemos encontrar en estos dispositivos con mar",
+      "url": "https://www.xataka.com/seleccion/kindle-kobo-pocketbook-cinco-ereader-oferta-para-devorar-novelas-dia-libro",
+      "imagen": "https://i.blogs.es/72355d/ereader/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T13:16:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.049Z"
+    },
+    {
+      "id": "af6ff6bf-2ddc-42d6-bced-556229908090",
+      "titulo": "Ha ocurrido algo inédito en la guerra: Ucrania ha tumbado shaheds rusos desde un hotel a 500 kilómetros de distancia",
+      "resumen": "Durante una prueba militar en Estados Unidos, un piloto logró aterrizar un avión de combate sin tocar los mandos y a kilómetros de distancia, guiándolo únicamente a través de una conexión remota como si fuera un simulador. Ha pasado una década, y lo que entonces parecía una curiosidad tecnológica ca",
+      "url": "https://www.xataka.com/magnet/ha-ocurrido-hecho-inedito-guerra-ucrania-ha-tumbado-shaheds-rusos-hotel-a-500-km-clave-esta-wifi",
+      "imagen": "https://i.blogs.es/a584aa/shahed_drone_in_sumy_oblast_-2024-10-17-_01-2/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T13:00:39.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.049Z"
+    },
+    {
+      "id": "533967eb-571d-4155-b742-5128912b2dbc",
+      "titulo": "El nuevo Oppo Watch X3 ya está aquí: diseño premium de titanio, Gemini integrado y hasta 16 días de batería",
+      "resumen": "Oppo acaba de presentar el Find X9 Ultra, su nuevo smartphone insignia, pero también ha aprovechado para renovar un puñado de otros productos. Entre ellos se encuentra el Oppo Watch X3, la nueva generación de su reloj inteligente. El dispositivo llega con novedades importantes tanto en materia de di",
+      "url": "https://hipertextual.com/tecnologia/nuevo-oppo-watch-x3-caracteristicas-precio-disponibilidad/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Watch_X3_titanium_product-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T12:31:00.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.803Z"
+    },
+    {
+      "id": "8ca88616-560b-4cb8-b9b9-83463b57e8c4",
+      "titulo": "Si la pregunta es cuántas specs caben en un reloj inteligente, la respuesta es: mira el OPPO Watch X3",
+      "resumen": "Hoy es un gran día para OPPO. Aprovechando el lanzamiento de su nuevo buque insignia, el Find X9 Pro, la compañía ha presentado dos dispositivos de lo más interesante: sus nuevos auriculares OPPO Enco Clip2, y su reloj inteligente OPPO Watch X3. Este último es el reloj inteligente más avanzado de la",
+      "url": "https://www.xataka.com/relojes-inteligentes/oppo-watch-x3-caracteristicas-precio-ficha-tecnica",
+      "imagen": "https://i.blogs.es/a6e18e/oppo-watch-3/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T12:30:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.050Z"
+    },
+    {
+      "id": "531ebe93-3254-4229-8aa4-515851ee7d94",
+      "titulo": "El Oppo Find X9 Ultra llega para difuminar la línea que separa el móvil convencional de las cámaras profesionales",
+      "resumen": "Las compañías chinas de móviles se han marcado un objetivo para este comienzo de 2026: sacar músculo. Pero a lo bestia, además. Si Vivo presentó hace unas semanas el Vivo X300 Ultra, ahora es el turno de una Oppo que también tiene un nuevo retoño con ese mismo apellido. \n\rA continuación, vamos con t",
+      "url": "https://www.xataka.com/moviles/oppo-find-x9-ultra-caracteristicas-precio-ficha-tecnica",
+      "imagen": "https://i.blogs.es/528ba8/find-x9-ultra-nature-1/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T12:30:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.050Z"
+    },
+    {
+      "id": "af63b038-5fd1-44ae-a2de-a32fc593f681",
+      "titulo": "Las tablets siguen muy vivas y la Oppo Pad 5 llega con lápiz y hasta arriba de IA para crear contenido",
+      "resumen": "Oppo se ha plantado a finales de abril con una renovación completa de buena parte de su línea de dispositivos. El más potente es un Oppo Find X9 Ultra que apuesta todo a mostrar músculo en el segmento de la fotografía móvil, pero también han renovado auriculares y han presentado el Oppo Watch 3 Tita",
+      "url": "https://www.xataka.com/tablets/oppo-pad-5-caracteristicas-precio-ficha-tecnica",
+      "imagen": "https://i.blogs.es/43fba5/oppo-pad-5-3/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T12:30:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.050Z"
+    },
+    {
+      "id": "7a71ae17-479c-4f9f-b562-b5d083be22f6",
+      "titulo": "Un millonario acaba de comprarse la casa más cara de la historia: está en Londres y cuesta 310 millones de euros",
+      "resumen": "En el mundo hay casas caras (cada vez más), casas carísimas y luego casas al alcance solo de las mayores fortunas del planeta, como la que acaba de venderse en Londres por la friolera de 270 millones de libras, unos 310 millones de euros al cambio. La cifra es chocante por sí sola (es lo mismo que s",
+      "url": "https://www.xataka.com/magnet/londres-alguien-ha-pagado-310-millones-casa-cara-historia-prueba-que-mercado-lujo-no-tiene-techo",
+      "imagen": "https://i.blogs.es/cc4e48/jaanus-jagomagi-dymu1wizvko-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T12:00:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.050Z"
+    },
+    {
+      "id": "5ebf612e-89d9-4d75-ad45-9051569e2b09",
+      "titulo": "Cómo medir la distancia entre dos puntos en Google Maps en PC y móvil",
+      "resumen": "Vamos a explicarte cómo medir distancias en Google Maps, de forma que puedas tener unas mejores referencias de lo lejos que están los puntos que te interesen. No se trata de medir distancias en carreteras o caminos, para eso puedes hacer rutas en Google Maps, sino trazar una línea entre dos puntos y",
+      "url": "https://www.xataka.com/basics/como-medir-distancia-dos-puntos-google-maps-pc-movil",
+      "imagen": "https://i.blogs.es/747d56/distancia-maps/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T11:48:39.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.050Z"
+    },
+    {
+      "id": "5d112d75-2449-4189-98bc-facf50bf079e",
+      "titulo": "Con John Ternus, Apple ha dado un giro histórico en su liderazgo: el CEO de la logística da paso al CEO de la ingeniería",
+      "resumen": "Tim Cook ha anunciado que dejará el cargo de CEO de Apple el 1 de septiembre. Le sustituirá John Ternus, su vicepresidente senior de ingeniería de hardware. Este relevo generacional, largamente esperado, supone un cambio importante en el ADN del liderazgo de una de las empresas más valiosas del mund",
+      "url": "https://www.xataka.com/empresas-y-economia/apple-ha-dado-giro-historico-su-liderazgo-ceo-logistica-da-paso-al-ceo-ingenieria",
+      "imagen": "https://i.blogs.es/5ed891/ternus/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T11:46:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.051Z"
+    },
+    {
+      "id": "f4cdd8a6-0668-47e5-bd0c-852f346fa3e0",
+      "titulo": "Amazon quiere salir ganador de la carrera IA a cualquier precio. Por eso ha invertido a la vez en Anthropic y OpenAI",
+      "resumen": "Hace apenas dos meses Amazon anunciaba una inversión astronómica de 50.000 millones de dólares en OpenAI. Hoy ha hecho un movimiento muy similar al anunciar que invertirá 5.000 millones de dólares a Anthropic y podría invertir otros 20.000 millones adicionales \"ligados a ciertos hitos comerciales) e",
+      "url": "https://www.xataka.com/robotica-e-ia/amazon-tiene-clara-su-estrategia-para-guerra-ia-no-puedes-tu-enemigo-invierte",
+      "imagen": "https://i.blogs.es/260f9d/amazon-anthropic-openai/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T11:30:38.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.051Z"
+    },
+    {
+      "id": "5169b17c-8887-4653-a3f5-8a6a10f16c53",
+      "titulo": "Cómo deducirte el alquiler de tu vivienda habitual en la Renta 2025, y en qué comunidades puedes hacerlo en tu declaración de 2026",
+      "resumen": "Vamos a explicarte cómo y dónde puedes deducirte el alquiler de tu vivienda habitual en tu Renta 2025, que es la declaración que hacemos en 2026 para rendir cuentas del pasado año fiscal. Ya puedes solicitar y presentar tu borrador online y desde el móvil, pero antes es recomendable prestarle atenci",
+      "url": "https://www.xataka.com/basics/como-deducirte-alquiler-tu-vivienda-habitual-renta-2025-que-comunidades-puedes-hacerlo-tu-declaracion-2026",
+      "imagen": "https://i.blogs.es/86c44e/renta-alquiler/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T11:08:07.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.051Z"
+    },
+    {
+      "id": "3eebdaa3-4e65-4272-b685-73d7ab7722b5",
+      "titulo": "Si la pregunta es qué diferencia a Samsung del resto, Charlie Bae, director de producto de Samsung tiene claro: \"ecosistema\"",
+      "resumen": "El mercado de televisores está más disputado que nunca y las marcas tradicionales ya no monopolizan las ventas como solían hacerlo. Tal y como sucede en otros ámbitos como el de la automoción o los smartphones, los fabricantes chinos han dejado de competir solo en precio y ahora también lo hacen en",
+      "url": "https://www.xataka.com/televisores/pregunta-que-diferencia-a-samsung-su-competencia-charlie-bae-director-producto-samsung-tiene-claro-ecosistema",
+      "imagen": "https://i.blogs.es/da22ac/charlie_profile_v1/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T11:00:39.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.052Z"
+    },
+    {
+      "id": "fb24078a-605d-4820-b1dd-986057e6cfb6",
+      "titulo": "EEUU está haciendo todo para ahogar a China. China ya ha conseguido que el 35% de sus máquinas de chips ya sean chinas",
+      "resumen": "Los fabricantes de equipos de litografía y procesamiento de obleas extranjeros cada vez venden menos en China. En 2024 el país liderado por Xi Jinping representó el 41% de los ingresos de ASML, pero en 2025 esta cifra se redujo al 33%. Y presumiblemente en 2026 se contraerá hasta el 20%. Al fabrican",
+      "url": "https://www.xataka.com/empresas-y-economia/china-resiste-presion-eeuu-35-sus-maquinas-fabricacion-chips-origen-chino",
+      "imagen": "https://i.blogs.es/ecdb1f/naura-ap/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T10:30:39.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.052Z"
+    },
+    {
+      "id": "5f2de74c-1a56-4b03-83e0-eb37f87b46f3",
+      "titulo": "De Haifa a Cupertino: cómo el hombre que inventó el Apple Silicon se ha convertido en la segunda persona más poderosa de Apple",
+      "resumen": "Para quienes llevan tiempo siguiendo a Apple Johny Srouji no es ningún extraño. Para el resto del mundo sí, pero tras el nombramiento de John Ternus como CEO de Apple, este ingeniero israelí se ha convertido en la segunda persona con más poder en la empresa. La pregunta es obvia: ¿quién es Johny Sro",
+      "url": "https://www.xataka.com/empresas-y-economia/quien-johny-srouji-que-este-gran-desconocido-se-acaba-convertir-segunda-persona-poder-apple",
+      "imagen": "https://i.blogs.es/c4b594/apple-m1/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T10:16:39.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.052Z"
+    },
+    {
+      "id": "d337188f-c6f2-4684-977e-2d3c26088af0",
+      "titulo": "En 1914, las metralletas cambiaron para siempre la forma de hacer la guerra. En 2026, es turno de los algoritmos",
+      "resumen": "Un grupo de ingenieros de Google firmó una carta interna para protestar contra un proyecto en el que su propio software estaba siendo utilizado por el Pentágono, provocando un debate sin precedentes dentro de la compañía sobre hasta dónde debía llegar la tecnología que ellos mismos habían creado. De",
+      "url": "https://www.xataka.com/magnet/click-izquierdo-click-derecho-asi-se-decide-ia-ataque-guerra-china-rusia-eeuu-cada-vez-necesitan-humanos",
+      "imagen": "https://i.blogs.es/80037c/stockvault-military-drone202070/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T10:00:40.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.052Z"
+    },
+    {
+      "id": "dcc13c05-ba5c-453e-bf9b-fa0505f1b893",
+      "titulo": "Cuando nos contaron todas las ventajas del ayuno intermitente se les olvidó un pequeño detalle: que podía dejarnos calvos",
+      "resumen": "Durante años se nos han vendido que el ayuno intermitente era la estrategia del futuro para perder peso y mejorar nuestra salud metabólica. Es lógico: era algo fácil de implementar, razonable y muy llamativo. Tenía todo lo necesario para convertirse en una moda. Y así fue.\nEs ahora, cuando los prime",
+      "url": "https://www.xataka.com/medicina-y-salud/cuando-nos-contaron-todas-ventajas-ayuno-intermitente-se-les-olvido-pequeno-detalle-que-podia-dejarnos-calvos-1",
+      "imagen": "https://i.blogs.es/182c60/6363776435_6b98045859_k-1-/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T09:46:39.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.053Z"
+    },
+    {
+      "id": "86672e55-94bf-4483-b353-d3267cea9af5",
+      "titulo": "Hace un año España se quedó completamente a oscuras: qué ha hecho desde entonces para evitar otro \"Gran Apagón\"",
+      "resumen": "El próximo 28 de abril se cumplirá exactamente un año del día en que España y Portugal se fundieron a negro. Un \"cero energético\" sin precedentes en las últimas dos décadas que dejó a cerca de 60 millones de ciudadanos sin luz, sin internet, sin semáforos y con el sistema bancario paralizado durante",
+      "url": "https://www.xataka.com/energia/espana-vs-apagon-polemicas-medidas-que-hemos-blindado-red-ano-despues-colapso",
+      "imagen": "https://i.blogs.es/07fb01/guia-de-imagenes-destacadas-1-/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T09:30:39.000Z",
+      "fechaAgregada": "2026-04-21T18:26:29.053Z"
+    },
+    {
+      "id": "bdff55cd-37ca-4918-8e42-f34376d27af7",
       "titulo": "La nueva película del ‘Universo DC’ de James Gunn lanza su primera imagen: no tendrá nada que ver con ‘Superman’",
       "resumen": "El Universo DC ya está listo para expandirse más allá de la Saga Superman con la primera imagen de su nueva película. La franquicia liderada por James Gunn y Peter Safran estrenó su primer largometraje sobre el Hombre de Acero en 2025 y, en apenas unos meses, continuará con la historia de Supergirl.",
       "url": "https://hipertextual.com/cine-television/nueva-pelicula-del-universo-dc-de-james-gunn-lanza-primera-imagen-clayface/",
@@ -12,10 +309,10 @@
       "fuente": "Hipertextual",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-04-21T08:22:39.000Z",
-      "fechaAgregada": "2026-04-21T09:27:27.458Z"
+      "fechaAgregada": "2026-04-21T18:26:29.803Z"
     },
     {
-      "id": "aaa62b45-b279-4b8c-936d-4f6888b22c72",
+      "id": "4dcf7187-37b2-4d5e-a4f1-1ed60d3596f7",
       "titulo": "‘Superman: Man of Tomorrow’ inicia su rodaje y James Gunn muestra su nuevo logo con un guiño a Brainiac",
       "resumen": "James Gunn anunció este lunes que el rodaje de Man of Tomorrow, la secuela de Superman, ha puesto en marcha su rodaje. El cineasta aprovechó la oportunidad para entregar un primer vistazo al nuevo logo de la película, que incluye un guiño a Brainiac, el principal antagonista. A través de Instagram,",
       "url": "https://hipertextual.com/cine-television/superman-man-of-tomorrow-inicia-rodaje/",
@@ -23,10 +320,10 @@
       "fuente": "Hipertextual",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-04-20T21:45:00.000Z",
-      "fechaAgregada": "2026-04-21T09:27:27.458Z"
+      "fechaAgregada": "2026-04-21T18:26:29.803Z"
     },
     {
-      "id": "b30d8246-e225-4f66-afbd-bb68342844cf",
+      "id": "ebb79aef-f67c-49fe-bbd0-48175e135615",
       "titulo": "Kimi, la IA china que supera a ChatGPT y Claude, lanza una nueva versión que programa sin supervisión humana",
       "resumen": "A unas semanas de irrumpir en escena y desplazar a ChatGPT y Gemini, Kimi está de regreso. La IA china desarrollada por Moonshot lanzó una nueva versión que supera a los modelos de lenguaje más potentes de OpenAI y Anthropic. Kimi K2.6 iguala o va más allá de GPT-5.4 y Claude Opus 4.6 en múltiples [",
       "url": "https://hipertextual.com/inteligencia-artificial/kimi-k2-6-modelo-codigo-abierto-benchmarks-gpt-claude-gemini/",
@@ -34,54 +331,120 @@
       "fuente": "Hipertextual",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-04-20T19:40:00.000Z",
-      "fechaAgregada": "2026-04-21T09:27:27.459Z"
+      "fechaAgregada": "2026-04-21T18:26:29.804Z"
     },
     {
-      "id": "4638c051-be2b-4a58-9d22-2d889ffb2521",
-      "titulo": "El robot humanoide de Honor rompe el récord mundial de media maratón y deja en ridículo a Tesla",
-      "resumen": "Desde hace años, Tesla promete que Optimus será el robot humanoide para tareas generales más avanzado del mundo. Y si bien la compañía que lidera Elon Musk ha logrado avances interesantes con dicho desarrollo, no son pocas las compañías que han empezado a hacerle sombra. Entre tantas está Honor, que",
-      "url": "https://hipertextual.com/tecnologia/robot-humanoide-honor-media-maraton-beijing/",
-      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/record-robot.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "fuente": "Hipertextual",
+      "id": "a0c5cd0c-8b31-4c42-a637-99edbb351e29",
+      "titulo": "Elon Musk planta a la justicia francesa que investiga la manipulación del algoritmo de X",
+      "resumen": "La Fiscalía había convocado este lunes al multimillonario y afirma que las pesquisas seguirán adelante con o sin su colaboración",
+      "url": "https://elpais.com/tecnologia/2026-04-20/elon-musk-planta-a-la-justicia-francesa-que-investiga-la-manipulacion-del-algoritmo-de-x.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4DY6LITGWRCBNGJ6GSZMDUTC7Q.jpg?auth=1b849188e457f8ce882a7e03dae51469ff30055fad91436d5d0f72700739a34d",
+      "fuente": "El País Tecnología",
       "categoria": "tecnologia",
-      "fechaPublicacion": "2026-04-20T18:45:00.000Z",
-      "fechaAgregada": "2026-04-21T09:27:27.459Z"
+      "fechaPublicacion": "2026-04-20T15:58:53.000Z",
+      "fechaAgregada": "2026-04-21T18:26:31.382Z"
     },
     {
-      "id": "f810b7af-ff70-4cf9-ace9-dd251ca0a5df",
-      "titulo": "Malas noticias si tienes uno de estos iPhone: no podrás instalar iOS 27",
-      "resumen": "De la mano de iOS 27, Apple espera introducir varias novedades importantes. La más rutilante, sin dudas, es la nueva Siri rediseñada e impulsada por Gemini, la inteligencia artificial de Google. Aunque también se aguarda por la implementación de cambios en la pantalla de inicio y otras característic",
-      "url": "https://hipertextual.com/apple/ios-27-modelos-sin-soporte-iphone-11-y-se-de-segunda-generacion/",
-      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2019/09/hipertextual-iphone-11-2019772090.jpeg?fit=1024%2C673&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "fuente": "Hipertextual",
+      "id": "82fd320d-5014-4942-a60b-437377a8c57a",
+      "titulo": "Lo nuevo en auriculares inalámbricos: funciones más allá de la reproducción de música",
+      "resumen": "La nueva generación incorpora inteligencia artificial y sensores para ir mucho más allá del audio, en una evolución que los acerca cada vez más al terreno de los ‘wearables’",
+      "url": "https://elpais.com/tecnologia/tu-tecnologia/2026-04-20/lo-nuevo-en-auriculares-inalambricos-funciones-mas-alla-de-la-reproduccion-de-musica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/O2X4V5YSXVA3LLV7QANBBZ7QOU.jpg?auth=6ddd729da639e426429aee2c2debcf00c2a5748b3664142836b7a2f9410c4b0c",
+      "fuente": "El País Tecnología",
       "categoria": "tecnologia",
-      "fechaPublicacion": "2026-04-20T14:53:30.000Z",
-      "fechaAgregada": "2026-04-21T09:27:27.459Z"
+      "fechaPublicacion": "2026-04-20T03:30:01.000Z",
+      "fechaAgregada": "2026-04-21T18:26:31.382Z"
     },
     {
-      "id": "983eb9c6-36df-4bdf-a98d-a7a480db1a5a",
-      "titulo": "La película de ‘Elden Ring’ confirma su reparto completo y anuncia fecha de estreno",
-      "resumen": "La película de Elden Ring es uno de los proyectos más esperados por los fans de las adaptaciones de videojuegos. El título original vio la luz en 2022 y se convirtió en un éxito planetario. Más de 30 millones de copias vendidas en todo el mundo y ganador del Juego del Año (GOTY) hacen de […]\nSeguir",
-      "url": "https://hipertextual.com/cine-television/la-pelicula-de-elden-ring-confirma-su-reparto-completo-y-anuncia-fecha-de-estreno/",
-      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Elden-Ring-pelicula.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "fuente": "Hipertextual",
+      "id": "b4382a88-31d0-4988-a4ed-03868df4a631",
+      "titulo": "Cuarto Propio en Wikipedia: las editoras que hacen justicia a las mujeres en internet desde hace más de una década",
+      "resumen": "La iniciativa busca corregir sesgos y mostrar a las protagonistas de la Historia más allá de su papel de hijas o esposas",
+      "url": "https://elpais.com/tecnologia/2026-04-18/cuarto-propio-en-wikipedia-las-editoras-que-hacen-justicia-a-las-mujeres-en-internet-desde-hace-mas-de-una-decada.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CRGIAZI72BFAPGHBXZXJ2Z5LSA.jpg?auth=36b48371b83c5b5ee1886b6d4535af743c2ee1d8e6f17ba6670007ed908777bc",
+      "fuente": "El País Tecnología",
       "categoria": "tecnologia",
-      "fechaPublicacion": "2026-04-20T14:29:24.000Z",
-      "fechaAgregada": "2026-04-21T09:27:27.459Z"
+      "fechaPublicacion": "2026-04-18T03:30:01.000Z",
+      "fechaAgregada": "2026-04-21T18:26:31.382Z"
     },
     {
-      "id": "a5e714c0-dbcb-40b8-a1dd-4e021cdddd07",
-      "titulo": "‘Euphoria’ enciende las redes con el desnudo integral de Sydney Sweeney: «Es porno»",
-      "resumen": "La nueva temporada de Euphoria no para de dar que hablar. De un estreno con críticas divididas al desprecio de la prensa especializada y récords de audiencia. Todo pasando por los señalamientos de que Sam Levinson ha convertido al argumento en algo por completo distinto a la premisa original. Lo cie",
-      "url": "https://hipertextual.com/cine-television/euphoria-enciende-las-redes-con-el-desnudo-integral-de-sydney-sweeney-es-porno/",
-      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/08/Sydney-Sweeney-23097.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "fuente": "Hipertextual",
+      "id": "940bf8b4-4f21-4b19-bebf-57ff011f2afa",
+      "titulo": "Europa impulsa un frente común para limitar el uso de las redes sociales a los menores",
+      "resumen": "Una cumbre liderada por Macron, a la que asistieron Sánchez, Von der Leyen, Meloni y Merz, dibuja una estrategia conjunta frente al acceso a plataformas de los menores",
+      "url": "https://elpais.com/sociedad/2026-04-16/macron-von-der-leyen-sanchez-y-otros-lideres-europeos-se-reunen-para-ordenar-el-uso-de-redes-sociales-por-menores.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PSXJMYYGOZIY5LWWLBHXC76HFY.jpg?auth=61c53bad08fd22a88ac887eb30da55a35f2fe2ebb22cd715235fc1b18166bf2e",
+      "fuente": "El País Tecnología",
       "categoria": "tecnologia",
-      "fechaPublicacion": "2026-04-20T13:56:59.000Z",
-      "fechaAgregada": "2026-04-21T09:27:27.459Z"
+      "fechaPublicacion": "2026-04-16T17:29:03.000Z",
+      "fechaAgregada": "2026-04-21T18:26:31.382Z"
     },
     {
-      "id": "67ccbe78-c608-4b85-b330-7f4615ac2e12",
+      "id": "a4e3d697-a79b-4067-a19f-7a0cc7262067",
+      "titulo": "La IA no ha roto la educación, la ha dejado en evidencia",
+      "resumen": "Cuando un estudiante puede producir un trabajo con instrucciones a ChatGPT, la pregunta no es si nuestras tareas miden el aprendizaje, es por qué fingimos durante tanto tiempo que lo hacían",
+      "url": "https://elpais.com/tecnologia/2026-04-16/la-ia-no-ha-roto-la-educacion-la-ha-dejado-en-evidencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2MTJB5YK2VGSBAWCWXWAZOVAGA.jpg?auth=402445094e12f04c459b1cf0d44a2e74b848f1baf72ef8aed982b9b64ac0ce4f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-16T03:30:00.000Z",
+      "fechaAgregada": "2026-04-21T18:26:31.383Z"
+    },
+    {
+      "id": "4ec4b185-0d86-49f4-91a4-0d2f44b84b4f",
+      "titulo": "Bruselas ultima su aplicación digital para verificar la edad de los usuarios de las plataformas",
+      "resumen": "La presidenta de la Comisión anuncia que la app está “técnicamente lista” y pronto será accesible para la ciudadanía",
+      "url": "https://elpais.com/tecnologia/2026-04-15/bruselas-lanza-su-aplicacion-digital-para-verificar-la-edad-de-los-usuarios-de-las-plataformas.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260415/1159775_144441_video_1800.mp4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-15T09:30:42.000Z",
+      "fechaAgregada": "2026-04-21T18:26:31.383Z"
+    },
+    {
+      "id": "3a85ad5d-5df0-4896-96a7-2dc4cd0b9e08",
+      "titulo": "Destacamento 201, la unidad del Ejército de EE UU dirigida por ejecutivos tecnológicos",
+      "resumen": "La Administración Trump nombra tenientes coroneles a cuatro directivos de Meta, OpenAI y Palantir, empresas con las que el Pentágono mantiene contratos, para acelerar la “innovación militar”",
+      "url": "https://elpais.com/tecnologia/2026-04-13/destacamento-201-la-unidad-del-ejercito-de-ee-uu-dirigida-por-ejecutivos-tecnologicos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/5J7J44HJ4BEG3K7XR7OJ2JKXZQ.jpeg?auth=3cbd7a6ccb529edea081eeb4430012e935931c67f6e0b53408a1c7847e74a6ac",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-13T03:30:01.000Z",
+      "fechaAgregada": "2026-04-21T18:26:31.383Z"
+    },
+    {
+      "id": "2c438be4-6d96-4da2-ad36-027920d63874",
+      "titulo": "Los adolescentes que crecieron sin ningún límite en las redes sociales: “Mis padres me dieron el móvil y, a partir de ahí, tiré sola”",
+      "resumen": "Jóvenes que tuvieron su primer móvil a los 12 recuerdan una adolescencia sin normas digitales y reflexionan sobre el papel de los adultos",
+      "url": "https://elpais.com/tecnologia/2026-04-11/los-adolescentes-que-crecieron-sin-ningun-limite-en-las-redes-sociales-mis-padres-me-dieron-el-movil-y-a-partir-de-ahi-tire-sola.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/W72FMQM4RBF2VM6R2INITLJPAY.jpg?auth=5774891d5541e380c658f090a6be4e557d5f98eb5b867ee39dbb61def66de025",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-11T03:30:01.000Z",
+      "fechaAgregada": "2026-04-21T18:26:31.383Z"
+    },
+    {
+      "id": "8332688f-b44e-444d-9b6f-8df9b24935fb",
+      "titulo": "Anthropic oculta su nuevo modelo de IA, Mythos, por ser demasiado peligroso",
+      "resumen": "La compañía ha optado por ceder estrictamente su acceso a unas docenas de empresas escogidas para que lo usen para proteger su ‘software’",
+      "url": "https://elpais.com/tecnologia/2026-04-11/anthropic-oculta-su-nuevo-modelo-de-ia-mythos-por-ser-demasiado-peligroso.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/F6QL5JWMZFBS7PCJNXRM76MDVA.jpg?auth=03beeaffad2ccae8e6d5519d91ee1f4a6db2ebee734ab74aeb7745ea8a18fc13",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-11T03:30:01.000Z",
+      "fechaAgregada": "2026-04-21T18:26:31.383Z"
+    },
+    {
+      "id": "1bd90e8d-e4fd-46c3-89b7-b74dfdbece48",
+      "titulo": "Telegram y la IA multiplican la violencia digital contra mujeres anónimas en España: “¿Alguno me presta a su novia para pajearme?”",
+      "resumen": "Un nuevo estudio da más detalles sobre la composición y el comportamiento de grupos de hombres dedicados a obtener imágenes sin consentimiento",
+      "url": "https://elpais.com/tecnologia/2026-04-08/telegram-y-la-ia-multiplican-la-violencia-digital-contra-mujeres-anonimas-en-espana-alguno-me-presta-su-novia-para-pajearme.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SHETQSVXERCGFJENZKMDSTI2MY.jpg?auth=df48dd7e7cf3be78d3f086625a2a7738d4c34b2aaa80b9bbd49133b2531139c7",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-08T08:46:45.000Z",
+      "fechaAgregada": "2026-04-21T18:26:31.383Z"
+    },
+    {
+      "id": "d77ab9ad-882a-4604-a323-d24c8360ecd6",
       "titulo": "Así ha cambiado Internet en los 20 años transcurridos desde el lanzamiento de Genbeta",
       "resumen": "Genbeta se lanzó al mundo en el año 2005, hace ya dos décadas (y algunos meses). Si ya eras usuario de Internet por aquellos tiempos, estarás de acuerdo con que éste ha cambiado mucho en estos últimos 20 años, y no siempre para mejor. Hagamos un breve recorrido por el carril de la nostalgia en la 'a",
       "url": "https://www.genbeta.com/a-fondo/asi-ha-cambiado-internet-20-anos-transcurridos-lanzamiento-genbeta",
@@ -89,10 +452,10 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-31T10:01:00.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.907Z"
     },
     {
-      "id": "a3eb4eb4-9c00-470e-ac5a-833b642be71c",
+      "id": "50e77996-70d9-4d88-b5b6-6c75e6106d6a",
       "titulo": "Un jefe boomer no entendía que sus empleados millennials no quisieran cargos directivos. Ellos tienen claras las razones",
       "resumen": "Un jefe de la generación del baby boom ha dicho estar muy desconcertado porque los trabajadores millennials rechazan recibir ascensos y sus razones tienen. En una publicación en Reddit (un foro que se ha convertido en esencial para entender las dinámicas laborales) un empleado millennial compartió u",
       "url": "https://www.genbeta.com/laboral/jefe-boomer-no-entendia-que-sus-empleados-millennials-no-quisieran-cargos-directivos-ellos-tienen-claras-razones",
@@ -100,10 +463,10 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-31T08:01:00.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.907Z"
     },
     {
-      "id": "00da35f9-70da-4236-8f37-07c77bf0f43a",
+      "id": "7d128300-30f1-4482-8775-aefe06947130",
       "titulo": "Meta se ha puesto a la cabeza de la carrera de los agentes de IA adquiriendo Manus por 2.000 millones de dólares",
       "resumen": "Meta acaba de cerrar una de las operaciones más llamativas de este final de año: la compra de Manus, una 'startup' de IA agéntica actualmente con sede en Singapur pero origen chino, conocida por ofrecer agentes capaces de ejecutar tareas complejas con poca supervisión. Las estimaciones sitúan el pre",
       "url": "https://www.genbeta.com/inteligencia-artificial/meta-se-ha-puesto-a-cabeza-carrera-agentes-ia-adquiriendo-manus-2-000-millones-dolares",
@@ -111,10 +474,10 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-30T14:08:27.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.907Z"
     },
     {
-      "id": "13530a54-5696-4dd5-b262-4c3e5c3282d3",
+      "id": "4897a50a-36c2-4a3a-a3eb-ac91ea39fb15",
       "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
       "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
       "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
@@ -122,10 +485,10 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-30T10:59:31.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.907Z"
     },
     {
-      "id": "7388ecb1-1085-4efc-81df-92e10e9b7b53",
+      "id": "1cb3fbe5-ee4c-4657-9612-986ba4665455",
       "titulo": "El CEO de Randstad afirma que el teletrabajo ahora se reserva solo para talentos \"muy especiales\" y explica quién tiene este perfil",
       "resumen": "El director ejecutivo de Randstad, Sander van 't Noordende, ha afirmado que el teletrabajo ha muerto oficialmente y que 3 días en la oficina es la nueva norma. La empresa que lidera es conocida por ser una de las mayores empresas de reclutamiento de nuevos trabajadores del mundo. Otra de sus afirmac",
       "url": "https://www.genbeta.com/laboral/ceo-randstad-afirma-que-teletrabajo-ahora-se-reserva-solo-para-talentos-muy-especiales-explica-quien-tiene-este-perfil",
@@ -133,10 +496,10 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-30T09:01:00.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.907Z"
     },
     {
-      "id": "7df34f69-5764-4d78-bb95-f98dee25ffbf",
+      "id": "5451808c-aa69-43f7-964b-ed42dd9a4fab",
       "titulo": "He comprado online porque en mi pueblo cada vez hay menos tiendas.... y siento que el proceso agota: es como horas extra de trabajo",
       "resumen": "En mi pueblo cada vez tenemos menos variedad de tiendas. Han ido cerrando comercios de electrodomésticos y otros útiles del hogar, por poner un ejemplo, y eso me ha llevado a tener que realizar diversas compras online. Ya he escrito otras veces cómo yo apuesto por las compras de comercio local siemp",
       "url": "https://www.genbeta.com/a-fondo/he-comprado-online-porque-mi-pueblo-cada-vez-hay-tiendas-siento-que-proceso-agota-como-horas-extra-trabajo",
@@ -144,10 +507,10 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-30T08:01:00.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.907Z"
     },
     {
-      "id": "294a74ad-9fff-4105-b0b4-908f470eba47",
+      "id": "c42bd62a-1d5e-4f6c-9811-b9126b08007b",
       "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
       "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
       "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
@@ -155,10 +518,10 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-29T18:39:38.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.907Z"
     },
     {
-      "id": "fa95fe12-6287-4865-9310-ce44ca8ac2c7",
+      "id": "553acefc-f7e1-4602-a5d2-cf15fc5cc3c1",
       "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
       "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
       "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
@@ -166,10 +529,10 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-29T14:58:02.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.907Z"
     },
     {
-      "id": "3e31b454-204d-4926-996e-d2e696ec5737",
+      "id": "9bc08252-a078-4501-ae72-b7e41bd6fd12",
       "titulo": "Cadenas de TV como Telecinco o Antena 3 critican los \"realities\" de Internet: \"La Casa de los Gemelos\" campa a sus anchas en YouTube",
       "resumen": "Mientras que la televisión tiene una regulación creada para evitar contenidos que puedan ser perjudiciales, a través de la \"Ley Audiovisual\", en internet la situación es diferente. Solo hay que ver lo que está sucediendo con personas como Simón Pérez, un hombre adicto a las drogas al que, a través d",
       "url": "https://www.genbeta.com/actualidad/cadenas-tv-como-telecinco-antena-3-critican-realities-internet-casa-gemelos-campa-a-sus-anchas-youtube",
@@ -177,10 +540,10 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-29T12:30:32.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.908Z"
     },
     {
-      "id": "cd79920d-7965-495f-be05-4f3c4ff4d95b",
+      "id": "3bc58d59-3ebd-4d9f-ac23-de6b6f2fe645",
       "titulo": "El planazo pionero de China para evitar que los chatbots de IA aconsejen mal: recurrir a los humanos cuando hay temas espinosos",
       "resumen": "China planea restringir que los chatbots con inteligencia artificial influyan en las emociones humanas de maneras que puedan llevar al suicidio o la autolesión o incluso a apostar en juegos de azar, según un borrador de las normas que se han hecho públicas esta semana. \nLas regulaciones propuestas p",
       "url": "https://www.genbeta.com/inteligencia-artificial/china-tiene-plan-para-evitar-que-chatbots-ia-manipulen-emociones-incluso-proponen-derivar-conversacion-a-humanos",
@@ -188,10 +551,10 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-29T09:20:23.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.908Z"
     },
     {
-      "id": "08904e2e-3542-4a8f-b6aa-9ee7398aa86f",
+      "id": "d4dd7a06-b3c1-46b3-a0e5-53eb2718856c",
       "titulo": "La mayoría de autónomos en España tiene más de 45 años y la generación Z en España no parece querer emprender. El SEPE ve aquí un reto",
       "resumen": "El SEPE o Servicio Público de empleo acaba de presentar un informe en el que afirma que el empleo autónomo desempeña un papel fundamental en la economía y mercado laboral español, generando empleo y tejido empresarial. Este llega unas semanas más tarde de las protestas de los trabajadores del sector",
       "url": "https://www.genbeta.com/laboral/trabajadores-autonomos-espana-superan-a-media-europea-muchos-estan-hartos-gente-joven-pasa-emprender",
@@ -199,10 +562,10 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-29T08:13:41.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.908Z"
     },
     {
-      "id": "55c6da03-7ef8-480c-8b65-a2ffff29af77",
+      "id": "892fc96d-a31d-47b6-a464-f57251a86c78",
       "titulo": "Ubuntu es la distribución Linux más exitosa, pero hasta ellos tuvieron que cancelar estos ocho proyectos",
       "resumen": "En el ámbito de los Linux de escritorio, Ubuntu no solo ha sido y es popular: sigue siendo una de las distribuciones más influyentes del mundo. Simplificó las instalaciones, normalizó los lanzamientos regulares, mejoró drásticamente el soporte de hardware y lleva años siendo la principal puerta de e",
       "url": "https://www.genbeta.com/linux/ubuntu-distribucion-linux-exitosa-ellos-tuvieron-que-cancelar-estos-ocho-proyectos",
@@ -210,10 +573,10 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-28T11:00:59.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.908Z"
     },
     {
-      "id": "fa878778-773d-4857-a394-2d54f20d6a7b",
+      "id": "c9986a34-ca5a-4c22-978c-383ab8a0ce2d",
       "titulo": "La IA trae más tensión: los empleados quieren trabajar menos porque la IA ayuda. Los CEO exigen a la gente ser máquinas sin descanso",
       "resumen": "El equilibrio entre la vida laboral y la personal vs las jornadas 996 que están exigiendo mucha empresas de IA tanto en Estados Unidos como en Europa. Hay una distancia importante entre lo que los empleados han empezado a apreciar con el paso del tiempo y lo que los directivos están exigiendo en las",
       "url": "https://www.genbeta.com/inteligencia-artificial/ceo-cada-vez-exigen-horas-trabajo-empleados-valoran-que-nunca-ocio-ia-tiene-mucha-culpa-ambos",
@@ -221,10 +584,10 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-27T11:06:17.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.908Z"
     },
     {
-      "id": "12283ff7-aae3-416f-9f98-3f2a27e3a3af",
+      "id": "665dfdd3-ea8e-4a37-aff4-7a5d0b7a4414",
       "titulo": "Sancionado un capitán del Ejército que permitió instalar un ordenador en una base militar de Zaragoza para minar criptomonedas",
       "resumen": "La constante aparición de nuevas tecnologías no deja de generar situaciones legales inéditas. Tanto como para provocar que la Guardia Civil precinte un local dentro de un cuartel del Ejército de Tierra y que un oficial en activo sea sancionado por permitir el uso indebido de instalaciones militares.",
       "url": "https://www.genbeta.com/seguridad/sancionado-capitan-ejercito-que-permitio-instalar-ordenador-base-militar-zaragoza-para-minar-criptomonedas",
@@ -232,7 +595,139 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-26T18:18:46.000Z",
-      "fechaAgregada": "2026-04-21T09:27:28.285Z"
+      "fechaAgregada": "2026-04-21T18:26:30.908Z"
+    },
+    {
+      "id": "c3c62fc9-4ce7-4f9b-be6e-47b8d0ebaa88",
+      "titulo": "Administrar mi Servicio Utiq",
+      "resumen": "Administrar mi Servicio Utiq \n\n\n      // Dynamically extract the current hostname and remove 'www.' if present\n      const currentHostname = window.location.hostname.replace(/^www\\./, '');\n      const utiqHostname = 'utiq.' + currentHostname;\n\n      window.Utiq = window.Utiq || {};\n      window.Utiq",
+      "url": "https://www.xatakaciencia.com/legal/administrar-mi-servicio-utiq",
+      "imagen": "https://i.blogs.es/f32ceb/00/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2024-06-06T09:46:00.000Z",
+      "fechaAgregada": "2026-04-21T18:26:32.510Z"
+    },
+    {
+      "id": "0ec6484a-b4a1-4076-aac7-4b10f92a0994",
+      "titulo": "Lo que es normal solo es lo que los demás te dejan ver de ellos mismos: o sea, que no sabes lo que es normal",
+      "resumen": "Decía Walter Benjamin que “Quien cuida los modales pero rechaza la mentira, se asemeja a alguien que, si bien se viste a la moda, no lleva camisa”.\nPor eso, en las sociedades complejas resulta muy difícil no mentir. Porque si dices la verdad siempre, vas desnudo. Y precisamente por eso es tan difíci",
+      "url": "https://www.xatakaciencia.com/psicologia/que-normal-solo-que-demas-te-dejan-ver-ellos-mismos-sea-que-no-sabes-que-normal",
+      "imagen": "https://i.blogs.es/fcb596/pinocchio-g322b15a0f_640/1024_2000.jpg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2022-01-31T17:01:19.000Z",
+      "fechaAgregada": "2026-04-21T18:26:32.510Z"
+    },
+    {
+      "id": "cf9efee2-aa45-4de9-9250-5248d31ae2c6",
+      "titulo": "La prueba de que el mundo va a mejor es que ahora te parece ver a gente más horrible, ofensiva y malvada que antes",
+      "resumen": "Seas quien seas, te comportes como te comportes, tengas las ideas que tengas, probablemente eres o has sido el enemigo, el malo de la película, el villano de la historia de otra persona. No importa quién eres o lo que piensas. Por supuesto, los asesinos en serie y los Hitler siguen siendo malvados,",
+      "url": "https://www.xatakaciencia.com/psicologia/prueba-que-mundo-va-a-mejor-que-ahora-te-parece-ver-a-gente-horrible-ofensiva-malvada-que-antes",
+      "imagen": "https://i.blogs.es/e58997/marcia_fudge_with_stay_woke_vote_t-shirt_in_2018/1024_2000.jpg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2022-01-30T08:06:53.000Z",
+      "fechaAgregada": "2026-04-21T18:26:32.510Z"
+    },
+    {
+      "id": "2b170bfd-668c-4db0-83a8-f15a7daf3b4d",
+      "titulo": "Los hombres valoran más a otros hombres atractivos, pero las mujeres, no",
+      "resumen": "Los hombres, en comparación con las mujeres, valoran más a los amigos del mismo sexo que son físicamente llamativos o estereotípicamente atractivos, poseen un alto estatus y poseen riqueza y tienen, por añadidura, un mayor acceso a posibles parejas.\nPor el contrario, las mujeres, en comparación con",
+      "url": "https://www.xatakaciencia.com/psicologia/hombres-valoran-a-otros-hombres-atractivos-mujeres-no",
+      "imagen": "https://i.blogs.es/343464/people-gc24c12e17_640/1024_2000.jpg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2022-01-28T12:43:47.000Z",
+      "fechaAgregada": "2026-04-21T18:26:32.510Z"
+    },
+    {
+      "id": "41ae7809-6379-4c4f-953a-c45ab4440f3a",
+      "titulo": "La música ayuda a que las operaciones de cirugía se hagan mejor (y también sirve para saber si se opera bien un tumor)",
+      "resumen": "La música puede escucharse comúnmente en los quirófanos. Se ha demostrado que la música disminuye el estrés del equipo quirúrgico y reduce la ansiedad del paciente antes de la cirugía. \nPor otro lado, se ha revelado que la música puede generar efectos negativos de atención dividida que causan distra",
+      "url": "https://www.xatakaciencia.com/medicina/musica-ayuda-a-que-operaciones-cirugia-se-hagan-mejor-tambien-sirve-para-saber-se-opera-bien-tumor",
+      "imagen": "https://i.blogs.es/ddbe18/1366_2000/1024_2000.jpg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2022-01-26T20:23:39.000Z",
+      "fechaAgregada": "2026-04-21T18:26:32.510Z"
+    },
+    {
+      "id": "796a726d-1ae7-4801-a621-ba48ca554fa1",
+      "titulo": "Libros que nos inspiran: 'El primate que cambió el mundo' de Alex Richter-Boix",
+      "resumen": "La contaminación del aire de los hogares, impulsada en gran parte por estufas interiores, causó 700.000 muertes en África, mientras que el aumento de la contaminación del aire exterior se cobró 400.000 vidas. Es solo uno de los últimos ejemplos de cómo el ser humano ha alterado los ecosistemas.\nDe e",
+      "url": "https://www.xatakaciencia.com/libros-que-nos-inspiran/libros-que-nos-inspiran-primate-que-cambio-mundo-alex-richter-boix",
+      "imagen": "https://i.blogs.es/307508/a1cvwwacail/1024_2000.jpg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2022-01-25T16:04:53.000Z",
+      "fechaAgregada": "2026-04-21T18:26:32.510Z"
+    },
+    {
+      "id": "620b83ef-4d4d-4c20-8b79-cbe38590f3b0",
+      "titulo": "Estas son las búsquedas más raras que hombres y mujeres hacen de vídeos porno",
+      "resumen": "A pesar de que se hacen a menudo encuestas sobre gustos sexuales o parafilias, en realidad tales encuestas tienen limitaciones: la sinceridad del encuestad.\nOtra cosa son los macrodatos que podemos extraer de las búsquedas que realizan hombres y mujeres en plataformas de vídeos pornográficos, como P",
+      "url": "https://www.xatakaciencia.com/psicologia/estas-busquedas-raras-que-hombres-mujeres-hacen-videos-porno",
+      "imagen": "https://i.blogs.es/63750c/e76bwuxm3vdlrmdbpsclo3unji/1024_2000.jpg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2022-01-24T14:20:32.000Z",
+      "fechaAgregada": "2026-04-21T18:26:32.510Z"
+    },
+    {
+      "id": "7b9f4247-e444-4eaf-895d-3fa645a63a9a",
+      "titulo": "Los gatos tienen una gran capacidad para crear sonidos y también para escucharlos",
+      "resumen": "En el Antiguo Egipto, si un gato familiar moría, todos los miembros de la familia se depilaban las cejas en señal de duelo. Los gatos, a lo largo de la historia, han adquirido un estatus envidiable.\nSin embargo, más allá del devocionario humano, también es cierto que los gatos presentan algunas cara",
+      "url": "https://www.xatakaciencia.com/sabias-que/gatos-tienen-gran-capacidad-para-crear-sonidos-tambien-para-escucharlos",
+      "imagen": "https://i.blogs.es/859b52/cat-g0672a6708_640/1024_2000.jpg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2022-01-23T11:14:04.000Z",
+      "fechaAgregada": "2026-04-21T18:26:32.510Z"
+    },
+    {
+      "id": "c64146a7-6308-4937-ac72-f45d271a49d8",
+      "titulo": "50 razones para ser optimista con datos objetivos sobre diversos ámbitos de la vida y la sociedad",
+      "resumen": "A pesar de los discursos agoreros, que siempre han sido los hegemónicos en todas las épocas de la historia, basta con echar un vistazo a unas décadas vista para, sencillamente, sentirnos muy orgullosos de cómo hemos mejorado el mundo en todos los ámbitos, desde el social al medioambiental. \nCada vez",
+      "url": "https://www.xatakaciencia.com/sabias-que/50-razones-para-ser-optimista-datos-objetivos-diversos-ambitos-vida-sociedad",
+      "imagen": "https://i.blogs.es/33e1f0/swirling-stars-and-space-video-zoom-virtual-background/1024_2000.png",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2022-01-21T17:34:59.000Z",
+      "fechaAgregada": "2026-04-21T18:26:32.510Z"
+    },
+    {
+      "id": "61f15653-c074-490a-babb-a1ccd5ff8789",
+      "titulo": "Otros 40 conceptos clave para mejorar tu comprensión del mundo",
+      "resumen": "Queríais una segunda parte de los 40 coceptos clave para entender el mundo. Aquí la tenéis. Otros 40 más. Con mucha más información y fuentes. \nEn vuestra vida habréis recibido tal cantidad de información contraintuitiva en tan poco tiempo. 15 minutos que equivalen a un año. Garantizado. Bienvenidos",
+      "url": "https://www.xatakaciencia.com/sabias-que/otros-40-conceptos-clave-para-mejorar-tu-comprension-mundo",
+      "imagen": "https://i.blogs.es/cf528f/los-hermanos-2-/1024_2000.jpg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2022-01-20T20:50:06.000Z",
+      "fechaAgregada": "2026-04-21T18:26:32.510Z"
+    },
+    {
+      "id": "ead08966-59df-4e6c-8840-331edda3f997",
+      "titulo": "No debemos censurar la investigación de la importancia de los genes en la inteligencia u otras aptitudes, sino su uso político",
+      "resumen": "La inteligencia, en parte, está determinada por los genes. El color de la piel, sin embargo, no influye en la inteligencia porque los genes implicados en la pigmentación de la piel son muy pocos, así que no es la piel precisamente lo que nos distingue unos de otros. \nEstudiar esta clase de cosas no",
+      "url": "https://www.xatakaciencia.com/psicologia/no-debemos-censurar-investigacion-importancia-genes-inteligencia-u-otras-aptitudes-sino-su-uso-politico",
+      "imagen": "https://i.blogs.es/92b22e/tribe-g0c1d4b2fb_640/1024_2000.jpg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2022-01-19T19:32:28.000Z",
+      "fechaAgregada": "2026-04-21T18:26:32.510Z"
+    },
+    {
+      "id": "b94fe9ef-d7b2-47ae-bf2c-660de3f6f88a",
+      "titulo": "Cada vez que veas el siguiente vídeo escucharás algo diferente aunque nada cambie: el efecto McGurk",
+      "resumen": "Prestad atención a los primeros segundos del siguiente vídeo. Según lo que estéis pensando, según en qué se centre vuestro cerebro, podréis escuchar una frase u otra. La frase siempre será la misma, pero todas las veces que escuchéis el vídeo escucharéis una frase distinta si cambias de pensamiento.",
+      "url": "https://www.xatakaciencia.com/sabias-que/cada-vez-que-veas-siguiente-video-escucharas-algo-diferente-nada-cambie-efecto-mcgurk",
+      "imagen": "https://i.blogs.es/c93ab3/sin-titulo-1-copia/1024_2000.jpg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2022-01-18T16:32:19.000Z",
+      "fechaAgregada": "2026-04-21T18:26:32.510Z"
     }
   ]
 }

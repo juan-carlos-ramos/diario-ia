@@ -20,7 +20,7 @@ const parser = new Parser({
 const FUENTES = [
   {
     nombre: "Xataka",
-    url: "https://feeds.weblogssl.com/xataka",
+    url: "https://feeds.weblogssl.com/xataka2",
     categoria: "tecnologia",
   },
   {
@@ -29,14 +29,19 @@ const FUENTES = [
     categoria: "tecnologia",
   },
   {
-    nombre: "MIT Technology Review ES",
-    url: "https://www.technologyreview.es/rss.xml",
-    categoria: "investigacion",
-  },
-  {
     nombre: "Genbeta",
     url: "https://feeds.weblogssl.com/genbeta",
     categoria: "productividad",
+  },
+  {
+    nombre: "El País Tecnología",
+    url: "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada",
+    categoria: "tecnologia",
+  },
+  {
+    nombre: "Xataka Ciencia",
+    url: "https://feeds.weblogssl.com/xatakaciencia",
+    categoria: "investigacion",
   },
 ];
 
@@ -162,7 +167,27 @@ async function guardarNoticias(noticias) {
   return noticias;
 }
 
-// Publica las noticias nuevas en el canal de Telegram
+// Ruta del archivo que registra los IDs ya enviados a Telegram
+const ARCHIVO_ENVIADOS = path.join(process.cwd(), "data", "telegram-enviados.json");
+
+// Carga los IDs de noticias ya enviadas a Telegram
+function cargarEnviados() {
+  if (!fs.existsSync(ARCHIVO_ENVIADOS)) return new Set();
+  const contenido = fs.readFileSync(ARCHIVO_ENVIADOS, "utf-8");
+  const datos = JSON.parse(contenido);
+  return new Set(datos.ids);
+}
+
+// Guarda los IDs enviados actualizados
+function guardarEnviados(ids) {
+  const datos = { 
+    actualizado: new Date().toISOString(),
+    ids: Array.from(ids)
+  };
+  fs.writeFileSync(ARCHIVO_ENVIADOS, JSON.stringify(datos, null, 2), "utf-8");
+}
+
+// Publica solo las noticias nuevas en el canal de Telegram
 async function publicarEnTelegram(noticias) {
   const token = process.env.TELEGRAM_BOT_TOKEN;
   const canal = process.env.TELEGRAM_CHANNEL;
@@ -172,11 +197,24 @@ async function publicarEnTelegram(noticias) {
     return;
   }
 
-  // Publicar solo las primeras 10 noticias para no saturar el canal
-  const noticiasPara = noticias.slice(0, 10);
+  // Cargar IDs ya enviados
+  const enviados = cargarEnviados();
 
-  for (const noticia of noticiasPara) {
-    const mensaje = `📰 *${escaparMarkdown(noticia.titulo)}*\n\n${escaparMarkdown(noticia.resumen)}\n\n🔗 [Leer en DiarioIA](https://diario-ia.vercel.app/noticia/${noticia.id})\n📌 _${noticia.fuente}_`;
+  // Filtrar solo las noticias que NO han sido enviadas antes
+  const nuevas = noticias.filter((n) => !enviados.has(n.id));
+
+  if (nuevas.length === 0) {
+    console.log("ℹ️ No hay noticias nuevas para enviar a Telegram.");
+    return;
+  }
+
+  console.log(`📨 Enviando ${nuevas.length} noticias nuevas a Telegram...`);
+
+  // Publicar máximo 10 noticias nuevas
+  const paraPublicar = nuevas.slice(0, 10);
+
+  for (const noticia of paraPublicar) {
+    const mensaje = `📰 *${escaparMarkdown(noticia.titulo)}*\n\n${escaparMarkdown(noticia.resumen)}\n\n🔗 [Leer en DiarioIA](https://diario-ia.vercel.app/noticia/${noticia.id})\n📌 _${escaparMarkdown(noticia.fuente)}_`;
 
     try {
       const url = `https://api.telegram.org/bot${token}/sendMessage`;
@@ -195,15 +233,21 @@ async function publicarEnTelegram(noticias) {
       if (!data.ok) {
         console.error(`Error publicando en Telegram: ${data.description}`);
       } else {
-        console.log(`✅ Publicado en Telegram: ${noticia.titulo.slice(0, 50)}...`);
+        // Marcar como enviada solo si fue exitosa
+        enviados.add(noticia.id);
+        console.log(`✅ Publicado: ${noticia.titulo.slice(0, 50)}...`);
       }
 
-      // Pausa de 2 segundos entre mensajes para no saturar la API
+      // Pausa de 2 segundos entre mensajes
       await new Promise((r) => setTimeout(r, 2000));
     } catch (error) {
       console.error(`Error enviando a Telegram: ${error.message}`);
     }
   }
+
+  // Guardar IDs actualizados
+  guardarEnviados(enviados);
+  console.log(`💾 Registro de enviados actualizado: ${enviados.size} noticias en total.`);
 }
 
 // Escapa caracteres especiales requeridos por MarkdownV2 de Telegram
