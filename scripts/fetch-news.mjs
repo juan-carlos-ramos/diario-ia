@@ -45,36 +45,87 @@ const FUENTES = [
   },
 ];
 
-// Palabras clave para filtrar noticias relevantes
-const PALABRAS_CLAVE = [
+// Palabras clave que DEBEN aparecer para que la noticia sea relevante
+const PALABRAS_CLAVE_INCLUIR = [
   "inteligencia artificial",
-  "ia ",
-  " ia,",
   "machine learning",
+  "aprendizaje automático",
   "chatgpt",
   "openai",
   "gemini",
-  "claude",
+  "claude ai",
+  "anthropic",
   "llm",
   "modelo de lenguaje",
-  "automatización",
-  "vibe coding",
-  "copilot",
+  "large language model",
+  "deep learning",
+  "red neuronal",
+  "neural network",
+  "gpt-4",
+  "gpt-5",
+  "copilot ia",
   "midjourney",
   "stable diffusion",
-  "deep learning",
-  "neural",
-  "gpt",
-  "anthropic",
+  "dall-e",
+  "vibe coding",
+  "automatización con ia",
+  "ia generativa",
+  "inteligencia artificial generativa",
   "google ai",
-  "microsoft ai",
+  "microsoft ia",
+  "meta ia",
+  "apple ia",
+  "nvidia ia",
+  "robot ia",
+  "agente ia",
+  "ai agent",
+];
+
+// Palabras clave que EXCLUYEN la noticia aunque pase el filtro anterior
+const PALABRAS_CLAVE_EXCLUIR = [
+  "dc comics",
+  "marvel",
+  "película",
+  "estreno",
+  "taquilla",
+  "serie de tv",
+  "temporada",
+  "actor",
+  "actriz",
+  "fútbol",
+  "baloncesto",
+  "nba",
+  "liga",
+  "champions",
+  "receta",
+  "cocina",
+  "moda",
+  "belleza",
+  "horóscopo",
+  "coches",
+  "motor",
+  "viaje",
+  "turismo",
+  "inmobiliaria",
+  "hipoteca",
 ];
 
 function esRelevante(titulo, resumen) {
   const texto = `${titulo} ${resumen}`.toLowerCase();
-  return PALABRAS_CLAVE.some((palabra) =>
-    texto.includes(palabra.toLowerCase()),
+
+  // Verificar que tenga al menos una palabra clave de inclusión
+  const tieneIncluida = PALABRAS_CLAVE_INCLUIR.some((palabra) =>
+    texto.includes(palabra.toLowerCase())
   );
+
+  if (!tieneIncluida) return false;
+
+  // Verificar que NO tenga palabras de exclusión
+  const tieneExcluida = PALABRAS_CLAVE_EXCLUIR.some((palabra) =>
+    texto.includes(palabra.toLowerCase())
+  );
+
+  return !tieneExcluida;
 }
 
 function extraerImagen(item) {
