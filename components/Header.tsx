@@ -1,10 +1,18 @@
+import Image from "next/image";
+
 // Encabezado principal de DiarioIA
 export default function Header() {
   return (
     <header className="sticky top-0 z-50 bg-[#202124] border-b border-[#3C4043] shadow-sm">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <span className="text-2xl">🤖</span>
+          <Image
+            src="/logo.png"
+            alt="DiarioIA logo"
+            width={36}
+            height={36}
+            className="rounded-full"
+          />
           <span className="text-xl font-semibold text-white">
             Diario<span className="text-[#1A73E8]">IA</span>
           </span>
