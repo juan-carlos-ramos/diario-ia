@@ -43,28 +43,23 @@ export default async function PaginaDetalle({ params }: Props) {
 
   if (!noticia) notFound();
 
-  const categoriaColor: Record<string, string> = {
-    tecnologia: "bg-blue-100 text-blue-700",
-    investigacion: "bg-purple-100 text-purple-700",
-    productividad: "bg-green-100 text-green-700",
-  };
-
   return (
     <>
       <Header />
-      <main className="max-w-3xl mx-auto px-4 py-10">
+      <main className="max-w-3xl mx-auto px-4 py-10 pb-24 sm:pb-10">
+
         {/* Volver */}
         <a
           href="/"
-          className="inline-flex items-center gap-1 text-sm text-[#1A73E8] hover:underline mb-8 focus:outline-none focus:ring-2 focus:ring-[#1A73E8] focus:ring-offset-2 rounded"
+          className="inline-flex items-center gap-2 text-xs font-semibold tracking-[0.08em] uppercase text-[#444444] hover:text-[#00E5FF] transition-colors mb-8 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] rounded"
           aria-label="Volver a la página principal"
         >
-          ← Volver a DiarioIA
+          ← Volver
         </a>
 
         {/* Imagen */}
         {noticia.imagen && (
-          <div className="w-full h-64 sm:h-80 rounded-[12px] overflow-hidden mb-8 bg-[#F8F9FA]">
+          <div className="w-full h-64 sm:h-96 rounded-[16px] overflow-hidden mb-8 bg-[#111111]">
             <img
               src={noticia.imagen}
               alt={noticia.titulo}
@@ -73,28 +68,24 @@ export default async function PaginaDetalle({ params }: Props) {
           </div>
         )}
 
-        {/* Categoría y fuente */}
-        <div className="flex items-center gap-3 mb-4 flex-wrap">
-          <span
-            className={`text-xs font-medium px-3 py-1 rounded-full ${
-              categoriaColor[noticia.categoria] ?? "bg-gray-100 text-gray-600"
-            }`}
-          >
-            {noticia.categoria}
+        {/* Fuente y fecha */}
+        <div className="flex items-center gap-3 mb-4">
+          <span className="text-xs font-semibold tracking-[0.08em] uppercase text-[#00E5FF]">
+            {noticia.fuente}
           </span>
-          <span className="text-sm text-[#5F6368]">{noticia.fuente}</span>
-          <span className="text-sm text-[#9AA0A6]">
+          <span className="text-[#333333]">·</span>
+          <span className="text-xs text-[#444444]">
             {formatearFecha(noticia.fechaPublicacion)}
           </span>
         </div>
 
         {/* Título */}
-        <h1 className="text-2xl sm:text-3xl font-bold text-[#202124] leading-snug mb-6">
+        <h1 className="text-2xl sm:text-4xl font-black tracking-[-0.02em] text-[#F0F0F0] leading-tight mb-8">
           {noticia.titulo}
         </h1>
 
         {/* Resumen */}
-        <p className="text-base text-[#3C4043] leading-relaxed mb-10 border-l-4 border-[#1A73E8] pl-4 bg-[#F8F9FA] py-4 pr-4 rounded-r-lg">
+        <p className="text-base sm:text-lg text-[#888888] leading-relaxed mb-10 border-l-2 border-[#00E5FF] pl-5">
           {noticia.resumen}
         </p>
 
@@ -103,17 +94,13 @@ export default async function PaginaDetalle({ params }: Props) {
           href={noticia.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center gap-2 px-6 py-3 bg-[#1A73E8] text-white font-medium rounded-[8px] hover:bg-blue-700 transition-colors focus:outline-none focus:ring-2 focus:ring-[#1A73E8] focus:ring-offset-2"
+          className="inline-flex items-center gap-2 px-6 py-3 bg-[#00E5FF] text-black text-sm font-bold rounded-full hover:bg-[#00B8CC] transition-colors focus:outline-none focus:ring-2 focus:ring-[#00E5FF] focus:ring-offset-2 focus:ring-offset-black"
           aria-label={`Leer artículo completo en ${noticia.fuente}`}
         >
-          Leer artículo completo en {noticia.fuente} →
+          Leer artículo completo →
         </a>
-      </main>
 
-      <footer className="mt-16 border-t border-gray-100 py-8 text-center text-xs text-[#9AA0A6]">
-        DiarioIA · Actualizado automáticamente cada 24 horas · Solo noticias en
-        español
-      </footer>
+      </main>
     </>
   );
 }
