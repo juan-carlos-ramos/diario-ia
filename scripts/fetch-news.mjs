@@ -268,10 +268,7 @@ async function publicarEnTelegram(noticias) {
     return;
   }
 
-  // Cargar IDs ya enviados
   const enviados = cargarEnviados();
-
-  // Filtrar solo las noticias que NO han sido enviadas antes
   const nuevas = noticias.filter((n) => !enviados.has(n.id));
 
   if (nuevas.length === 0) {
@@ -281,42 +278,79 @@ async function publicarEnTelegram(noticias) {
 
   console.log(`📨 Enviando ${nuevas.length} noticias nuevas a Telegram...`);
 
-  // Publicar máximo 10 noticias nuevas
   const paraPublicar = nuevas.slice(0, 10);
 
   for (const noticia of paraPublicar) {
-    const mensaje = `📰 *${escaparMarkdown(noticia.titulo)}*\n\n${escaparMarkdown(noticia.resumen)}\n\n🔗 [Leer en DiarioIA](https://diario-ia.vercel.app/noticia/${noticia.id})\n📌 _${escaparMarkdown(noticia.fuente)}_`;
+    const texto = `*${escaparMarkdown(noticia.titulo)}*\n\n${escaparMarkdown(noticia.resumen)}\n\n🔗 [Leer en DiarioIA](https://diario-ia.vercel.app/noticia/${noticia.id})\n📌 _${escaparMarkdown(noticia.fuente)}_`;
 
     try {
-      const url = `https://api.telegram.org/bot${token}/sendMessage`;
+      let url;
+      let body;
+
+      if (noticia.imagen) {
+        // Enviar con imagen usando sendPhoto
+        url = `https://api.telegram.org/bot${token}/sendPhoto`;
+        body = JSON.stringify({
+          chat_id: `@${canal}`,
+          photo: noticia.imagen,
+          caption: texto,
+          parse_mode: "MarkdownV2",
+        });
+      } else {
+        // Sin imagen usar sendMessage normal
+        url = `https://api.telegram.org/bot${token}/sendMessage`;
+        body = JSON.stringify({
+          chat_id: `@${canal}`,
+          text: texto,
+          parse_mode: "MarkdownV2",
+          disable_web_page_preview: false,
+        });
+      }
+
       const res = await fetch(url, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          chat_id: `@${canal}`,
-          text: mensaje,
-          parse_mode: "MarkdownV2",
-          disable_web_page_preview: false,
-        }),
+        body,
       });
 
       const data = await res.json();
+
       if (!data.ok) {
-        console.error(`Error publicando en Telegram: ${data.description}`);
+        // Si la imagen falla (URL inválida, expirada, etc.) reintenta sin imagen
+        if (noticia.imagen) {
+          console.log(`⚠️ Imagen falló para "${noticia.titulo.slice(0, 40)}...", reintentando sin imagen`);
+          const res2 = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              chat_id: `@${canal}`,
+              text: texto,
+              parse_mode: "MarkdownV2",
+              disable_web_page_preview: false,
+            }),
+          });
+          const data2 = await res2.json();
+          if (data2.ok) {
+            enviados.add(noticia.id);
+            console.log(`✅ Publicado sin imagen: ${noticia.titulo.slice(0, 50)}...`);
+          } else {
+            console.error(`Error publicando: ${data2.description}`);
+          }
+        } else {
+          console.error(`Error publicando en Telegram: ${data.description}`);
+        }
       } else {
-        // Marcar como enviada solo si fue exitosa
         enviados.add(noticia.id);
-        console.log(`✅ Publicado: ${noticia.titulo.slice(0, 50)}...`);
+        const tipoEnvio = noticia.imagen ? "con imagen" : "sin imagen";
+        console.log(`✅ Publicado ${tipoEnvio}: ${noticia.titulo.slice(0, 50)}...`);
       }
 
-      // Pausa de 2 segundos entre mensajes
       await new Promise((r) => setTimeout(r, 2000));
     } catch (error) {
       console.error(`Error enviando a Telegram: ${error.message}`);
     }
   }
 
-  // Guardar IDs actualizados
   guardarEnviados(enviados);
   console.log(`💾 Registro de enviados actualizado: ${enviados.size} noticias en total.`);
 }
