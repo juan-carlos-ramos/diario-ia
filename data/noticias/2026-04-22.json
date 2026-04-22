@@ -1,0 +1,238 @@
+{
+  "fecha": "2026-04-22",
+  "generado": "2026-04-22T09:21:25.762Z",
+  "total": 21,
+  "noticias": [
+    {
+      "id": "15fcecf0-4d1d-49c2-a1eb-c2dbcdd86905",
+      "titulo": "Claude lo confirma: los usuarios Pro pierden una de sus funciones más populares",
+      "resumen": "Anthropic continúa imprimiendo todo tipo de cambios en Claude con el objetivo de contentar a sus clientes y, al mismo tiempo, rentabilizar su modelo de negocio. Sin embargo, sus últimas decisiones no han terminado de ser bien recibidas, especialmente si tenemos en cuenta que ya empiezan a afectar a",
+      "url": "https://www.adslzone.net/noticias/ia/claude-confirma-usuarios-pro-claude-code/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/04/caracteristicas-planes-claude-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-22T08:57:37.000Z",
+      "fechaAgregada": "2026-04-22T09:21:22.414Z"
+    },
+    {
+      "id": "ea1e0fd5-3f41-4eaa-a19c-263fd3b25e95",
+      "titulo": "NotebookLM mejora con la integración con Gemini",
+      "resumen": "La herramienta NotebookLM se ha convertido en una de las propuestas más interesantes de Google dentro del ya enorme ecosistema de herramientas de inteligencia artificial. A diferencia de otros asistentes que prometen hacerlo todo automáticamente, NotebookLM está pensado para trabajar sobre documento",
+      "url": "https://www.muycomputer.com/2026/04/22/notebooklm-mejora-con-la-integracion-con-gemini/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/04/NotebookLM-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-22T06:03:36.000Z",
+      "fechaAgregada": "2026-04-22T09:21:25.761Z"
+    },
+    {
+      "id": "bcef199c-3395-49ca-a556-68eb47b8fd6e",
+      "titulo": "La nueva IA de ChatGPT ya puede generar manga, imágenes ultrarrealistas y razona como humano",
+      "resumen": "OpenAI ha dado un golpe sobre la mesa con el lanzamiento de ChatGPT Images 2.0, su nuevo modelo para generar imágenes. A unas semanas de anunciar un reajuste en las prioridades, la compañía lanzó una actualización que deja atrás las limitaciones técnicas de su predecesor. La nueva versión adquiere c",
+      "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-images-2-0-openai/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/chatgpt-images-2-0.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T21:15:56.000Z",
+      "fechaAgregada": "2026-04-22T09:21:19.389Z"
+    },
+    {
+      "id": "f531ac7b-e7c8-427b-9bdf-33859bd2a1e4",
+      "titulo": "Google se ha cansado de que Claude Code y Codex le roben protagonismo: su próxima IA para programar será una bestia",
+      "resumen": "Claude Code y Codex no son las únicas herramientas de programación con IA disponibles actualmente, pero sí son las más famosas. Las plataformas de Anthropic y OpenAI se disputan el interés y la atención de la mayoría de los ingenieros de software, y Google se ha cansado de no estar dentro de la cons",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-antigravity-competir-claude-code-codex/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/google-antigravity.jpg?fit=1024%2C610&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T20:06:55.000Z",
+      "fechaAgregada": "2026-04-22T09:21:19.389Z"
+    },
+    {
+      "id": "5926dae2-c827-404b-9552-780d8f1d36f5",
+      "titulo": "La IA ya sabía crear imágenes. OpenAI dice haber dado con la pieza que faltaba con el nuevo ChatGPT Images 2.0",
+      "resumen": "Durante los últimos años hemos visto cómo los generadores de imágenes se volvían cada vez más espectaculares, más rápidos y también más populares. El problema es que una imagen llamativa no siempre sirve para trabajar con ella. Una cosa es pedir un gato astronauta y otra muy distinta obtener un cart",
+      "url": "https://www.xataka.com/robotica-e-ia/ia-sabia-crear-imagenes-openai-dice-haber-dado-pieza-que-faltaba-nuevo-chatgpt-images-2-0",
+      "imagen": "https://i.blogs.es/a8bc77/chatgpt-images-2-0-1portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T19:50:41.000Z",
+      "fechaAgregada": "2026-04-22T09:21:19.006Z"
+    },
+    {
+      "id": "395bb2ea-9127-451f-a1d0-8d05200d91aa",
+      "titulo": "OpenAI anuncia ChatGPT Images 2.0: la nueva IA llega para revolucionar la creación de imágenes",
+      "resumen": "Los usuarios de ChatGPT ya pueden utilizar ChatGPT Images 2.0, la nueva propuesta de OpenAI que llega con la intención de revolucionar la creación de imágenes. Este nuevo modelo se presenta con un nuevo desarrollo y más efectividad en la creación de cualquier tipo de imagen. El equipo de OpenAI ha e",
+      "url": "https://www.adslzone.net/noticias/ia/openai-anuncia-chatgpt-images-2-0-nueva-ia-creacion-imagenes/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/04/ChatGPT-Images-2-0-ejemplo-manga.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T19:08:03.000Z",
+      "fechaAgregada": "2026-04-22T09:21:22.415Z"
+    },
+    {
+      "id": "dfd896f8-889f-433f-953e-ace5fb7104ff",
+      "titulo": "Meta registrará los movimientos de ratón de sus empleados y hará capturas de pantalla de sus ordenadores",
+      "resumen": "Meta ha enviado un memo interno a sus empleados y Reuters ha conseguido acceder a su información. Resulta un mensaje bastante polémico, puesto que la empresa informa de las nuevas medidas que van a introducir en sus oficinas.\nPor el momento, estas nuevas medidas solo se aplicarán en Estados Unidos.",
+      "url": "https://www.adslzone.net/noticias/ia/meta-registrara-movimientos-raton-empleados-capturas-pantalla/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/04/Meta-imagen-oficial-planetas.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T18:45:40.000Z",
+      "fechaAgregada": "2026-04-22T09:21:22.415Z"
+    },
+    {
+      "id": "4c8a9366-6ac2-4724-9378-663637910b67",
+      "titulo": "Gemini evoluciona en Google Home con su última novedad: el modo de conversación continua ya disponible",
+      "resumen": "Google está puliendo la experiencia que proporciona Gemini en Google Home y acaba de estrenar hoy mismo una novedad que la comunidad de usuarios esperaba con muchas ganas. Se trata del modo Continued Conversation y la buena noticia es que llega de manera simultánea a todas las regiones y todos los i",
+      "url": "https://www.adslzone.net/noticias/ia/gemini-google-home-novedad-conversacion-continua/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/04/Gemini-dispositivos-Google-for-Home.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T17:15:53.000Z",
+      "fechaAgregada": "2026-04-22T09:21:22.415Z"
+    },
+    {
+      "id": "0ea2210f-9d1f-4f91-81f5-e6bdd3773b39",
+      "titulo": "El nuevo Oppo Watch X3 ya está aquí: diseño premium de titanio, Gemini integrado y hasta 16 días de batería",
+      "resumen": "Oppo acaba de presentar el Find X9 Ultra, su nuevo smartphone insignia, pero también ha aprovechado para renovar un puñado de otros productos. Entre ellos se encuentra el Oppo Watch X3, la nueva generación de su reloj inteligente. El dispositivo llega con novedades importantes tanto en materia de di",
+      "url": "https://hipertextual.com/tecnologia/nuevo-oppo-watch-x3-caracteristicas-precio-disponibilidad/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Watch_X3_titanium_product-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T12:31:00.000Z",
+      "fechaAgregada": "2026-04-22T09:21:19.389Z"
+    },
+    {
+      "id": "5291115c-dc06-4b2a-980d-82f0b4c32c15",
+      "titulo": "Zoom tiene una novedad interesante para evitar que hagas una videollamada con un bot",
+      "resumen": "Las estafas en Internet son cada vez más realistas debido al auge de la Inteligencia Artificial. Incluso puedes encontrarte con vídeos que han sido generados por IA, pero que parecen grabados de verdad. Algo así puede ocurrir también con las videollamadas, donde podrían suplantar la identidad de otr",
+      "url": "https://www.redeszone.net/noticias/seguridad/zoom-novedad-evitar-videollamada-bot/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/imagen-videollamada-zoom.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T09:23:19.000Z",
+      "fechaAgregada": "2026-04-22T09:21:23.139Z"
+    },
+    {
+      "id": "866e650c-279f-476d-a578-0a6ff2d71d1f",
+      "titulo": "ChatGPT ya te dice qué tienes que beber en Starbucks, ¿te fías?",
+      "resumen": "La Inteligencia Artificial es algo que vemos cada vez más integrado en nuestro día a día. Existen muchas plataformas que nos permiten realizar consultas, llevar a cabo tareas y, en definitiva, ahorrar tiempo. En este artículo, nos hacemos eco de la apuesta de Starbucks, uno de las cadenas de cafeter",
+      "url": "https://www.redeszone.net/noticias/redes/chatgpt-starbucks-recomendacion-beber/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/logo-starbucks.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T07:08:36.000Z",
+      "fechaAgregada": "2026-04-22T09:21:23.139Z"
+    },
+    {
+      "id": "dac7173b-d49f-4ece-a364-95977069c12a",
+      "titulo": "AMD por fin mueve ficha: FSR se prepara para añadir soporte a generación múltiple de fotogramas",
+      "resumen": "A pesar de ser el segundo fabricante de tarjetas gráficas, AMD se ha quedado el último en cuanto soporte para la tecnología de generación múltiple de fotogramas, siendo superado incluso por Intel, el fabricante de gráficas dedicadas más joven.\nEsto está a punto de cambiar ya que todo parece indicar",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/fsr-anadira-soporte-mfg-graficas-amd/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/04/amd-fsr-mfg.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T06:52:20.000Z",
+      "fechaAgregada": "2026-04-22T09:21:24.478Z"
+    },
+    {
+      "id": "9d6586ff-c518-4e0b-b6f2-e048159944ea",
+      "titulo": "Rumor: ni Apple se libra de la crisis de la RAM, sus MacBook Pro M6 se retrasarán a 2027",
+      "resumen": "Llevamos semanas hablando sobre la crisis de los componentes, como las memorias RAM y los SSD, y es que no solamente nos sale más caro adquirir el hardware por separado para montar un PC, por ejemplo, sino que consolas como la PS5, o marcas de teléfono, están subiendo el precio de los productos ya l",
+      "url": "https://hardzone.es/noticias/equipos/rumor-apple-crisis-ram-macbook-pro-m6-retrasaran-2027/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/01/mackbook-pro.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-20T17:29:37.000Z",
+      "fechaAgregada": "2026-04-22T09:21:24.478Z"
+    },
+    {
+      "id": "e9fed1d9-2c18-4352-8273-64496d79fc55",
+      "titulo": "Hackean el popular CDN de Vercel y roban datos de varios clientes",
+      "resumen": "Vercel es una plataforma bastante popular utilizada por desarrolladores y donde pueden alojar páginas web o aplicaciones. En caso de que haya algún problema, son muchos los sitios web y aplicaciones que podrían dejar de funcionar, ya que dependen de esta plataforma. Ahora, ha sufrido una brecha de s",
+      "url": "https://www.redeszone.net/noticias/seguridad/hackean-cdn-vercel-robo-datos/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/persona-usando-sistema-informatico.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-20T07:27:41.000Z",
+      "fechaAgregada": "2026-04-22T09:21:23.140Z"
+    },
+    {
+      "id": "e1dd185d-ab1b-4c56-a586-eeabdfa8b411",
+      "titulo": "Lo nuevo en auriculares inalámbricos: funciones más allá de la reproducción de música",
+      "resumen": "La nueva generación incorpora inteligencia artificial y sensores para ir mucho más allá del audio, en una evolución que los acerca cada vez más al terreno de los ‘wearables’",
+      "url": "https://elpais.com/tecnologia/tu-tecnologia/2026-04-20/lo-nuevo-en-auriculares-inalambricos-funciones-mas-alla-de-la-reproduccion-de-musica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/O2X4V5YSXVA3LLV7QANBBZ7QOU.jpg?auth=6ddd729da639e426429aee2c2debcf00c2a5748b3664142836b7a2f9410c4b0c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-20T03:30:01.000Z",
+      "fechaAgregada": "2026-04-22T09:21:20.145Z"
+    },
+    {
+      "id": "864225b4-82f9-44d5-b4a7-fc7a564b9da1",
+      "titulo": "La IA no ha roto la educación, la ha dejado en evidencia",
+      "resumen": "Cuando un estudiante puede producir un trabajo con instrucciones a ChatGPT, la pregunta no es si nuestras tareas miden el aprendizaje, es por qué fingimos durante tanto tiempo que lo hacían",
+      "url": "https://elpais.com/tecnologia/2026-04-16/la-ia-no-ha-roto-la-educacion-la-ha-dejado-en-evidencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2MTJB5YK2VGSBAWCWXWAZOVAGA.jpg?auth=402445094e12f04c459b1cf0d44a2e74b848f1baf72ef8aed982b9b64ac0ce4f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-16T03:30:00.000Z",
+      "fechaAgregada": "2026-04-22T09:21:20.145Z"
+    },
+    {
+      "id": "1e130827-497d-4447-ab80-139d31a4fb81",
+      "titulo": "Destacamento 201, la unidad del Ejército de EE UU dirigida por ejecutivos tecnológicos",
+      "resumen": "La Administración Trump nombra tenientes coroneles a cuatro directivos de Meta, OpenAI y Palantir, empresas con las que el Pentágono mantiene contratos, para acelerar la “innovación militar”",
+      "url": "https://elpais.com/tecnologia/2026-04-13/destacamento-201-la-unidad-del-ejercito-de-ee-uu-dirigida-por-ejecutivos-tecnologicos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/5J7J44HJ4BEG3K7XR7OJ2JKXZQ.jpeg?auth=3cbd7a6ccb529edea081eeb4430012e935931c67f6e0b53408a1c7847e74a6ac",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-13T03:30:01.000Z",
+      "fechaAgregada": "2026-04-22T09:21:20.145Z"
+    },
+    {
+      "id": "bbf38923-14f9-4581-8961-4d5e38b42854",
+      "titulo": "Anthropic oculta su nuevo modelo de IA, Mythos, por ser demasiado peligroso",
+      "resumen": "La compañía ha optado por ceder estrictamente su acceso a unas docenas de empresas escogidas para que lo usen para proteger su ‘software’",
+      "url": "https://elpais.com/tecnologia/2026-04-11/anthropic-oculta-su-nuevo-modelo-de-ia-mythos-por-ser-demasiado-peligroso.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/F6QL5JWMZFBS7PCJNXRM76MDVA.jpg?auth=03beeaffad2ccae8e6d5519d91ee1f4a6db2ebee734ab74aeb7745ea8a18fc13",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-11T03:30:01.000Z",
+      "fechaAgregada": "2026-04-22T09:21:20.145Z"
+    },
+    {
+      "id": "8b285ac2-3b15-4b99-8c7a-03e183b63be6",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-04-22T09:21:19.997Z"
+    },
+    {
+      "id": "2e34c71a-bedb-4b6a-9ee1-234448c991e2",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-04-22T09:21:19.998Z"
+    },
+    {
+      "id": "5bb99550-5105-474e-9852-404863d831f4",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-04-22T09:21:19.998Z"
+    }
+  ]
+}
