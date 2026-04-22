@@ -1,10 +1,11 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Header() {
   return (
     <header className="sticky top-0 z-50 bg-[#0A0A0A] border-b border-[#222222]">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-        <a href="/" className="flex items-center gap-2 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] rounded-lg">
+        <Link href="/" className="flex items-center gap-2 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] rounded-lg">
           <Image
             src="/logo.png"
             alt="DiarioIA logo"
@@ -15,7 +16,7 @@ export default function Header() {
           <span className="text-lg font-bold tracking-tight text-white">
             Diario<span className="text-[#00E5FF]">IA</span>
           </span>
-        </a>
+        </Link>
         <div className="flex items-center gap-2">
           <a
             href="https://t.me/diariodeia"

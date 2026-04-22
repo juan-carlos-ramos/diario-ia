@@ -10,6 +10,8 @@ interface Props {
   params: Promise<{ id: string }>;
 }
 
+import Link from "next/link";
+
 // Genera los metadatos SEO dinámicamente para cada noticia
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { id } = await params;
@@ -56,13 +58,13 @@ export default async function PaginaDetalle({ params }: Props) {
       <main className="max-w-3xl mx-auto px-4 py-10 pb-24 sm:pb-10">
 
         {/* Volver */}
-        <a
+        <Link
           href="/"
           className="inline-flex items-center gap-2 text-xs font-semibold tracking-[0.08em] uppercase text-[#444444] hover:text-[#00E5FF] transition-colors mb-8 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] rounded"
           aria-label="Volver a la página principal"
         >
           ← Volver
-        </a>
+        </Link>
 
         {/* Imagen */}
         {noticia.imagen && (

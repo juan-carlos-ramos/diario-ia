@@ -1,6 +1,7 @@
 "use client";
 import { Noticia } from "@/lib/noticias";
 import { formatearFecha } from "@/lib/utils";
+import Link from "next/link";
 
 interface Props {
   noticia: Noticia;
@@ -8,7 +9,7 @@ interface Props {
 
 export default function NoticiaCard({ noticia }: Props) {
   return (
-    <a
+    <Link
       href={`/noticia/${noticia.id}`}
       className="group flex flex-col bg-[#161616] rounded-[12px] overflow-hidden hover:bg-[#1A1A1A] transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] focus:ring-offset-2 focus:ring-offset-black"
       aria-label={`Leer noticia: ${noticia.titulo}`}
@@ -48,6 +49,6 @@ export default function NoticiaCard({ noticia }: Props) {
           {formatearFecha(noticia.fechaPublicacion)}
         </p>
       </div>
-    </a>
+    </Link>
   );
 }
