@@ -2,6 +2,13 @@
 
 Todos los cambios notables del proyecto se documentan en este archivo.
 
+## [2026-04-21]
+### Added
+- Implementación de **Vercel Analytics** para monitoreo de tráfico.
+- Rediseño de la página de lectura de noticias con tipografía editorial.
+- Sistema de recomendaciones de noticias relacionadas.
+- Soporte para imágenes en la distribución por Telegram.
+
 ## [0.8.0] — Rediseño Visual Completo
 
 ### Añadido
