@@ -1,0 +1,260 @@
+{
+  "fecha": "2026-04-23",
+  "generado": "2026-04-23T09:29:01.230Z",
+  "total": 23,
+  "noticias": [
+    {
+      "id": "16d1ee08-6bc5-4779-a661-c1a2082bc631",
+      "titulo": "EEUU acaba de liberar a ocho mujeres que Irán iba a ejecutar. El problema es que Irán dice que fueron generadas por IA",
+      "resumen": "En ocasiones, una imagen puede desencadenar consecuencias inesperadas en política internacional. Durante la guerra de Kosovo, a finales de los años noventa, una fotografía difundida sin contexto claro sobre supuestas víctimas civiles provocó reacciones inmediatas de gobiernos y organismos internacio",
+      "url": "https://www.xataka.com/magnet/eeuu-acaba-liberar-a-ocho-mujeres-que-iran-iba-a-ejecutar-problema-que-iran-dice-que-fueron-generadas-ia",
+      "imagen": "https://i.blogs.es/590012/ps---plantilla-portadas-xtk-648/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-23T09:01:52.000Z",
+      "fechaAgregada": "2026-04-23T09:28:56.733Z"
+    },
+    {
+      "id": "dd4026b7-8ac2-48ec-bb07-3a992c3da779",
+      "titulo": "Una oferta de trabajo en LinkedIn prometía teletrabajo y videojuegos: era una trampa triple diseñada por hackers norcoreanos",
+      "resumen": "Un desarrollador de blockchain español estuvo a punto de ser víctima de una de las operaciones de ciberespionaje más sofisticadas que circulan ahora mismo. El cebo que utilizaron era algo tan inocente como una oferta de empleo enviada a través de LinkedIn. Lo que parecía una oportunidad profesional",
+      "url": "https://www.xataka.com/seguridad/hackers-norcoreanos-usan-ofertas-empleo-falsas-linkedin-para-infectar-a-desarrolladores-espanoles",
+      "imagen": "https://i.blogs.es/d235f9/nguyen-dang-hoang-nhu-zmn381mream-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-23T08:01:51.000Z",
+      "fechaAgregada": "2026-04-23T09:28:56.734Z"
+    },
+    {
+      "id": "c9637a2c-94b6-40fd-a91c-dcf0d8e45b6f",
+      "titulo": "Creían que habían encontrado trabajo en grandes empresas. En realidad estaban siendo engañados: así funciona la trampa",
+      "resumen": "Buscar trabajo ya tiene bastante carga como para que además se tenga que sospechar de cada mensaje que llega a la bandeja de entrada. Y, sin embargo, eso es justo lo que plantea la campaña sobre la que ha alertado NordVPN: una trampa montada para parecer una oportunidad real. No hablamos de un corre",
+      "url": "https://www.xataka.com/seguridad/creian-que-habian-encontrado-trabajo-grandes-empresas-realidad-estaban-siendo-enganados-asi-funciona-trampa",
+      "imagen": "https://i.blogs.es/290a36/phishing-marcas-campana-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-23T07:31:51.000Z",
+      "fechaAgregada": "2026-04-23T09:28:56.734Z"
+    },
+    {
+      "id": "989b6b4a-b544-4527-bf1a-5ce99633a9da",
+      "titulo": "El nuevo ChatGPT Images 2.0 ¿supera a Nano Banana de Google para crear imágenes?",
+      "resumen": "En el mercado podemos encontrar un gran número de opciones a la hora de crear imágenes mediante Inteligencia Artificial. Sin embargo, las más populares son las de OpenAI, con ChatGPT Images y la de Google con Nano Banana.\nSi no tienes la necesidad de utilizar la Inteligencia Artificial para generar",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/nuevo-chatgpt-images-2-0-vs-nano-banana-google/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/04/chatgpt-images.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-23T05:58:44.000Z",
+      "fechaAgregada": "2026-04-23T09:29:00.355Z"
+    },
+    {
+      "id": "096695ad-f455-4aef-bfe4-9ba3b59d496b",
+      "titulo": "Ya es oficial: Alexa+ se estrena en España y lo podrás probar gratis",
+      "resumen": "Ya lo avisábamos hace apenas unos días, Alexa+ estaba cada vez más cerca de aterrizar en España, y por fin se ha hecho oficial. Desde Amazon confirman la nueva generación de Alexa que está impulsada por una Inteligencia Artificial generativa. Y una de las buenas noticias es que se podrá probar de pr",
+      "url": "https://www.adslzone.net/noticias/tecnologia/estreno-alexa-plus-espana/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/04/alexa-plus-espana.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-23T04:00:08.000Z",
+      "fechaAgregada": "2026-04-23T09:28:58.716Z"
+    },
+    {
+      "id": "4c6d3806-3498-4332-b5f5-5f0dda437efb",
+      "titulo": "El nuevo Alexa+ llega a España: no es gratis, pero cambia la experiencia por completo",
+      "resumen": "Después de un año de su anuncio, y de que estuviese disponible en Estados Unidos, Alexa+ por fin llega a España. El asistente inteligente de Amazon potenciado por IA llega justo a tiempo para competir contra Gemini for Home, y lo hace presumiendo de mayor inteligencia, con un lenguaje más conversaci",
+      "url": "https://hipertextual.com/tecnologia/el-nuevo-alexa-llega-a-espana-no-es-gratis-pero-cambia-la-experiencia-por-completo/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/amazon-alexa.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-23T04:00:00.000Z",
+      "fechaAgregada": "2026-04-23T09:28:56.967Z"
+    },
+    {
+      "id": "85c37354-1936-4a0c-b196-859ec1f7d9a6",
+      "titulo": "No solo la memoria: Intel y AMD subirán los precios de sus procesadores en 2026",
+      "resumen": "Si pensabas que la memoria era el único componente que experimentaría un aumento de precios, tenemos malas noticias. El mercado de procesadores atraviesa la escasez más pronunciada de los últimos años por culpa de la inteligencia artificial. AMD e Intel ya han movido ficha y, según los rumores más r",
+      "url": "https://hipertextual.com/hardware/amd-intel-precio-procesadores-ia-2026/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/10/intel-core-ultra-200s.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-22T23:35:57.000Z",
+      "fechaAgregada": "2026-04-23T09:28:56.967Z"
+    },
+    {
+      "id": "40b722e8-2936-4c77-9338-1c1bb4e9d04e",
+      "titulo": "Estrena a mitad de precio una tele de Samsung con 55 pulgadas y pantalla 4K QLED con la oferta de MediaMarkt",
+      "resumen": "No siempre se puede encontrar este tipo de rebajas, por ello, cuando salen es importante estar pendientes. En esta ocasión, es el turno para aquellos usuarios que están deseando cambiar su vieja TV por un modelo inteligente con mejor calidad de imagen y, sobre todo, de la marca Samsung.\nHoy es el dí",
+      "url": "https://www.adslzone.net/ofertas/mediamartk-smart-tv-samsung-tq55q7faauxxc-0426/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/04/televisor-qled-samsung-oferta.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-22T19:03:04.000Z",
+      "fechaAgregada": "2026-04-23T09:28:58.716Z"
+    },
+    {
+      "id": "1b66c98f-39c5-4e95-a446-5912941e96b7",
+      "titulo": "Lo de Claude Mythos es cosa seria: descubre más de 270 nuevas vulnerabilidades en Firefox",
+      "resumen": "Mozilla Firefox es considerado uno de los navegadores web de código abierto más probados y seguros del mundo, pero eso no significa que esté libre de vulnerabilidades. Por el contrario, la más reciente versión de la aplicación ha llegado con parches para 271 brechas de seguridad encontradas por Clau",
+      "url": "https://hipertextual.com/inteligencia-artificial/claude-mythos-271-vulnerabilidades-mozilla-firefox/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Firefox-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-22T15:30:05.000Z",
+      "fechaAgregada": "2026-04-23T09:28:56.967Z"
+    },
+    {
+      "id": "3a7db5ba-2dc3-4a62-a2f1-2a01d428518d",
+      "titulo": "El precio de los procesadores de Intel y AMD se dispara un 20%. Y hay más malas noticias&#8230;",
+      "resumen": "Durante los últimos meses, hemos visto cómo la mayoría de componentes ha comenzado a subir de precio. Las memorias RAM y los SSD son los más afectados, consiguiendo que, incluso consolas como la PS5, pese a tener años desde su lanzamiento, tengan que aumentar sus precios.\nLos procesadores, pese a re",
+      "url": "https://hardzone.es/noticias/procesadores/precio-procesadores-intel-amd-subida-malas-noticias/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2025/11/AMD-Ryzen-5-7500X3D.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-22T14:31:24.000Z",
+      "fechaAgregada": "2026-04-23T09:29:00.356Z"
+    },
+    {
+      "id": "93b980e3-3716-4c75-9b41-fd44146e2535",
+      "titulo": "Anthropic advierte: Mythos, su IA más peligrosa es experta en ciberseguridad y ha caído en manos equivocadas",
+      "resumen": "Anthropic acaba de comunicar que tiene un problema con su IA. Más concretamente, con su último invento, un modelo de lenguaje experto en ciberseguridad y vulnerabilidades. Su nombre es Claude Mythos, y la compañía, sabiendo que tenía entre manos algo demasiado grande para liberarlo, decidió limitar",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-advierte-mythos-su-ia-mas-peligrosa-es-experta-en-ciberseguridad-y-ha-caido-en-manos-equivocadas/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-mythos-1.jpg?fit=1024%2C715&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-22T13:13:21.000Z",
+      "fechaAgregada": "2026-04-23T09:28:56.967Z"
+    },
+    {
+      "id": "f473b110-ab27-4714-bbf8-5250c878b304",
+      "titulo": "OpenAI lanza ChatGPT Images 2.0 para competir con el Nano Banana 2 de Google",
+      "resumen": "ChatGPT Images 2.0 es el nuevo sistema de generación de imágenes de ChatGPT que acaba de publicar OpenAI. Pocos dudan que se trata de la respuesta al Nano Banana 2 de Google que ha sorprendido por sus prestaciones. A principios de 2025, OpenAI mejoró significativamente la capacidad de generación de",
+      "url": "https://www.muycomputer.com/2026/04/22/openai-lanza-chatgpt-images-2-0-para-competir-con-el-nano-banana-2-de-google/",
+      "imagen": "https://picsum.photos/seed/454/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-22T11:52:42.000Z",
+      "fechaAgregada": "2026-04-23T09:29:01.229Z"
+    },
+    {
+      "id": "64c991ce-9bd4-4d22-8ba7-632e573cd2cc",
+      "titulo": "Vigila tu vivienda con estas cámaras de seguridad en oferta",
+      "resumen": "Para vigilar tu vivienda o cualquier lugar, como puede ser tu negocio, contar con cámaras de seguridad es buena idea. Te ayudan a tener un mayor control, ver todo lo que ocurre y recibir alertas en caso de que haya algún evento extraño. En este artículo, vamos a hablarte de algunos dispositivos que",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-vigilancia-hogar-0426/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/camaras-seguridad-oferta.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-22T09:20:09.000Z",
+      "fechaAgregada": "2026-04-23T09:28:59.617Z"
+    },
+    {
+      "id": "f380a0b9-5d82-47a2-a44f-32f2d753d193",
+      "titulo": "NotebookLM mejora con la integración con Gemini",
+      "resumen": "La herramienta NotebookLM se ha convertido en una de las propuestas más interesantes de Google dentro del ya enorme ecosistema de herramientas de inteligencia artificial. A diferencia de otros asistentes que prometen hacerlo todo automáticamente, NotebookLM está pensado para trabajar sobre documento",
+      "url": "https://www.muycomputer.com/2026/04/22/notebooklm-mejora-con-la-integracion-con-gemini/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/04/NotebookLM-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-22T06:03:36.000Z",
+      "fechaAgregada": "2026-04-23T09:29:01.229Z"
+    },
+    {
+      "id": "e7f73029-b276-4e87-8dd0-883d4a01f639",
+      "titulo": "Zoom tiene una novedad interesante para evitar que hagas una videollamada con un bot",
+      "resumen": "Las estafas en Internet son cada vez más realistas debido al auge de la Inteligencia Artificial. Incluso puedes encontrarte con vídeos que han sido generados por IA, pero que parecen grabados de verdad. Algo así puede ocurrir también con las videollamadas, donde podrían suplantar la identidad de otr",
+      "url": "https://www.redeszone.net/noticias/seguridad/zoom-novedad-evitar-videollamada-bot/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/imagen-videollamada-zoom.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T09:23:19.000Z",
+      "fechaAgregada": "2026-04-23T09:28:59.617Z"
+    },
+    {
+      "id": "23180793-1159-4c58-bde1-aaba38a67bc7",
+      "titulo": "ChatGPT ya te dice qué tienes que beber en Starbucks, ¿te fías?",
+      "resumen": "La Inteligencia Artificial es algo que vemos cada vez más integrado en nuestro día a día. Existen muchas plataformas que nos permiten realizar consultas, llevar a cabo tareas y, en definitiva, ahorrar tiempo. En este artículo, nos hacemos eco de la apuesta de Starbucks, uno de las cadenas de cafeter",
+      "url": "https://www.redeszone.net/noticias/redes/chatgpt-starbucks-recomendacion-beber/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/logo-starbucks.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-21T07:08:36.000Z",
+      "fechaAgregada": "2026-04-23T09:28:59.617Z"
+    },
+    {
+      "id": "ef9e5d9d-6290-413d-bbb2-1395b8fccac9",
+      "titulo": "Lo nuevo en auriculares inalámbricos: funciones más allá de la reproducción de música",
+      "resumen": "La nueva generación incorpora inteligencia artificial y sensores para ir mucho más allá del audio, en una evolución que los acerca cada vez más al terreno de los ‘wearables’",
+      "url": "https://elpais.com/tecnologia/tu-tecnologia/2026-04-20/lo-nuevo-en-auriculares-inalambricos-funciones-mas-alla-de-la-reproduccion-de-musica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/O2X4V5YSXVA3LLV7QANBBZ7QOU.jpg?auth=6ddd729da639e426429aee2c2debcf00c2a5748b3664142836b7a2f9410c4b0c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-20T03:30:01.000Z",
+      "fechaAgregada": "2026-04-23T09:28:57.765Z"
+    },
+    {
+      "id": "ce30dee2-58cf-4263-aa99-7ed42e617c70",
+      "titulo": "La IA no ha roto la educación, la ha dejado en evidencia",
+      "resumen": "Cuando un estudiante puede producir un trabajo con instrucciones a ChatGPT, la pregunta no es si nuestras tareas miden el aprendizaje, es por qué fingimos durante tanto tiempo que lo hacían",
+      "url": "https://elpais.com/tecnologia/2026-04-16/la-ia-no-ha-roto-la-educacion-la-ha-dejado-en-evidencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2MTJB5YK2VGSBAWCWXWAZOVAGA.jpg?auth=402445094e12f04c459b1cf0d44a2e74b848f1baf72ef8aed982b9b64ac0ce4f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-16T03:30:00.000Z",
+      "fechaAgregada": "2026-04-23T09:28:57.765Z"
+    },
+    {
+      "id": "b68b38e1-2e56-4f68-b298-77cba20e4a22",
+      "titulo": "Destacamento 201, la unidad del Ejército de EE UU dirigida por ejecutivos tecnológicos",
+      "resumen": "La Administración Trump nombra tenientes coroneles a cuatro directivos de Meta, OpenAI y Palantir, empresas con las que el Pentágono mantiene contratos, para acelerar la “innovación militar”",
+      "url": "https://elpais.com/tecnologia/2026-04-13/destacamento-201-la-unidad-del-ejercito-de-ee-uu-dirigida-por-ejecutivos-tecnologicos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/5J7J44HJ4BEG3K7XR7OJ2JKXZQ.jpeg?auth=3cbd7a6ccb529edea081eeb4430012e935931c67f6e0b53408a1c7847e74a6ac",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-13T03:30:01.000Z",
+      "fechaAgregada": "2026-04-23T09:28:57.765Z"
+    },
+    {
+      "id": "cc7f8240-977c-4c34-b4ec-7e8fa4215ea8",
+      "titulo": "Anthropic oculta su nuevo modelo de IA, Mythos, por ser demasiado peligroso",
+      "resumen": "La compañía ha optado por ceder estrictamente su acceso a unas docenas de empresas escogidas para que lo usen para proteger su ‘software’",
+      "url": "https://elpais.com/tecnologia/2026-04-11/anthropic-oculta-su-nuevo-modelo-de-ia-mythos-por-ser-demasiado-peligroso.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/F6QL5JWMZFBS7PCJNXRM76MDVA.jpg?auth=03beeaffad2ccae8e6d5519d91ee1f4a6db2ebee734ab74aeb7745ea8a18fc13",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-11T03:30:01.000Z",
+      "fechaAgregada": "2026-04-23T09:28:57.765Z"
+    },
+    {
+      "id": "4228137c-4b3d-402f-8cfd-a446bf82ef70",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-04-23T09:28:57.678Z"
+    },
+    {
+      "id": "f99aed80-6d25-4fe4-b5b3-7ee31c2c378e",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-04-23T09:28:57.678Z"
+    },
+    {
+      "id": "9c6fe6f3-5288-4f19-9db0-2904e351a496",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-04-23T09:28:57.678Z"
+    }
+  ]
+}
