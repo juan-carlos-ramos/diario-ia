@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-04-26",
+  "generado": "2026-04-26T09:01:26.517Z",
+  "total": 8,
+  "noticias": [
+    {
+      "id": "11fbd589-7729-4f02-8d92-8e2e4299466f",
+      "titulo": "19 fórmulas esenciales de Excel para dominar la aplicación",
+      "resumen": "Vamos a decirte las 19 fórmulas esenciales de Excel, con una recopilación para que exprimas las hojas de cálculo de Microsoft Office. Excel. Esta herramienta es junto a Google Sheets una de las mejores alternativas para crear hojas de cálculo, y estos recursos son ideas iniciales para que veas lo qu",
+      "url": "https://www.xataka.com/basics/formulas-excel-esenciales",
+      "imagen": "https://i.blogs.es/ff2bf6/excel/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-25T10:01:52.000Z",
+      "fechaAgregada": "2026-04-26T09:01:21.470Z"
+    },
+    {
+      "id": "0c886ebb-9c0b-4f84-a75e-de2b7aa5dceb",
+      "titulo": "Así es cómo la IA puede pasar de ser tu amigo, a destrozar tu ordenador",
+      "resumen": "La Inteligencia Artificial puede ser muy útil para realizar tareas muy variadas y ahorrar tiempo, pero también puede suponer un riesgo. Existen muchos servicios que permiten realizar tareas informáticas, como aprender de programación, algo que supone un ahorro importante en tiempo. Un ejemplo es Ope",
+      "url": "https://www.redeszone.net/noticias/seguridad/inteligencia-artificial-riesgo-destrozar-ordenador/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/imagen-inteligencia-artificial.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-24T15:26:59.000Z",
+      "fechaAgregada": "2026-04-26T09:01:24.827Z"
+    },
+    {
+      "id": "a30df912-b047-4ff4-8192-b6762d01629e",
+      "titulo": "Alexa+: el asistente da el salto definitivo a la inteligencia artificial generativa",
+      "resumen": "Amazon ha dado un paso clave en la evolución de los asistentes virtuales con el lanzamiento de Alexa+, una nueva generación de su conocida plataforma que integra inteligencia artificial generativa para transformar por completo la forma en la que interactuamos con la tecnología. Lejos de limitarse a",
+      "url": "https://www.muycomputer.com/2026/04/23/alexa-asistente-inteligencia-artificial-generativa/",
+      "imagen": "https://picsum.photos/seed/289/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-23T14:11:40.000Z",
+      "fechaAgregada": "2026-04-26T09:01:26.517Z"
+    },
+    {
+      "id": "2940bace-60d2-430e-983f-71d319930ae4",
+      "titulo": "Lo nuevo en auriculares inalámbricos: funciones más allá de la reproducción de música",
+      "resumen": "La nueva generación incorpora inteligencia artificial y sensores para ir mucho más allá del audio, en una evolución que los acerca cada vez más al terreno de los ‘wearables’",
+      "url": "https://elpais.com/tecnologia/tu-tecnologia/2026-04-20/lo-nuevo-en-auriculares-inalambricos-funciones-mas-alla-de-la-reproduccion-de-musica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/O2X4V5YSXVA3LLV7QANBBZ7QOU.jpg?auth=6ddd729da639e426429aee2c2debcf00c2a5748b3664142836b7a2f9410c4b0c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-20T03:30:01.000Z",
+      "fechaAgregada": "2026-04-26T09:01:22.528Z"
+    },
+    {
+      "id": "91deddb1-1108-44f9-ac8a-c68c06e2cf88",
+      "titulo": "La IA no ha roto la educación, la ha dejado en evidencia",
+      "resumen": "Cuando un estudiante puede producir un trabajo con instrucciones a ChatGPT, la pregunta no es si nuestras tareas miden el aprendizaje, es por qué fingimos durante tanto tiempo que lo hacían",
+      "url": "https://elpais.com/tecnologia/2026-04-16/la-ia-no-ha-roto-la-educacion-la-ha-dejado-en-evidencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2MTJB5YK2VGSBAWCWXWAZOVAGA.jpg?auth=402445094e12f04c459b1cf0d44a2e74b848f1baf72ef8aed982b9b64ac0ce4f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-16T03:30:00.000Z",
+      "fechaAgregada": "2026-04-26T09:01:22.528Z"
+    },
+    {
+      "id": "6ecda791-85fb-4475-8c33-31b0674e7083",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-04-26T09:01:22.484Z"
+    },
+    {
+      "id": "a83e70c2-1cbd-4c6e-88fd-f8a193e3c8e3",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-04-26T09:01:22.484Z"
+    },
+    {
+      "id": "15d07701-657d-442c-9727-af23620598ad",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-04-26T09:01:22.484Z"
+    }
+  ]
+}
