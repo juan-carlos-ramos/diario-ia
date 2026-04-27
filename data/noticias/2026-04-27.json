@@ -1,0 +1,150 @@
+{
+  "fecha": "2026-04-27",
+  "generado": "2026-04-27T10:16:17.561Z",
+  "total": 13,
+  "noticias": [
+    {
+      "id": "bb6b518a-0554-48b9-b60c-e4a4d02d7cdd",
+      "titulo": "La UE no quiere que Gemini domine Android y presiona a Google para que otras IA puedan competir en igualdad",
+      "resumen": "La Unión Europea no quiere que Gemini, la IA de Google, se haga con el monopolio total en Android. Ha presionado al gigante de las búsquedas para que otros asistentes de Inteligencia Artificial rivales puedan tener un acceso similar en Android. Básicamente, que puedan competir en igualdad. Para ello",
+      "url": "https://www.redeszone.net/noticias/redes/union-europea-evitar-gemini-domine-android/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/gemini-android-competencia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-27T09:35:26.000Z",
+      "fechaAgregada": "2026-04-27T10:16:15.900Z"
+    },
+    {
+      "id": "d80535d7-679f-421f-8cd1-49dae39adc22",
+      "titulo": "Gemini rediseña por completo su interfaz: el nuevo aspecto de la IA es una maravilla",
+      "resumen": "Google no para de hacer cambios en Gemini mientras OpenAI y Claude continúan presentando nuevos modelos cada vez más potentes y capaces. Aunque la novedad en el modelo de la compañía de Mountain View no está relacionada con una nueva versión de su modelo de lenguaje, sino con un cambio estético que",
+      "url": "https://hipertextual.com/tecnologia/gemini-redisena-por-completo-su-interfaz-el-nuevo-aspecto-de-la-ia-es-una-maravilla/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/gemini-android.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-27T08:38:15.000Z",
+      "fechaAgregada": "2026-04-27T10:16:11.740Z"
+    },
+    {
+      "id": "9f443820-03ad-42bc-b9d6-eac22bdcb726",
+      "titulo": "Un medio vinculado a OpenAI publica artículos generados por IA… y ataca a sus críticos",
+      "resumen": "La inteligencia artificial ya forma parte del paisaje tecnológico actual, y empresas como OpenAI están en el centro de muchos debates sobre su impacto en la creación de contenidos y en la información digital. A medida que estas tecnologías se integran en cada vez más sectores, también crecen las dud",
+      "url": "https://www.muycomputer.com/2026/04/26/un-medio-vinculado-a-openai-publica-articulos-generados-por-ia-y-ataca-a-sus-criticos/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/04/OpenAI-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-26T18:27:51.000Z",
+      "fechaAgregada": "2026-04-27T10:16:17.560Z"
+    },
+    {
+      "id": "40295ab9-4f6f-47a9-969f-60e9c845736b",
+      "titulo": "Este invento usa la IA para poder comunicarte con tu perro o gato: “traduce” los ladridos con una eficacia del 95 %",
+      "resumen": "Son muchos los que creen que la IA puede lograr avances que los humanos llevamos tiempo intentando conseguir. Uno de ellos es poder entender a los animales, y sobre todo a nuestras mascotas. Pero, ¿y si te dijera que esto ya es posible? Hay un invento que utiliza la inteligencia artificial para “tra",
+      "url": "https://hipertextual.com/tecnologia/este-invento-usa-la-ia-para-poder-comunicarte-con-tu-perro-o-gato-traduce-los-ladridos-con-una-eficacia-del-95/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/pettitchat-01.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-26T18:00:00.000Z",
+      "fechaAgregada": "2026-04-27T10:16:11.740Z"
+    },
+    {
+      "id": "1f641b87-88e2-4e91-98cd-25ba3dd2054a",
+      "titulo": "NotebookLM se vuelve más inteligente organizando tus fuentes",
+      "resumen": "La inteligencia artificial ya ocupa un lugar esencial en el ecosistema de herramientas orientadas al trabajo con información compleja. En ese contexto, NotebookLM se ha convertido en una de las propuestas más interesantes de Google para estudiantes, investigadores y profesionales que necesitan anali",
+      "url": "https://www.muycomputer.com/2026/04/26/notebooklm-se-vuelve-mas-inteligente-organizando-tus-fuentes/",
+      "imagen": "https://s.w.org/images/core/emoji/16.0.1/72x72/2764.png",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-26T16:04:54.000Z",
+      "fechaAgregada": "2026-04-27T10:16:17.561Z"
+    },
+    {
+      "id": "6e313ac3-80c0-4086-8935-d5c1a09c3395",
+      "titulo": "Kimi Code: el rival de Claude Code que cuesta 10 veces menos y puede programar por ti",
+      "resumen": "Hace unas semanas que Kimi irrumpió en la escena de la IA de un modo que solo habíamos visto con DeepSeek. En cuestión de horas, el nuevo modelo de código abierto desarrollado en China subió como la espuma y puso a temblar a ChatGPT y Gemini. Curiosamente, esta no es la única propuesta de Moonshot [",
+      "url": "https://hipertextual.com/inteligencia-artificial/kimi-code-moonshot-ia-claude-code/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/kimi-code.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-26T14:00:00.000Z",
+      "fechaAgregada": "2026-04-27T10:16:11.740Z"
+    },
+    {
+      "id": "fe6ffff8-eba4-4071-b5a5-0ad8751aa5bc",
+      "titulo": "La compañía que abandonó a los jugadores en la crisis de los SSD busca redimirse. No lo va a tener fácil",
+      "resumen": "Si alguna vez has montado un PC, es muy probable que hayas comprado algún componente de la marca Crucial, propiedad de Micron. Las ‘pastillas’ de RAM o los SSD eran de calidad, pero Crucial dejó de existir en el momento en el que Micron decidió que el segmento de la inteligencia artificial era la pr",
+      "url": "https://www.xataka.com/componentes/compania-que-abandono-a-jugadores-crisis-ssd-busca-redimirse-no-va-a-tener-facil",
+      "imagen": "https://i.blogs.es/6a2f5a/gemini_generated_image_nkg0j7nkg0j7nkg0/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-26T13:31:52.000Z",
+      "fechaAgregada": "2026-04-27T10:16:11.213Z"
+    },
+    {
+      "id": "4c02d62c-aa50-4053-9c5a-b0e0fea94aa1",
+      "titulo": "Así es cómo la IA puede pasar de ser tu amigo, a destrozar tu ordenador",
+      "resumen": "La Inteligencia Artificial puede ser muy útil para realizar tareas muy variadas y ahorrar tiempo, pero también puede suponer un riesgo. Existen muchos servicios que permiten realizar tareas informáticas, como aprender de programación, algo que supone un ahorro importante en tiempo. Un ejemplo es Ope",
+      "url": "https://www.redeszone.net/noticias/seguridad/inteligencia-artificial-riesgo-destrozar-ordenador/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/imagen-inteligencia-artificial.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-24T15:26:59.000Z",
+      "fechaAgregada": "2026-04-27T10:16:15.901Z"
+    },
+    {
+      "id": "6c453b14-379d-4acd-baf1-416409f634fe",
+      "titulo": "Lo nuevo en auriculares inalámbricos: funciones más allá de la reproducción de música",
+      "resumen": "La nueva generación incorpora inteligencia artificial y sensores para ir mucho más allá del audio, en una evolución que los acerca cada vez más al terreno de los ‘wearables’",
+      "url": "https://elpais.com/tecnologia/tu-tecnologia/2026-04-20/lo-nuevo-en-auriculares-inalambricos-funciones-mas-alla-de-la-reproduccion-de-musica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/O2X4V5YSXVA3LLV7QANBBZ7QOU.jpg?auth=6ddd729da639e426429aee2c2debcf00c2a5748b3664142836b7a2f9410c4b0c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-20T03:30:01.000Z",
+      "fechaAgregada": "2026-04-27T10:16:12.914Z"
+    },
+    {
+      "id": "e31a8abd-44d1-4713-a5f1-f66d1aca08a6",
+      "titulo": "La IA no ha roto la educación, la ha dejado en evidencia",
+      "resumen": "Cuando un estudiante puede producir un trabajo con instrucciones a ChatGPT, la pregunta no es si nuestras tareas miden el aprendizaje, es por qué fingimos durante tanto tiempo que lo hacían",
+      "url": "https://elpais.com/tecnologia/2026-04-16/la-ia-no-ha-roto-la-educacion-la-ha-dejado-en-evidencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2MTJB5YK2VGSBAWCWXWAZOVAGA.jpg?auth=402445094e12f04c459b1cf0d44a2e74b848f1baf72ef8aed982b9b64ac0ce4f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-16T03:30:00.000Z",
+      "fechaAgregada": "2026-04-27T10:16:12.914Z"
+    },
+    {
+      "id": "89d02d9d-07b2-4ab8-a1e5-d0ff4b908a5e",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-04-27T10:16:12.787Z"
+    },
+    {
+      "id": "8ceb3e7d-2ab2-45a6-9d76-caf3e0160af8",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-04-27T10:16:12.787Z"
+    },
+    {
+      "id": "e0f0ead2-3700-48ac-ab25-7d8c555788de",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-04-27T10:16:12.787Z"
+    }
+  ]
+}
