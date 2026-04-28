@@ -1,0 +1,249 @@
+{
+  "fecha": "2026-04-28",
+  "generado": "2026-04-28T10:14:02.643Z",
+  "total": 22,
+  "noticias": [
+    {
+      "id": "a8f39949-7cd9-4089-813f-8efc933f2028",
+      "titulo": "Batacazo de OpenAI: menos usuarios, sigue perdiendo dinero y provoca miedo en el sector",
+      "resumen": "OpenAI vuelve a estar en el centro del debate financiero después de que The Wall Street Journal haya informado de que la compañía no habría alcanzado varios objetivos internos de usuarios e ingresos. Esto no implica automáticamente que ChatGPT esté en caída libre, sino que crece menos de lo previsto",
+      "url": "https://www.adslzone.net/noticias/fintech/opeai-resultados-internos-04-2026/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/04/batacazo-openai.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T10:07:01.000Z",
+      "fechaAgregada": "2026-04-28T10:13:58.984Z"
+    },
+    {
+      "id": "cfc10620-9150-4338-9ed9-c3c644aa3ec4",
+      "titulo": "Los mejores trucos para mejorar tus prompts en Claude, dos tipos de estructura explicados por el propio equipo de Claude",
+      "resumen": "Vamos a decirte dos estructuras para crear mejores prompts en Claude, explicadas por el propio equipo de Anthropic, creadores de esta inteligencia artificial. Son estructuras muy precisas para esta IA en concreto, aunque también funcionarán bien en otras alternativas como ChatGPT , Gemini o Copilot",
+      "url": "https://www.xataka.com/basics/mejores-trucos-para-mejorar-tus-prompts-claude-dos-tipos-estructura-explicados-propio-equipo-claude",
+      "imagen": "https://i.blogs.es/f441aa/claude/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T09:56:10.000Z",
+      "fechaAgregada": "2026-04-28T10:13:54.440Z"
+    },
+    {
+      "id": "dadca9d1-bf5f-40e9-b0b7-778c8d81ecee",
+      "titulo": "El hombre más rico del mundo demanda al CEO más famoso de la IA: el juicio Musk-Altman, la telenovela del año en Silicon Valley",
+      "resumen": "Que Elon Musk y Sam Altman se odian no es ninguna novedad. La novedad es que su rivalidad está a punto de llegar a los tribunales. Ayer tuvo lugar la selección del jurado que decidirá si, como dice Musk, OpenAI violó su acuerdo fundacional de ser una organización sin ánimo de lucro. Se juzga mucho m",
+      "url": "https://www.xataka.com/robotica-e-ia/hombre-rico-mundo-demanda-al-ceo-famoso-ia-juicio-musk-altman-telenovela-ano-silicon-valley",
+      "imagen": "https://i.blogs.es/f170d8/musk-altman/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T09:31:52.000Z",
+      "fechaAgregada": "2026-04-28T10:13:54.440Z"
+    },
+    {
+      "id": "919f43d4-319a-4d0e-8d37-6247144c1e40",
+      "titulo": "Los mejores chollos tech en Amazon por menos de 50 euros hoy, 28 de abril",
+      "resumen": "Se acaba abril y si estás buscando renovar o comprar nuevos dispositivos tecnológicos para tu hogar, Amazon es de esas tiendas en las que puedes conseguir muy buenas ofertas. Estos son los mejores chollos en tecnología por menos de 50 euros que hemos encontrado hoy, 28 de abril, en esta tienda.\n\r\nSi",
+      "url": "https://www.xataka.com/seleccion/mejores-chollos-tech-amazon-50-euros-hoy-28-abril",
+      "imagen": "https://i.blogs.es/664c08/ofertas-amazon-28-abril/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T08:45:53.000Z",
+      "fechaAgregada": "2026-04-28T10:13:54.440Z"
+    },
+    {
+      "id": "dcc043e6-71c2-4000-a56e-b673fb3d2f74",
+      "titulo": "Que tiemble ChatGPT: Gemini está preparando un cambio para llevarse todo el protagonismo",
+      "resumen": "Casi todo el mundo coincide aquí: una de las cosas más espectaculares de la IA actual es poder hablar con los modos conversacionales. Estos abren la puerta a una forma de interacción con el chatbot muchísimo más natural, divertida y fluida, permitiendo mantener una conversación como si estuvieses ha",
+      "url": "https://hipertextual.com/inteligencia-artificial/que-tiemble-chatgpt-gemini-esta-preparando-un-cambio-para-llevarse-todo-el-protagonismo/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/gemini-phone.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T08:42:16.000Z",
+      "fechaAgregada": "2026-04-28T10:13:55.202Z"
+    },
+    {
+      "id": "61b6eed7-b441-4b19-ad4b-2df29b6c5aa2",
+      "titulo": "¿Debería ser OpenAI una entidad sin ánimo de lucro? Comienza el juicio que enfrenta a Elon Musk y Sam Altman",
+      "resumen": "El dueño de X y Tesla afirma que, cuando invirtió en los inicios de la empresa de inteligencia artificial, su objetivo no era enriquecer a sus creadores. Pide 150.000 millones de dólares por daños",
+      "url": "https://elpais.com/tecnologia/2026-04-28/deberia-ser-openai-una-entidad-sin-animo-de-lucro-comienza-el-juicio-que-enfrenta-a-elon-musk-y-sam-altman.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LO7JYA5T75GAZMEPRORMQ6MXOI.jpg?auth=08262f12a6269c7ed4b76d1673a4cd509d6c77d1f17dc156eacaa6f663cf1ae0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T07:43:54.000Z",
+      "fechaAgregada": "2026-04-28T10:13:57.079Z"
+    },
+    {
+      "id": "354052f1-8afa-4430-8a55-33333f7b21db",
+      "titulo": "Hay gente que sigue sin fiarse del código que genera la IA: Google dice que el 75% de su nuevo código ya nace de las máquinas",
+      "resumen": "¿Y si buena parte del software que usamos cada día ya estuviera empezando a escribirse de otra manera? La IA lleva tiempo entrando en la programación por la puerta de los asistentes, las sugerencias de código y las pequeñas automatizaciones, pero lo que empieza a verse ahora va bastante más allá. La",
+      "url": "https://www.xataka.com/robotica-e-ia/hay-gente-que-sigue-fiarse-codigo-que-genera-ia-google-dice-que-75-su-nuevo-codigo-nace-maquinas",
+      "imagen": "https://i.blogs.es/1ae145/google-fabrica-de-codigo/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T06:31:52.000Z",
+      "fechaAgregada": "2026-04-28T10:13:54.441Z"
+    },
+    {
+      "id": "e61649e8-f5a7-45f3-acbd-1c639cd8a855",
+      "titulo": "Las empresas de EEUU siguen empeñadas en modelos IA más y más grandes. Las de China siguen demostrando que no hace falta",
+      "resumen": "Alibaba tenía hasta ahora un modelo abierto estupendo para programar. Se traba de Qwen3.5-397B-A17B, pero el problema es que era gigantesco con sus 397.000 millones de parámetros y sus 807 GB de tamaño en disco (y memoria). La empresa china ha hecho algo sorprendente y ha anunciado estos días el mod",
+      "url": "https://www.xataka.com/robotica-e-ia/empresas-eeuu-siguen-empenadas-modelos-ia-grandes-china-siguen-demostrando-que-se-puede-hacer",
+      "imagen": "https://i.blogs.es/3680e5/china-eeu/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T06:01:53.000Z",
+      "fechaAgregada": "2026-04-28T10:13:54.441Z"
+    },
+    {
+      "id": "5d827f60-375a-4851-863d-a500e032846f",
+      "titulo": "Ubuntu tendrá IA integrada en 2026 y así afectará a tu día a día",
+      "resumen": "Ubuntu se alista para integrar inteligencia artificial de una manera que pocas distribuciones Linux han planteado hasta ahora. Canonical, la empresa detrás del sistema operativo, ha revelado un plan detallado en el que contempla añadir herramientas y funciones autónomas a lo largo del 2026. La estra",
+      "url": "https://hipertextual.com/software/canonical-plan-ia-ubuntu-2026/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/ubuntu-ia.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-27T23:41:42.000Z",
+      "fechaAgregada": "2026-04-28T10:13:55.202Z"
+    },
+    {
+      "id": "b7e26501-f760-4162-989e-464cec908ae2",
+      "titulo": "La nueva función de Gemini revisa tu móvil y actúa antes de que lo necesites",
+      "resumen": "Gemini lleva varios meses evolucionando y Google tiene claro hacia dónde quiere llevarlo. La evidencia más reciente apunta a que la IA se anticipará a lo que necesitas antes de que se lo pidas. Una actualización a futuro podría convertirlo en un verdadero asistente que sugiere y ejecuta funciones ba",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-asistente-proactivo-sugerencias-automaticas/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/gemini-07.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-27T20:50:00.000Z",
+      "fechaAgregada": "2026-04-28T10:13:55.202Z"
+    },
+    {
+      "id": "154678f5-c886-4de9-be69-d905aa9602b7",
+      "titulo": "Las máquinas ya nos ganaban al ajedrez y al go. Ahora están a punto de ganarnos en algo mucho más difícil: el ping pong",
+      "resumen": "Los seres humanos tenemos una relación curiosa con las máquinas: las creamos para que nos ayuden, pero también para que nos desafíen. Llevamos décadas haciéndolo, desde los grandes sistemas industriales hasta los sistemas de inteligencia artificial y los robots que hoy empiezan a moverse en entornos",
+      "url": "https://www.xataka.com/robotica-e-ia/maquinas-nos-ganaban-al-ajedrez-al-go-ahora-estan-a-punto-ganarnos-algo-mucho-dificil-ping-pong",
+      "imagen": "https://i.blogs.es/a10851/sonyai_ace_tournament_dsc04581/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-27T20:31:52.000Z",
+      "fechaAgregada": "2026-04-28T10:13:54.441Z"
+    },
+    {
+      "id": "20eb6a93-6da9-428c-a344-1509d4e2dd85",
+      "titulo": "Europa le pone límites a Google: Android tendrá que abrir sus puertas a ChatGPT y otras IA",
+      "resumen": "La popularidad de Gemini y su integración en Android no ha pasado desapercibida para los reguladores. Esta semana, Bruselas ha advertido a Google que debe abrir su sistema operativo para que los servicios de IA rivales tengan mayor acceso al móvil. Europa busca evitar que el gigante tecnológico acap",
+      "url": "https://hipertextual.com/legal/ue-exige-google-abrir-android-servicios-ia-rivales/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/google-ue.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-27T19:45:00.000Z",
+      "fechaAgregada": "2026-04-28T10:13:55.202Z"
+    },
+    {
+      "id": "00df374e-70db-4548-bcd3-35b1e52febd7",
+      "titulo": "Estamos llegando al siguiente nivel del phishing: escrito por carta, impreso y con nuestros datos personales al descubierto",
+      "resumen": "Durante años hemos aprendido a mirar con desconfianza el correo electrónico que promete un reembolso inesperado, el SMS que nos pide actualizar una cuenta o el mensaje de WhatsApp que llega con demasiada urgencia. El phishing se nos ha quedado grabado como algo digital, pegado a una pantalla, a un e",
+      "url": "https://www.xataka.com/seguridad/estamos-llegando-al-siguiente-nivel-phishing-escrito-carta-impreso-nuestros-datos-personales-al-descubierto",
+      "imagen": "https://i.blogs.es/a2a54e/phishing-fisico-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-27T19:01:52.000Z",
+      "fechaAgregada": "2026-04-28T10:13:54.442Z"
+    },
+    {
+      "id": "3e9d3a75-639b-4caa-a3a8-65d7a22ef148",
+      "titulo": "Microsoft firma la paz con OpenAI, pero pierde la exclusividad sobre su IA",
+      "resumen": "OpenAI y Microsoft acaban de hacer oficial una nueva modificación de los términos de la alianza que los une. Las empresas, que forjaron una relación que en un momento aparentó ser perfecta, habían tensado su relación en el último tiempo, en medio de disgustos cruzados y una creciente desconfianza. S",
+      "url": "https://hipertextual.com/inteligencia-artificial/nuevo-acuerdo-openai-microsoft/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/05/Sam-Altman-de-OpenAI-y-Satya-Nadella-de-Microsoft-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-27T14:53:45.000Z",
+      "fechaAgregada": "2026-04-28T10:13:55.202Z"
+    },
+    {
+      "id": "1c62de31-3e55-42eb-9e1c-791022db3bca",
+      "titulo": "La UE no quiere que Gemini domine Android y presiona a Google para que otras IA puedan competir en igualdad",
+      "resumen": "La Unión Europea no quiere que Gemini, la IA de Google, se haga con el monopolio total en Android. Ha presionado al gigante de las búsquedas para que otros asistentes de Inteligencia Artificial rivales puedan tener un acceso similar en Android. Básicamente, que puedan competir en igualdad. Para ello",
+      "url": "https://www.redeszone.net/noticias/redes/union-europea-evitar-gemini-domine-android/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/gemini-android-competencia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-27T09:35:26.000Z",
+      "fechaAgregada": "2026-04-28T10:14:00.296Z"
+    },
+    {
+      "id": "6b13a212-f570-49b8-b4d0-54d647458d98",
+      "titulo": "Un medio vinculado a OpenAI publica artículos generados por IA… y ataca a sus críticos",
+      "resumen": "La inteligencia artificial ya forma parte del paisaje tecnológico actual, y empresas como OpenAI están en el centro de muchos debates sobre su impacto en la creación de contenidos y en la información digital. A medida que estas tecnologías se integran en cada vez más sectores, también crecen las dud",
+      "url": "https://www.muycomputer.com/2026/04/26/un-medio-vinculado-a-openai-publica-articulos-generados-por-ia-y-ataca-a-sus-criticos/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/04/OpenAI-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-26T18:27:51.000Z",
+      "fechaAgregada": "2026-04-28T10:14:02.643Z"
+    },
+    {
+      "id": "b53b03fa-3be3-45a1-be95-a791d4c37404",
+      "titulo": "NotebookLM se vuelve más inteligente organizando tus fuentes",
+      "resumen": "La inteligencia artificial ya ocupa un lugar esencial en el ecosistema de herramientas orientadas al trabajo con información compleja. En ese contexto, NotebookLM se ha convertido en una de las propuestas más interesantes de Google para estudiantes, investigadores y profesionales que necesitan anali",
+      "url": "https://www.muycomputer.com/2026/04/26/notebooklm-se-vuelve-mas-inteligente-organizando-tus-fuentes/",
+      "imagen": "https://s.w.org/images/core/emoji/16.0.1/72x72/2764.png",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-26T16:04:54.000Z",
+      "fechaAgregada": "2026-04-28T10:14:02.643Z"
+    },
+    {
+      "id": "b2fdcb03-acc0-4175-83e0-604b0282bba3",
+      "titulo": "Lo nuevo en auriculares inalámbricos: funciones más allá de la reproducción de música",
+      "resumen": "La nueva generación incorpora inteligencia artificial y sensores para ir mucho más allá del audio, en una evolución que los acerca cada vez más al terreno de los ‘wearables’",
+      "url": "https://elpais.com/tecnologia/tu-tecnologia/2026-04-20/lo-nuevo-en-auriculares-inalambricos-funciones-mas-alla-de-la-reproduccion-de-musica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/O2X4V5YSXVA3LLV7QANBBZ7QOU.jpg?auth=6ddd729da639e426429aee2c2debcf00c2a5748b3664142836b7a2f9410c4b0c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-20T03:30:01.000Z",
+      "fechaAgregada": "2026-04-28T10:13:57.079Z"
+    },
+    {
+      "id": "c05563d3-d655-4642-8183-78fb27e36e86",
+      "titulo": "La IA no ha roto la educación, la ha dejado en evidencia",
+      "resumen": "Cuando un estudiante puede producir un trabajo con instrucciones a ChatGPT, la pregunta no es si nuestras tareas miden el aprendizaje, es por qué fingimos durante tanto tiempo que lo hacían",
+      "url": "https://elpais.com/tecnologia/2026-04-16/la-ia-no-ha-roto-la-educacion-la-ha-dejado-en-evidencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2MTJB5YK2VGSBAWCWXWAZOVAGA.jpg?auth=402445094e12f04c459b1cf0d44a2e74b848f1baf72ef8aed982b9b64ac0ce4f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-16T03:30:00.000Z",
+      "fechaAgregada": "2026-04-28T10:13:57.079Z"
+    },
+    {
+      "id": "581ed6ca-1222-4f2f-9635-e696a4d7ad72",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-04-28T10:13:56.235Z"
+    },
+    {
+      "id": "57bb2b84-2713-4d5e-9ff8-124b0ae52963",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-04-28T10:13:56.236Z"
+    },
+    {
+      "id": "81fb685e-0771-4718-9e10-6213cb829481",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-04-28T10:13:56.236Z"
+    }
+  ]
+}
