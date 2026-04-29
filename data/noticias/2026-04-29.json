@@ -1,0 +1,183 @@
+{
+  "fecha": "2026-04-29",
+  "generado": "2026-04-29T10:06:45.952Z",
+  "total": 16,
+  "noticias": [
+    {
+      "id": "f4b843d5-fc3c-4de3-b259-fe899994b7c6",
+      "titulo": "Google añade memoria a Gemini y más opciones de personalización: así va a cambiar la IA",
+      "resumen": "La Inteligencia Artificial de Google continúa mejorando e incorporando nuevas funciones, con el objetivo de mejorar la experiencia que ofrece a sus usuarios. A partir de ahora, Gemini será capaz de aprender de todas tus conversaciones anteriores para ofrecerte respuestas mucho más contextualizadas y",
+      "url": "https://www.adslzone.net/noticias/ia/google-anade-funciones-memoria-gemini/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/04/gemini-nuevas-funciones-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-29T10:04:00.000Z",
+      "fechaAgregada": "2026-04-29T10:06:42.899Z"
+    },
+    {
+      "id": "6f1ebea8-5a1a-4389-9cb2-b4a1c5b36a45",
+      "titulo": "Anthropic se queda sola en su lucha contra el Pentágono: Google les ha dado permiso para usar su IA en operaciones clasificadas",
+      "resumen": "Google ha dado permiso al Pentágono que les permite usar sus modelos de IA en operaciones militares clasificadas, sumándose así a OpenAI y xAI que ya habían firmado contratos similares previamente. Las grandes de la IA se están plegando al aparato militar estadounidense. Anthropic se queda sola.\nQué",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-se-queda-sola-su-lucha-pentagono-google-les-ha-dado-permiso-para-usar-su-ia-operaciones-clasificadas",
+      "imagen": "https://i.blogs.es/a5784e/google-pentagono/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-29T07:25:54.000Z",
+      "fechaAgregada": "2026-04-29T10:06:40.049Z"
+    },
+    {
+      "id": "8517915d-fddf-4258-829b-0d02885f0903",
+      "titulo": "Cambio histórico en Gemini: recibe una función estrella de ChatGPT y otra novedad para no cambiarte nunca de IA",
+      "resumen": "No hay día en el que Google no haga cambios en Gemini. A menudo son pequeñas actualizaciones o modificaciones en el diseño que tienen como objetivo hacer que la app sea más intuitiva. En otros casos, la compañía incluye grandes mejoras y nuevas prestaciones para mejorar la experiencia de usuario. Es",
+      "url": "https://hipertextual.com/tecnologia/cambio-historico-en-gemini-recibe-una-funcion-estrella-de-chatgpt-y-otra-novedad-para-no-cambiarte-nunca-de-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/06/gemini.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-29T07:00:00.000Z",
+      "fechaAgregada": "2026-04-29T10:06:40.201Z"
+    },
+    {
+      "id": "2b163935-7306-4a6e-9cd3-66e4c163809c",
+      "titulo": "Elon Musk, testigo y protagonista de la primera jornada del juicio contra OpenAI: “Podría matarnos a todos. No queremos un ‘Terminator”",
+      "resumen": "En grandilocuentes términos, el fundador de Tesla y SpaceX ha relatado sus inicios en la empresa de inteligencia artificial, los miedos sobre su futuro y cómo se opone a que sea una empresa con ánimo de lucro",
+      "url": "https://elpais.com/tecnologia/2026-04-28/elon-musk-testigo-y-protagonista-de-la-primera-jornada-del-juicio-contra-openai-podria-matarnos-a-todos-no-queremos-un-terminator.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DB3BO62FUZJQ7AUXIPQJT4KZ2M.jpg?auth=c0076455258149ccb6b5462d4555d762f8a45912c214f9032bb6f8700869ce69",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T22:40:04.000Z",
+      "fechaAgregada": "2026-04-29T10:06:41.063Z"
+    },
+    {
+      "id": "7477be9a-ce5e-4b8c-a26c-c03d336a2a8e",
+      "titulo": "iOS 27 hará mucho más fácil editar tus fotos con IA: llegan cambios muy esperados a la app Fotos",
+      "resumen": "La actualización a iOS 27 traerá unas cuantas novedades relacionadas con la IA generativa, y no se limitan a la nueva Siri impulsada por Gemini. Según un nuevo reporte de Mark Gurman para Bloomberg, Apple planea incorporar funciones de edición de imágenes con inteligencia artificial en la app Fotos.",
+      "url": "https://hipertextual.com/apple/ios-27-herramientas-edicion-con-ia-app-fotos-iphone/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/07/ios-18.jpg?fit=1024%2C657&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T19:50:34.000Z",
+      "fechaAgregada": "2026-04-29T10:06:40.201Z"
+    },
+    {
+      "id": "b7a948b1-b6b6-4783-a54c-8ea6510a2174",
+      "titulo": "Claude está caído: el chatbot no funciona y Anthropic dice que está investigando un problema [Actualizado]",
+      "resumen": "Martes 28 de abril de 2026, 21:10: Claude.ai y el resto de los servicios de Anthropic vuelven a funcionar. A continuación, el artículo original:\nPuede que esta tarde no sea el mejor momento para dejar cualquier tarea en manos de la IA de Anthropic. La mayoría de los servicios de la compañía liderada",
+      "url": "https://www.xataka.com/robotica-e-ia/claude-esta-caido-chatbot-no-funciona-anthropic-dice-que-esta-investigando-problema",
+      "imagen": "https://i.blogs.es/f4dac8/claude-caido-fallos-1/1024_2000.png",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T18:32:00.000Z",
+      "fechaAgregada": "2026-04-29T10:06:40.051Z"
+    },
+    {
+      "id": "31adf280-a2bd-49d4-8975-bc263992dc36",
+      "titulo": "NVIDIA impulsa DLSS en nuevos juegos y presenta la RTX 5070 Laptop con 12 GB",
+      "resumen": "NVIDIA continúa ampliando el alcance de su ecosistema RTX con nuevas integraciones de DLSS en varios juegos y la llegada de nuevas soluciones de hardware para portátiles. La compañía ha anunciado una nueva ronda de títulos compatibles con sus tecnologías de renderizado basadas en inteligencia artifi",
+      "url": "https://www.muycomputer.com/2026/04/28/nvidia-impulsa-dlss-en-nuevos-juegos-y-presenta-la-rtx-5070-laptop-con-12-gb/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/04/NVIDIA-2-3.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T17:38:48.000Z",
+      "fechaAgregada": "2026-04-29T10:06:45.951Z"
+    },
+    {
+      "id": "9b1edf6b-6c83-4915-bffd-629ce011e2b3",
+      "titulo": "Banana Pi BPI-SM10: la alternativa a Raspberry Pi ahora se enfoca en la IA con 60 TOPS",
+      "resumen": "Si bien es cierto que la Raspberry Pi es uno de los microordenadores de placa única más utilizados en todo el mundo para cualquier tipo de proyecto, no es el único fabricante de este tipo de dispositivos. Banana Pi, es una de las alternativas más conocidas, aunque con un enfoque hacia pequeños dispo",
+      "url": "https://hardzone.es/noticias/equipos/banana-pi-bpi-sm10-alternativa-raspberry-pi-para-ia/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/04/banana-pi-bpi-sm10-1.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T14:30:05.000Z",
+      "fechaAgregada": "2026-04-29T10:06:45.182Z"
+    },
+    {
+      "id": "aec1c9a3-6c53-4a04-a947-dd09b5dbf76e",
+      "titulo": "Microsoft y OpenAI: divorcio confirmado",
+      "resumen": "OpenAI y Microsoft han puesto punto y final a su acuerdo de exclusividad, como han reconocido en un comunicado que deja abierta la puerta a que OpenAI pueda recurrir a otros proveedores de servicios cloud, como AWS y Google Cloud, para alojar los servicios de IA de la compañía y prestar servicio a s",
+      "url": "https://www.muycomputer.com/2026/04/28/microsoft-y-openai-divorcio-confirmado/",
+      "imagen": "https://picsum.photos/seed/86/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T13:43:09.000Z",
+      "fechaAgregada": "2026-04-29T10:06:45.952Z"
+    },
+    {
+      "id": "5ca53e93-c6a4-4c59-9eb9-8230c0ba4518",
+      "titulo": "Freepik ahora es Magnific y se convierte en la herramienta definitiva para crear con IA",
+      "resumen": "Freepik acaba de dar un nuevo paso en su evolución como compañía y plataforma. La empresa nacida en Málaga acaba de relanzarse como Magnific, transformándose en la suite definitiva de herramientas creativas impulsadas por inteligencia artificial. Un cambio con el que aspira a mucho más que a un mero",
+      "url": "https://hipertextual.com/inteligencia-artificial/freepik-relanzamiento-magnific/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/magnific-4-scaled.jpeg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T12:05:00.000Z",
+      "fechaAgregada": "2026-04-29T10:06:40.201Z"
+    },
+    {
+      "id": "b4c25eb4-09ba-4ced-ae2e-31c1cf7c912d",
+      "titulo": "¿Debería ser OpenAI una entidad sin ánimo de lucro? Comienza el juicio que enfrenta a Elon Musk y Sam Altman",
+      "resumen": "El dueño de X y Tesla afirma que, cuando invirtió en los inicios de la empresa de inteligencia artificial, su objetivo no era enriquecer a sus creadores. Pide 150.000 millones de dólares por daños",
+      "url": "https://elpais.com/tecnologia/2026-04-28/deberia-ser-openai-una-entidad-sin-animo-de-lucro-comienza-el-juicio-que-enfrenta-a-elon-musk-y-sam-altman.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LO7JYA5T75GAZMEPRORMQ6MXOI.jpg?auth=08262f12a6269c7ed4b76d1673a4cd509d6c77d1f17dc156eacaa6f663cf1ae0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T07:43:54.000Z",
+      "fechaAgregada": "2026-04-29T10:06:41.063Z"
+    },
+    {
+      "id": "3794531a-0d3a-4192-bd6a-85a675cbb7f0",
+      "titulo": "La UE no quiere que Gemini domine Android y presiona a Google para que otras IA puedan competir en igualdad",
+      "resumen": "La Unión Europea no quiere que Gemini, la IA de Google, se haga con el monopolio total en Android. Ha presionado al gigante de las búsquedas para que otros asistentes de Inteligencia Artificial rivales puedan tener un acceso similar en Android. Básicamente, que puedan competir en igualdad. Para ello",
+      "url": "https://www.redeszone.net/noticias/redes/union-europea-evitar-gemini-domine-android/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/gemini-android-competencia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-27T09:35:26.000Z",
+      "fechaAgregada": "2026-04-29T10:06:44.271Z"
+    },
+    {
+      "id": "e3a7ec97-daef-400f-8418-49e36f5eb280",
+      "titulo": "Lo nuevo en auriculares inalámbricos: funciones más allá de la reproducción de música",
+      "resumen": "La nueva generación incorpora inteligencia artificial y sensores para ir mucho más allá del audio, en una evolución que los acerca cada vez más al terreno de los ‘wearables’",
+      "url": "https://elpais.com/tecnologia/tu-tecnologia/2026-04-20/lo-nuevo-en-auriculares-inalambricos-funciones-mas-alla-de-la-reproduccion-de-musica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/O2X4V5YSXVA3LLV7QANBBZ7QOU.jpg?auth=6ddd729da639e426429aee2c2debcf00c2a5748b3664142836b7a2f9410c4b0c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-20T03:30:01.000Z",
+      "fechaAgregada": "2026-04-29T10:06:41.063Z"
+    },
+    {
+      "id": "5d3ec7ce-657a-4d45-87bd-5b73dbff1fcb",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-04-29T10:06:40.944Z"
+    },
+    {
+      "id": "67263c07-e0a2-4611-a0ec-cc9ae2e670f3",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-04-29T10:06:40.944Z"
+    },
+    {
+      "id": "130e54af-d90d-449c-a6a2-de6bdc23319e",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-04-29T10:06:40.944Z"
+    }
+  ]
+}
