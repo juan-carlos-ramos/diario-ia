@@ -1,0 +1,183 @@
+{
+  "fecha": "2026-04-30",
+  "generado": "2026-04-30T10:10:09.091Z",
+  "total": 16,
+  "noticias": [
+    {
+      "id": "ba7ed274-0ed0-4dfa-87c0-4dd34e90c577",
+      "titulo": "Detectan una vulnerabilidad crítica en Linux que afecta a las principales distribuciones de la última década",
+      "resumen": "Una vulnerabilidad de día cero pone en riesgo a algunas de las principales distribuciones de Linux desde 2017. Se trata de un problema que afecta al kernel, denominado “Error de copia”. Ha sido divulgado públicamente y registrado como CVE-2026-31431. Esta vulnerabilidad ha sido descubierta por parte",
+      "url": "https://www.redeszone.net/noticias/seguridad/vulnerabilidad-critica-linux-distribuciones-afectadas/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/seguridad-linux.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T09:20:16.000Z",
+      "fechaAgregada": "2026-04-30T10:10:02.764Z"
+    },
+    {
+      "id": "0ee891c5-bd1c-41d3-aeca-baad18e4b98d",
+      "titulo": "Malwarebytes tiene una nueva detección de estafas que se integra en la IA",
+      "resumen": "Malwarebytes, empresa especializada en ciberseguridad, tiene ahora una nueva herramienta para detectar estafas. Se trata de algo que permite detectar, en tiempo real, intentos de fraude dentro de un chat de IA. La idea es que puedas pegar en la conversación un enlace, número de teléfono, dirección d",
+      "url": "https://www.redeszone.net/noticias/seguridad/malwarebytes-nueva-deteccion-estafas-ia/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/mensaje-alerta-malware.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T07:12:48.000Z",
+      "fechaAgregada": "2026-04-30T10:10:02.764Z"
+    },
+    {
+      "id": "2277cb74-55c4-448e-9b9f-9df8341d6e22",
+      "titulo": "La relación entre Microsoft y OpenAI ya no es exclusiva. Alguien ha tardado 48 horas en pescar en río revuelto: Amazon",
+      "resumen": "Las aguas se han revuelto mucho en menos de 48 horas para OpenAI, Microsoft y Amazon. Y es que la compañía de Sam Altman ha renegociado su acuerdo con Microsoft, se ha quitado de en medio la cláusula de la AGI y ha estrenado una nueva alianza con AWS. Las exclusividades no mandan en la era de la IA,",
+      "url": "https://www.xataka.com/empresas-y-economia/microsoft-openai-tienen-ahora-matrimonio-abierto-siguiente-empresa-montar-sus-modelos-ia-nube-ha-sido-amazon",
+      "imagen": "https://i.blogs.es/6d05a0/microsoft/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T07:00:26.000Z",
+      "fechaAgregada": "2026-04-30T10:09:55.053Z"
+    },
+    {
+      "id": "48341368-a3e1-4aa4-8c87-b369e6a1ce4e",
+      "titulo": "Elon Musk se debate entre la ingenuidad y la ira en su segundo día de juicio de OpenAI: “Fui un idiota por financiarles”",
+      "resumen": "El multimillonario se presentó como un hombre bueno que quiere salvar a la humanidad de los especuladores de la inteligencia artificial, pero se mostró enfadado cuando los abogados de Sam Altman insistieron en su relación con Trump",
+      "url": "https://elpais.com/tecnologia/2026-04-29/elon-musk-se-debate-entre-la-candidez-y-la-ira-en-su-segundo-dia-de-juicio-sin-mi-openai-no-existiria.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VGBCSOA2ZROCDLZBWL2KNNIXFY.jpg?auth=f71d41a1d102b4e5e617a45ef75959a1f091cb0154c8d7d67cf61531928140d4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T06:43:15.000Z",
+      "fechaAgregada": "2026-04-30T10:09:58.408Z"
+    },
+    {
+      "id": "b2d83ddf-29be-495d-80b5-55c629b8a53d",
+      "titulo": "Gemini ahora puede generar archivos de Office desde el chat (y gratis)",
+      "resumen": "Google ha añadido a Gemini la capacidad de generar archivos de Office. Los usuarios podrán crear archivos de Word, Excel o PDF de forma gratuita dentro de la conversación, lo que elimina la necesidad de cambiarse entre aplicaciones. La nueva función pone fin a una de las mayores carencias de Gemini",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-crear-archivos-word-excel-pdf/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/gemini-office.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-29T21:45:00.000Z",
+      "fechaAgregada": "2026-04-30T10:09:56.798Z"
+    },
+    {
+      "id": "2e821b37-2804-4bab-a3fe-3d00bdcf0bfa",
+      "titulo": "Google ha llevado a Gemini un paso más allá: ahora genera archivos de Excel, PDFs y mucho más directamente",
+      "resumen": "La inteligencia artificial generativa ha cambiado muchas cosas, pero no ha eliminado una escena muy cotidiana: pedirle algo al chatbot, recibir una respuesta útil y terminar llevándola a mano a otro documento. Una propuesta que acaba en Word, una tabla que termina en Excel, unas ideas que alguien co",
+      "url": "https://www.xataka.com/robotica-e-ia/google-ha-llevado-a-gemini-paso-alla-ahora-genera-archivos-excel-pdfs-mucho-directamente",
+      "imagen": "https://i.blogs.es/bb5b0b/gemini-documentos-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-29T20:38:08.000Z",
+      "fechaAgregada": "2026-04-30T10:09:55.053Z"
+    },
+    {
+      "id": "84603cbc-c1b7-44ed-a016-2bc9e5b28986",
+      "titulo": "Leer los artículos científicos más importantes del mundo era caro y complejo: Sci-Hub lo ha arreglado con una IA",
+      "resumen": "El conocimiento científico supuestamente es algo que nos nutre a todos los seres humanos para seguir avanzando, pero el problema es que en muchas ocasiones los artículos que contienen este conocimiento están en herramientas que requieren de una suscripción para leerlos. Esta limitación en el acceso",
+      "url": "https://www.xataka.com/investigacion/hay-miles-articulos-cientificos-que-piden-pagar-para-leerlos-sci-bot-ha-llegado-para-acceder-a-ellos-gratis",
+      "imagen": "https://i.blogs.es/dd1f97/ciencia-ia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-29T14:30:26.000Z",
+      "fechaAgregada": "2026-04-30T10:09:55.055Z"
+    },
+    {
+      "id": "943547d1-4a9b-442d-aa75-bc7d9c0f4a71",
+      "titulo": "Nueva caja Nox Hummer Anvil: semitorre panorámica con ARGB envolvente para setups de alto rendimiento",
+      "resumen": "Viendo el precio que están alcanzando componente como la RAM y el almacenamiento, debido a la Inteligencia Artificial, no cabe ninguna duda de que, si tenías previsto renovar tu viejo PC, 2026 no es un buen año para hacerlo, el menos en cuanto al procesador, placa base y memoria RAM.\nLo que, si pued",
+      "url": "https://hardzone.es/noticias/perifericos/nueva-caja-pc-nox-hummer-anvil/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/04/nox-hummer.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-29T13:07:58.000Z",
+      "fechaAgregada": "2026-04-30T10:10:03.209Z"
+    },
+    {
+      "id": "3e6ece6c-6251-437c-afe7-42896918f961",
+      "titulo": "Elon Musk, en la primera jornada del juicio contra OpenAI: “Podría matarnos a todos. No queremos un ‘Terminator”",
+      "resumen": "El fundador de Tesla y SpaceX relata sus inicios en la empresa de inteligencia artificial, los miedos sobre el futuro y su oposición a que tenga ánimo de lucro",
+      "url": "https://elpais.com/tecnologia/2026-04-28/elon-musk-testigo-y-protagonista-de-la-primera-jornada-del-juicio-contra-openai-podria-matarnos-a-todos-no-queremos-un-terminator.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DB3BO62FUZJQ7AUXIPQJT4KZ2M.jpg?auth=c0076455258149ccb6b5462d4555d762f8a45912c214f9032bb6f8700869ce69",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T22:40:04.000Z",
+      "fechaAgregada": "2026-04-30T10:09:58.408Z"
+    },
+    {
+      "id": "7734338d-8bf3-4c17-875c-b1b80ef9dee9",
+      "titulo": "NVIDIA impulsa DLSS en nuevos juegos y presenta la RTX 5070 Laptop con 12 GB",
+      "resumen": "NVIDIA continúa ampliando el alcance de su ecosistema RTX con nuevas integraciones de DLSS en varios juegos y la llegada de nuevas soluciones de hardware para portátiles. La compañía ha anunciado una nueva ronda de títulos compatibles con sus tecnologías de renderizado basadas en inteligencia artifi",
+      "url": "https://www.muycomputer.com/2026/04/28/nvidia-impulsa-dlss-en-nuevos-juegos-y-presenta-la-rtx-5070-laptop-con-12-gb/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/04/NVIDIA-2-3.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T17:38:48.000Z",
+      "fechaAgregada": "2026-04-30T10:10:09.090Z"
+    },
+    {
+      "id": "bb52a6cd-daa5-482a-9460-e763f34400c7",
+      "titulo": "Microsoft y OpenAI: divorcio confirmado",
+      "resumen": "OpenAI y Microsoft han puesto punto y final a su acuerdo de exclusividad, como han reconocido en un comunicado que deja abierta la puerta a que OpenAI pueda recurrir a otros proveedores de servicios cloud, como AWS y Google Cloud, para alojar los servicios de IA de la compañía y prestar servicio a s",
+      "url": "https://www.muycomputer.com/2026/04/28/microsoft-y-openai-divorcio-confirmado/",
+      "imagen": "https://picsum.photos/seed/19/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T13:43:09.000Z",
+      "fechaAgregada": "2026-04-30T10:10:09.090Z"
+    },
+    {
+      "id": "82ea6f8c-fd73-40a6-b135-a75c4206e4b0",
+      "titulo": "¿Debería ser OpenAI una entidad sin ánimo de lucro? Comienza el juicio que enfrenta a Elon Musk y Sam Altman",
+      "resumen": "El dueño de X y Tesla afirma que, cuando invirtió en los inicios de la empresa de inteligencia artificial, su objetivo no era enriquecer a sus creadores. Pide 150.000 millones de dólares por daños",
+      "url": "https://elpais.com/tecnologia/2026-04-28/deberia-ser-openai-una-entidad-sin-animo-de-lucro-comienza-el-juicio-que-enfrenta-a-elon-musk-y-sam-altman.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LO7JYA5T75GAZMEPRORMQ6MXOI.jpg?auth=08262f12a6269c7ed4b76d1673a4cd509d6c77d1f17dc156eacaa6f663cf1ae0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T07:43:54.000Z",
+      "fechaAgregada": "2026-04-30T10:09:58.408Z"
+    },
+    {
+      "id": "e1caf507-28e3-4a88-9f62-3b2a8c4e3081",
+      "titulo": "Lo nuevo en auriculares inalámbricos: funciones más allá de la reproducción de música",
+      "resumen": "La nueva generación incorpora inteligencia artificial y sensores para ir mucho más allá del audio, en una evolución que los acerca cada vez más al terreno de los ‘wearables’",
+      "url": "https://elpais.com/tecnologia/tu-tecnologia/2026-04-20/lo-nuevo-en-auriculares-inalambricos-funciones-mas-alla-de-la-reproduccion-de-musica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/O2X4V5YSXVA3LLV7QANBBZ7QOU.jpg?auth=6ddd729da639e426429aee2c2debcf00c2a5748b3664142836b7a2f9410c4b0c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-20T03:30:01.000Z",
+      "fechaAgregada": "2026-04-30T10:09:58.409Z"
+    },
+    {
+      "id": "af354b18-8af2-4b08-8c45-5bed4af5d9a1",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-04-30T10:09:57.652Z"
+    },
+    {
+      "id": "e11edf20-d8c5-45e5-bdd7-fbb77b7de510",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-04-30T10:09:57.652Z"
+    },
+    {
+      "id": "581e288c-d418-4c23-a577-8e33373b8851",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-04-30T10:09:57.652Z"
+    }
+  ]
+}
