@@ -1,0 +1,271 @@
+{
+  "fecha": "2026-05-02",
+  "generado": "2026-05-02T09:06:54.520Z",
+  "total": 24,
+  "noticias": [
+    {
+      "id": "034d66fc-df3b-4aff-b4ce-0b24b594f6a3",
+      "titulo": "Esta IA enloqueció y destruyó el trabajo de una empresa en segundos",
+      "resumen": "Desde hace un tiempo que empresas como OpenAI, Google o Anthropic promueven su IA como el compañero perfecto para el trabajo. Basta echar un vistazo a las actualizaciones de cada modelo de lenguaje, en donde se detallan sus capacidades para desempeñar tareas autónomas sin ayuda humana. Lo que ningun",
+      "url": "https://hipertextual.com/inteligencia-artificial/agente-ia-claude-borra-datos-pocketos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/07/iroboto.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-02T09:00:00.000Z",
+      "fechaAgregada": "2026-05-02T09:06:46.783Z"
+    },
+    {
+      "id": "1e306cc2-2af8-4e72-bb1e-8a1f9ba5aad2",
+      "titulo": "Apple se carga el Mac Mini de 256GB: en plena crisis de RAM, su ordenador más barato era un chollo demasiado bueno para durar",
+      "resumen": "Si hay un producto del portfolio de Apple que era un auténtico caramelito, ese era el Mac Mini. Esta es una realidad desde hace años, pero en estos tiempos que corren todavía más: el Mac Mini M4 llegaba al mercado con el poderío del chip M4, 16 GB de RAM de base, un SSD de 256 GB (lo más rácano, App",
+      "url": "https://www.xataka.com/ordenadores/apple-se-carga-mac-mini-256gb-plena-crisis-ram-su-ordenador-barato-era-chollo-demasiado-bueno-para-durar",
+      "imagen": "https://i.blogs.es/ee8a2f/maki/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-02T07:15:13.000Z",
+      "fechaAgregada": "2026-05-02T09:06:46.453Z"
+    },
+    {
+      "id": "8207086d-2352-464b-83cf-f41fa04ccfb3",
+      "titulo": "Por qué a la IA le gustan tanto los duendecillos y Japón",
+      "resumen": "OpenAI ha tenido que suprimir la fascinación de ChatGPT por las criaturas fantásticas, pero no es el único sesgo que emerge en estos chatbots",
+      "url": "https://elpais.com/tecnologia/2026-05-02/por-que-a-la-ia-le-gustan-tanto-los-duendecillos-y-japon.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I3W3ZTYIBZA63PLPY7BBBJZQDY.jpg?auth=8a44ff366b1a1c1252e0280547f82c56a3fe0b66d039a4797ae3a1c08e22d73c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-02T03:30:01.000Z",
+      "fechaAgregada": "2026-05-02T09:06:47.943Z"
+    },
+    {
+      "id": "c385bb5c-1c05-4b83-815a-de5f84293428",
+      "titulo": "Las dos caras emocionales de la IA: en EEUU lanzan cócteles molotov a sus creadores, en China los niños bailan con robots",
+      "resumen": "El pasado 10 de abril, un hombre lanzó un cóctel molotov contra la mansión de Sam Altman, CEO de OpenAI. En su bolsillo llevaba un manifiesto anti-IA y los nombres de otros líderes tech. Mientras tanto, en China, los robots humanoides bailaban junto a niños y recibían la ovación del público en Gala",
+      "url": "https://www.xataka.com/robotica-e-ia/eeuu-le-tiran-molotov-al-ceo-openai-china-ninos-bailan-robots-carrera-ia-tambien-emocional",
+      "imagen": "https://i.blogs.es/8572dd/molotov-2/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-01T17:00:26.000Z",
+      "fechaAgregada": "2026-05-02T09:06:46.454Z"
+    },
+    {
+      "id": "9c169bef-eb6b-46d3-98a4-53ef7bab79d0",
+      "titulo": "Inteligencia artificial para alimentar la nostalgia",
+      "resumen": "Ha querido la casualidad (o la causalidad, nunca lo sabremos) que haya sabido de este estudio en un momento que ha quedado acotado entre los cuatro minutos y 34 segundos que dura la revisión de 2015 de ’74-’75, de The Connells. Tiempos pretéritos que hablan de tiempos aún más pretéritos que… sí, y a",
+      "url": "https://www.muycomputer.com/2026/05/01/inteligencia-artificial-para-alimentar-la-nostalgia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/04/Nostalgia-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-01T13:07:18.000Z",
+      "fechaAgregada": "2026-05-02T09:06:54.519Z"
+    },
+    {
+      "id": "24b61170-9961-48e6-92f6-287a0c964a56",
+      "titulo": "¿Sirve Gemini para programar? Por qué a Google le cuesta tanto competir con Claude Code y Codex",
+      "resumen": "Si hablamos de programar con IA, Claude Code y Codex se han convertido en las dos opciones más reconocidas. No son las únicas ni tal vez las más capaces, pero sí sacan provecho del músculo de Anthropic y OpenAI para lograr una mayor visibilidad. Pero su creciente popularidad también genera interroga",
+      "url": "https://hipertextual.com/inteligencia-artificial/que-pasa-con-gemini-programar-con-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/08/Gemini-2-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-01T13:00:00.000Z",
+      "fechaAgregada": "2026-05-02T09:06:46.783Z"
+    },
+    {
+      "id": "f30717b2-47de-4f6d-85ff-7fa01a4a5bb2",
+      "titulo": "Los viejos chips nunca mueren: las empresas que fabricaban chips \"aburridos\" están montándose en el dólar",
+      "resumen": "En cualquier equipo deportivo hay titulares y suplentes. Los titulares suelen ser las grandes estrellas, quienes capturan toda la atención. Los suplentes son los que salen a hacer el trabajo cuando toca, sin levantar tanto ruido. Ese mismo universo de ‘Zidanes y Pavones’ está en el mundo de los comp",
+      "url": "https://www.xataka.com/empresas-y-economia/viejos-chips-nunca-mueren-como-empresas-que-fabricaban-chips-aburridos-estan-montandose-dolar",
+      "imagen": "https://i.blogs.es/9d8645/gemini_generated_image_4ryrgz4ryrgz4ryr/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-01T11:00:26.000Z",
+      "fechaAgregada": "2026-05-02T09:06:46.456Z"
+    },
+    {
+      "id": "200d3ab1-af7e-45e7-b0b3-05e7919f3827",
+      "titulo": "ChatGPT tenía una extraña obsesión con los goblins",
+      "resumen": "OpenAI ha explicado recientemente uno de los comportamientos más curiosos detectados en sus modelos de inteligencia artificial: la tendencia de ChatGPT a mencionar goblins, gremlins y otras criaturas en metáforas o ejemplos dentro de sus respuestas. Lo que al principio parecía un simple detalle anec",
+      "url": "https://www.muycomputer.com/2026/05/01/chatgpt-tenia-una-extrana-obsesion-con-los-goblins/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/04/ChatGPT-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-01T10:31:45.000Z",
+      "fechaAgregada": "2026-05-02T09:06:54.520Z"
+    },
+    {
+      "id": "9cb94937-7cd9-4208-93b0-865821f0d440",
+      "titulo": "\"GitHub ya no es un sitio serio para trabajar\": la casa del Open Source está colapsando por culpa del vibecoding",
+      "resumen": "Cuando llegó, GitHub fue milagroso para los desarrolladores Open Source. No solo permitía disponer de una plataforma en la que albergar tu código y tenerlo siempre actualizado gracias al software de control de versiones en el que se basaba (Git), sino que lo hacía con un componente de red social que",
+      "url": "https://www.xataka.com/aplicaciones/github-no-sitio-serio-para-trabajar-casa-open-source-esta-colapsando-culpa-vibecoding",
+      "imagen": "https://i.blogs.es/8e2975/github/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-01T10:30:26.000Z",
+      "fechaAgregada": "2026-05-02T09:06:46.456Z"
+    },
+    {
+      "id": "8cdaf8ea-c496-473a-8989-713e0257348a",
+      "titulo": "Gemini expande su nueva función gratis: los Cuadernos llegan a los móviles",
+      "resumen": "Google prometió hace unos días que Gemini recibiría en su versión de móviles la última novedad que lanzaron en la edición de escritorio para ordenadores. Ese momento finalmente ha llegado y ahora los Cuadernos también se pueden usar desde iOS y Android.\nLos Cuadernos de Google Gemini han sido recibi",
+      "url": "https://www.adslzone.net/noticias/ia/gemini-nueva-funcion-gratis-cuadernos-llegan-moviles/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/05/Cuadernos-colaboracion-Gemini-imagen-oficial.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-01T09:03:13.000Z",
+      "fechaAgregada": "2026-05-02T09:06:50.330Z"
+    },
+    {
+      "id": "88369b64-6c80-40a9-83eb-09b2040ba8a0",
+      "titulo": "9 maneras distintas de integrar Claude en tu iPhone y en tu Android",
+      "resumen": "Claude es ya, junto a ChatGPT y Gemini, un asistente de IA de referencia para millones de personas que buscan respuestas útiles y agilizar o automatizar algunas gestiones en sus ordenadores y en sus teléfonos móviles. Así que, si quieres exprimir el asistente de Anthropic, qué mejor que instalar Cla",
+      "url": "https://hipertextual.com/guias/integrar-claude-iphone-android/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Claude-Widget-iPhone.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-01T09:00:00.000Z",
+      "fechaAgregada": "2026-05-02T09:06:46.783Z"
+    },
+    {
+      "id": "74ad730b-1bf6-4e25-bcf8-45582d45ad14",
+      "titulo": "IA local de verdad: QNAP lanza el NAS QAI-h1290FX que ejecuta LLMs sin depender de la nube",
+      "resumen": "El fabricante QNAP acaba de lanzar el nuevo servidor NAS especializado en potenciar la IA local como nunca antes habíamos visto. El nuevo QAI-h1290FX incorpora un hardware de primer nivel para hacer frente a los retos de las nuevas herramientas de IA, las cuales necesitan una gran potencia de cálcul",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/qnap-nas-qai-h1290fx-herramienta-ia-tarjeta-nvidia-rtx-pro-6000/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/qnap-qai-h1290fx_destacada.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-01T07:06:39.000Z",
+      "fechaAgregada": "2026-05-02T09:06:51.836Z"
+    },
+    {
+      "id": "ef9b9c61-4393-4e62-b32c-7e19d4f2eb5e",
+      "titulo": "Elon Musk confiesa que xAI usó la IA de ChatGPT para entrenar a Grok",
+      "resumen": "Elon Musk ha protagonizado su primer gran momento incómodo en el juicio que lo enfrenta con Sam Altman. Durante su aparición en el estrado este jueves, confesó que xAI usó la IA de ChatGPT para entrenar a Grok. Wired reporta que, consultado sobre si conocía qué era la destilación de modelos de lengu",
+      "url": "https://hipertextual.com/inteligencia-artificial/elon-musk-xai-destilo-modelos-chatgpt-entrenar-grok/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/elon-musk-shrug-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T20:32:00.000Z",
+      "fechaAgregada": "2026-05-02T09:06:46.784Z"
+    },
+    {
+      "id": "60763b6c-d739-42bb-9c02-8ce741155d04",
+      "titulo": "GPT-5.5 es tan peligrosa como Claude Mythos para hackear sistemas sin ayuda humana",
+      "resumen": "El Instituto de Seguridad de la Inteligencia Artificial del Reino Unido acaba de publicar su evaluación sobre las capacidades ofensivas de GPT-5.5 en ciberseguridad. A unas semanas de que analizara Claude Mythos, el AISI ha hecho lo mismo con el nuevo modelo de OpenAI. Los resultados apuntan a que l",
+      "url": "https://hipertextual.com/inteligencia-artificial/gpt-55-ataques-ciberseguridad-aisi/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/gpt-5-5-hacker.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T19:30:00.000Z",
+      "fechaAgregada": "2026-05-02T09:06:46.784Z"
+    },
+    {
+      "id": "3d0f19fc-bcb7-4d6f-8ba3-021b971fbd3c",
+      "titulo": "El juicio de OpenAI revela las contradicciones de Elon Musk: “No leí la letra pequeña, solo el titular”",
+      "resumen": "En el último día de la declaración del dueño de Tesla y SpaceX, el empresario responde a las preguntas de los abogados de Sam Altman sobre su salida de la compañía de IA",
+      "url": "https://elpais.com/tecnologia/2026-04-30/el-juicio-de-openai-revela-las-contradicciones-de-elon-musk-no-lei-la-letra-pequena-solo-el-titular.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VJ7EQ6LN5BJDXHLAH3OZCKKSUU.jpg?auth=8e7d5cae4caf8b3153b43c72418fc9988b3130fc57d47576f996fea6226abfec",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T18:57:49.000Z",
+      "fechaAgregada": "2026-05-02T09:06:47.943Z"
+    },
+    {
+      "id": "6aedda1f-09f6-4896-8d8a-dd45e3b5ed7f",
+      "titulo": "Este estudio demuestra que más de la mitad de Internet son bots: el dato que asusta",
+      "resumen": "No todo el tráfico que hay en Internet lo realizan humanos. Es decir, no todas las visitas a una página web, por ejemplo, son realmente usuarios que, desde el móvil u ordenador, entran para consultar algo. Una parte muy importante, son bots. Además, dentro de esto último, un % significativo son bots",
+      "url": "https://www.redeszone.net/noticias/seguridad/estudio-mitad-internet-bots-peligro/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/imagen-navegacion-internet.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T11:02:46.000Z",
+      "fechaAgregada": "2026-05-02T09:06:51.837Z"
+    },
+    {
+      "id": "139eede1-67c9-4275-8ce5-6439af948020",
+      "titulo": "Detectan una vulnerabilidad crítica en Linux que afecta a las principales distribuciones de la última década",
+      "resumen": "Una vulnerabilidad de día cero pone en riesgo a algunas de las principales distribuciones de Linux desde 2017. Se trata de un problema que afecta al kernel, denominado “Error de copia”. Ha sido divulgado públicamente y registrado como CVE-2026-31431. Esta vulnerabilidad ha sido descubierta por parte",
+      "url": "https://www.redeszone.net/noticias/seguridad/vulnerabilidad-critica-linux-distribuciones-afectadas/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/seguridad-linux.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T09:20:16.000Z",
+      "fechaAgregada": "2026-05-02T09:06:51.837Z"
+    },
+    {
+      "id": "83edcdb5-d821-44c4-a965-10687f46e73e",
+      "titulo": "Malwarebytes tiene una nueva detección de estafas que se integra en la IA",
+      "resumen": "Malwarebytes, empresa especializada en ciberseguridad, tiene ahora una nueva herramienta para detectar estafas. Se trata de algo que permite detectar, en tiempo real, intentos de fraude dentro de un chat de IA. La idea es que puedas pegar en la conversación un enlace, número de teléfono, dirección d",
+      "url": "https://www.redeszone.net/noticias/seguridad/malwarebytes-nueva-deteccion-estafas-ia/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/mensaje-alerta-malware.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T07:12:48.000Z",
+      "fechaAgregada": "2026-05-02T09:06:51.837Z"
+    },
+    {
+      "id": "d3e48483-018c-411a-ad1d-3baf75f71c37",
+      "titulo": "Elon Musk, en su segundo día de juicio de OpenAI: “Fui un idiota por financiarles”",
+      "resumen": "El multimillonario se presenta como el hombre que busca salvar a la humanidad de los especuladores de la inteligencia artificial y se enfada cuando los abogados de Altman insisten en su relación con Trump",
+      "url": "https://elpais.com/tecnologia/2026-04-29/elon-musk-se-debate-entre-la-candidez-y-la-ira-en-su-segundo-dia-de-juicio-sin-mi-openai-no-existiria.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VGBCSOA2ZROCDLZBWL2KNNIXFY.jpg?auth=f71d41a1d102b4e5e617a45ef75959a1f091cb0154c8d7d67cf61531928140d4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T06:43:15.000Z",
+      "fechaAgregada": "2026-05-02T09:06:47.943Z"
+    },
+    {
+      "id": "508ac507-00cc-4095-b0b8-c81b38ab7928",
+      "titulo": "Elon Musk, en la primera jornada del juicio contra OpenAI: “Podría matarnos a todos. No queremos un ‘Terminator”",
+      "resumen": "El fundador de Tesla y SpaceX relata sus inicios en la empresa de inteligencia artificial, los miedos sobre el futuro y su oposición a que tenga ánimo de lucro",
+      "url": "https://elpais.com/tecnologia/2026-04-28/elon-musk-testigo-y-protagonista-de-la-primera-jornada-del-juicio-contra-openai-podria-matarnos-a-todos-no-queremos-un-terminator.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DB3BO62FUZJQ7AUXIPQJT4KZ2M.jpg?auth=c0076455258149ccb6b5462d4555d762f8a45912c214f9032bb6f8700869ce69",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T22:40:04.000Z",
+      "fechaAgregada": "2026-05-02T09:06:47.943Z"
+    },
+    {
+      "id": "8734cddb-5787-4dd6-9fa9-623dc368ce07",
+      "titulo": "¿Debería ser OpenAI una entidad sin ánimo de lucro? Comienza el juicio que enfrenta a Elon Musk y Sam Altman",
+      "resumen": "El dueño de X y Tesla afirma que, cuando invirtió en los inicios de la empresa de inteligencia artificial, su objetivo no era enriquecer a sus creadores. Pide 150.000 millones de dólares por daños",
+      "url": "https://elpais.com/tecnologia/2026-04-28/deberia-ser-openai-una-entidad-sin-animo-de-lucro-comienza-el-juicio-que-enfrenta-a-elon-musk-y-sam-altman.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LO7JYA5T75GAZMEPRORMQ6MXOI.jpg?auth=08262f12a6269c7ed4b76d1673a4cd509d6c77d1f17dc156eacaa6f663cf1ae0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T07:43:54.000Z",
+      "fechaAgregada": "2026-05-02T09:06:47.943Z"
+    },
+    {
+      "id": "61a19849-68dd-421b-9b82-b8d57e1ae588",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-02T09:06:47.797Z"
+    },
+    {
+      "id": "30866a3a-4514-4e73-b9ad-54c31179f313",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-02T09:06:47.797Z"
+    },
+    {
+      "id": "de10e34b-ff4e-438b-8975-caaae4286016",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-02T09:06:47.797Z"
+    }
+  ]
+}
