@@ -1,0 +1,194 @@
+{
+  "fecha": "2026-05-04",
+  "generado": "2026-05-04T10:14:14.696Z",
+  "total": 17,
+  "noticias": [
+    {
+      "id": "b36897a0-0ea9-4360-8486-7eb1671c3c9f",
+      "titulo": "El CEO de Nvidia dice que la IA no nos va a sustituir, va a hacer algo peor: “Los agentes de IA te acosarán”",
+      "resumen": "Los expertos en inteligencia artificial están intentando resolver las dudas y preocupaciones que genera esta tecnología en la sociedad, y si bien muchos solo hablan de ventajas y de cómo la IA va a facilitar nuestro día a día, otros optan por ser más realistas y contar no solo lo bueno, sino también",
+      "url": "https://hipertextual.com/tecnologia/el-ceo-de-nvidia-dice-que-la-ia-no-nos-va-a-sustituir-va-a-hacer-algo-peor-los-agentes-de-ia-te-acosaran/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/CEO-nvidia.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-04T08:48:54.000Z",
+      "fechaAgregada": "2026-05-04T10:14:07.386Z"
+    },
+    {
+      "id": "76915bc5-5646-403f-8fe0-14c68226e443",
+      "titulo": "Microsoft acaba de cargarse a los abogados con un simple plugin de Word con IA. Sobre todo, a los becarios",
+      "resumen": "Puede que Anthropic, OpenAI o Google se lleven la mayoría de titulares sobre la implosión de la IA, pero Microsoft acaba de resquebrajar los cimientos de una de las industrias más importantes del mundo, y lo ha hecho de la mano del denostado Copilot y con un simple plugin de Word. Legal Agent, que a",
+      "url": "https://hipertextual.com/inteligencia-artificial/microsoft-acaba-de-cargarse-a-los-abogados-con-un-simple-plugin-de-word-con-ia-sobre-todo-a-los-becarios/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/image-1.jpg?fit=1024%2C578&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-04T08:32:51.000Z",
+      "fechaAgregada": "2026-05-04T10:14:07.386Z"
+    },
+    {
+      "id": "3ca3bdab-86f1-42de-862e-497d3b45311f",
+      "titulo": "NordVPN tiene una novedad muy útil para detectar voces falsas con IA",
+      "resumen": "NordVPN es una de las VPN más populares que puedes utilizar en tu móvil o en el ordenador. Más allá de permitir acceder a contenido bloqueado geográficamente, también puede ser útil para mejorar la privacidad. En este artículo, nos hacemos eco de una novedad interesante que han añadido a su extensió",
+      "url": "https://www.redeszone.net/noticias/seguridad/nordvpn-novedad-util-detectar-voces-falsas/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/nordvpn-pantalla-ordenador.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-04T07:20:33.000Z",
+      "fechaAgregada": "2026-05-04T10:14:12.684Z"
+    },
+    {
+      "id": "73cccf41-c079-4af4-9673-0e62b32d86a2",
+      "titulo": "Alguien ha creado una IA que no sabe nada de lo que pasó después de 1930, y tiene más utilidad de la que parece",
+      "resumen": "Uno de los problemas de los modelos de lenguaje es que hay una fecha de corte en los datos de entrenamiento, es decir, que el modelo no conoce hechos actuales que vayan más allá de esa fecha. Esto, que en ciertos sectores puede ser un problema grave, es precisamente el objetivo de Talkie-1930, un mo",
+      "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-ia-que-no-sabe-nada-que-paso-despues-1930-tiene-utilidad-que-parece",
+      "imagen": "https://i.blogs.es/ff9ca5/telegrafo/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-03T17:00:26.000Z",
+      "fechaAgregada": "2026-05-04T10:14:06.935Z"
+    },
+    {
+      "id": "993b95a9-4719-4585-ae21-4eec13ffa21a",
+      "titulo": "El CEO de Nvidia cree que estamos en una nueva revolución industrial donde la IA no nos sustituirá: nos micromanageará",
+      "resumen": "La inteligencia artificial lleva a disposición de usuarios y empresas ya unos cuantos años y nos encontramos en un punto en el que convergen varias ideas sobre la IA y el futuro del trabajo. Hay varios frentes abiertos como si la IA nos sustituirá, si sólo será una herramienta o si, en lugar de libe",
+      "url": "https://www.xataka.com/robotica-e-ia/ceo-nvidia-considera-que-estamos-nueva-revolucion-industrial-donde-ia-no-nos-sustituira-nos-micromanageara",
+      "imagen": "https://i.blogs.es/18a664/nvidia-manager/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-03T12:00:26.000Z",
+      "fechaAgregada": "2026-05-04T10:14:06.936Z"
+    },
+    {
+      "id": "e184e30f-be05-4f9a-bf81-8af483842bd8",
+      "titulo": "Luchas de poder, avaricia, guerra y ‘tecnofascismo’: la IA se quita la careta",
+      "resumen": "Los nuevos acuerdos del Pentágono con las grandes tecnológicas y el juicio de OpenAI que enfrenta a los magnates tumban el discurso de la industria sobre una inteligencia artificial pensada para salvar a la humanidad",
+      "url": "https://elpais.com/tecnologia/2026-05-03/luchas-de-poder-avaricia-guerra-y-tecnofascismo-la-ia-se-quita-la-careta.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TXSPA4AOVFNR3MZMMJFWUJUPPI.jpg?auth=1601e6af3b9da9824d9a2bc43d55a59b564456d6d0d41a4eda33dc556db052af",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-03T03:30:00.000Z",
+      "fechaAgregada": "2026-05-04T10:14:09.173Z"
+    },
+    {
+      "id": "ff3eb637-d27a-4970-9354-619a0f9cfb22",
+      "titulo": "Por qué a la IA le gustan tanto los duendecillos y Japón",
+      "resumen": "OpenAI ha tenido que suprimir la fascinación de ChatGPT por las criaturas fantásticas, pero no es el único sesgo que emerge en estos chatbots",
+      "url": "https://elpais.com/tecnologia/2026-05-02/por-que-a-la-ia-le-gustan-tanto-los-duendecillos-y-japon.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I3W3ZTYIBZA63PLPY7BBBJZQDY.jpg?auth=8a44ff366b1a1c1252e0280547f82c56a3fe0b66d039a4797ae3a1c08e22d73c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-02T03:30:01.000Z",
+      "fechaAgregada": "2026-05-04T10:14:09.173Z"
+    },
+    {
+      "id": "f52b0717-abcb-4943-8dc6-2bdaca687c48",
+      "titulo": "Inteligencia artificial para alimentar la nostalgia",
+      "resumen": "Ha querido la casualidad (o la causalidad, nunca lo sabremos) que haya sabido de este estudio en un momento que ha quedado acotado entre los cuatro minutos y 34 segundos que dura la revisión de 2015 de ’74-’75, de The Connells. Tiempos pretéritos que hablan de tiempos aún más pretéritos que… sí, y a",
+      "url": "https://www.muycomputer.com/2026/05/01/inteligencia-artificial-para-alimentar-la-nostalgia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/04/Nostalgia-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-01T13:07:18.000Z",
+      "fechaAgregada": "2026-05-04T10:14:14.696Z"
+    },
+    {
+      "id": "355d0ff2-0cfb-4468-b49b-e71b9854ace0",
+      "titulo": "ChatGPT tenía una extraña obsesión con los goblins",
+      "resumen": "OpenAI ha explicado recientemente uno de los comportamientos más curiosos detectados en sus modelos de inteligencia artificial: la tendencia de ChatGPT a mencionar goblins, gremlins y otras criaturas en metáforas o ejemplos dentro de sus respuestas. Lo que al principio parecía un simple detalle anec",
+      "url": "https://www.muycomputer.com/2026/05/01/chatgpt-tenia-una-extrana-obsesion-con-los-goblins/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/04/ChatGPT-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-01T10:31:45.000Z",
+      "fechaAgregada": "2026-05-04T10:14:14.696Z"
+    },
+    {
+      "id": "ef02036a-a9be-488a-a294-80feb139336a",
+      "titulo": "IA local de verdad: QNAP lanza el NAS QAI-h1290FX que ejecuta LLMs sin depender de la nube",
+      "resumen": "El fabricante QNAP acaba de lanzar el nuevo servidor NAS especializado en potenciar la IA local como nunca antes habíamos visto. El nuevo QAI-h1290FX incorpora un hardware de primer nivel para hacer frente a los retos de las nuevas herramientas de IA, las cuales necesitan una gran potencia de cálcul",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/qnap-nas-qai-h1290fx-herramienta-ia-tarjeta-nvidia-rtx-pro-6000/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/04/qnap-qai-h1290fx_destacada.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-01T07:06:39.000Z",
+      "fechaAgregada": "2026-05-04T10:14:12.685Z"
+    },
+    {
+      "id": "58044977-a89d-423a-8657-161befad1b32",
+      "titulo": "El juicio de OpenAI revela las contradicciones de Elon Musk: “No leí la letra pequeña, solo el titular”",
+      "resumen": "En el último día de la declaración del dueño de Tesla y SpaceX, el empresario responde a las preguntas de los abogados de Sam Altman sobre su salida de la compañía de IA",
+      "url": "https://elpais.com/tecnologia/2026-04-30/el-juicio-de-openai-revela-las-contradicciones-de-elon-musk-no-lei-la-letra-pequena-solo-el-titular.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VJ7EQ6LN5BJDXHLAH3OZCKKSUU.jpg?auth=8e7d5cae4caf8b3153b43c72418fc9988b3130fc57d47576f996fea6226abfec",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T18:57:49.000Z",
+      "fechaAgregada": "2026-05-04T10:14:09.173Z"
+    },
+    {
+      "id": "25a85ef4-6ca2-4db6-9b2c-c89ce1b54c2e",
+      "titulo": "Elon Musk, en su segundo día de juicio de OpenAI: “Fui un idiota por financiarles”",
+      "resumen": "El multimillonario se presenta como el hombre que busca salvar a la humanidad de los especuladores de la inteligencia artificial y se enfada cuando los abogados de Altman insisten en su relación con Trump",
+      "url": "https://elpais.com/tecnologia/2026-04-29/elon-musk-se-debate-entre-la-candidez-y-la-ira-en-su-segundo-dia-de-juicio-sin-mi-openai-no-existiria.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VGBCSOA2ZROCDLZBWL2KNNIXFY.jpg?auth=f71d41a1d102b4e5e617a45ef75959a1f091cb0154c8d7d67cf61531928140d4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T06:43:15.000Z",
+      "fechaAgregada": "2026-05-04T10:14:09.173Z"
+    },
+    {
+      "id": "b9cf2e74-8280-4528-84b6-c9e7ef3325ba",
+      "titulo": "Elon Musk, en la primera jornada del juicio contra OpenAI: “Podría matarnos a todos. No queremos un ‘Terminator”",
+      "resumen": "El fundador de Tesla y SpaceX relata sus inicios en la empresa de inteligencia artificial, los miedos sobre el futuro y su oposición a que tenga ánimo de lucro",
+      "url": "https://elpais.com/tecnologia/2026-04-28/elon-musk-testigo-y-protagonista-de-la-primera-jornada-del-juicio-contra-openai-podria-matarnos-a-todos-no-queremos-un-terminator.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DB3BO62FUZJQ7AUXIPQJT4KZ2M.jpg?auth=c0076455258149ccb6b5462d4555d762f8a45912c214f9032bb6f8700869ce69",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T22:40:04.000Z",
+      "fechaAgregada": "2026-05-04T10:14:09.173Z"
+    },
+    {
+      "id": "0f03b95f-84b7-4f9e-b65f-3ceb621d430b",
+      "titulo": "¿Debería ser OpenAI una entidad sin ánimo de lucro? Comienza el juicio que enfrenta a Elon Musk y Sam Altman",
+      "resumen": "El dueño de X y Tesla afirma que, cuando invirtió en los inicios de la empresa de inteligencia artificial, su objetivo no era enriquecer a sus creadores. Pide 150.000 millones de dólares por daños",
+      "url": "https://elpais.com/tecnologia/2026-04-28/deberia-ser-openai-una-entidad-sin-animo-de-lucro-comienza-el-juicio-que-enfrenta-a-elon-musk-y-sam-altman.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LO7JYA5T75GAZMEPRORMQ6MXOI.jpg?auth=08262f12a6269c7ed4b76d1673a4cd509d6c77d1f17dc156eacaa6f663cf1ae0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T07:43:54.000Z",
+      "fechaAgregada": "2026-05-04T10:14:09.173Z"
+    },
+    {
+      "id": "b8e1339a-e139-4b42-ad11-f19a4ce37a26",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-04T10:14:08.432Z"
+    },
+    {
+      "id": "11b94db4-2923-41f7-99cd-abc2fb51feca",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-04T10:14:08.433Z"
+    },
+    {
+      "id": "0a2b3f3d-5620-408a-9a6f-bf1b04d4f5a0",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-04T10:14:08.433Z"
+    }
+  ]
+}
