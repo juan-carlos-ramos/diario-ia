@@ -1,0 +1,260 @@
+{
+  "fecha": "2026-05-07",
+  "generado": "2026-05-07T10:24:48.451Z",
+  "total": 23,
+  "noticias": [
+    {
+      "id": "7166fa35-67fb-437f-92c8-465e51af861b",
+      "titulo": "LG UltraGear 39GX950B, el OLED más avanzado para juegos",
+      "resumen": "LG UltraGear 39GX950B es el nuevo monitor que la firma surcoreana ha lanzado en España. Promocionado como el primer monitor OLED curvo de 39 pulgadas con resolución 5K2K del mundo, combina lo mejor de esta tecnología con innovaciones de Inteligencia Artificial integradas, conectividad de última gene",
+      "url": "https://www.muycomputer.com/2026/05/07/lg-ultragear-39gx950b-el-oled-mas-avanzado-para-juegos/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/LG_UltraGear_39GX950B_5.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-07T07:34:41.000Z",
+      "fechaAgregada": "2026-05-07T10:24:48.450Z"
+    },
+    {
+      "id": "8ba7e136-a452-4fb2-9dc4-51f1240f6111",
+      "titulo": "Anthropic hará negocio en España: los bancos pagarán por usar Claude Mythos y proteger tus cuentas bancarias antes de verano",
+      "resumen": "Claude Mythos se presentó hace justo un mes y, desde su anuncio oficial, la preocupación en torno a las posibilidades de este supermodelo no han dejado de crecer. De hecho, su uso se ha restringido a empresas muy particulares, puesto que si cayera en manos equivocadas, podría provocar un caos en tér",
+      "url": "https://www.adslzone.net/noticias/ia/anthropic-licenciara-claude-mythos-europa/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/05/imagen-persona-claude-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-07T06:57:37.000Z",
+      "fechaAgregada": "2026-05-07T10:24:44.913Z"
+    },
+    {
+      "id": "165dc31c-ed86-4a10-bd72-00f488f40b2e",
+      "titulo": "Google da la sorpresa y abre las plazas para participar en el programa beta de Android Auto por tiempo limitado",
+      "resumen": "El programa beta de Android Auto nos ofrece la opción de ser los primeros en probar las nuevas versiones. Normalmente, suele estar lleno y Google hacía meses que no ofrecía nuevas plazas, pero hoy nos hemos despertado con la sorpresa de que el programa está abierto y permite nuevas inscripciones.\nLo",
+      "url": "https://www.adslzone.net/e-movilidad/noticias-tecnologia/google-abre-programa-beta-android-auto/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/05/android-auto-pcpal-beta-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-07T05:57:04.000Z",
+      "fechaAgregada": "2026-05-07T10:24:44.913Z"
+    },
+    {
+      "id": "2ec17551-55c7-46ea-b4af-69906019c17f",
+      "titulo": "Anthropic acaba de dejar atrás el mayor lastre de Claude. Lo ha conseguido tras sellar una alianza con SpaceX de Elon Musk",
+      "resumen": "Hay pocas cosas más frustrantes que encontrar una herramienta que encaja casi exactamente con lo que necesitamos y descubrir, justo cuando empezamos a sacarle partido, que no podemos seguir usándola al mismo ritmo. Claude se ha ganado un lugar destacado entre quienes usan la inteligencia artificial",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-dejar-atras-mayor-lastre-claude-ha-conseguido-sellar-alianza-spacex-elon-musk",
+      "imagen": "https://i.blogs.es/1822c1/claude-spacex-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-06T22:58:00.000Z",
+      "fechaAgregada": "2026-05-07T10:24:41.311Z"
+    },
+    {
+      "id": "ee301f65-ea4a-4e7e-8fe1-94cd88f26bc3",
+      "titulo": "Así fue la pelea que acabó con Elon Musk en OpenAI",
+      "resumen": "La pelea entre Elon Musk y Sam Altman está destapando un sinfín de historias sobre lo que ocurrió tras bambalinas en la empresa de IA. Durante el juicio más reciente, empleados y antiguos trabajadores han mostrado la verdadera cara de Altman y su relación con el jefe de Tesla. Uno de ellos es su cof",
+      "url": "https://hipertextual.com/inteligencia-artificial/elon-musk-salida-openai-2017/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/10/elon-musk-sam-altman.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-06T21:00:00.000Z",
+      "fechaAgregada": "2026-05-07T10:24:41.620Z"
+    },
+    {
+      "id": "1a431e60-2b19-43a5-956c-69cde3b30d9b",
+      "titulo": "La IA de Anthropic (Claude) ya es capaz de «soñar» para aprender sola",
+      "resumen": "Anthropic acaba de anunciar una actualización para sus agentes de IA que cambia la forma en que los sistemas aprenden. La empresa detrás de Claude reveló varias funciones a Managed Agents, su infraestructura para ejecutar agentes de forma autónoma. La más llamativa tiene un nombre que no esperarías",
+      "url": "https://hipertextual.com/inteligencia-artificial/agentes-ia-anthropic-dreaming/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/agente-ia.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-06T19:30:00.000Z",
+      "fechaAgregada": "2026-05-07T10:24:41.620Z"
+    },
+    {
+      "id": "f7c4335b-dcea-4487-973b-2ac67d20d74b",
+      "titulo": "Anthropic duplica los límites de uso de Claude Code y elimina una de sus restricciones más polémicas",
+      "resumen": "Anthropic acaba de anunciar una alianza con SpaceX para obtener más poder de cómputo a través de Colossus 1, el centro de datos en el que la firma aeroespacial de Elon Musk cuenta con más de 220.000 tarjetas gráficas de NVIDIA. Gracias a esto, la startup duplicará los límites de uso de Claude Code y",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-duplica-limites-de-uso-claude-code/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/09/claude-code-1.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-06T18:30:00.000Z",
+      "fechaAgregada": "2026-05-07T10:24:41.620Z"
+    },
+    {
+      "id": "f6645d47-7c7c-41c0-80b8-5a27409ea016",
+      "titulo": "Google transforma su búsqueda con IA: ahora incluye aportes de Reddit y redes sociales",
+      "resumen": "Google ha lanzado una actualización para la búsqueda con la que intenta mejorar la experiencia al usar la inteligencia artificial. La versión más reciente incluye cambios tanto en los resúmenes de IA como el Modo IA, los cuales mostrarán enlaces y fuentes. Algunos de estos ajustes van directamente a",
+      "url": "https://hipertextual.com/internet/google-busqueda-modo-ia-foros-redes-sociales/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/05/google-modo-ia-gemini.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-06T17:36:04.000Z",
+      "fechaAgregada": "2026-05-07T10:24:41.620Z"
+    },
+    {
+      "id": "b9471b7d-9cf4-4f33-be75-7065ea203a38",
+      "titulo": "NVIDIA lleva DLSS 4.5 a nuevos juegos y refuerza sus herramientas de IA",
+      "resumen": "NVIDIA lleva años haciendo que RTX deje de percibirse únicamente como una colección de efectos gráficos avanzados para videojuegos. El trazado de rayos y DLSS fueron el punto de partida, sí, pero con el tiempo la compañía ha ido construyendo algo bastante más amplio alrededor de esa idea inicial: un",
+      "url": "https://www.muycomputer.com/2026/05/06/nvidia-lleva-dlss-4-5-a-nuevos-juegos-y-refuerza-sus-herramientas-de-ia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/NVIDIA-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-06T16:43:05.000Z",
+      "fechaAgregada": "2026-05-07T10:24:48.450Z"
+    },
+    {
+      "id": "d9265346-bb44-48c1-bc0c-343964af15a6",
+      "titulo": "Vigila tu casa o negocio con estas cámaras de seguridad en oferta",
+      "resumen": "Si necesitas mejorar la seguridad de tu vivienda o negocio, una opción muy útil es la de contar con cámaras de seguridad. En este artículo, vamos a hablarte de algunas ofertas que puedes encontrar en tiendas como Amazon o PcComponentes. Te hablaremos de las principales características de cada una de",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-vigilancia-0526/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/camaras-seguridad-oferta.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-06T15:25:22.000Z",
+      "fechaAgregada": "2026-05-07T10:24:46.546Z"
+    },
+    {
+      "id": "ceef35ff-efa4-470f-84b1-1214953b111a",
+      "titulo": "Hay chats privados de IA en abierto por internet: los crecientes riesgos para la privacidad de los principales chatbots",
+      "resumen": "Una investigación descubre cómo el rastreo publicitario habitual en la web se ha colado ya en ChatGPT, Claude o Grok",
+      "url": "https://elpais.com/tecnologia/2026-05-05/hay-chats-privados-de-ia-en-abierto-por-internet-los-crecientes-riesgos-para-la-privacidad-de-los-principales-chatbots.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KIEOADZF5RHTZNMIWWGWQU2FTI.jpg?auth=0135da24fdeda09a2681e963639ca4edc5226b09dcbd69879f59c2f0e83761b9",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T11:51:32.000Z",
+      "fechaAgregada": "2026-05-07T10:24:42.772Z"
+    },
+    {
+      "id": "3319fd21-3001-47ce-96af-711bd63772ff",
+      "titulo": "Mistral, la IA europea, sólida y soberana",
+      "resumen": "La semana del 28 de abril de 2026 ha sido importante para la IA soberana en Europa. En 48 horas, Mistral AI, la empresa de Inteligencia Artificial europea más importante y competitiva, ejecutó tres movimientos simultáneos que redefinen su posición en el terreno de juego de la IA empresarial: el lanz",
+      "url": "https://www.muycomputer.com/2026/05/05/mistral-la-ia-europea-solida-y-soberana/",
+      "imagen": "https://picsum.photos/seed/155/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T10:18:24.000Z",
+      "fechaAgregada": "2026-05-07T10:24:48.450Z"
+    },
+    {
+      "id": "240d8fe0-9c67-429f-9cc5-f7c38f1abcdf",
+      "titulo": "Este nuevo kit hace mucho más sencillo que los atacantes roben contraseñas y datos",
+      "resumen": "El Phishing es un problema importante que puede comprometer la seguridad de los datos y contraseñas en Internet. Con el paso del tiempo, los piratas informáticos han ido adaptando sus ataques para lograr una mayor probabilidad de éxito. En este artículo, vamos a hablarte de un nuevo kit de Phishing",
+      "url": "https://www.redeszone.net/noticias/seguridad/nuevo-kit-phishing-robo-contrasenas/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/imagen-representa-phishing.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T09:12:14.000Z",
+      "fechaAgregada": "2026-05-07T10:24:46.547Z"
+    },
+    {
+      "id": "3fa12d71-b471-49bc-9bca-b6ebc44f7df3",
+      "titulo": "AMD mira al espacio: la inteligencia artificial más allá de la Tierra",
+      "resumen": "Hay momentos en los que la tecnología deja de expandirse en profundidad para empezar a hacerlo en dirección literal. La inteligencia artificial lleva años creciendo dentro de centros de datos cada vez más potentes, pero también ha ido acercándose progresivamente al “edge”, a ese punto donde los dato",
+      "url": "https://www.muycomputer.com/2026/05/05/amd-mira-al-espacio-la-inteligencia-artificial-mas-alla-de-la-tierra/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/AMD-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T06:02:14.000Z",
+      "fechaAgregada": "2026-05-07T10:24:48.450Z"
+    },
+    {
+      "id": "7f2b7c0d-5c37-4237-bdad-078e16501c2b",
+      "titulo": "Las erratas como símbolo de prestigio: cómo escribir para que no parezca IA",
+      "resumen": "La popularidad de herramientas como ChatGPT ha provocado que muchos autores escriban con errores y dejadez para parecer más humanos",
+      "url": "https://elpais.com/tecnologia/2026-05-05/las-erratas-como-simbolo-de-prestigio-como-escribir-para-que-no-parezca-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XI54OPXTSBELBEEKWF623C7WXM.jpg?auth=54313235e42e63ea7e66152f478148607885e2e70df515320fbc4760bf4546fa",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T03:30:01.000Z",
+      "fechaAgregada": "2026-05-07T10:24:42.772Z"
+    },
+    {
+      "id": "1444b9f5-6025-43c3-a8f8-f0c4078c6819",
+      "titulo": "Luchas de poder, avaricia, guerra y ‘tecnofascismo’: la IA se quita la careta",
+      "resumen": "Los nuevos acuerdos del Pentágono con las grandes tecnológicas y el juicio de OpenAI que enfrenta a los magnates tumban el discurso de la industria sobre una inteligencia artificial pensada para salvar a la humanidad",
+      "url": "https://elpais.com/tecnologia/2026-05-03/luchas-de-poder-avaricia-guerra-y-tecnofascismo-la-ia-se-quita-la-careta.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TXSPA4AOVFNR3MZMMJFWUJUPPI.jpg?auth=1601e6af3b9da9824d9a2bc43d55a59b564456d6d0d41a4eda33dc556db052af",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-03T03:30:00.000Z",
+      "fechaAgregada": "2026-05-07T10:24:42.772Z"
+    },
+    {
+      "id": "c4f993b9-ea2e-4cf6-8150-4509ae93cd8f",
+      "titulo": "Por qué a la IA le gustan tanto los duendecillos y Japón",
+      "resumen": "OpenAI ha tenido que suprimir la fascinación de ChatGPT por las criaturas fantásticas, pero no es el único sesgo que emerge en estos chatbots",
+      "url": "https://elpais.com/tecnologia/2026-05-02/por-que-a-la-ia-le-gustan-tanto-los-duendecillos-y-japon.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I3W3ZTYIBZA63PLPY7BBBJZQDY.jpg?auth=8a44ff366b1a1c1252e0280547f82c56a3fe0b66d039a4797ae3a1c08e22d73c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-02T03:30:01.000Z",
+      "fechaAgregada": "2026-05-07T10:24:42.772Z"
+    },
+    {
+      "id": "74667585-e111-478b-ae79-811ee229a47b",
+      "titulo": "El juicio de OpenAI revela las contradicciones de Elon Musk: “No leí la letra pequeña, solo el titular”",
+      "resumen": "En el último día de la declaración del dueño de Tesla y SpaceX, el empresario responde a las preguntas de los abogados de Sam Altman sobre su salida de la compañía de IA",
+      "url": "https://elpais.com/tecnologia/2026-04-30/el-juicio-de-openai-revela-las-contradicciones-de-elon-musk-no-lei-la-letra-pequena-solo-el-titular.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VJ7EQ6LN5BJDXHLAH3OZCKKSUU.jpg?auth=8e7d5cae4caf8b3153b43c72418fc9988b3130fc57d47576f996fea6226abfec",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T18:57:49.000Z",
+      "fechaAgregada": "2026-05-07T10:24:42.772Z"
+    },
+    {
+      "id": "c0812bb9-8abf-40e0-9a4a-4b1846e95c86",
+      "titulo": "Elon Musk, en su segundo día de juicio de OpenAI: “Fui un idiota por financiarles”",
+      "resumen": "El multimillonario se presenta como el hombre que busca salvar a la humanidad de los especuladores de la inteligencia artificial y se enfada cuando los abogados de Altman insisten en su relación con Trump",
+      "url": "https://elpais.com/tecnologia/2026-04-29/elon-musk-se-debate-entre-la-candidez-y-la-ira-en-su-segundo-dia-de-juicio-sin-mi-openai-no-existiria.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VGBCSOA2ZROCDLZBWL2KNNIXFY.jpg?auth=f71d41a1d102b4e5e617a45ef75959a1f091cb0154c8d7d67cf61531928140d4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T06:43:15.000Z",
+      "fechaAgregada": "2026-05-07T10:24:42.772Z"
+    },
+    {
+      "id": "85c6e989-e6a5-402b-b111-365f4655f202",
+      "titulo": "Elon Musk, en la primera jornada del juicio contra OpenAI: “Podría matarnos a todos. No queremos un ‘Terminator”",
+      "resumen": "El fundador de Tesla y SpaceX relata sus inicios en la empresa de inteligencia artificial, los miedos sobre el futuro y su oposición a que tenga ánimo de lucro",
+      "url": "https://elpais.com/tecnologia/2026-04-28/elon-musk-testigo-y-protagonista-de-la-primera-jornada-del-juicio-contra-openai-podria-matarnos-a-todos-no-queremos-un-terminator.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DB3BO62FUZJQ7AUXIPQJT4KZ2M.jpg?auth=c0076455258149ccb6b5462d4555d762f8a45912c214f9032bb6f8700869ce69",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-28T22:40:04.000Z",
+      "fechaAgregada": "2026-05-07T10:24:42.772Z"
+    },
+    {
+      "id": "7dd82c12-20fe-46ec-9e98-5e9b7889a017",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-07T10:24:42.608Z"
+    },
+    {
+      "id": "7167eba5-5043-423f-9fff-11d394edd02f",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-07T10:24:42.609Z"
+    },
+    {
+      "id": "77402027-d100-4fa8-80bb-b6909571f0b9",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-07T10:24:42.609Z"
+    }
+  ]
+}
