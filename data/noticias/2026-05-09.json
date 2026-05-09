@@ -1,0 +1,271 @@
+{
+  "fecha": "2026-05-09",
+  "generado": "2026-05-09T09:20:02.621Z",
+  "total": 24,
+  "noticias": [
+    {
+      "id": "024aa93f-3ace-43e0-8b73-7954033ccc0e",
+      "titulo": "Por fin: ChatGPT va a eliminar esto que todo el mundo odia y que era imposible quitar",
+      "resumen": "OpenAI está haciendo múltiples cambios en ChatGPT gracias a la llegada de un nuevo modelo: GPT-5.5 Instant. Esta versión presume de ser más directa con las respuestas, así como más inteligente y con un 52,5% menos de afirmaciones incorrectas que su predecesor en consultas sobre medicina, derecho y f",
+      "url": "https://hipertextual.com/tecnologia/por-fin-chatgpt-va-a-eliminar-esto-que-todo-el-mundo-odia-y-que-era-imposible-quitar/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/gpt-5-5-openai.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-09T09:00:00.000Z",
+      "fechaAgregada": "2026-05-09T09:19:56.609Z"
+    },
+    {
+      "id": "501f52f0-f0e4-40d9-820b-f9beec0f96ce",
+      "titulo": "Codex se actualiza y ahora puede tomar el control de Chrome en tu Mac y PC con Windows",
+      "resumen": "Codex acaba de dar un salto importante en su capacidad para trabajar dentro del navegador. El asistente de programación de OpenAI ya cuenta con una extensión que le permite operar directamente en tu sesión activa. La IA aprovecha tu perfil para trabajar en múltiples páginas, usar herramientas, gesti",
+      "url": "https://hipertextual.com/inteligencia-artificial/codex-extension-chrome-windows-macos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/codex-chrome-portada.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-08T19:11:35.000Z",
+      "fechaAgregada": "2026-05-09T09:19:56.609Z"
+    },
+    {
+      "id": "fd0fe259-7da8-4722-82a2-3bf3544f6aba",
+      "titulo": "El nuevo orden de la IA en 2026: Claude triplica cuota, Gemini crece un 643%, ChatGPT pierde 20 puntos",
+      "resumen": "Pese a que ChatGPT fue la IA de la que más se habló al inicio de esta nueva tecnología, otras grandes empresas como Google o Anthropic no quisieron quedarse atrás, y comenzaron a desarrollar las suyas para intentar que la gente olvidase a ChatGPT y probase estas.\nY parece que lo han conseguido, ya q",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/nuevo-orden-ia-claude-gemini-chatgpt-crecimiento/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2025/12/chatgpt.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-08T19:00:24.000Z",
+      "fechaAgregada": "2026-05-09T09:20:01.626Z"
+    },
+    {
+      "id": "b5931c33-6432-484b-8b1d-a7bf4c41b532",
+      "titulo": "Claude vuelve a cambiar sus límites y restringe los chats muy largos",
+      "resumen": "Hace tres días, te contábamos que Claude se había aliado con SpaceX y esta noticia iba a tener un impacto directo en el usuario, puesto que se ampliaban los límites de manera considerable. Ahora, sabemos que está restringiendo por sorpresa los chats que son demasiado largos, incluso si se respetan l",
+      "url": "https://www.adslzone.net/noticias/ia/claude-cambia-limites-chats-largos/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/05/claude-mensaje-error-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-08T18:47:41.000Z",
+      "fechaAgregada": "2026-05-09T09:19:59.821Z"
+    },
+    {
+      "id": "f30e734d-bd23-42df-b01c-f7795ed3a70e",
+      "titulo": "007 First Light (27 mayo): IO Interactive promete 300 FPS con DLSS 4.5",
+      "resumen": "IO Interactive, la misma compañía que nos trajo Hitman, está a punto de lanzar su próximo proyecto, llamado 007 First Light. Este juego, en el que se centrará en James Bond, veremos situaciones que se pueden resolver de muchas formas diferentes. \nEl título está generando mucho interés por los datos",
+      "url": "https://hardzone.es/noticias/juegos/007-first-light-27-mayo-io-interactive-promete-300-fps-dlss/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/007.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-08T14:32:24.000Z",
+      "fechaAgregada": "2026-05-09T09:20:01.626Z"
+    },
+    {
+      "id": "bdbdbfae-70d5-43f9-921a-8f028ad84cdc",
+      "titulo": "Los expertos explican cómo están usando texto oculto para estafarte por Internet",
+      "resumen": "Los piratas informáticos utilizan muchas técnicas distintas para lograr su objetivo de atacar a las víctimas, robar datos o contraseñas. Con el paso del tiempo, han ido adaptándose para lograr eludir las medidas de seguridad. En este artículo, vamos a hablar de cómo están utilizando texto oculto par",
+      "url": "https://www.redeszone.net/noticias/seguridad/expertos-alertan-texto-oculto-estafar-internet/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/alerta-correo-falso.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-08T09:11:37.000Z",
+      "fechaAgregada": "2026-05-09T09:20:00.791Z"
+    },
+    {
+      "id": "a8440d90-92ae-49d0-bcb5-9ddaadde30b2",
+      "titulo": "La polémica con Gemini Nano: Chrome instala un modelo de IA sin tu consentimiento",
+      "resumen": "Si utilizas el navegador Google Chrome es altamente probable que estés ejecutando un modelo de IA local para Gemini Nano de 4 Gbytes sin tu conocimiento, ni consentimiento. Y si lo desinstalas por los métodos habituales, Chrome lo vuelve a instalar. La polémica ha saltado al gran público por un info",
+      "url": "https://www.muycomputer.com/2026/05/08/la-polemica-con-gemini-nano-chrome-instala-un-modelo-de-ia-sin-tu-consentimiento/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/Gemini_Nano_2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-08T06:26:08.000Z",
+      "fechaAgregada": "2026-05-09T09:20:02.621Z"
+    },
+    {
+      "id": "d01fd7d6-eb40-4843-aa7f-8d0fdead9c7e",
+      "titulo": "Así es la nueva función de Windows 11 que mejorará su rendimiento en un 70%",
+      "resumen": "Más vale tarde que nunca. A Microsoft le ha costado muchos años darse cuenta de que estaba siguiendo el camino equivocado con Windows 11. Afortunadamente, no solo ha reconocido su error, sino que, además, ahora ha pisado el acelerador para tratar de recuperar la confianza de los usuarios que siempre",
+      "url": "https://hardzone.es/noticias/equipos/windows-11-mejorar-70-rendimiento-metodo/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/portatil-windows-11-3.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-08T06:05:58.000Z",
+      "fechaAgregada": "2026-05-09T09:20:01.627Z"
+    },
+    {
+      "id": "047ca346-c0d3-40dc-bf06-d4fd6bd30c1e",
+      "titulo": "Blink tiene nuevos timbres inteligentes para que controles quién llama a tu puerta",
+      "resumen": "Blink ha lanzado nuevos timbres inteligentes que permiten a los usuarios controlar mejor quién llama a la puerta. Vamos a hablarte de ello en este artículo. Te explicaremos cuáles son estos modelos, sus características principales y de qué manera puede ayudarte en tu día a día. Estamos ante una de l",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/blink-nuevos-timbres-inteligentes/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/timbre-inteligente-blink.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-07T15:21:57.000Z",
+      "fechaAgregada": "2026-05-09T09:20:00.791Z"
+    },
+    {
+      "id": "d99c5b69-f328-4c62-97d3-4f8bd4ba7b97",
+      "titulo": "Estas son las mejoras que llegan a Google Home para tu casa inteligente",
+      "resumen": "Google Home es la plataforma de domótica que pertenece a Google. Permite gestionar dispositivos inteligentes de forma sencilla, ya sea por comandos de voz o aplicación de móvil. Con esto, podrás encender y apagar aparatos desde fuera de casa, por ejemplo. Ahora, han presentado importantes novedades",
+      "url": "https://www.redeszone.net/noticias/hogar/mejoras-google-home-casa-inteligente/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/dispositivo-google-home.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-07T14:04:22.000Z",
+      "fechaAgregada": "2026-05-09T09:20:00.791Z"
+    },
+    {
+      "id": "b1f86e16-1c0e-4a08-9dbf-3f8a9cc7fbf2",
+      "titulo": "Ya es oficial: Instagram y Facebook escanean las fotos con IA para saber si eres mayor de edad",
+      "resumen": "Meta quiere controlar el uso de sus redes sociales Instagram y Facebook, para evitar que accedan menores de edad. Va a implementar el uso de Inteligencia Artificial para que escanee las fotos y así detectar la edad del usuario. Lo que hace este sistema es estimar, a través de análisis de las caracte",
+      "url": "https://www.redeszone.net/noticias/redes/meta-escanea-fotos-ia-edad/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/logo-facebook-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-07T11:06:45.000Z",
+      "fechaAgregada": "2026-05-09T09:20:00.791Z"
+    },
+    {
+      "id": "6169b112-a645-4f53-ad79-845ab783ddc8",
+      "titulo": "PCIe 8.0 promete velocidades de SSD hasta 120.000 Mbytes por segundo",
+      "resumen": "La organización industrial PCI-SIG ha publicado la primera versión de PCIe 8.0. La versión preliminar 0.5 de la especificación que definirá la norma ya está en manos de sus miembros y apunta a velocidades más rápidas, mayor compatibilidad y otras mejoras centradas en el uso de la inteligencia artifi",
+      "url": "https://www.muycomputer.com/2026/05/07/pcie-8-0-promete-velocidades-de-ssd-hasta-120-000-mbytes-por-segundo/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/PCIe_8.0_2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-07T10:41:45.000Z",
+      "fechaAgregada": "2026-05-09T09:20:02.621Z"
+    },
+    {
+      "id": "aecb9cc1-b3d9-4e34-a638-3d7cb74ef512",
+      "titulo": "LG UltraGear 39GX950B, el OLED más avanzado para juegos",
+      "resumen": "LG UltraGear 39GX950B es el nuevo monitor que la firma surcoreana ha lanzado en España. Promocionado como el primer monitor OLED curvo de 39 pulgadas con resolución 5K2K del mundo, combina lo mejor de esta tecnología con innovaciones de Inteligencia Artificial integradas, conectividad de última gene",
+      "url": "https://www.muycomputer.com/2026/05/07/lg-ultragear-39gx950b-el-oled-mas-avanzado-para-juegos/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/LG_UltraGear_39GX950B_5.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-07T07:34:41.000Z",
+      "fechaAgregada": "2026-05-09T09:20:02.621Z"
+    },
+    {
+      "id": "dd129929-a839-453b-a3dc-1d44ee050259",
+      "titulo": "NVIDIA lleva DLSS 4.5 a nuevos juegos y refuerza sus herramientas de IA",
+      "resumen": "NVIDIA lleva años haciendo que RTX deje de percibirse únicamente como una colección de efectos gráficos avanzados para videojuegos. El trazado de rayos y DLSS fueron el punto de partida, sí, pero con el tiempo la compañía ha ido construyendo algo bastante más amplio alrededor de esa idea inicial: un",
+      "url": "https://www.muycomputer.com/2026/05/06/nvidia-lleva-dlss-4-5-a-nuevos-juegos-y-refuerza-sus-herramientas-de-ia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/NVIDIA-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-06T16:43:05.000Z",
+      "fechaAgregada": "2026-05-09T09:20:02.621Z"
+    },
+    {
+      "id": "579e216c-0e7d-4a80-9be5-db7b83a3473e",
+      "titulo": "Vigila tu casa o negocio con estas cámaras de seguridad en oferta",
+      "resumen": "Si necesitas mejorar la seguridad de tu vivienda o negocio, una opción muy útil es la de contar con cámaras de seguridad. En este artículo, vamos a hablarte de algunas ofertas que puedes encontrar en tiendas como Amazon o PcComponentes. Te hablaremos de las principales características de cada una de",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-vigilancia-0526/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/camaras-seguridad-oferta.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-06T15:25:22.000Z",
+      "fechaAgregada": "2026-05-09T09:20:00.791Z"
+    },
+    {
+      "id": "97ff7ac6-1461-4581-8b45-ddf25c4deb2c",
+      "titulo": "Hay chats privados de IA en abierto por internet: los crecientes riesgos para la privacidad de los principales chatbots",
+      "resumen": "Una investigación descubre cómo el rastreo publicitario habitual en la web se ha colado ya en ChatGPT, Claude o Grok",
+      "url": "https://elpais.com/tecnologia/2026-05-05/hay-chats-privados-de-ia-en-abierto-por-internet-los-crecientes-riesgos-para-la-privacidad-de-los-principales-chatbots.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KIEOADZF5RHTZNMIWWGWQU2FTI.jpg?auth=0135da24fdeda09a2681e963639ca4edc5226b09dcbd69879f59c2f0e83761b9",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T11:51:32.000Z",
+      "fechaAgregada": "2026-05-09T09:19:57.507Z"
+    },
+    {
+      "id": "5c1f6591-73c2-4c6c-8196-94e58d64280d",
+      "titulo": "Las erratas como símbolo de prestigio: cómo escribir para que no parezca IA",
+      "resumen": "La popularidad de herramientas como ChatGPT ha provocado que muchos autores escriban con errores y dejadez para parecer más humanos",
+      "url": "https://elpais.com/tecnologia/2026-05-05/las-erratas-como-simbolo-de-prestigio-como-escribir-para-que-no-parezca-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XI54OPXTSBELBEEKWF623C7WXM.jpg?auth=54313235e42e63ea7e66152f478148607885e2e70df515320fbc4760bf4546fa",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T03:30:01.000Z",
+      "fechaAgregada": "2026-05-09T09:19:57.507Z"
+    },
+    {
+      "id": "777b48c2-090c-4e9a-b39e-9572f30dc8a2",
+      "titulo": "Luchas de poder, avaricia, guerra y ‘tecnofascismo’: la IA se quita la careta",
+      "resumen": "Los nuevos acuerdos del Pentágono con las grandes tecnológicas y el juicio de OpenAI que enfrenta a los magnates tumban el discurso de la industria sobre una inteligencia artificial pensada para salvar a la humanidad",
+      "url": "https://elpais.com/tecnologia/2026-05-03/luchas-de-poder-avaricia-guerra-y-tecnofascismo-la-ia-se-quita-la-careta.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TXSPA4AOVFNR3MZMMJFWUJUPPI.jpg?auth=1601e6af3b9da9824d9a2bc43d55a59b564456d6d0d41a4eda33dc556db052af",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-03T03:30:00.000Z",
+      "fechaAgregada": "2026-05-09T09:19:57.508Z"
+    },
+    {
+      "id": "9fa74e53-8097-4e96-8019-22ee1dbdc933",
+      "titulo": "Por qué a la IA le gustan tanto los duendecillos y Japón",
+      "resumen": "OpenAI ha tenido que suprimir la fascinación de ChatGPT por las criaturas fantásticas, pero no es el único sesgo que emerge en estos chatbots",
+      "url": "https://elpais.com/tecnologia/2026-05-02/por-que-a-la-ia-le-gustan-tanto-los-duendecillos-y-japon.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I3W3ZTYIBZA63PLPY7BBBJZQDY.jpg?auth=8a44ff366b1a1c1252e0280547f82c56a3fe0b66d039a4797ae3a1c08e22d73c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-02T03:30:01.000Z",
+      "fechaAgregada": "2026-05-09T09:19:57.508Z"
+    },
+    {
+      "id": "def27caf-538d-45d5-bc33-c16da52d90e7",
+      "titulo": "El juicio de OpenAI revela las contradicciones de Elon Musk: “No leí la letra pequeña, solo el titular”",
+      "resumen": "En el último día de la declaración del dueño de Tesla y SpaceX, el empresario responde a las preguntas de los abogados de Sam Altman sobre su salida de la compañía de IA",
+      "url": "https://elpais.com/tecnologia/2026-04-30/el-juicio-de-openai-revela-las-contradicciones-de-elon-musk-no-lei-la-letra-pequena-solo-el-titular.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VJ7EQ6LN5BJDXHLAH3OZCKKSUU.jpg?auth=8e7d5cae4caf8b3153b43c72418fc9988b3130fc57d47576f996fea6226abfec",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T18:57:49.000Z",
+      "fechaAgregada": "2026-05-09T09:19:57.508Z"
+    },
+    {
+      "id": "f1551f29-706a-4674-8bca-957147968ebc",
+      "titulo": "Elon Musk, en su segundo día de juicio de OpenAI: “Fui un idiota por financiarles”",
+      "resumen": "El multimillonario se presenta como el hombre que busca salvar a la humanidad de los especuladores de la inteligencia artificial y se enfada cuando los abogados de Altman insisten en su relación con Trump",
+      "url": "https://elpais.com/tecnologia/2026-04-29/elon-musk-se-debate-entre-la-candidez-y-la-ira-en-su-segundo-dia-de-juicio-sin-mi-openai-no-existiria.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VGBCSOA2ZROCDLZBWL2KNNIXFY.jpg?auth=f71d41a1d102b4e5e617a45ef75959a1f091cb0154c8d7d67cf61531928140d4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-04-30T06:43:15.000Z",
+      "fechaAgregada": "2026-05-09T09:19:57.508Z"
+    },
+    {
+      "id": "0d769faf-25ac-4fad-b929-59bed9610c93",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-09T09:19:57.400Z"
+    },
+    {
+      "id": "1e636670-ff7d-4aef-bb70-1a73623db598",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-09T09:19:57.400Z"
+    },
+    {
+      "id": "e6d80b9b-2c50-4889-b0e2-b30320c242e5",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-09T09:19:57.400Z"
+    }
+  ]
+}
