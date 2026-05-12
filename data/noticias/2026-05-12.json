@@ -1,0 +1,194 @@
+{
+  "fecha": "2026-05-12",
+  "generado": "2026-05-12T10:32:05.430Z",
+  "total": 17,
+  "noticias": [
+    {
+      "id": "38e91f1e-166a-4b89-bf91-2e6de3cce40c",
+      "titulo": "El dominio de TSMC se está resquebrajando: AMD ha tomado una decisión que hasta ahora parecía imposible",
+      "resumen": "Lisa Su, la directora general de AMD, visitó el campus de Samsung en Pyeongtaek  (Corea del Sur) en marzo. En ese momento algunos medios de comunicación asiáticos barajaron la posibilidad de que el propósito de esta visita fuese negociar un acuerdo sobre el nodo de 2 nm de este fabricante de semicon",
+      "url": "https://www.xataka.com/empresas-y-economia/dominio-tsmc-se-esta-resquebrajando-amd-ha-tomado-decision-que-ahora-parecia-imposible",
+      "imagen": "https://i.blogs.es/8c8352/amd-ap/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T10:00:27.000Z",
+      "fechaAgregada": "2026-05-12T10:32:01.522Z"
+    },
+    {
+      "id": "0f76895b-d07d-48fc-b226-a8e98909db7b",
+      "titulo": "La nueva IA de Google va a revolucionar el vídeo: así es Omni, el sustituto de Veo con resultados nunca antes vistos",
+      "resumen": "Google está a punto de transformar Gemini (otra vez) y de plantar cara a Seedance. Y no lo va a hacer con Veo, sino con Omni, su nuevo modelo de generación de vídeo que ya ha demostrado resultados impresionantes. La compañía planea lanzar esta nueva IA durante el Google I/O de 2026, pero ya conocemo",
+      "url": "https://hipertextual.com/inteligencia-artificial/la-nueva-ia-de-google-va-a-revolucionar-el-video-asi-es-omni-el-sustituto-de-veo-con-resultados-nunca-antes-vistos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/gemini-omni.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T09:35:14.000Z",
+      "fechaAgregada": "2026-05-12T10:32:01.684Z"
+    },
+    {
+      "id": "9f20b771-cce3-4be1-afa9-e9890cbee513",
+      "titulo": "El director ejecutivo de Microsoft defiende el “riesgo” que tomó al invertir en OpenAI",
+      "resumen": "Satya Nadella asegura que “nadie más estaba dispuesto” a apostar por una empresa que entonces era emergente y que ahora se juega su futuro por la demanda entablada por Elon Musk",
+      "url": "https://elpais.com/tecnologia/2026-05-12/el-director-ejecutivo-de-microsoft-defiende-el-riesgo-que-tomo-al-invertir-en-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KKA6QAGFWVKZ5KCVGCYEOLGXBM.jpg?auth=a7d806c5c7d72eac0a19b524a7c1259693b941a1f93c76f3a543702da0f60c03",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T08:11:48.000Z",
+      "fechaAgregada": "2026-05-12T10:32:02.609Z"
+    },
+    {
+      "id": "1fb2bda1-dbcb-4493-ad1b-09e24553c847",
+      "titulo": "El mundo está intentando desconectarse de la tecnología de EEUU. Hay un problema fundamental: estamos demasiado cómodos con ella",
+      "resumen": "El mundo entero lleva décadas enteresa supeditada al poderío tecnológico estadounidense. Sus empresas y servicios se han convertido en el estándar de facto en  la industria, pero en los últimos meses el panorama ha cambiado. Países de todo el mundo están dándose cuenta de que sus intereses y los de",
+      "url": "https://www.xataka.com/empresas-y-economia/mundo-esta-intentando-desconectarse-tecnologia-eeuu-hay-problema-fundamental-estamos-demasiado-comodos-ella",
+      "imagen": "https://i.blogs.es/edc4e3/usa/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T07:00:26.000Z",
+      "fechaAgregada": "2026-05-12T10:32:01.523Z"
+    },
+    {
+      "id": "fd3c85d8-16ec-47ed-b8bd-d77046cc5f6b",
+      "titulo": "OpenAI lanza un dardo a Anthropic: así es Daybreak, el rival de Claude Mythos",
+      "resumen": "La carrera de la Inteligencia Artificial está regalándonos una gran cantidad de movimientos por parte de las principales empresas del sector que se desafían unas a otras lanzando nuevos y evolucionados modelos. El último gran objetivo es hacerse con el liderazgo de la ciberseguridad, y OpenAI ya tie",
+      "url": "https://www.adslzone.net/noticias/ia/openai-lanza-daybreak-competir-claude-myhtos/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/05/persona-usando-chatgpt-daybreak-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T05:37:54.000Z",
+      "fechaAgregada": "2026-05-12T10:32:03.283Z"
+    },
+    {
+      "id": "942ac5ad-5dc1-432b-a756-95c194eee820",
+      "titulo": "Google descubre el primer ciberataque construido con inteligencia artificial",
+      "resumen": "La IA dejó de ser una distracción para convertirse en una herramienta de ataque real para los hackers experimentados. Prueba de ello es que Google confirmó que ha interceptado el primer exploit zero-day creado con inteligencia artificial del que tiene registro. El objetivo de los atacantes era compr",
+      "url": "https://hipertextual.com/seguridad/google-descubre-el-primer-ciberataque-construido-con-inteligencia-artificial/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/01/hackers-contrasenas-microsoft-office-365-1-scaled.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-11T17:46:00.000Z",
+      "fechaAgregada": "2026-05-12T10:32:01.684Z"
+    },
+    {
+      "id": "10b0fcb5-dfb1-4339-b035-c3e59f264713",
+      "titulo": "Drogas, espías, un diario secreto y Altman suplicando a Microsoft: el juicio Musk-Altman está dando un espectáculo lamentable",
+      "resumen": "El juicio de Elon Musk contra OpenAI (mejor dicho, contra Sam Altman) está siendo el culebrón del año en el universo tech. La principal acusación es que OpenAI violó su acuerdo fundacional de ser una organización sin ánimo de lucro, pero la rivalidad entre sus dos protagonistas va mucho más allá del",
+      "url": "https://www.xataka.com/empresas-y-economia/juicio-musk-altman-esta-dando-espectaculo-que-prometia-culebron-trapos-sucios-que-ninguno-sale-bien-parado",
+      "imagen": "https://i.blogs.es/412071/1200_800--1-/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-11T17:30:26.000Z",
+      "fechaAgregada": "2026-05-12T10:32:01.524Z"
+    },
+    {
+      "id": "e06be432-1538-4a86-9a50-a09336539d00",
+      "titulo": "OLED, Ryzen 7, IA, 32 GB, 1 TB y Windows 11: 200 euros de descuento en este portátil de ASUS",
+      "resumen": "Debido al elevado precio de la RAM y de las unidades SSD, no cabe ninguna duda de que 2026 no es un buen año para renovar o ampliar el PC o cambiar el portátil siempre y cuando no aprovechemos una oferta que realmente merezca la pena.\nSi estás buscando un nuevo equipo portátil, quieres un equipo que",
+      "url": "https://hardzone.es/ofertas/mix/portatil-asus-vivobook-s14-0526/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/portatil-asus-vivobook-s14-4.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-11T15:55:44.000Z",
+      "fechaAgregada": "2026-05-12T10:32:04.659Z"
+    },
+    {
+      "id": "b46723ac-2532-46ea-9534-b162ffcb7c4d",
+      "titulo": "Sony y Bandai Namco impulsan la IA generativa en PlayStation",
+      "resumen": "La inteligencia artificial ha dejado de ser una promesa futurista dentro de la industria del videojuego. Poco a poco, casi sin hacer demasiado ruido, se está convirtiendo en parte estructural de cómo se crean, distribuyen y hasta recomiendan los juegos modernos. Y ahora PlayStation acaba de dejar ba",
+      "url": "https://www.muycomputer.com/2026/05/10/sony-y-bandai-namco-impulsan-la-ia-generativa-en-playstation/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/PlayStation-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-10T15:45:46.000Z",
+      "fechaAgregada": "2026-05-12T10:32:05.429Z"
+    },
+    {
+      "id": "c24e0f76-7476-4808-9708-cf24a83407f9",
+      "titulo": "OpenAI intenta que ChatGPT deje de parecer un becario hiperactivo 🤖",
+      "resumen": "ChatGPT lleva ya bastante tiempo dejando claro que el gran reto de las inteligencias artificiales modernas no consiste únicamente en responder bien, sino también en encontrar el tono adecuado. Porque sí, los modelos actuales son más rápidos, más inteligentes y más precisos que nunca, pero durante lo",
+      "url": "https://www.muycomputer.com/2026/05/10/openai-intenta-que-chatgpt-deje-de-parecer-un-becario-hiperactivo-%f0%9f%a4%96/",
+      "imagen": "https://s.w.org/images/core/emoji/16.0.1/72x72/2705.png",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-10T11:02:00.000Z",
+      "fechaAgregada": "2026-05-12T10:32:05.429Z"
+    },
+    {
+      "id": "b3f285c6-a13c-4955-b59c-7fc9835a6f0b",
+      "titulo": "Hay chats privados de IA en abierto por internet: los crecientes riesgos para la privacidad de los principales chatbots",
+      "resumen": "Una investigación descubre cómo el rastreo publicitario habitual en la web se ha colado ya en ChatGPT, Claude o Grok",
+      "url": "https://elpais.com/tecnologia/2026-05-05/hay-chats-privados-de-ia-en-abierto-por-internet-los-crecientes-riesgos-para-la-privacidad-de-los-principales-chatbots.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KIEOADZF5RHTZNMIWWGWQU2FTI.jpg?auth=0135da24fdeda09a2681e963639ca4edc5226b09dcbd69879f59c2f0e83761b9",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T11:51:32.000Z",
+      "fechaAgregada": "2026-05-12T10:32:02.609Z"
+    },
+    {
+      "id": "c3d8ea7c-61dc-4c74-b439-dfb61ff09d5f",
+      "titulo": "Las erratas como símbolo de prestigio: cómo escribir para que no parezca IA",
+      "resumen": "La popularidad de herramientas como ChatGPT ha provocado que muchos autores escriban con errores y dejadez para parecer más humanos",
+      "url": "https://elpais.com/tecnologia/2026-05-05/las-erratas-como-simbolo-de-prestigio-como-escribir-para-que-no-parezca-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XI54OPXTSBELBEEKWF623C7WXM.jpg?auth=54313235e42e63ea7e66152f478148607885e2e70df515320fbc4760bf4546fa",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T03:30:01.000Z",
+      "fechaAgregada": "2026-05-12T10:32:02.609Z"
+    },
+    {
+      "id": "f9c69bb9-7c41-477a-913b-569d58029680",
+      "titulo": "Luchas de poder, avaricia, guerra y ‘tecnofascismo’: la IA se quita la careta",
+      "resumen": "Los nuevos acuerdos del Pentágono con las grandes tecnológicas y el juicio de OpenAI que enfrenta a los magnates tumban el discurso de la industria sobre una inteligencia artificial pensada para salvar a la humanidad",
+      "url": "https://elpais.com/tecnologia/2026-05-03/luchas-de-poder-avaricia-guerra-y-tecnofascismo-la-ia-se-quita-la-careta.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TXSPA4AOVFNR3MZMMJFWUJUPPI.jpg?auth=1601e6af3b9da9824d9a2bc43d55a59b564456d6d0d41a4eda33dc556db052af",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-03T03:30:00.000Z",
+      "fechaAgregada": "2026-05-12T10:32:02.609Z"
+    },
+    {
+      "id": "893c2653-0cbd-46cc-b041-9ff8bbc3ea8e",
+      "titulo": "Por qué a la IA le gustan tanto los duendecillos y Japón",
+      "resumen": "OpenAI ha tenido que suprimir la fascinación de ChatGPT por las criaturas fantásticas, pero no es el único sesgo que emerge en estos chatbots",
+      "url": "https://elpais.com/tecnologia/2026-05-02/por-que-a-la-ia-le-gustan-tanto-los-duendecillos-y-japon.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I3W3ZTYIBZA63PLPY7BBBJZQDY.jpg?auth=8a44ff366b1a1c1252e0280547f82c56a3fe0b66d039a4797ae3a1c08e22d73c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-02T03:30:01.000Z",
+      "fechaAgregada": "2026-05-12T10:32:02.609Z"
+    },
+    {
+      "id": "9eed0508-7477-4e90-a530-c0f17ae38f7d",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-12T10:32:02.554Z"
+    },
+    {
+      "id": "8787581b-65c2-4ad8-9743-ed543fdf19dc",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-12T10:32:02.554Z"
+    },
+    {
+      "id": "2d5ad642-d262-4114-8a18-1ca890be9546",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-12T10:32:02.554Z"
+    }
+  ]
+}
