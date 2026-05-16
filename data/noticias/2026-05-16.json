@@ -1,0 +1,238 @@
+{
+  "fecha": "2026-05-16",
+  "generado": "2026-05-16T09:41:05.213Z",
+  "total": 21,
+  "noticias": [
+    {
+      "id": "cb014442-a5bf-4183-8bd3-3582b7f45cd0",
+      "titulo": "Cómo ampliar el tamaño de tus fotos gratis con IA, sin internet y sin ceder tu privacidad",
+      "resumen": "A todos nos ha ocurrido, en alguna ocasión, tener una fotografía en mal estado y demasiado pequeña para publicarla o compartirla. ¿Qué hacer cuando no puedes repetir esa foto? Puedes aplicarle herramientas de retoque y alguna que otra mejora. Pero todo tiene sus límites. Por suerte, la llegada de la",
+      "url": "https://hipertextual.com/guias/ampliar-tus-fotografias-gratis-con-ia-upscayl/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Upscayl-Ampliar-Fotografias-Colores.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-16T09:00:00.000Z",
+      "fechaAgregada": "2026-05-16T09:40:59.646Z"
+    },
+    {
+      "id": "f247883b-5a53-40bf-a4d0-b85f2522415d",
+      "titulo": "El juicio contra Sam Altman parecía un duelo entre dos millonarios. Ha acabado destapando los entresijos de OpenAI",
+      "resumen": "Tres semanas de testimonios, 78 mensajes entre Sam Altman y Mira Murati durante la noche en que iban a fulminarle como CEO, correos donde Greg Brockman anotaba en su diario personal lo bonito que sería \"ganar miles de millones\" y un Satya Nadella describiendo al consejo de OpenAI como \"amateur city\"",
+      "url": "https://www.xataka.com/empresas-y-economia/juicio-sam-altman-parecia-duelo-dos-millonarios-ha-acabado-destapando-entresijos-openai",
+      "imagen": "https://i.blogs.es/3b1255/musk-altman/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-16T08:31:30.000Z",
+      "fechaAgregada": "2026-05-16T09:40:59.427Z"
+    },
+    {
+      "id": "298daa79-e7f3-4012-b622-a26a4351c1dc",
+      "titulo": "OpenAI dice que Apple «apenas se ha esforzado» para implementar ChatGPT en sus dispositivos",
+      "resumen": "La guerra entre las diferentes IAs en 2026 es un hecho, y todas apuestan por ser la mejor y llevarse a los máximos clientes posibles. Apple, por su lado, no ha sido capaz de desarrollar una inteligencia tan buena como prometían al principio, y eso les ha pasado factura.\nSe intentaron apoyar en ChatG",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/openai-apple-esfuerzo-implementar-chatgpt-dispositivos/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/chatgpt-openai.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T19:00:41.000Z",
+      "fechaAgregada": "2026-05-16T09:41:04.255Z"
+    },
+    {
+      "id": "16e8daf2-7acc-44fd-90c7-554787a2a9ec",
+      "titulo": "ChatGPT lanza una función para gestionar tu dinero usando la IA",
+      "resumen": "OpenAI ha decidido dar un paso agresivo para transformar a ChatGPT en algo más que un asistente que genera textos o imágenes. La compañía anunció una función de finanzas personales que conecta tus cuentas bancarias con tu perfil. La nueva experiencia permite ver un panel con tu situación financiera",
+      "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-finanzas-personales-nueva-funcion/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/chatgpt-finanzas-personales.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T17:53:20.000Z",
+      "fechaAgregada": "2026-05-16T09:40:59.646Z"
+    },
+    {
+      "id": "c9057680-0bcc-4287-b63d-367ea74d1517",
+      "titulo": "Helio, bromo y disolventes: el bloqueo de Ormuz está a punto de provocar serios problemas a Samsung y TSMC",
+      "resumen": "El cierre del estrecho de Ormuz por el conflicto con Irán ha puesto patas arriba a toda la industria tecnológica y energética, más allá de toda la tensión geopolítica que ha ido arrastrando. Se trata de un terremoto que recorre toda la cadena de suministro de semiconductores, incluyendo componentes",
+      "url": "https://www.xataka.com/empresas-y-economia/helio-bromo-disolventes-bloqueo-ormuz-esta-a-punto-provocar-serios-problemas-a-samsung-tsmc",
+      "imagen": "https://i.blogs.es/e6a5f5/harrison-broadbent-nepxbivqulu-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T17:15:30.000Z",
+      "fechaAgregada": "2026-05-16T09:40:59.429Z"
+    },
+    {
+      "id": "cc66d888-ab46-475c-8b59-e8a94508b59d",
+      "titulo": "Así queda el top mundial de modelos IA: GPT-5.5 vs Claude 4.7 vs Gemini 3.1 vs Grok 4.20",
+      "resumen": "OpenLM.ai mantiene actualizado su benchmark Chatbot Arena+ que nos permite conocer el rendimiento real de los grandes modelos de lenguaje (LLMs). En una batalla titánica, tenemos poco margen de diferencia entre GPT-5.5 de OpenAI, Claude Opus 4.7 de Anthropic, Gemini 3.1 Pro de Google y Grok 4.20 de",
+      "url": "https://www.adslzone.net/noticias/ia/chatbot-arena-plus-q2-2026/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2025/10/comparativa-de-lenguajes-de-inteligencia-artificial-segun-el-ranking-de-Chatbot-Arena.png",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T14:15:51.000Z",
+      "fechaAgregada": "2026-05-16T09:41:01.848Z"
+    },
+    {
+      "id": "2c9a4a26-0822-4f27-9844-f0ad5b7d4cc7",
+      "titulo": "Mientras seguimos planificando cómo colonizar la Luna, China ya tiene un robot albañil para empezar a construir una base",
+      "resumen": "Si hablamos de exploración lunar inmediatamente pensamos en el programa Artemis, pero Estados Unidos no es el único país empujando hacia la colonización de nuestro satélite. China también tiene un programa en marcha y acaban de mostrar un nuevo rover lunar con cuatro ruedas y un cuerpo superior huma",
+      "url": "https://www.xataka.com/espacio/seguimos-planificando-como-colonizar-luna-china-tiene-robot-albanil-para-empezar-a-construir-base",
+      "imagen": "https://i.blogs.es/3ddf67/robot-lunar/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T14:01:31.000Z",
+      "fechaAgregada": "2026-05-16T09:40:59.430Z"
+    },
+    {
+      "id": "25422326-e368-43ba-ba8a-7d284a9bee7d",
+      "titulo": "El Google Pixel 10 sale más barato que nunca, pero solo hasta el lunes en MediaMarkt",
+      "resumen": "El Google Pixel 10 sigue siendo uno de los teléfonos más deseados del año. Si llevas tiempo queriéndolo comprar y has pospuesto la decisión de compra muchas veces, ahora es un buen momento para adquirirlo en MediaMarkt.\n\rHasta el próximo lunes, 17 de mayo, puedes llevarte el último smartphone lanzad",
+      "url": "https://www.xataka.com/seleccion/mediamarkt-nos-da-oportunidad-hoy-llevarnos-google-pixel-10-ahora-descuento-extra",
+      "imagen": "https://i.blogs.es/68e076/google-pixel-10/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T13:15:30.000Z",
+      "fechaAgregada": "2026-05-16T09:40:59.430Z"
+    },
+    {
+      "id": "4207c48b-4471-4532-b5e5-1fcc1da43002",
+      "titulo": "Claude Mythos ayuda a encontrar un agujero de seguridad en macOS: Apple ya lo está revisando",
+      "resumen": "Apple está con el miedo en el cuerpo después de haber recibido un informe de que investigadores de Calif, una firma de ciberseguridad de Palo Alto, aseguren haber construido un exploit para macOS con ayuda de Claude Mythos. Como sabemos, se trata de la IA de Anthropic orientado a investigación defen",
+      "url": "https://www.adslzone.net/noticias/seguridad/claude-mythos-exploit-macos-apple-m5/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/05/claude-mythos-macos.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T13:00:57.000Z",
+      "fechaAgregada": "2026-05-16T09:41:01.848Z"
+    },
+    {
+      "id": "90474082-5ae1-4fdb-aeec-93e8912a0970",
+      "titulo": "¿Sam Altman es mentiroso o Elon Musk un celoso? El gran juicio de la IA queda visto para sentencia",
+      "resumen": "La jueza deberá decidir en los próximos días. La denuncia del CEO de Tesla puede provocar un terremoto para el futuro de OpenAI",
+      "url": "https://elpais.com/tecnologia/2026-05-15/sam-altman-es-mentiroso-o-musk-un-celoso-el-gran-juicio-de-la-ia-queda-visto-para-sentencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/X3GPAX6ISJFUVNVOYV4PQ5KMAU.JPG?auth=8dbf939d8204b47b3920564d77ad1359059e515f7e8afc374298dfb19e474bbf",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T12:39:19.000Z",
+      "fechaAgregada": "2026-05-16T09:41:00.439Z"
+    },
+    {
+      "id": "430b4101-e50c-49fa-ab59-1f5672736ec7",
+      "titulo": "¿Es seguro Windows 11? En este evento de Berlín logran hackearlo hasta 3 veces",
+      "resumen": "Durante esta semana se celebra en Berlín el evento Pwn2Own 2026. Está organizado por parte de Zero Day Initiative. Allí, investigadores de seguridad buscan romper la seguridad de sistemas y dispositivos a través de vulnerabilidades de día cero. Las propias marcas ofrecen una recompensa, ya que el ob",
+      "url": "https://www.redeszone.net/noticias/seguridad/hackean-windows-evento-berlin/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/hacker-delante-pantalla.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T07:24:24.000Z",
+      "fechaAgregada": "2026-05-16T09:41:04.016Z"
+    },
+    {
+      "id": "8213f01a-4dbf-40aa-a46f-f04ae3cb38a3",
+      "titulo": "La escasez de memoria GDDR7 dispara el precio de las RTX 5090 hasta niveles absurdos",
+      "resumen": "Parece ser que el aumento del coste de los componentes de un ordenador no va a frenar, o al menos no por ahora, y es que NVIDIA ha dado una mala noticia a todos, ya que subirá en 300 dólares el coste de sus RTX 5090 a los ensambladores de las mismas.\nEsto quiere decir que, el producto final, el que",
+      "url": "https://hardzone.es/noticias/componentes/escasez-memoria-gddr7-dispara-precio-rtx-5090-niveles-absurdos/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2025/06/RTX-5090-portada.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-14T18:55:16.000Z",
+      "fechaAgregada": "2026-05-16T09:41:04.256Z"
+    },
+    {
+      "id": "ada51502-0412-4b3d-b712-d752cdfe1f7f",
+      "titulo": "AMD termina cediendo: FSR 4.1 llegará oficialmente a RDNA 3 y RDNA 2",
+      "resumen": "El escalado inteligente se ha convertido en una de las piezas más importantes dentro del gaming en PC actual, y FSR 4.1 de AMD refleja perfectamente hasta qué punto esa tecnología empieza a depender cada vez más de modelos de aprendizaje automático. Hasta ahora, la compañía había mantenido esta nuev",
+      "url": "https://www.muycomputer.com/2026/05/14/amd-termina-cediendo-fsr-4-1-llegara-oficialmente-a-rdna-3-y-rdna-2/",
+      "imagen": "https://picsum.photos/seed/249/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-14T15:58:09.000Z",
+      "fechaAgregada": "2026-05-16T09:41:05.212Z"
+    },
+    {
+      "id": "875a4b27-1de8-47f3-b32d-4f85221accae",
+      "titulo": "‘Terminator’ sale de la ficción con la automejora recursiva de la IA",
+      "resumen": "La automejora recursiva de la IA (RSI por sus siglas en inglés) es un concepto que está implícito en el desarrollo de la inteligencia artificial. En su definición más estricta, los investigadores utilizan el término para describir sistemas que pueden mejorar no solo sus resultados, sino también el p",
+      "url": "https://www.muycomputer.com/2026/05/14/terminator-sale-de-la-ficcion-con-la-automejora-recursiva-de-la-ia/",
+      "imagen": "https://picsum.photos/seed/361/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-14T08:33:05.000Z",
+      "fechaAgregada": "2026-05-16T09:41:05.212Z"
+    },
+    {
+      "id": "e9af28a7-ac03-4620-bfa9-ac0abf997781",
+      "titulo": "Sam Altman, en el juicio de OpenAI, testifica sobre millones, poder y dominación: “Elon Musk solo trabajará en empresas que controle totalmente”",
+      "resumen": "En un discurso más calmado que el de su oponente, el cofundador de la empresa de inteligencia artificial ha contado cómo Musk trató de que Tesla absorbiera la compañía y ha insistido en la importancia de su faceta filantrópica",
+      "url": "https://elpais.com/tecnologia/2026-05-12/sam-altman-en-el-juicio-de-openia-testifica-sobre-millones-poder-y-dominacion-elon-musk-solo-trabajara-en-empresas-que-controle-totalmente.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JTVOKXEVORO3ZHTIEJZKRW5R5M.jpg?auth=cf1087c72e73d47d43548cf1879f4c43e1decf01e05efa4431349fba9038def6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T20:34:56.000Z",
+      "fechaAgregada": "2026-05-16T09:41:00.439Z"
+    },
+    {
+      "id": "95eb92ca-a453-4975-bca1-be0c1f3967c4",
+      "titulo": "El director ejecutivo de Microsoft defiende el “riesgo” que tomó al invertir en OpenAI",
+      "resumen": "Satya Nadella asegura que “nadie más estaba dispuesto” a apostar por una empresa que entonces era emergente y que ahora se juega su futuro por la demanda entablada por Elon Musk",
+      "url": "https://elpais.com/tecnologia/2026-05-12/el-director-ejecutivo-de-microsoft-defiende-el-riesgo-que-tomo-al-invertir-en-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KKA6QAGFWVKZ5KCVGCYEOLGXBM.jpg?auth=a7d806c5c7d72eac0a19b524a7c1259693b941a1f93c76f3a543702da0f60c03",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T08:11:48.000Z",
+      "fechaAgregada": "2026-05-16T09:41:00.439Z"
+    },
+    {
+      "id": "0c35f3bc-2c74-42c7-a238-e97651189a56",
+      "titulo": "Hay chats privados de IA en abierto por internet: los crecientes riesgos para la privacidad de los principales chatbots",
+      "resumen": "Una investigación descubre cómo el rastreo publicitario habitual en la web se ha colado ya en ChatGPT, Claude o Grok",
+      "url": "https://elpais.com/tecnologia/2026-05-05/hay-chats-privados-de-ia-en-abierto-por-internet-los-crecientes-riesgos-para-la-privacidad-de-los-principales-chatbots.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KIEOADZF5RHTZNMIWWGWQU2FTI.jpg?auth=0135da24fdeda09a2681e963639ca4edc5226b09dcbd69879f59c2f0e83761b9",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T11:51:32.000Z",
+      "fechaAgregada": "2026-05-16T09:41:00.439Z"
+    },
+    {
+      "id": "fa898f5d-96a1-4202-b715-1b6705662a4c",
+      "titulo": "Las erratas como símbolo de prestigio: cómo escribir para que no parezca IA",
+      "resumen": "La popularidad de herramientas como ChatGPT ha provocado que muchos autores escriban con errores y dejadez para parecer más humanos",
+      "url": "https://elpais.com/tecnologia/2026-05-05/las-erratas-como-simbolo-de-prestigio-como-escribir-para-que-no-parezca-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XI54OPXTSBELBEEKWF623C7WXM.jpg?auth=54313235e42e63ea7e66152f478148607885e2e70df515320fbc4760bf4546fa",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T03:30:01.000Z",
+      "fechaAgregada": "2026-05-16T09:41:00.439Z"
+    },
+    {
+      "id": "f2f6cc94-2e98-4301-8c10-b902c1f4cecc",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-16T09:41:00.328Z"
+    },
+    {
+      "id": "8ed895a0-f65c-4337-a439-bd3773b94ea7",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-16T09:41:00.329Z"
+    },
+    {
+      "id": "d1469a8b-0f62-4e90-b57f-3fb7d03c0978",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-16T09:41:00.329Z"
+    }
+  ]
+}
