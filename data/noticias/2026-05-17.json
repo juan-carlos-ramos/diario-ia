@@ -1,0 +1,194 @@
+{
+  "fecha": "2026-05-17",
+  "generado": "2026-05-17T09:47:32.103Z",
+  "total": 17,
+  "noticias": [
+    {
+      "id": "7c09fe31-d682-4fd9-bc19-9e954f64fe4c",
+      "titulo": "¿Cómo lograr que Claude olvide todo lo que sabe sobre ti?",
+      "resumen": "La memoria de Claude es una herramienta muy útil para mantener una coherencia en tus conversaciones con el chatbot sin tener que estar todo el tiempo explicando el contexto de cada pedido o consulta que haces. Aunque también es lógico tener reparos respecto de qué sabe o recuerda la inteligencia art",
+      "url": "https://hipertextual.com/inteligencia-artificial/como-eliminar-memoria-de-claude/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-laptop-1.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-17T09:00:00.000Z",
+      "fechaAgregada": "2026-05-17T09:47:25.155Z"
+    },
+    {
+      "id": "322b21b9-2450-4fa6-8bc3-f8e3be7f875c",
+      "titulo": "Esta es la mejor función de Android en años: te va a hacer ahorrar muchísimo tiempo",
+      "resumen": "Aprovechando el anuncio de Gemini Intelligence, Google ha lanzado en Android la que muchos ya están considerando la mejor función del sistema operativo en mucho tiempo. Se trata de un nuevo modo de “sugerencias contextuales” que funciona a través de IA y que te va a ayudar a tener todo mucho más org",
+      "url": "https://hipertextual.com/mobile/esta-es-la-mejor-funcion-de-android-en-anos-te-va-a-hacer-ahorrar-muchisimo-tiempo/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/01/redmi-note-15-pro-plus-03.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-17T08:00:00.000Z",
+      "fechaAgregada": "2026-05-17T09:47:25.155Z"
+    },
+    {
+      "id": "9a8ccdc4-284a-453e-ba9c-670bf4325d95",
+      "titulo": "Esta función de los Googlebook va a ser una revolución, o tu peor pesadilla",
+      "resumen": "Días atrás, Google anunció los Googlebook, sus nuevos ordenadores portátiles con un sistema operativo que promete fusionar lo mejor de Android y Chrome OS. El software también va a sacar provecho de Gemini Intelligence e introduce una función llamada Puntero mágico (Magic Pointer), que va a cambiar",
+      "url": "https://hipertextual.com/inteligencia-artificial/googlebook-puntero-magico-revolucion-o-pesadilla/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Puntero-magico-2-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-16T17:00:00.000Z",
+      "fechaAgregada": "2026-05-17T09:47:25.155Z"
+    },
+    {
+      "id": "57bbc657-678e-4b8f-a1b9-131a7f1c43c0",
+      "titulo": "Así uso ChatGPT para transformar cualquier foto en un fondo de pantalla 4K: hace maravillas",
+      "resumen": "ChatGPT es una herramienta imprescindible para resolver dudas, optimizar tareas o incluso ayudarte en el trabajo o en los estudios, pero la IA de OpenAI tiene aún más funciones interesantes y no mucha gente las conoce. Son pequeños trucos que te ayudan a ahorrar tiempo o a poner fin rápidamente a un",
+      "url": "https://hipertextual.com/tecnologia/asi-uso-chatgpt-para-transformar-cualquier-foto-en-un-fondo-de-pantalla-4k-hace-maravillas/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/chatgpt-fondo-pantalla-01.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-16T15:00:00.000Z",
+      "fechaAgregada": "2026-05-17T09:47:25.155Z"
+    },
+    {
+      "id": "d1bbf2d5-5a1f-4c3d-b9cf-b1f3dd472635",
+      "titulo": "El \"seguro de vida\" de Orange para blindar internet: un gigantesco cable submarino para conectar Europa y África",
+      "resumen": "Más del 95% del tráfico internacional de internet viaja por cables que están en el fondo del mar. África y Europa parten de posiciones muy distintas, pero son esenciales para sostener servicios esenciales en ambos continentes, como la nube o los sistemas financieros. Así, mientras que África es el c",
+      "url": "https://www.xataka.com/componentes/gigantesco-cable-submarino-europa-africa-seguro-vida-orange-para-blindar-internet",
+      "imagen": "https://i.blogs.es/f3085c/cablecito/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-16T14:31:30.000Z",
+      "fechaAgregada": "2026-05-17T09:47:25.058Z"
+    },
+    {
+      "id": "fdf4128b-fc94-47b5-b34f-5d0c11651b5f",
+      "titulo": "Cómo ampliar el tamaño de tus fotos gratis con IA, sin internet y sin ceder tu privacidad",
+      "resumen": "A todos nos ha ocurrido, en alguna ocasión, tener una fotografía en mal estado y demasiado pequeña para publicarla o compartirla. ¿Qué hacer cuando no puedes repetir esa foto? Puedes aplicarle herramientas de retoque y alguna que otra mejora. Pero todo tiene sus límites. Por suerte, la llegada de la",
+      "url": "https://hipertextual.com/guias/ampliar-tus-fotografias-gratis-con-ia-upscayl/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Upscayl-Ampliar-Fotografias-Colores.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-16T09:00:00.000Z",
+      "fechaAgregada": "2026-05-17T09:47:25.156Z"
+    },
+    {
+      "id": "4c45d1e5-ba97-4a6a-b55f-a60e69a45746",
+      "titulo": "OpenAI dice que Apple «apenas se ha esforzado» para implementar ChatGPT en sus dispositivos",
+      "resumen": "La guerra entre las diferentes IAs en 2026 es un hecho, y todas apuestan por ser la mejor y llevarse a los máximos clientes posibles. Apple, por su lado, no ha sido capaz de desarrollar una inteligencia tan buena como prometían al principio, y eso les ha pasado factura.\nSe intentaron apoyar en ChatG",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/openai-apple-esfuerzo-implementar-chatgpt-dispositivos/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/chatgpt-openai.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T19:00:41.000Z",
+      "fechaAgregada": "2026-05-17T09:47:31.291Z"
+    },
+    {
+      "id": "a7f8664d-38de-40e3-90a6-bf120acaede6",
+      "titulo": "¿Sam Altman es mentiroso o Elon Musk un celoso? El gran juicio de la IA queda visto para sentencia",
+      "resumen": "La jueza deberá decidir en los próximos días. La denuncia del CEO de Tesla puede provocar un terremoto para el futuro de OpenAI",
+      "url": "https://elpais.com/tecnologia/2026-05-15/sam-altman-es-mentiroso-o-musk-un-celoso-el-gran-juicio-de-la-ia-queda-visto-para-sentencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/X3GPAX6ISJFUVNVOYV4PQ5KMAU.JPG?auth=8dbf939d8204b47b3920564d77ad1359059e515f7e8afc374298dfb19e474bbf",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T12:39:19.000Z",
+      "fechaAgregada": "2026-05-17T09:47:26.562Z"
+    },
+    {
+      "id": "e441baba-6fbf-4a11-be24-05fe3ebb91b1",
+      "titulo": "¿Es seguro Windows 11? En este evento de Berlín logran hackearlo hasta 3 veces",
+      "resumen": "Durante esta semana se celebra en Berlín el evento Pwn2Own 2026. Está organizado por parte de Zero Day Initiative. Allí, investigadores de seguridad buscan romper la seguridad de sistemas y dispositivos a través de vulnerabilidades de día cero. Las propias marcas ofrecen una recompensa, ya que el ob",
+      "url": "https://www.redeszone.net/noticias/seguridad/hackean-windows-evento-berlin/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/hacker-delante-pantalla.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T07:24:24.000Z",
+      "fechaAgregada": "2026-05-17T09:47:29.898Z"
+    },
+    {
+      "id": "ec828598-e260-4653-b899-19e307f39550",
+      "titulo": "AMD termina cediendo: FSR 4.1 llegará oficialmente a RDNA 3 y RDNA 2",
+      "resumen": "El escalado inteligente se ha convertido en una de las piezas más importantes dentro del gaming en PC actual, y FSR 4.1 de AMD refleja perfectamente hasta qué punto esa tecnología empieza a depender cada vez más de modelos de aprendizaje automático. Hasta ahora, la compañía había mantenido esta nuev",
+      "url": "https://www.muycomputer.com/2026/05/14/amd-termina-cediendo-fsr-4-1-llegara-oficialmente-a-rdna-3-y-rdna-2/",
+      "imagen": "https://picsum.photos/seed/43/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-14T15:58:09.000Z",
+      "fechaAgregada": "2026-05-17T09:47:32.103Z"
+    },
+    {
+      "id": "0d8d076f-a51c-4357-8095-8910d6790beb",
+      "titulo": "Sam Altman, en el juicio de OpenAI, testifica sobre millones, poder y dominación: “Elon Musk solo trabajará en empresas que controle totalmente”",
+      "resumen": "En un discurso más calmado que el de su oponente, el cofundador de la empresa de inteligencia artificial ha contado cómo Musk trató de que Tesla absorbiera la compañía y ha insistido en la importancia de su faceta filantrópica",
+      "url": "https://elpais.com/tecnologia/2026-05-12/sam-altman-en-el-juicio-de-openia-testifica-sobre-millones-poder-y-dominacion-elon-musk-solo-trabajara-en-empresas-que-controle-totalmente.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JTVOKXEVORO3ZHTIEJZKRW5R5M.jpg?auth=cf1087c72e73d47d43548cf1879f4c43e1decf01e05efa4431349fba9038def6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T20:34:56.000Z",
+      "fechaAgregada": "2026-05-17T09:47:26.562Z"
+    },
+    {
+      "id": "52a689a5-618a-40b2-9747-354e6590c23c",
+      "titulo": "El director ejecutivo de Microsoft defiende el “riesgo” que tomó al invertir en OpenAI",
+      "resumen": "Satya Nadella asegura que “nadie más estaba dispuesto” a apostar por una empresa que entonces era emergente y que ahora se juega su futuro por la demanda entablada por Elon Musk",
+      "url": "https://elpais.com/tecnologia/2026-05-12/el-director-ejecutivo-de-microsoft-defiende-el-riesgo-que-tomo-al-invertir-en-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KKA6QAGFWVKZ5KCVGCYEOLGXBM.jpg?auth=a7d806c5c7d72eac0a19b524a7c1259693b941a1f93c76f3a543702da0f60c03",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T08:11:48.000Z",
+      "fechaAgregada": "2026-05-17T09:47:26.562Z"
+    },
+    {
+      "id": "22ccb089-5157-4718-9cf9-787eb84ce8fb",
+      "titulo": "Hay chats privados de IA en abierto por internet: los crecientes riesgos para la privacidad de los principales chatbots",
+      "resumen": "Una investigación descubre cómo el rastreo publicitario habitual en la web se ha colado ya en ChatGPT, Claude o Grok",
+      "url": "https://elpais.com/tecnologia/2026-05-05/hay-chats-privados-de-ia-en-abierto-por-internet-los-crecientes-riesgos-para-la-privacidad-de-los-principales-chatbots.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KIEOADZF5RHTZNMIWWGWQU2FTI.jpg?auth=0135da24fdeda09a2681e963639ca4edc5226b09dcbd69879f59c2f0e83761b9",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T11:51:32.000Z",
+      "fechaAgregada": "2026-05-17T09:47:26.562Z"
+    },
+    {
+      "id": "a2d1a974-26c2-40d4-8877-be808dc5c5a0",
+      "titulo": "Las erratas como símbolo de prestigio: cómo escribir para que no parezca IA",
+      "resumen": "La popularidad de herramientas como ChatGPT ha provocado que muchos autores escriban con errores y dejadez para parecer más humanos",
+      "url": "https://elpais.com/tecnologia/2026-05-05/las-erratas-como-simbolo-de-prestigio-como-escribir-para-que-no-parezca-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XI54OPXTSBELBEEKWF623C7WXM.jpg?auth=54313235e42e63ea7e66152f478148607885e2e70df515320fbc4760bf4546fa",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T03:30:01.000Z",
+      "fechaAgregada": "2026-05-17T09:47:26.562Z"
+    },
+    {
+      "id": "0c3c7a7a-6d53-4b5f-8eb1-bd4f89aa86dc",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-17T09:47:25.975Z"
+    },
+    {
+      "id": "f73e4ba3-630f-42ce-ae86-43ef38f8d370",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-17T09:47:25.975Z"
+    },
+    {
+      "id": "f4f65074-c781-4a4e-aa55-59f2623164f4",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-17T09:47:25.975Z"
+    }
+  ]
+}
