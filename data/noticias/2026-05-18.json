@@ -1,0 +1,183 @@
+{
+  "fecha": "2026-05-18",
+  "generado": "2026-05-18T11:44:25.826Z",
+  "total": 16,
+  "noticias": [
+    {
+      "id": "6458a5cc-00ea-488d-8e5f-da593c6b45b7",
+      "titulo": "Cómo funciona realmente el asesor financiero de ChatGPT y en qué se diferencia de las típicas apps de finanzas",
+      "resumen": "ChatGPT lanzaba la semana pasada una herramienta que puede cambiar la forma en la que organizamos las finanzas personales. Se trata de un cambio importante que da herramientas muy potentes a los usuarios de cara a analizar y organizar su contabilidad. Pero su funcionamiento es muy diferente al de su",
+      "url": "https://hipertextual.com/inteligencia-artificial/como-funciona-realmente-el-asesor-financiero-de-chatgpt-y-en-que-se-diferencia-de-las-tipicas-apps-de-finanzas/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/chatgpt-fondo-pantalla-01.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-18T10:42:45.000Z",
+      "fechaAgregada": "2026-05-18T11:44:19.216Z"
+    },
+    {
+      "id": "24fbafea-370d-490a-ab9a-8722a1d8b51a",
+      "titulo": "El ChatGPT de Apple va a ser un bombazo: filtradas las grandes novedades que llegarán con Siri en iOS 27",
+      "resumen": "Continuamos conociendo novedades de iOS 27 a medida que se aproxima la WWDC 2026, la conferencia de desarrolladores de Apple donde presentarán las nuevas versiones de sus respectivos sistemas operativos. Después de saber que la actualización para el iPhone tendrá nuevas funciones en algunas aplicaci",
+      "url": "https://hipertextual.com/apple/el-chatgpt-de-apple-va-a-ser-un-bombazo-filtradas-las-grandes-novedades-que-llegaran-con-siri-en-ios-27/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/08/siri-iphone.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-18T09:06:53.000Z",
+      "fechaAgregada": "2026-05-18T11:44:19.216Z"
+    },
+    {
+      "id": "118acf0a-bf3d-47a9-a39c-68c085dd3e73",
+      "titulo": "Ya tengo otro motivo más para usar Gemini en vez de ChatGPT: así funciona el nuevo ‘nivel de pensamiento’",
+      "resumen": "Gemini se está renovando poco a poco y no es casualidad. El Google I/O 2026 se celebra esta misma semana en San Francisco, y la gran G quiere tener unas cuantas funciones nuevas para presumir de avances, además de todo lo que presente en el evento. La última gran novedad que ha llegado a la […]\nSegu",
+      "url": "https://hipertextual.com/inteligencia-artificial/ya-tengo-otro-motivo-mas-para-usar-gemini-en-vez-de-chatgpt-asi-funciona-el-nuevo-nivel-de-pensamiento/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/chatgpot.jpg?fit=1024%2C636&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-18T08:49:04.000Z",
+      "fechaAgregada": "2026-05-18T11:44:19.216Z"
+    },
+    {
+      "id": "064c5f24-19ef-42b7-924b-229f5edf5903",
+      "titulo": "Bienvenidos al duopolio de la IA: el sector ya factura 80.000 millones al año, pero OpenAI y Anthropic se llevan el 89% de los ingresos",
+      "resumen": "Todo el mundo quiere llevarse un trozo de la tarta de la IA, pero la realidad es que la tarta hoy por hoy es de dos empresas: OpenAI y Anthropic. Así lo confirma un análisis de The Information en el que se han analizado los ingresos de las 34 empresas más relevantes del mercado en la actualidad. Las",
+      "url": "https://www.xataka.com/robotica-e-ia/bienvenidos-al-duopolio-ia-sector-factura-80-000-millones-al-ano-openai-anthropic-se-llevan-89-ingresos",
+      "imagen": "https://i.blogs.es/db8908/openai-anthropic/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-18T06:01:10.000Z",
+      "fechaAgregada": "2026-05-18T11:44:19.108Z"
+    },
+    {
+      "id": "5c3315cf-97e0-4202-bbf1-e24d847aca0c",
+      "titulo": "En China ya hay \"escuelas\" para robots. Su objetivo es el mismo que las escuelas para humanos: enseñarles a trabajar",
+      "resumen": "Durante mucho tiempo, la gran conversación sobre inteligencia artificial ha girado alrededor de los modelos capaces de resumir, programar o generar imágenes. Pero cuando llevamos esa ambición al mundo físico, todo se cambia. Un robot no aprende a trabajar solo leyendo instrucciones: necesita observa",
+      "url": "https://www.xataka.com/robotica-e-ia/algunos-robots-humanoides-chinos-van-a-escuela-mision-ensenarles-a-trabajar-vida-real",
+      "imagen": "https://i.blogs.es/4bfccc/robots-chinos-escuela/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-17T19:00:42.000Z",
+      "fechaAgregada": "2026-05-18T11:44:19.108Z"
+    },
+    {
+      "id": "6423422f-b9b6-4f69-a8e3-d020775d87fa",
+      "titulo": "Podríamos suponer que el mundo de las plantas era uno de los últimos rincones libres de IA. Estaríamos equivocados",
+      "resumen": "La IA está infiltrándolo todo, incluso los nichos más específicos y menos tecnológicos. Los aficionados al ganchillo lo saben muy bien, pero no son los únicos, la comunidad de entusiastas de las plantas también está viviendo (muchas veces, más bien sufriendo) los efectos de la IA. Plantas imposibles",
+      "url": "https://www.xataka.com/magnet/mundo-plantas-era-lugar-tranquilo-que-llego-ia-lleno-plantas-que-no-existen-estafas-alucinaciones",
+      "imagen": "https://i.blogs.es/5d8a8e/plantas-ia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-17T17:00:42.000Z",
+      "fechaAgregada": "2026-05-18T11:44:19.109Z"
+    },
+    {
+      "id": "def1fffe-b026-4cb1-9871-f45da4496901",
+      "titulo": "¿Cómo lograr que Claude olvide todo lo que sabe sobre ti?",
+      "resumen": "La memoria de Claude es una herramienta muy útil para mantener una coherencia en tus conversaciones con el chatbot sin tener que estar todo el tiempo explicando el contexto de cada pedido o consulta que haces. Aunque también es lógico tener reparos respecto de qué sabe o recuerda la inteligencia art",
+      "url": "https://hipertextual.com/inteligencia-artificial/como-eliminar-memoria-de-claude/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-laptop-1.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-17T09:00:00.000Z",
+      "fechaAgregada": "2026-05-18T11:44:19.216Z"
+    },
+    {
+      "id": "0738c28c-5d4b-4aa8-9358-a0e16a48a6a0",
+      "titulo": "Esta es la mejor función de Android en años: te va a hacer ahorrar muchísimo tiempo",
+      "resumen": "Aprovechando el anuncio de Gemini Intelligence, Google ha lanzado en Android la que muchos ya están considerando la mejor función del sistema operativo en mucho tiempo. Se trata de un nuevo modo de “sugerencias contextuales” que funciona a través de IA y que te va a ayudar a tener todo mucho más org",
+      "url": "https://hipertextual.com/mobile/esta-es-la-mejor-funcion-de-android-en-anos-te-va-a-hacer-ahorrar-muchisimo-tiempo/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/01/redmi-note-15-pro-plus-03.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-17T08:00:00.000Z",
+      "fechaAgregada": "2026-05-18T11:44:19.216Z"
+    },
+    {
+      "id": "e5c08a56-d581-4e7e-be65-f55ed021e736",
+      "titulo": "¿Sam Altman es mentiroso o Elon Musk un celoso? El gran juicio de la IA queda visto para sentencia",
+      "resumen": "La jueza deberá decidir en los próximos días. La denuncia del CEO de Tesla puede provocar un terremoto para el futuro de OpenAI",
+      "url": "https://elpais.com/tecnologia/2026-05-15/sam-altman-es-mentiroso-o-musk-un-celoso-el-gran-juicio-de-la-ia-queda-visto-para-sentencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/X3GPAX6ISJFUVNVOYV4PQ5KMAU.JPG?auth=8dbf939d8204b47b3920564d77ad1359059e515f7e8afc374298dfb19e474bbf",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T12:39:19.000Z",
+      "fechaAgregada": "2026-05-18T11:44:20.548Z"
+    },
+    {
+      "id": "afcc86c4-2414-4105-9090-79c251ae7051",
+      "titulo": "Sam Altman, en el juicio de OpenAI, testifica sobre millones, poder y dominación: “Elon Musk solo trabajará en empresas que controle totalmente”",
+      "resumen": "En un discurso más calmado que el de su oponente, el cofundador de la empresa de inteligencia artificial ha contado cómo Musk trató de que Tesla absorbiera la compañía y ha insistido en la importancia de su faceta filantrópica",
+      "url": "https://elpais.com/tecnologia/2026-05-12/sam-altman-en-el-juicio-de-openia-testifica-sobre-millones-poder-y-dominacion-elon-musk-solo-trabajara-en-empresas-que-controle-totalmente.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JTVOKXEVORO3ZHTIEJZKRW5R5M.jpg?auth=cf1087c72e73d47d43548cf1879f4c43e1decf01e05efa4431349fba9038def6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T20:34:56.000Z",
+      "fechaAgregada": "2026-05-18T11:44:20.548Z"
+    },
+    {
+      "id": "a5e1b60d-8ff8-4023-a343-88a6c5b79a72",
+      "titulo": "El director ejecutivo de Microsoft defiende el “riesgo” que tomó al invertir en OpenAI",
+      "resumen": "Satya Nadella asegura que “nadie más estaba dispuesto” a apostar por una empresa que entonces era emergente y que ahora se juega su futuro por la demanda entablada por Elon Musk",
+      "url": "https://elpais.com/tecnologia/2026-05-12/el-director-ejecutivo-de-microsoft-defiende-el-riesgo-que-tomo-al-invertir-en-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KKA6QAGFWVKZ5KCVGCYEOLGXBM.jpg?auth=a7d806c5c7d72eac0a19b524a7c1259693b941a1f93c76f3a543702da0f60c03",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T08:11:48.000Z",
+      "fechaAgregada": "2026-05-18T11:44:20.548Z"
+    },
+    {
+      "id": "55e7fe3d-c8db-4121-8751-cd7eb8688a87",
+      "titulo": "Hay chats privados de IA en abierto por internet: los crecientes riesgos para la privacidad de los principales chatbots",
+      "resumen": "Una investigación descubre cómo el rastreo publicitario habitual en la web se ha colado ya en ChatGPT, Claude o Grok",
+      "url": "https://elpais.com/tecnologia/2026-05-05/hay-chats-privados-de-ia-en-abierto-por-internet-los-crecientes-riesgos-para-la-privacidad-de-los-principales-chatbots.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KIEOADZF5RHTZNMIWWGWQU2FTI.jpg?auth=0135da24fdeda09a2681e963639ca4edc5226b09dcbd69879f59c2f0e83761b9",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T11:51:32.000Z",
+      "fechaAgregada": "2026-05-18T11:44:20.548Z"
+    },
+    {
+      "id": "1e0def25-37a7-4e75-bc53-c0265a7c1011",
+      "titulo": "Las erratas como símbolo de prestigio: cómo escribir para que no parezca IA",
+      "resumen": "La popularidad de herramientas como ChatGPT ha provocado que muchos autores escriban con errores y dejadez para parecer más humanos",
+      "url": "https://elpais.com/tecnologia/2026-05-05/las-erratas-como-simbolo-de-prestigio-como-escribir-para-que-no-parezca-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XI54OPXTSBELBEEKWF623C7WXM.jpg?auth=54313235e42e63ea7e66152f478148607885e2e70df515320fbc4760bf4546fa",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-05T03:30:01.000Z",
+      "fechaAgregada": "2026-05-18T11:44:20.548Z"
+    },
+    {
+      "id": "2ef085b1-13f6-4f52-8727-732759e07e8c",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-18T11:44:19.891Z"
+    },
+    {
+      "id": "8ed7fc55-79f7-4df6-837d-409e6d6ffd03",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-18T11:44:19.891Z"
+    },
+    {
+      "id": "4ff4ba72-85e2-4c18-bb87-5ec8872f4707",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-18T11:44:19.892Z"
+    }
+  ]
+}
