@@ -25,25 +25,29 @@ export default function FiltroCategoria() {
 
   return (
     <div
-      className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide"
+      className="flex gap-2.5 overflow-x-auto pb-2 scrollbar-hide snap-x"
       role="group"
       aria-label="Filtrar por categoría"
       style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
     >
-      {CATEGORIAS.map((cat) => (
-        <button
-          key={cat.valor}
-          onClick={() => handleCategoria(cat.valor)}
-          className={`flex-shrink-0 text-xs font-semibold tracking-[0.06em] uppercase px-4 py-2 rounded-full border transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] focus:ring-offset-1 focus:ring-offset-black ${
-            categoriaActual === cat.valor
-              ? "bg-[#00E5FF] text-black border-[#00E5FF]"
-              : "bg-transparent text-[#666666] border-[#333333] hover:border-[#00E5FF] hover:text-[#00E5FF]"
-          }`}
-          aria-pressed={categoriaActual === cat.valor}
-        >
-          {cat.etiqueta}
-        </button>
-      ))}
+      {CATEGORIAS.map((cat) => {
+        const activo = categoriaActual === cat.valor;
+        return (
+          <button
+            key={cat.valor}
+            onClick={() => handleCategoria(cat.valor)}
+            className={`flex-shrink-0 text-xs font-bold tracking-wider uppercase px-5 py-2.5 rounded-full border transition-colors duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] focus:ring-offset-1 focus:ring-offset-black interactive-tap pc-hover-tab snap-align-start ${
+              activo
+                ? "bg-[var(--color-accent)] text-black border-[var(--color-accent)] shadow-[0_4px_12px_oklch(76%_0.19_200_/_15%)]"
+                : "bg-[var(--color-card)] text-[var(--color-muted)] border-[var(--color-border)]"
+            }`}
+            aria-pressed={activo}
+          >
+            {cat.etiqueta}
+          </button>
+        );
+      })}
     </div>
   );
 }
+

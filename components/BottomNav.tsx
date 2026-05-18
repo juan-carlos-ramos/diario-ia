@@ -1,6 +1,5 @@
 "use client";
-import { usePathname } from "next/navigation";
-
+import { usePathname, useSearchParams } from "next/navigation";
 import Link from "next/link";
 
 const ITEMS = [
@@ -12,15 +11,27 @@ const ITEMS = [
 
 export default function BottomNav() {
   const pathname = usePathname();
+  const searchParams = useSearchParams();
+  const categoriaActual = searchParams.get("categoria") ?? "";
 
   return (
     <nav
-      className="sm:hidden fixed bottom-0 left-0 right-0 z-50 bg-[#0A0A0A] border-t border-[#222222] px-2 py-2"
-      aria-label="Navegación principal"
+      className="sm:hidden fixed bottom-0 left-0 right-0 z-50 bg-[oklch(10%_0.008_200_/_90%)] backdrop-blur-lg border-t border-[var(--color-border)] px-4 py-2 pb-5"
+      aria-label="Navegación principal móvil"
     >
-      <div className="flex items-center justify-around">
+      <div className="flex items-center justify-around max-w-md mx-auto">
         {ITEMS.map((item) => {
-          const activo = !item.externo && pathname === "/" && item.href === "/";
+          // Determinar estado activo de forma precisa usando los searchParams
+          let activo = false;
+          if (!item.externo && pathname === "/") {
+            if (item.href === "/") {
+              activo = categoriaActual === "";
+            } else if (item.href.includes("categoria=tecnologia")) {
+              activo = categoriaActual === "tecnologia";
+            } else if (item.href.includes("categoria=productividad")) {
+              activo = categoriaActual === "productividad";
+            }
+          }
           
           if (item.externo) {
             return (
@@ -29,11 +40,11 @@ export default function BottomNav() {
                 href={item.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex flex-col items-center gap-1 px-4 py-1 rounded-xl text-[#444444] hover:text-[#F0F0F0] transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[#00E5FF]"
+                className="relative flex flex-col items-center gap-1.5 px-3 py-1.5 rounded-2xl text-[var(--color-muted)] active:text-[var(--color-accent)] transition-colors duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap"
                 aria-label={item.etiqueta}
               >
                 <span className="text-lg leading-none">{item.icono}</span>
-                <span className="text-[10px] font-medium tracking-wide">{item.etiqueta}</span>
+                <span className="text-[10px] font-bold tracking-wide">{item.etiqueta}</span>
               </a>
             );
           }
@@ -42,16 +53,21 @@ export default function BottomNav() {
             <Link
               key={item.href}
               href={item.href}
-              className={`flex flex-col items-center gap-1 px-4 py-1 rounded-xl transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] ${
+              className={`relative flex flex-col items-center gap-1.5 px-3 py-1.5 rounded-2xl transition-colors duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap ${
                 activo
-                  ? "text-[#00E5FF]"
-                  : "text-[#444444] hover:text-[#F0F0F0]"
+                  ? "text-[var(--color-accent)]"
+                  : "text-[var(--color-muted)]"
               }`}
               aria-label={item.etiqueta}
               aria-current={activo ? "page" : undefined}
             >
               <span className="text-lg leading-none">{item.icono}</span>
-              <span className="text-[10px] font-medium tracking-wide">{item.etiqueta}</span>
+              <span className="text-[10px] font-bold tracking-wide">{item.etiqueta}</span>
+              
+              {/* Micro-indicador brillante de pestaña activa */}
+              {activo && (
+                <span className="absolute bottom-0 w-1 h-1 rounded-full bg-[var(--color-accent)] shadow-[0_0_8px_var(--color-accent)]" />
+              )}
             </Link>
           );
         })}
@@ -59,3 +75,4 @@ export default function BottomNav() {
     </nav>
   );
 }
+

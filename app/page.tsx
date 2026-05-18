@@ -95,8 +95,8 @@ export default async function Home({ searchParams }: Props) {
           {(params.q || params.categoria ? noticias : noticiasGrid).length === 0 ? (
             <EstadoVacio />
           ) : (
-            (params.q || params.categoria ? noticias : noticiasGrid).map((noticia) => (
-              <NoticiaCard key={noticia.id} noticia={noticia} />
+            (params.q || params.categoria ? noticias : noticiasGrid).map((noticia, idx) => (
+              <NoticiaCard key={noticia.id} noticia={noticia} index={idx} />
             ))
           )}
         </section>
