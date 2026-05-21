@@ -1,0 +1,271 @@
+{
+  "fecha": "2026-05-21",
+  "generado": "2026-05-21T11:25:22.633Z",
+  "total": 24,
+  "noticias": [
+    {
+      "id": "c3fb6b9b-8f47-4acf-9ac7-605d6ffb564c",
+      "titulo": "Adiós a la mejor ventaja de Gemini: Google cambia los límites de uso sin avisar y desata el caos entre los usuarios",
+      "resumen": "Gemini va a cambiar por completo en las próximas semanas, y no solo por los nuevos modelos anunciados durante el Google I/O. La compañía, de hecho, va a hacer una modificación en su IA con la llegada de Gemini 3.5 Flash, una que no ha gustado nada a muchos usuarios y que muy probablemente te […]\nSeg",
+      "url": "https://hipertextual.com/tecnologia/adios-a-la-mejor-ventaja-de-gemini-google-cambia-los-limites-de-uso-sin-avisar-y-desata-el-caos-entre-los-usuarios/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/gemini.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T11:20:53.000Z",
+      "fechaAgregada": "2026-05-21T11:25:13.335Z"
+    },
+    {
+      "id": "20449e18-12ce-4189-92dd-7a051a491be0",
+      "titulo": "Google quiere que la IA decida y gaste tu dinero por ti, ¿te fías?",
+      "resumen": "Podemos ver que la Inteligencia Artificial está cada vez más presente en nuestro día a día. Son muchas las plataformas que podemos usar, con chatbots populares como ChatGPT o Gemini. Aunque pueda ser útil para ahorrar tiempo y automatizar ciertas tareas, ¿hasta qué punto es realmente fiable? Sin dud",
+      "url": "https://www.redeszone.net/noticias/redes/google-ia-decida-gastar-dinero-comprar/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/imagen-inteligencia-artificial.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T11:11:23.000Z",
+      "fechaAgregada": "2026-05-21T11:25:19.960Z"
+    },
+    {
+      "id": "5a8c938c-7cdd-4129-aa75-24a8bff0e4fe",
+      "titulo": "Eric Schmidt advirtió a los jóvenes universitarios que la IA lo cambiará todo. Respuesta de los universitarios: abuchearle",
+      "resumen": "Estamos viviendo un momento curioso en el día a día tecnológico. Bueno, en muchísimos aspectos, realmente, pero evidentemente la inteligencia artificial es algo que acapara buena parte de la conversación y parece que no hay medias tintas. U optimismo salvaje sobre lo buena que es esta tecnología par",
+      "url": "https://www.xataka.com/empresas-y-economia/eric-schmidt-advirtio-a-jovenes-universitarios-que-ia-cambiara-todo-respuesta-universitarios-abuchearle",
+      "imagen": "https://i.blogs.es/7a5a5c/eric-schmidt-abucheado-por-la-ia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T11:01:35.000Z",
+      "fechaAgregada": "2026-05-21T11:25:12.542Z"
+    },
+    {
+      "id": "7fbe2225-c7ce-41de-b2f8-df27c6980013",
+      "titulo": "Google cambia los límites su IA: Gemini medirá el uso por recursos y no solo por mensajes",
+      "resumen": "Google ha empezado a avisar a suscriptores de Google AI Pro de un cambio importante en la forma de contabilizar el uso de sus herramientas de inteligencia artificial. A partir del 20 de mayo de 2026, según el correo enviado por Google One, los límites de Gemini ya no estarán basados en mensajes envi",
+      "url": "https://www.adslzone.net/noticias/ia/google-gemini-limites-computacion-mensajes/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/05/gemini-no-quiero-trabajar.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T09:08:19.000Z",
+      "fechaAgregada": "2026-05-21T11:25:18.240Z"
+    },
+    {
+      "id": "ddff2032-f560-4095-ba0a-8b0d9907ea64",
+      "titulo": "Wear OS 7 es oficial, y va a cambiar tanto tu reloj que parecerá nuevo: más batería, nuevo diseño, Gemini mejorado y mucho más",
+      "resumen": "Si tienes un reloj inteligente con Wear OS, hoy estás de enhorabuena. La gran G acaba de anunciar Wear OS 7, la próxima gran actualización que recibirán sus propios Pixel Watch y también muchos otros de marcas como Samsung, Xiaomi u Oppo. Todas las novedades han sido reveladas durante el Google I/O,",
+      "url": "https://hipertextual.com/tecnologia/wear-os-7-es-oficial-y-va-a-cambiar-tanto-tu-reloj-que-parecera-nuevo-mas-bateria-nuevo-diseno-gemini-mejorado-y-mucho-mas/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/wear-os.jpg?fit=1024%2C638&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T09:08:13.000Z",
+      "fechaAgregada": "2026-05-21T11:25:13.335Z"
+    },
+    {
+      "id": "6c52dfbc-584f-453b-9db8-3dfcce15bee3",
+      "titulo": "Cómo será el smartphone de OpenAI",
+      "resumen": "El smartphone de OpenAI sigue en desarrollo y pretende hacerse un hueco en la industria de la movilidad. El analista Ming-Chi Kuo, bien conocido por sus previsiones sobre productos de Apple, ha publicado una nota informativa donde desvela fechas de lanzamiento y especificaciones clave de un smartpho",
+      "url": "https://www.muycomputer.com/2026/05/21/como-sera-el-smartphone-de-openai/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/smartphone_de_OpenAI_2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T07:26:47.000Z",
+      "fechaAgregada": "2026-05-21T11:25:22.633Z"
+    },
+    {
+      "id": "cc20f0ef-100f-4168-83ba-85abb3e546d3",
+      "titulo": "DES 2026: entre el 9 y el 11 de junio os esperamos en Málaga en el mayor evento B2B dedicado a la IA y a la tecnología",
+      "resumen": "Quedan tres semanas para que dé comienzo la décima edición del Digital Entrerprise Show (DES) (9-11 de junio), uno de los eventos más importantes de Europa dedicados a la transformación digital, la IA y las tecnologías exponenciales. Por quinto año, Málaga acoge esta enorme feria de conocimiento y t",
+      "url": "https://www.xataka.com/xataka/des-2026-9-11-junio-os-esperamos-malaga-mayor-evento-b2b-dedicado-a-ia-a-tecnologia",
+      "imagen": "https://i.blogs.es/f76b64/des-xataka-2026/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T07:15:39.000Z",
+      "fechaAgregada": "2026-05-21T11:25:12.543Z"
+    },
+    {
+      "id": "ea009446-91f4-49f4-83de-c7dca99058ee",
+      "titulo": "España tendrá 27.000 nuevos funcionarios. La sorpresa es que ahora se buscan expertos en IA, ciberseguridad y ciencia de datos",
+      "resumen": "Estos últimos años, España ha impulsado las convocatorias de empleo público. Así se ha conseguido batir cifras históricas en número de plazas y, aunque la OEP (la Oferta de Empleo Público) de 2025 levantó el pie del acelerador, el Consejo de Ministros acaba de aprobar la OEP correspondiente a este 2",
+      "url": "https://www.xataka.com/empresas-y-economia/espana-tendra-27-000-nuevos-funcionarios-sorpresa-que-ahora-se-buscan-expertos-ia-ciberseguridad-ciencia-datos",
+      "imagen": "https://i.blogs.es/efe4e4/5164086248_aa1b58ba54_o/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T07:01:39.000Z",
+      "fechaAgregada": "2026-05-21T11:25:12.543Z"
+    },
+    {
+      "id": "b7da109a-1d6d-4947-b7f5-b3efcd9bcf0b",
+      "titulo": "Los creadores de Stable Difusion lanzan una IA que genera canciones completas en segundos",
+      "resumen": "Stability AI tiene un historial de publicar modelos de código abierto que acaban en manos de miles de desarrolladores y creadores. Ahora, la compañía detrás de Stable Diffusion apunta al audio con una IA capaz de generar melodías completas. Según la empresa, Stable Audio 3.0 puede producir canciones",
+      "url": "https://hipertextual.com/inteligencia-artificial/stable-audio-3-0-modelo-ia-canciones/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/stable-audio.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T19:20:00.000Z",
+      "fechaAgregada": "2026-05-21T11:25:13.336Z"
+    },
+    {
+      "id": "eeb0bf63-5ed0-441d-88b1-eb61282cf90a",
+      "titulo": "OpenAI prepara su próximo gran golpe en la IA: llegará en septiembre y busca adelantarse a Anthropic",
+      "resumen": "En la carrera por hacerse con el liderazgo de la Inteligencia Artificial, cualquier detalle cuenta. Y cuando se trata de asestar el golpe definitivo a algunos de tus rivales directos, el calendario juega un papel fundamental. Así lo estima OpenAI, que está acortando al máximo los plazos para dar for",
+      "url": "https://www.adslzone.net/noticias/ia/openai-salida-bolsa-junio/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/05/open-ai-salida-bolsa.jpeg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T18:43:21.000Z",
+      "fechaAgregada": "2026-05-21T11:25:18.240Z"
+    },
+    {
+      "id": "deaec1d9-cc9a-4c3c-9dea-960ca9f20226",
+      "titulo": "OpenAI se prepara para salir a la bolsa con una valoración astronómica",
+      "resumen": "OpenAI lleva meses moviéndose en silencio hacia uno de los pasos más importantes de su historia. La compañía de Sam Altman estaría ultimando los preparativos para salir a la bolsa en cuestión de semanas. La noticia llega tras meses de rumores y especulaciones sobre una valoración multimillonaria. De",
+      "url": "https://hipertextual.com/economia-empresas/openai-salida-bolsa-ipo-2026/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/ChatGPT-OpenAI.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T18:30:00.000Z",
+      "fechaAgregada": "2026-05-21T11:25:13.336Z"
+    },
+    {
+      "id": "ee93bf32-4f8b-49ba-bf6d-c1e9c27c4b06",
+      "titulo": "Con estas cámaras en oferta podrás proteger tu casa o negocio",
+      "resumen": "Si quieres mejorar la seguridad de tu vivienda, contar con cámaras de vigilancia es buena idea. Te ayudarán a tener un control de todo lo que ocurra, incluso si te encuentras fuera de casa. En este artículo, vamos a hablarte de algunas ofertas que puedes encontrar tanto en Amazon como en PcComponent",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-vigilancia-hogar-0526/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/camara-seguridad-oferta.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T14:07:25.000Z",
+      "fechaAgregada": "2026-05-21T11:25:19.960Z"
+    },
+    {
+      "id": "60a7cb97-3161-45f4-ba1c-708be57d7353",
+      "titulo": "La IA de Google tiene más acceso a ti de lo que crees",
+      "resumen": "La Inteligencia Artificial es algo que está cada vez más presente en nuestro día a día. Lo vemos en chatbots como ChatGPT o Gemini, por ejemplo, además de las novedades que incorporan plataformas de todo tipo, como redes sociales. Sin embargo, esto también supone un riesgo para la privacidad. Ahí en",
+      "url": "https://www.redeszone.net/noticias/seguridad/ia-google-demasiado-acceso-usuarios/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/imagen-ia-gemini.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T11:24:38.000Z",
+      "fechaAgregada": "2026-05-21T11:25:19.960Z"
+    },
+    {
+      "id": "e6583063-4213-4f55-a6f9-9d9fc6739351",
+      "titulo": "Google y Samsung presentan la nueva generación de gafas inteligentes con IA",
+      "resumen": "Los cascos de realidad virtual y/o aumentada son un dispositivo que llevan muchos años entre nosotros, más años de los que algunos imaginan. La evolución de este tipo de cascos son las gafas inteligentes, gafas cuya disponibilidad es cada vez más amplia, aunque limitada.\nSi hablamos de gafas intelig",
+      "url": "https://hardzone.es/noticias/perifericos/gafas-inteligentes-google-samsung/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/samsung-gafas-ia.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T10:06:02.000Z",
+      "fechaAgregada": "2026-05-21T11:25:21.317Z"
+    },
+    {
+      "id": "0b12e3ae-3136-46ee-bb40-fae6b261932f",
+      "titulo": "El fin de la barra libre en la IA: Google impone límites estrictos al uso gratuito de Gemini",
+      "resumen": "Las grandes tecnológicas han invertido miles de millones de dólares en desarrollar modelos de lenguaje capaces de hacer cualquier cosa, desde generar textos, hasta vídeos, pasando por imágenes, código, entre otros, un desarrollo que no es precisamente barato, aunque desde fuera sí lo parezca por el",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/google-reduce-limita-usos-gemini/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/google-gemini-bar.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T07:01:29.000Z",
+      "fechaAgregada": "2026-05-21T11:25:21.317Z"
+    },
+    {
+      "id": "3209b69a-b8fe-4668-990a-895669f96c5b",
+      "titulo": "Por qué el jurado le ha dado un revés a Elon Musk: las claves del gran juicio a la IA",
+      "resumen": "OpenAI sale vencedora de la denuncia por un “tecnicismo de calendario”, sin que la jueza entrara a valorar la cuestión de fondo",
+      "url": "https://elpais.com/tecnologia/2026-05-20/por-que-el-jurado-le-ha-dado-un-reves-a-elon-musk-las-claves-del-gran-juicio-a-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RPX3K73L6RHIDCE35QNRS6QCTQ.JPG?auth=cada19a133dabb1784d8a2c782099dc436be4e6bfbbde25f7e33071a091ffc1f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T03:30:01.000Z",
+      "fechaAgregada": "2026-05-21T11:25:15.695Z"
+    },
+    {
+      "id": "6d4ff193-3db9-43d8-92c5-08962a6799e1",
+      "titulo": "Lo que publicas en Instagram lo están usando para lanzar campañas de phishing",
+      "resumen": "Los piratas informáticos pueden aprovecharse de datos que recopilan en Internet para lanzar otros ataques y afectar a terceros. Es lo que ocurre con las publicaciones en Instagram, según una investigación de la Universidad de Texas en Arlington y la Universidad Estatal de Luisiana publicada este mes",
+      "url": "https://www.redeszone.net/noticias/seguridad/publicaciones-instagram-uso-phishing/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/logo-instagram-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-19T07:21:41.000Z",
+      "fechaAgregada": "2026-05-21T11:25:19.960Z"
+    },
+    {
+      "id": "06eaff97-5441-4920-9fac-077a273b5f8f",
+      "titulo": "‘Magnifica humanitas’: el Papa León XIV publicará el día 25 su primera encíclica, dedicada a la IA",
+      "resumen": "El pontífice presentará el documento personalmente, algo inédito en la historia reciente, acompañado por el cofundador de la compañía estadounidense Anthropic",
+      "url": "https://elpais.com/sociedad/2026-05-18/magnifica-humanitas-el-papa-leon-xiv-publicara-el-dia-25-su-primera-enciclica-dedicada-a-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QGORPNONDRCBTJQWZWJARBPVSY.jpg?auth=e0e9bc42a2e6a943d7b1d47562e1b8b0f7d85b55a7001daf47a2033090256b09",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-18T16:58:17.000Z",
+      "fechaAgregada": "2026-05-21T11:25:15.695Z"
+    },
+    {
+      "id": "2f4e65a0-4d06-43ce-8f5e-180dd674c10c",
+      "titulo": "¿Sam Altman es mentiroso o Elon Musk un celoso? El gran juicio de la IA queda visto para sentencia",
+      "resumen": "La jueza deberá decidir en los próximos días. La denuncia del CEO de Tesla puede provocar un terremoto para el futuro de OpenAI",
+      "url": "https://elpais.com/tecnologia/2026-05-15/sam-altman-es-mentiroso-o-musk-un-celoso-el-gran-juicio-de-la-ia-queda-visto-para-sentencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/X3GPAX6ISJFUVNVOYV4PQ5KMAU.JPG?auth=8dbf939d8204b47b3920564d77ad1359059e515f7e8afc374298dfb19e474bbf",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T12:39:19.000Z",
+      "fechaAgregada": "2026-05-21T11:25:15.695Z"
+    },
+    {
+      "id": "b73d30cd-8173-482d-bbd6-41b701ce8cca",
+      "titulo": "Sam Altman, en el juicio de OpenAI, testifica sobre millones, poder y dominación: “Elon Musk solo trabajará en empresas que controle totalmente”",
+      "resumen": "En un discurso más calmado que el de su oponente, el cofundador de la empresa de inteligencia artificial ha contado cómo Musk trató de que Tesla absorbiera la compañía y ha insistido en la importancia de su faceta filantrópica",
+      "url": "https://elpais.com/tecnologia/2026-05-12/sam-altman-en-el-juicio-de-openia-testifica-sobre-millones-poder-y-dominacion-elon-musk-solo-trabajara-en-empresas-que-controle-totalmente.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JTVOKXEVORO3ZHTIEJZKRW5R5M.jpg?auth=cf1087c72e73d47d43548cf1879f4c43e1decf01e05efa4431349fba9038def6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T20:34:56.000Z",
+      "fechaAgregada": "2026-05-21T11:25:15.695Z"
+    },
+    {
+      "id": "43c41d5b-787a-48c6-a870-bd85f391e664",
+      "titulo": "El director ejecutivo de Microsoft defiende el “riesgo” que tomó al invertir en OpenAI",
+      "resumen": "Satya Nadella asegura que “nadie más estaba dispuesto” a apostar por una empresa que entonces era emergente y que ahora se juega su futuro por la demanda entablada por Elon Musk",
+      "url": "https://elpais.com/tecnologia/2026-05-12/el-director-ejecutivo-de-microsoft-defiende-el-riesgo-que-tomo-al-invertir-en-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KKA6QAGFWVKZ5KCVGCYEOLGXBM.jpg?auth=a7d806c5c7d72eac0a19b524a7c1259693b941a1f93c76f3a543702da0f60c03",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T08:11:48.000Z",
+      "fechaAgregada": "2026-05-21T11:25:15.695Z"
+    },
+    {
+      "id": "f1766780-afc8-44d9-a2c6-4d8e1e41b496",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-21T11:25:14.599Z"
+    },
+    {
+      "id": "b508682e-65a6-444b-a5bb-437eb975fdec",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-21T11:25:14.599Z"
+    },
+    {
+      "id": "07cdd961-c3be-41f9-8b8b-90d5e792b28b",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-21T11:25:14.599Z"
+    }
+  ]
+}
