@@ -1,0 +1,249 @@
+{
+  "fecha": "2026-05-22",
+  "generado": "2026-05-22T10:50:57.504Z",
+  "total": 22,
+  "noticias": [
+    {
+      "id": "f7f01818-837e-4317-bb83-10f67c475d75",
+      "titulo": "Uber ha ha gastado en cuatro meses su presupuesto anual para IA porque la IA nos está convirtiendo en adictos a ella",
+      "resumen": "El CTO de Uber, Praveen Neppalli Naga, explicaba recientemente cómo su empresa decidió desplegar Claude Code entre sus 5.000 ingenieros. La adopción de la herramienta se disparó del 32% al 84% en un mes, y todos ellos comenzaron a usarla tanto que Uber se encontró con un problema: el coste real pasó",
+      "url": "https://www.xataka.com/robotica-e-ia/uber-haya-ha-gastado-cuatro-meses-su-presupuesto-anual-para-ia-porque-ia-nos-esta-convirtiendo-adictos-a-ella",
+      "imagen": "https://i.blogs.es/ec48b3/taximetro-ia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-22T10:31:34.000Z",
+      "fechaAgregada": "2026-05-22T10:50:50.971Z"
+    },
+    {
+      "id": "a0e2f027-7abf-4a37-aa41-486e800a6993",
+      "titulo": "AMD no se olvida de sus gráficas antiguas: acaba de actualizar los drivers de las GPU Polaris y Vega",
+      "resumen": "Tanto NVIDIA, como AMD e Intel están impulsado tecnologías como el trazado de rayos en tiempo real y la generación de fotogramas mediante inteligencia artificial y dejando rápidamente los modelos antiguos fuera de juego y, con el tiempo, en el olvido.\nSin embargo, AMD ha sorprendido a la comunidad g",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/actualizacion-drivers-graficas-polaris-vega/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/grafica-arquitecta-vega-polaris-amd.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-22T10:02:31.000Z",
+      "fechaAgregada": "2026-05-22T10:50:56.690Z"
+    },
+    {
+      "id": "4c089c15-5c6b-408e-b650-ce1e8dad4407",
+      "titulo": "Spotify da un paso más con la IA: podcasts creados para ti y canciones reinventadas",
+      "resumen": "Spotify lleva años intentando que la música deje de ser algo que simplemente reproducimos para convertirse en una experiencia cada vez más personalizada. Primero llegaron las recomendaciones basadas en hábitos de escucha, después las playlists generadas automáticamente, más tarde el DJ con inteligen",
+      "url": "https://www.muycomputer.com/2026/05/22/spotify-da-un-paso-mas-con-la-ia-podcasts-creados-para-ti-y-canciones-reinventadas/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/Spotify-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-22T06:03:27.000Z",
+      "fechaAgregada": "2026-05-22T10:50:57.504Z"
+    },
+    {
+      "id": "8399b720-9e7c-4f1b-a315-6811979f7f54",
+      "titulo": "Google regala YouTube Premium Lite a todos los que tienen este plan de IA: así puedes obtenerlo",
+      "resumen": "Google acaba de hacer su plan de inteligencia artificial más interesante de lo que era. A partir de ahora, suscribirte a Google AI Pro también te da acceso a YouTube Premium Lite sin coste adicional. Esta membresía ofrece vídeos sin anuncios en una buena parte del catálogo de la plataforma, así como",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-regala-youtube-premium-ai-pro-gemini/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/08/youtube-premium-lite-23-scaled.jpg?fit=1024%2C643&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T23:40:23.000Z",
+      "fechaAgregada": "2026-05-22T10:50:51.046Z"
+    },
+    {
+      "id": "87ea25f8-7315-4277-85e8-83a712f4e29d",
+      "titulo": "El músculo de muchos superordenadores dependía de las GPU: China está probando otro camino para superar al mejor de EEUU",
+      "resumen": "Cada vez que hablamos de inteligencia artificial a gran escala acabamos llegando al mismo punto: los centros de datos y sus enormes cantidades de GPU. No es casualidad. Este tipo de chips se ha convertido en una pieza central porque está especialmente bien preparado para ejecutar muchas operaciones",
+      "url": "https://www.xataka.com/ordenadores/musculo-muchos-superordenadores-parecia-depender-gpu-china-esta-probando-otro-camino-para-superar-al-numero-uno-eeuu",
+      "imagen": "https://i.blogs.es/e6caa4/concepto-superordenador-chino-arm/1024_2000.png",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T19:31:34.000Z",
+      "fechaAgregada": "2026-05-22T10:50:50.972Z"
+    },
+    {
+      "id": "1ae8862d-ac5d-48ce-86e5-9fa9389311a7",
+      "titulo": "AMD Ryzen AI Halo quiere convertir tu PC en una estación local de IA",
+      "resumen": "AMD Ryzen AI Halo llega en un momento en el que hemos empezado a asumir algo casi como una ley no escrita de la inteligencia artificial moderna: si quieres potencia de verdad, necesitas la nube. Chatbots generación de imágenes, agentes autónomos o grandes modelos de lenguaje suelen depender de enorm",
+      "url": "https://www.muycomputer.com/2026/05/21/amd-ryzen-ai-halo-quiere-convertir-tu-pc-en-una-estacion-local-de-ia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/AMD-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T18:02:33.000Z",
+      "fechaAgregada": "2026-05-22T10:50:57.504Z"
+    },
+    {
+      "id": "3eb63f3e-a2a6-4c31-8c94-00fdd51774f5",
+      "titulo": "¿Por qué hay cada vez más sobresalientes en la universidad? La culpa es de ChatGPT",
+      "resumen": "Una nueva investigación revela que al menos 1 de cada 10 trabajos está hecho con la ayuda de la IA. Las carreras donde los alumnos hacen más trampas son Económicas y Periodismo",
+      "url": "https://elpais.com/tecnologia/2026-05-21/por-que-hay-cada-vez-mas-sobresalientes-en-la-universidad-la-culpa-es-de-chatgpt.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3VZ5FDEFRRACXB2WUSEFEL6VSU.jpg?auth=967dbba1e3233a5a6a9f4816e3f0fb8d9090ddc4e9e445cf45f2ce0c37ab08b0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T18:00:14.000Z",
+      "fechaAgregada": "2026-05-22T10:50:52.241Z"
+    },
+    {
+      "id": "216365d8-62d3-4b31-a9ac-10afa180ab62",
+      "titulo": "La productividad se ha duplicado durante los últimos años. Stanford cree que no es la IA: es el teletrabajo",
+      "resumen": "Los datos sobre la productividad en EEUU sacan a la luz un incremento sostenido que incluso ha sorprendido al hasta ahora presidente de la Reserva Federal, Jerome Powell, admitió su asombro declarando que \" Nunca pensé que vería un momento en el que tuviéramos cinco o seis años de crecimiento de pro",
+      "url": "https://www.xataka.com/empresas-y-economia/stanford-ha-encontrado-al-culpable-milagro-productividad-eeuu-no-ia-trabajar-casa-pijama",
+      "imagen": "https://i.blogs.es/566758/productividad-del-teletrabajo/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T17:31:34.000Z",
+      "fechaAgregada": "2026-05-22T10:50:50.973Z"
+    },
+    {
+      "id": "5b297511-6d6d-4feb-bdf1-a58f7be24897",
+      "titulo": "iOS y Android llevan años \"inspirándose\" el uno en el otro. La última novedad de Google es el mejor ejemplo",
+      "resumen": "2026 será un gran año para Android. Con Google dando las últimas pinceladas para la versión final de Android 17, el sistema se va dibujando como uno en el que todas esas pequeñas debilidades que antaño arrastraba, se vayan diluyendo. La última de ellas es \"Continue On\", una función que separaba –por",
+      "url": "https://www.xataka.com/aplicaciones/google-ha-encontrado-clave-android-deje-tener-puntos-debiles-mirar-a-apple-rabillo-ojo",
+      "imagen": "https://i.blogs.es/5327a0/android-18/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T15:15:34.000Z",
+      "fechaAgregada": "2026-05-22T10:50:50.973Z"
+    },
+    {
+      "id": "461255f9-d1d5-447e-b906-cd79549f5842",
+      "titulo": "AMD quiere salvar el mercado inyectando millones para aumentar el stock y bajar los precios",
+      "resumen": "Durante los últimos meses, el aumento de todos los componentes de un ordenador ha sido exponencial, y a día de hoy no vemos un techo claro, por lo que montar un PC es muy caro, y si necesitas uno, acabarás pagando el doble de lo que te hubiese costado hace 2 años.\nSin embargo, noticias como la de ho",
+      "url": "https://hardzone.es/noticias/componentes/amd-salvar-mercado-inyectando-millones-aumentar-stock-reducir-precios/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/amd.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T14:30:18.000Z",
+      "fechaAgregada": "2026-05-22T10:50:56.691Z"
+    },
+    {
+      "id": "5af4a510-9dd3-4764-8cb8-b241b0919d44",
+      "titulo": "Google quiere que la IA decida y gaste tu dinero por ti, ¿te fías?",
+      "resumen": "Podemos ver que la Inteligencia Artificial está cada vez más presente en nuestro día a día. Son muchas las plataformas que podemos usar, con chatbots populares como ChatGPT o Gemini. Aunque pueda ser útil para ahorrar tiempo y automatizar ciertas tareas, ¿hasta qué punto es realmente fiable? Sin dud",
+      "url": "https://www.redeszone.net/noticias/redes/google-ia-decida-gastar-dinero-comprar/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/imagen-inteligencia-artificial.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T11:11:23.000Z",
+      "fechaAgregada": "2026-05-22T10:50:55.910Z"
+    },
+    {
+      "id": "0a1757f6-ab9b-41a3-b76d-43839304e7a9",
+      "titulo": "Cómo será el smartphone de OpenAI",
+      "resumen": "El smartphone de OpenAI sigue en desarrollo y pretende hacerse un hueco en la industria de la movilidad. El analista Ming-Chi Kuo, bien conocido por sus previsiones sobre productos de Apple, ha publicado una nota informativa donde desvela fechas de lanzamiento y especificaciones clave de un smartpho",
+      "url": "https://www.muycomputer.com/2026/05/21/como-sera-el-smartphone-de-openai/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/smartphone_de_OpenAI_2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T07:26:47.000Z",
+      "fechaAgregada": "2026-05-22T10:50:57.504Z"
+    },
+    {
+      "id": "afc8f143-8f66-4e77-87a9-0bde0bc8b570",
+      "titulo": "Con estas cámaras en oferta podrás proteger tu casa o negocio",
+      "resumen": "Si quieres mejorar la seguridad de tu vivienda, contar con cámaras de vigilancia es buena idea. Te ayudarán a tener un control de todo lo que ocurra, incluso si te encuentras fuera de casa. En este artículo, vamos a hablarte de algunas ofertas que puedes encontrar tanto en Amazon como en PcComponent",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-vigilancia-hogar-0526/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/camara-seguridad-oferta.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T14:07:25.000Z",
+      "fechaAgregada": "2026-05-22T10:50:55.910Z"
+    },
+    {
+      "id": "5dce7de1-898a-443e-92a1-da4d54c83d07",
+      "titulo": "La IA de Google tiene más acceso a ti de lo que crees",
+      "resumen": "La Inteligencia Artificial es algo que está cada vez más presente en nuestro día a día. Lo vemos en chatbots como ChatGPT o Gemini, por ejemplo, además de las novedades que incorporan plataformas de todo tipo, como redes sociales. Sin embargo, esto también supone un riesgo para la privacidad. Ahí en",
+      "url": "https://www.redeszone.net/noticias/seguridad/ia-google-demasiado-acceso-usuarios/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/imagen-ia-gemini.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T11:24:38.000Z",
+      "fechaAgregada": "2026-05-22T10:50:55.911Z"
+    },
+    {
+      "id": "dc708f3e-e6ea-4c11-958a-531b4b4e8503",
+      "titulo": "Por qué el jurado le ha dado un revés a Elon Musk: las claves del gran juicio a la IA",
+      "resumen": "OpenAI sale vencedora de la denuncia por un “tecnicismo de calendario”, sin que la jueza entrara a valorar la cuestión de fondo",
+      "url": "https://elpais.com/tecnologia/2026-05-20/por-que-el-jurado-le-ha-dado-un-reves-a-elon-musk-las-claves-del-gran-juicio-a-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RPX3K73L6RHIDCE35QNRS6QCTQ.JPG?auth=cada19a133dabb1784d8a2c782099dc436be4e6bfbbde25f7e33071a091ffc1f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T03:30:01.000Z",
+      "fechaAgregada": "2026-05-22T10:50:52.241Z"
+    },
+    {
+      "id": "cfb003ed-4343-4107-88db-4218908fa3b2",
+      "titulo": "‘Magnifica humanitas’: el Papa León XIV publicará el día 25 su primera encíclica, dedicada a la IA",
+      "resumen": "El pontífice presentará el documento personalmente, algo inédito en la historia reciente, acompañado por el cofundador de la compañía estadounidense Anthropic",
+      "url": "https://elpais.com/sociedad/2026-05-18/magnifica-humanitas-el-papa-leon-xiv-publicara-el-dia-25-su-primera-enciclica-dedicada-a-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QGORPNONDRCBTJQWZWJARBPVSY.jpg?auth=e0e9bc42a2e6a943d7b1d47562e1b8b0f7d85b55a7001daf47a2033090256b09",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-18T16:58:17.000Z",
+      "fechaAgregada": "2026-05-22T10:50:52.241Z"
+    },
+    {
+      "id": "cb6dd36a-5ef4-431d-b7bb-1b9178c1704d",
+      "titulo": "¿Sam Altman es mentiroso o Elon Musk un celoso? El gran juicio de la IA queda visto para sentencia",
+      "resumen": "La jueza deberá decidir en los próximos días. La denuncia del CEO de Tesla puede provocar un terremoto para el futuro de OpenAI",
+      "url": "https://elpais.com/tecnologia/2026-05-15/sam-altman-es-mentiroso-o-musk-un-celoso-el-gran-juicio-de-la-ia-queda-visto-para-sentencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/X3GPAX6ISJFUVNVOYV4PQ5KMAU.JPG?auth=8dbf939d8204b47b3920564d77ad1359059e515f7e8afc374298dfb19e474bbf",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T12:39:19.000Z",
+      "fechaAgregada": "2026-05-22T10:50:52.241Z"
+    },
+    {
+      "id": "50c97ee9-92fa-4e52-90a5-60aeca3e26bc",
+      "titulo": "Sam Altman, en el juicio de OpenAI, testifica sobre millones, poder y dominación: “Elon Musk solo trabajará en empresas que controle totalmente”",
+      "resumen": "En un discurso más calmado que el de su oponente, el cofundador de la empresa de inteligencia artificial ha contado cómo Musk trató de que Tesla absorbiera la compañía y ha insistido en la importancia de su faceta filantrópica",
+      "url": "https://elpais.com/tecnologia/2026-05-12/sam-altman-en-el-juicio-de-openia-testifica-sobre-millones-poder-y-dominacion-elon-musk-solo-trabajara-en-empresas-que-controle-totalmente.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JTVOKXEVORO3ZHTIEJZKRW5R5M.jpg?auth=cf1087c72e73d47d43548cf1879f4c43e1decf01e05efa4431349fba9038def6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T20:34:56.000Z",
+      "fechaAgregada": "2026-05-22T10:50:52.242Z"
+    },
+    {
+      "id": "00cc6ddf-cf74-4ef1-9226-a31840c65c01",
+      "titulo": "El director ejecutivo de Microsoft defiende el “riesgo” que tomó al invertir en OpenAI",
+      "resumen": "Satya Nadella asegura que “nadie más estaba dispuesto” a apostar por una empresa que entonces era emergente y que ahora se juega su futuro por la demanda entablada por Elon Musk",
+      "url": "https://elpais.com/tecnologia/2026-05-12/el-director-ejecutivo-de-microsoft-defiende-el-riesgo-que-tomo-al-invertir-en-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KKA6QAGFWVKZ5KCVGCYEOLGXBM.jpg?auth=a7d806c5c7d72eac0a19b524a7c1259693b941a1f93c76f3a543702da0f60c03",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T08:11:48.000Z",
+      "fechaAgregada": "2026-05-22T10:50:52.242Z"
+    },
+    {
+      "id": "abcfe3da-64b2-421b-b771-8b669f02f3d6",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-22T10:50:51.668Z"
+    },
+    {
+      "id": "97102010-a729-4ac6-b5c1-66d07d4c6025",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-22T10:50:51.668Z"
+    },
+    {
+      "id": "f4428c55-1ba7-4476-91d6-cdcc8adf8063",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-22T10:50:51.668Z"
+    }
+  ]
+}
