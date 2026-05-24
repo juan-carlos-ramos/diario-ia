@@ -1,0 +1,205 @@
+{
+  "fecha": "2026-05-24",
+  "generado": "2026-05-24T09:54:27.232Z",
+  "total": 18,
+  "noticias": [
+    {
+      "id": "13c8903d-46df-48df-98e4-4795ea9110fd",
+      "titulo": "Se acabó usar Gemini ilimitado. Así son los nuevos límites de Google (y cómo verlos)",
+      "resumen": "Esta semana, Gemini sorprendió a todos al implementar un nuevo sistema de límites de uso. Una decisión que generó el enfado de quienes accedían a la versión gratuita del chatbot impulsado por inteligencia artificial. Esto se debe a que, desde ahora, Google impone un tope de uso tanto diario como sem",
+      "url": "https://hipertextual.com/inteligencia-artificial/nuevos-limites-de-uso-gemini/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/google-gemini.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-23T17:00:00.000Z",
+      "fechaAgregada": "2026-05-24T09:54:21.930Z"
+    },
+    {
+      "id": "e676552e-64b3-4629-9710-782bdc1e217d",
+      "titulo": "Miles de familias usaban estos vigilabebés para sentirse más seguras: el problema es que cualquiera podía mirar",
+      "resumen": "En muchos hogares con niños pequeños tienen instaladas cámaras de vigilancia o vigilabebés. Permiten controlar a la criatura mientras duerme y, si llora, puedes acudir a ver qué ocurre en un instante. Todo ventajas, menos cuando la cámara en cuestión tiene un fallo de seguridad que da acceso a cualq",
+      "url": "https://www.xataka.com/seguridad/miles-familias-usaban-estos-vigilabebes-para-sentirse-seguras-problema-que-podia-mirar",
+      "imagen": "https://i.blogs.es/3e6ad9/vigilabebes/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-23T16:01:34.000Z",
+      "fechaAgregada": "2026-05-24T09:54:21.721Z"
+    },
+    {
+      "id": "09eff0c9-738b-41bf-b39b-08c4b7a7121c",
+      "titulo": "Descubren un fallo crítico en Claude Code que ponía en riesgo tu ordenador sin que lo supieras",
+      "resumen": "Un investigador de seguridad descubrió un fallo grave en Claude Code que permitía ejecutar comandos en tu ordenador con solo abrir un enlace. Según los primeros análisis, un hacker podría colar instrucciones maliciosas dentro de un prompt. Aunque Anthropic ya lanzó la versión 2.1.118 que corrige el",
+      "url": "https://hipertextual.com/inteligencia-artificial/vulnerabilidad-claude-code-rce-deeplink/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-code-app-portada.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-23T16:00:00.000Z",
+      "fechaAgregada": "2026-05-24T09:54:21.930Z"
+    },
+    {
+      "id": "8a94c4b0-324b-4d4c-8b7b-d4a9abf317c9",
+      "titulo": "Antigravity 2.0 vs Claude Code: Cuál es mejor para programar con inteligencia artificial",
+      "resumen": "Hasta hace poco, los asistentes de programación con IA funcionaban dentro de tu editor de código. Te sugerían líneas, completaban funciones y respondían preguntas en un chat lateral. Google ha decidido ir un paso más lejos con Antigravity 2.0, una aplicación de escritorio pensada para que sean los a",
+      "url": "https://hipertextual.com/inteligencia-artificial/como-empezar-con-google-antigravity-2-0-claude-code/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/antigravity-2-0-google.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-23T11:00:00.000Z",
+      "fechaAgregada": "2026-05-24T09:54:21.930Z"
+    },
+    {
+      "id": "956a8a4a-109d-4341-9917-01b107e693a3",
+      "titulo": "Google salva los Chromecast y los actualiza gratis con Gemini",
+      "resumen": "Las últimas horas han sido muy movidas para los propietarios de dispositivos Chromecast. Y cuando se pensaba que era el adiós definitivo para estos terminales, Google ha salido de entre las sombras para ayudar a los usuarios. En paralelo, ha actualizado algunos modelos con Gemini.\nDurante la pasada",
+      "url": "https://www.adslzone.net/noticias/streaming-tv/google-salva-chromecast-actualiza-gratis-gemini/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/05/Chica-feliz-Chromecast-icono-Gemini.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-23T08:02:30.000Z",
+      "fechaAgregada": "2026-05-24T09:54:25.505Z"
+    },
+    {
+      "id": "abe19cd0-57da-42e1-a582-7a07f73df472",
+      "titulo": "AMD no se olvida de sus gráficas antiguas: acaba de actualizar los drivers de las GPU Polaris y Vega",
+      "resumen": "Tanto NVIDIA, como AMD e Intel están impulsado tecnologías como el trazado de rayos en tiempo real y la generación de fotogramas mediante inteligencia artificial y dejando rápidamente los modelos antiguos fuera de juego y, con el tiempo, en el olvido.\nSin embargo, AMD ha sorprendido a la comunidad g",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/actualizacion-drivers-graficas-polaris-vega/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/grafica-arquitecta-vega-polaris-amd.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-22T10:02:31.000Z",
+      "fechaAgregada": "2026-05-24T09:54:26.258Z"
+    },
+    {
+      "id": "ff9e0ea7-59e6-4afc-a35b-5e7865da32bc",
+      "titulo": "Spotify da un paso más con la IA: podcasts creados para ti y canciones reinventadas",
+      "resumen": "Spotify lleva años intentando que la música deje de ser algo que simplemente reproducimos para convertirse en una experiencia cada vez más personalizada. Primero llegaron las recomendaciones basadas en hábitos de escucha, después las playlists generadas automáticamente, más tarde el DJ con inteligen",
+      "url": "https://www.muycomputer.com/2026/05/22/spotify-da-un-paso-mas-con-la-ia-podcasts-creados-para-ti-y-canciones-reinventadas/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/Spotify-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-22T06:03:27.000Z",
+      "fechaAgregada": "2026-05-24T09:54:27.232Z"
+    },
+    {
+      "id": "0f9fb1bc-1812-4a89-98ad-e53c0898ce37",
+      "titulo": "AMD Ryzen AI Halo quiere convertir tu PC en una estación local de IA",
+      "resumen": "AMD Ryzen AI Halo llega en un momento en el que hemos empezado a asumir algo casi como una ley no escrita de la inteligencia artificial moderna: si quieres potencia de verdad, necesitas la nube. Chatbots generación de imágenes, agentes autónomos o grandes modelos de lenguaje suelen depender de enorm",
+      "url": "https://www.muycomputer.com/2026/05/21/amd-ryzen-ai-halo-quiere-convertir-tu-pc-en-una-estacion-local-de-ia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/AMD-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T18:02:33.000Z",
+      "fechaAgregada": "2026-05-24T09:54:27.232Z"
+    },
+    {
+      "id": "4813dc5a-8834-414e-9d02-bf13a73b3639",
+      "titulo": "¿Por qué hay cada vez más sobresalientes en la universidad? La culpa es de ChatGPT",
+      "resumen": "Una nueva investigación revela que al menos 1 de cada 10 trabajos está hecho con la ayuda de la IA. Las carreras donde los alumnos hacen más trampas son Económicas y Periodismo",
+      "url": "https://elpais.com/tecnologia/2026-05-21/por-que-hay-cada-vez-mas-sobresalientes-en-la-universidad-la-culpa-es-de-chatgpt.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3VZ5FDEFRRACXB2WUSEFEL6VSU.jpg?auth=967dbba1e3233a5a6a9f4816e3f0fb8d9090ddc4e9e445cf45f2ce0c37ab08b0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T18:00:14.000Z",
+      "fechaAgregada": "2026-05-24T09:54:23.446Z"
+    },
+    {
+      "id": "5da2240b-919c-4634-b891-0a1cfb10a7b3",
+      "titulo": "Google quiere que la IA decida y gaste tu dinero por ti, ¿te fías?",
+      "resumen": "Podemos ver que la Inteligencia Artificial está cada vez más presente en nuestro día a día. Son muchas las plataformas que podemos usar, con chatbots populares como ChatGPT o Gemini. Aunque pueda ser útil para ahorrar tiempo y automatizar ciertas tareas, ¿hasta qué punto es realmente fiable? Sin dud",
+      "url": "https://www.redeszone.net/noticias/redes/google-ia-decida-gastar-dinero-comprar/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/imagen-inteligencia-artificial.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T11:11:23.000Z",
+      "fechaAgregada": "2026-05-24T09:54:25.958Z"
+    },
+    {
+      "id": "4e6ae575-5eb1-442b-8c3d-6dc68ac7146e",
+      "titulo": "Por qué el jurado le ha dado un revés a Elon Musk: las claves del gran juicio a la IA",
+      "resumen": "OpenAI sale vencedora de la denuncia por un “tecnicismo de calendario”, sin que la jueza entrara a valorar la cuestión de fondo",
+      "url": "https://elpais.com/tecnologia/2026-05-20/por-que-el-jurado-le-ha-dado-un-reves-a-elon-musk-las-claves-del-gran-juicio-a-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RPX3K73L6RHIDCE35QNRS6QCTQ.JPG?auth=cada19a133dabb1784d8a2c782099dc436be4e6bfbbde25f7e33071a091ffc1f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T03:30:01.000Z",
+      "fechaAgregada": "2026-05-24T09:54:23.446Z"
+    },
+    {
+      "id": "57020fb3-b848-41cd-8e28-562590b5abde",
+      "titulo": "‘Magnifica humanitas’: el Papa León XIV publicará el día 25 su primera encíclica, dedicada a la IA",
+      "resumen": "El pontífice presentará el documento personalmente, algo inédito en la historia reciente, acompañado por el cofundador de la compañía estadounidense Anthropic",
+      "url": "https://elpais.com/sociedad/2026-05-18/magnifica-humanitas-el-papa-leon-xiv-publicara-el-dia-25-su-primera-enciclica-dedicada-a-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QGORPNONDRCBTJQWZWJARBPVSY.jpg?auth=e0e9bc42a2e6a943d7b1d47562e1b8b0f7d85b55a7001daf47a2033090256b09",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-18T16:58:17.000Z",
+      "fechaAgregada": "2026-05-24T09:54:23.446Z"
+    },
+    {
+      "id": "aa65b486-e7c6-4ffc-a8bb-b37127df1878",
+      "titulo": "¿Sam Altman es mentiroso o Elon Musk un celoso? El gran juicio de la IA queda visto para sentencia",
+      "resumen": "La jueza deberá decidir en los próximos días. La denuncia del CEO de Tesla puede provocar un terremoto para el futuro de OpenAI",
+      "url": "https://elpais.com/tecnologia/2026-05-15/sam-altman-es-mentiroso-o-musk-un-celoso-el-gran-juicio-de-la-ia-queda-visto-para-sentencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/X3GPAX6ISJFUVNVOYV4PQ5KMAU.JPG?auth=8dbf939d8204b47b3920564d77ad1359059e515f7e8afc374298dfb19e474bbf",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T12:39:19.000Z",
+      "fechaAgregada": "2026-05-24T09:54:23.446Z"
+    },
+    {
+      "id": "6def0508-d5a2-4c85-86f6-611566cae70b",
+      "titulo": "Sam Altman, en el juicio de OpenAI, testifica sobre millones, poder y dominación: “Elon Musk solo trabajará en empresas que controle totalmente”",
+      "resumen": "En un discurso más calmado que el de su oponente, el cofundador de la empresa de inteligencia artificial ha contado cómo Musk trató de que Tesla absorbiera la compañía y ha insistido en la importancia de su faceta filantrópica",
+      "url": "https://elpais.com/tecnologia/2026-05-12/sam-altman-en-el-juicio-de-openia-testifica-sobre-millones-poder-y-dominacion-elon-musk-solo-trabajara-en-empresas-que-controle-totalmente.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JTVOKXEVORO3ZHTIEJZKRW5R5M.jpg?auth=cf1087c72e73d47d43548cf1879f4c43e1decf01e05efa4431349fba9038def6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T20:34:56.000Z",
+      "fechaAgregada": "2026-05-24T09:54:23.446Z"
+    },
+    {
+      "id": "e9569f62-0326-409d-881b-5a648b718060",
+      "titulo": "El director ejecutivo de Microsoft defiende el “riesgo” que tomó al invertir en OpenAI",
+      "resumen": "Satya Nadella asegura que “nadie más estaba dispuesto” a apostar por una empresa que entonces era emergente y que ahora se juega su futuro por la demanda entablada por Elon Musk",
+      "url": "https://elpais.com/tecnologia/2026-05-12/el-director-ejecutivo-de-microsoft-defiende-el-riesgo-que-tomo-al-invertir-en-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KKA6QAGFWVKZ5KCVGCYEOLGXBM.jpg?auth=a7d806c5c7d72eac0a19b524a7c1259693b941a1f93c76f3a543702da0f60c03",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T08:11:48.000Z",
+      "fechaAgregada": "2026-05-24T09:54:23.446Z"
+    },
+    {
+      "id": "7a67a948-42f2-4fc5-91fa-d59ea513da9f",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-24T09:54:22.831Z"
+    },
+    {
+      "id": "e56a0dd9-ab43-4146-9280-3c42e3878be8",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-24T09:54:22.831Z"
+    },
+    {
+      "id": "cb200ee6-915e-4ef2-88db-ef221dc00cf3",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-24T09:54:22.831Z"
+    }
+  ]
+}
