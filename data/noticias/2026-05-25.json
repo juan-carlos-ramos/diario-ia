@@ -1,0 +1,194 @@
+{
+  "fecha": "2026-05-25",
+  "generado": "2026-05-25T11:53:15.806Z",
+  "total": 17,
+  "noticias": [
+    {
+      "id": "c1223154-baf6-4f69-ae7f-f52535a8883b",
+      "titulo": "Alerta histórica del Papa: arremete contra el «tecnofascismo» tras reuniones secretas con Google, Meta y Amazon",
+      "resumen": "La primera encíclica del Papa León XIV, la carta solemne sobre asuntos de la iglesia en cuestiones sociales que ya se ha convertido en un documento de interés universal, recoge uno de los temas de mayor preocupación para la sociedad: la inteligencia artificial y sus riesgos. En el escrito, titulado",
+      "url": "https://hipertextual.com/actualidad/alerta-historica-del-papa-arremete-contra-el-tecnofascismo-tras-reuniones-secretas-con-google-meta-y-amazon/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/papa-leon.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-25T11:41:29.000Z",
+      "fechaAgregada": "2026-05-25T11:53:10.145Z"
+    },
+    {
+      "id": "6bf2ee24-70b9-43a7-9f10-553009833620",
+      "titulo": "Aprovecha estas ofertas en timbres y cerraduras inteligentes para tu casa",
+      "resumen": "Si quieres controlar tu vivienda de forma remota, la domótica juega un papel fundamental. Puedes utilizar dispositivos muy variados y en este artículo vamos a hablarte de algunas ofertas en timbres y cerraduras inteligentes. Te hablaremos de las principales características de cada uno de ellos, para",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-cerraduras-timbres-0526/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/timbre-inteligente-reolink.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-25T11:11:14.000Z",
+      "fechaAgregada": "2026-05-25T11:53:13.017Z"
+    },
+    {
+      "id": "2caa4737-987a-42ae-bdd2-d1dbf655d2a6",
+      "titulo": "Para China, DeepSeek es algo más que una IA: es la clave para crear una industria que les independice de Nvidia",
+      "resumen": "La llegada de DeepSeek-V4-Pro no ha causado tanto revuelo como la que causó DeepSeek R1 hace un año y medio, pero puede que estemos ante un modelo aún más importante. Si aquella versión le descubrió al mundo que China estaba avanzando de forma espectacular en esta carrera, esta otra está comenzando",
+      "url": "https://www.xataka.com/robotica-e-ia/deepseek-bueno-bonito-muy-barato-todo-arma-para-crear-industria-china-hardware-independiente-nvidia",
+      "imagen": "https://i.blogs.es/d585a3/china-deepseek/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-25T09:15:34.000Z",
+      "fechaAgregada": "2026-05-25T11:53:09.939Z"
+    },
+    {
+      "id": "fd7b0345-3bf7-4424-a80b-5b6415cc2968",
+      "titulo": "Llevamos años preocupados por los \"falsos positivos\". El problema es otro: encontrar vida extraterrestre e ignorarla",
+      "resumen": "Estamos acostumbradísimos a escuchar que alguien ha encontrado posibles signos de vida en el espacio. Luego nunca se encuentra vida, pero el rastro parece estar ahí. Todos esos hallazgos suelen acabar siendo falsos positivos, algo con lo que los astrobiólogos están más que familiarizados. Sin embarg",
+      "url": "https://www.xataka.com/espacio/buscamos-vida-extraterrestre-hace-decadas-estos-astrobiologos-llevamos-todo-ese-tiempo-haciendolo-mal",
+      "imagen": "https://i.blogs.es/aedaea/vida-extraterrestre/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-25T09:01:34.000Z",
+      "fechaAgregada": "2026-05-25T11:53:09.939Z"
+    },
+    {
+      "id": "d49de1ee-12d0-4eb8-9bf3-0eed91ffe618",
+      "titulo": "China ha resuelto el dilema de la IA en la educación: asignatura troncal y profesores con formación especializada",
+      "resumen": "China tiene entre ceja y ceja un objetivo: convertirse en la primera potencia mundial. Es un objetivo a todas luces ambicioso, pero en el último Plan Quinquenal detallan la hoja de ruta que deben seguir para lograr ese fin en el periodo 2026-2030.\n\rLa de los planes quinquenales es una tradición muy",
+      "url": "https://www.xataka.com/robotica-e-ia/china-tiene-clarisimo-que-futuro-educacion-pasa-ia-asi-que-va-a-exigir-a-sus-profesores-que-tengan-conocimientos",
+      "imagen": "https://i.blogs.es/f25ed6/original/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-25T07:01:34.000Z",
+      "fechaAgregada": "2026-05-25T11:53:09.940Z"
+    },
+    {
+      "id": "cfc83730-b914-4d20-af0c-8220fb8502a7",
+      "titulo": "DLSS vs DLAA: cuál elegir para obtener la mejor imagen en tus juegos NVIDIA",
+      "resumen": "Si acabas de comprar una gráfica de NVIDIA es más que probable que, si eres nuevo o vienes de una gráfica de AMD o de Intel, te vas abrumado por el gran número de opciones que ofrece a la hora de configurar la calidad gráfica de los videojuegos. Básicamente en lo que debes fijarte es en la tecnologí",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/dlss-vs-dlaa-cual-elegir-obtener-mejor-calidad-imagen/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/04/dlss-vs-dlaa.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-24T19:01:47.000Z",
+      "fechaAgregada": "2026-05-25T11:53:14.572Z"
+    },
+    {
+      "id": "b0dc40f2-4c81-4d72-b2db-2bd20abd3982",
+      "titulo": "Starbucks, inteligencia artificial y un lío de la leche",
+      "resumen": "Starbucks acaba de protagonizar una de esas historias pequeñas que, vistas de cerca, terminan contando algo bastante más grande. Durante los últimos dos años hemos escuchado una promesa repetida casi como un mantra: la inteligencia artificial ya está preparada para automatizar buena parte de las tar",
+      "url": "https://www.muycomputer.com/2026/05/24/starbucks-inteligencia-artificial-y-un-lio-de-la-leche/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/Starbucks-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-24T18:13:47.000Z",
+      "fechaAgregada": "2026-05-25T11:53:15.805Z"
+    },
+    {
+      "id": "2bd5aff8-c249-4a76-bdb9-cdbd92484a26",
+      "titulo": "He cumplido un sueño. La IA ya no me molesta cuando busco algo en Google. Este ajuste la oculta para siempre",
+      "resumen": "Si quiero consultar a la IA, entro en Gemini o ChatGPT, no en Google. Esta teoría no va con la gran G, que desde hace tiempo incluye resultados generados por inteligencia artificial en sus búsquedas. Y no pocos ni cortos: están sustituyendo a los links de toda la vida, lo que convierte la experienci",
+      "url": "https://hipertextual.com/inteligencia-artificial/he-cumplido-un-sueno-la-ia-ya-no-me-molesta-cuando-busco-algo-en-google-este-ajuste-la-oculta-para-siempre/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/shutter-speed-0uMU42uRw28-unsplash-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-24T18:00:00.000Z",
+      "fechaAgregada": "2026-05-25T11:53:10.145Z"
+    },
+    {
+      "id": "08f5116a-7813-4279-acac-0d958d1dd99b",
+      "titulo": "¿Por qué hay cada vez más sobresalientes en la universidad? La culpa es de ChatGPT",
+      "resumen": "Una nueva investigación revela que al menos 1 de cada 10 trabajos está hecho con la ayuda de la IA. Las carreras donde los alumnos hacen más trampas son Económicas y Periodismo",
+      "url": "https://elpais.com/tecnologia/2026-05-21/por-que-hay-cada-vez-mas-sobresalientes-en-la-universidad-la-culpa-es-de-chatgpt.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3VZ5FDEFRRACXB2WUSEFEL6VSU.jpg?auth=967dbba1e3233a5a6a9f4816e3f0fb8d9090ddc4e9e445cf45f2ce0c37ab08b0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T18:00:14.000Z",
+      "fechaAgregada": "2026-05-25T11:53:11.029Z"
+    },
+    {
+      "id": "d63426df-2d30-4da3-9a82-d46248d4c0d8",
+      "titulo": "Por qué el jurado le ha dado un revés a Elon Musk: las claves del gran juicio a la IA",
+      "resumen": "OpenAI sale vencedora de la denuncia por un “tecnicismo de calendario”, sin que la jueza entrara a valorar la cuestión de fondo",
+      "url": "https://elpais.com/tecnologia/2026-05-20/por-que-el-jurado-le-ha-dado-un-reves-a-elon-musk-las-claves-del-gran-juicio-a-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RPX3K73L6RHIDCE35QNRS6QCTQ.JPG?auth=cada19a133dabb1784d8a2c782099dc436be4e6bfbbde25f7e33071a091ffc1f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T03:30:01.000Z",
+      "fechaAgregada": "2026-05-25T11:53:11.029Z"
+    },
+    {
+      "id": "4c8ec7d2-9212-4510-9159-32e938f8bad8",
+      "titulo": "‘Magnifica humanitas’: el Papa León XIV publicará el día 25 su primera encíclica, dedicada a la IA",
+      "resumen": "El pontífice presentará el documento personalmente, algo inédito en la historia reciente, acompañado por el cofundador de la compañía estadounidense Anthropic",
+      "url": "https://elpais.com/sociedad/2026-05-18/magnifica-humanitas-el-papa-leon-xiv-publicara-el-dia-25-su-primera-enciclica-dedicada-a-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QGORPNONDRCBTJQWZWJARBPVSY.jpg?auth=e0e9bc42a2e6a943d7b1d47562e1b8b0f7d85b55a7001daf47a2033090256b09",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-18T16:58:17.000Z",
+      "fechaAgregada": "2026-05-25T11:53:11.029Z"
+    },
+    {
+      "id": "0c387492-125a-4406-ba36-017a692efba5",
+      "titulo": "¿Sam Altman es mentiroso o Elon Musk un celoso? El gran juicio de la IA queda visto para sentencia",
+      "resumen": "La jueza deberá decidir en los próximos días. La denuncia del CEO de Tesla puede provocar un terremoto para el futuro de OpenAI",
+      "url": "https://elpais.com/tecnologia/2026-05-15/sam-altman-es-mentiroso-o-musk-un-celoso-el-gran-juicio-de-la-ia-queda-visto-para-sentencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/X3GPAX6ISJFUVNVOYV4PQ5KMAU.JPG?auth=8dbf939d8204b47b3920564d77ad1359059e515f7e8afc374298dfb19e474bbf",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-15T12:39:19.000Z",
+      "fechaAgregada": "2026-05-25T11:53:11.029Z"
+    },
+    {
+      "id": "706377a0-28a3-48a9-b666-97de22860ce9",
+      "titulo": "Sam Altman, en el juicio de OpenAI, testifica sobre millones, poder y dominación: “Elon Musk solo trabajará en empresas que controle totalmente”",
+      "resumen": "En un discurso más calmado que el de su oponente, el cofundador de la empresa de inteligencia artificial ha contado cómo Musk trató de que Tesla absorbiera la compañía y ha insistido en la importancia de su faceta filantrópica",
+      "url": "https://elpais.com/tecnologia/2026-05-12/sam-altman-en-el-juicio-de-openia-testifica-sobre-millones-poder-y-dominacion-elon-musk-solo-trabajara-en-empresas-que-controle-totalmente.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JTVOKXEVORO3ZHTIEJZKRW5R5M.jpg?auth=cf1087c72e73d47d43548cf1879f4c43e1decf01e05efa4431349fba9038def6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T20:34:56.000Z",
+      "fechaAgregada": "2026-05-25T11:53:11.029Z"
+    },
+    {
+      "id": "28ceedc5-39f2-4e52-b8aa-fcd64fb699e4",
+      "titulo": "El director ejecutivo de Microsoft defiende el “riesgo” que tomó al invertir en OpenAI",
+      "resumen": "Satya Nadella asegura que “nadie más estaba dispuesto” a apostar por una empresa que entonces era emergente y que ahora se juega su futuro por la demanda entablada por Elon Musk",
+      "url": "https://elpais.com/tecnologia/2026-05-12/el-director-ejecutivo-de-microsoft-defiende-el-riesgo-que-tomo-al-invertir-en-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KKA6QAGFWVKZ5KCVGCYEOLGXBM.jpg?auth=a7d806c5c7d72eac0a19b524a7c1259693b941a1f93c76f3a543702da0f60c03",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-12T08:11:48.000Z",
+      "fechaAgregada": "2026-05-25T11:53:11.029Z"
+    },
+    {
+      "id": "d9b2ce9f-8972-427b-8d49-4d56c490cbd5",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-25T11:53:10.952Z"
+    },
+    {
+      "id": "766a6737-0fef-4dae-9c24-f23c736b9139",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-25T11:53:10.952Z"
+    },
+    {
+      "id": "15bcfb31-032b-461d-9c8a-426ad795a45c",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-25T11:53:10.952Z"
+    }
+  ]
+}
