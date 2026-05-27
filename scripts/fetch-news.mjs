@@ -172,13 +172,40 @@ function extraerImagen(item) {
   return `https://picsum.photos/seed/${semilla}/800/450`;
 }
 
+// Función auxiliar para agregar timeout a cualquier promesa
+function promiseTimeout(promise, ms, nombreTarea = "Operación") {
+  const timeout = new Promise((_, reject) =>
+    setTimeout(() => reject(new Error(`Timeout superado: ${nombreTarea} tardó más de ${ms}ms`)), ms)
+  );
+  return Promise.race([promise, timeout]);
+}
+
+// Fetch con AbortController para evitar que se quede colgado en peticiones HTTP
+async function fetchWithTimeout(resource, options = {}) {
+  const { timeout = 10000 } = options;
+  const controller = new AbortController();
+  const id = setTimeout(() => controller.abort(), timeout);
+  try {
+    const response = await fetch(resource, {
+      ...options,
+      signal: controller.signal
+    });
+    clearTimeout(id);
+    return response;
+  } catch (error) {
+    clearTimeout(id);
+    throw error;
+  }
+}
+
 async function obtenerNoticias() {
   const todasLasNoticias = [];
 
   for (const fuente of FUENTES) {
     try {
       console.log(`Obteniendo noticias de ${fuente.nombre}...`);
-      const feed = await parser.parseURL(fuente.url);
+      // Límite de 15 segundos por fuente RSS
+      const feed = await promiseTimeout(parser.parseURL(fuente.url), 15000, `Lectura de ${fuente.nombre}`);
 
       for (const item of feed.items) {
         const titulo = item.title || "";
@@ -307,10 +334,11 @@ async function publicarEnTelegram(noticias) {
         });
       }
 
-      const res = await fetch(url, {
+      const res = await fetchWithTimeout(url, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body,
+        timeout: 10000 // 10 segundos
       });
 
       const data = await res.json();
@@ -319,7 +347,7 @@ async function publicarEnTelegram(noticias) {
         // Si la imagen falla (URL inválida, expirada, etc.) reintenta sin imagen
         if (noticia.imagen) {
           console.log(`⚠️ Imagen falló para "${noticia.titulo.slice(0, 40)}...", reintentando sin imagen`);
-          const res2 = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
+          const res2 = await fetchWithTimeout(`https://api.telegram.org/bot${token}/sendMessage`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
@@ -328,6 +356,7 @@ async function publicarEnTelegram(noticias) {
               parse_mode: "MarkdownV2",
               disable_web_page_preview: false,
             }),
+            timeout: 10000 // 10 segundos
           });
           const data2 = await res2.json();
           if (data2.ok) {
@@ -365,6 +394,8 @@ async function main() {
   const noticias = await obtenerNoticias();
   await guardarNoticias(noticias);
   await publicarEnTelegram(noticias);
+  console.log("🎉 Proceso de noticias finalizado con éxito.");
+  process.exit(0);
 }
 
 main().catch((err) => {
