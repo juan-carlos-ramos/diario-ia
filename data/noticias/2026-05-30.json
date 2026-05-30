@@ -1,0 +1,238 @@
+{
+  "fecha": "2026-05-30",
+  "generado": "2026-05-30T10:01:13.674Z",
+  "total": 21,
+  "noticias": [
+    {
+      "id": "20d4761d-ab28-49f4-8304-4705efc83a08",
+      "titulo": "Las gráficas cada vez consumen más: ¿hasta dónde puede llegar esta tendencia?",
+      "resumen": "Con el lanzamiento de una nueva generación de gráficas, lo primero que nos llama la atención, además del rendimiento, es el consumo, un consumo máximo de energía, que, en el caso de la RTX 5090, es de 600W, por los 165 de máximo que tenía, por ejemplo, la GTX 980.\nEn el caso de NVIDIA, con el lanzam",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/tendencia-consumo-graficas-nuevas-generaciones/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/01/intelarc.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-30T09:30:48.000Z",
+      "fechaAgregada": "2026-05-30T10:01:12.217Z"
+    },
+    {
+      "id": "292a4ab0-290a-4937-92f1-7c3d71bd420e",
+      "titulo": "¿Creas imágenes con Gemini pero no salen como quieres? Este es mi truco para sacarle partido a Nano Banana, y es gratis",
+      "resumen": "Que Gemini tiene uno de los mejores modelos de IA para crear imágenes, no es novedad. Nano Banana y su versión Pro se han convertido en una de las referencias más importantes del segmento. Sin embargo, es posible que no siempre obtengas los resultados que buscas, o que en más de una ocasión no se […",
+      "url": "https://hipertextual.com/inteligencia-artificial/prompts-gratis-crear-imagenes-gemini/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Gemini-2-scaled.jpg?fit=1024%2C572&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-30T09:00:00.000Z",
+      "fechaAgregada": "2026-05-30T10:01:07.441Z"
+    },
+    {
+      "id": "4181f34f-7f15-4336-ae03-a0a956f9fe19",
+      "titulo": "Qué es Claude Mythos y por qué está metiendo miedo a toda Europa",
+      "resumen": "La inteligencia artificial se ha convertido en una tecnología tan versátil que se está colando en prácticamente cualquier rincón de nuestra vida. La IA generativa empezó imitando nuestra manera de escribir. Pero hoy es una herramienta que millones de personas utilizan para generar imágenes y videos,",
+      "url": "https://hipertextual.com/tecnologia/que-es-claude-mythos-ciberseguridad/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Claude-Mythos-Ciberseguridad-Internet.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-30T07:00:00.000Z",
+      "fechaAgregada": "2026-05-30T10:01:07.441Z"
+    },
+    {
+      "id": "437b6d51-0ab7-4174-a633-bbc294720c99",
+      "titulo": "Codex lleva a Windows una función que hasta ahora era exclusiva de Mac",
+      "resumen": "Codex, la herramienta de programación con inteligencia artificial de OpenAI, acaba de añadir una función muy esperada a su app para Windows. Se trata de una característica que hasta aquí solamente estaba disponible en macOS, pero que desde ahora también funciona en los PC con el software de Microsof",
+      "url": "https://hipertextual.com/inteligencia-artificial/codex-windows-computer-use/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/codex-openai.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-29T20:31:44.000Z",
+      "fechaAgregada": "2026-05-30T10:01:07.441Z"
+    },
+    {
+      "id": "ad0a8ae6-c890-44a7-8930-8254fdf44c58",
+      "titulo": "Bill Gates es responsable del \"mayor error de todos los tiempos\" que costó 400 mil millones a Microsoft, según el cofundador de Android",
+      "resumen": "Nadie es perfecto. Ni siquiera los grandes magnates que han llevado a compañías tecnológicas a la cumbre del éxito. Uno de estos ejemplos es Bill Gates que durante una entrevista reconoció cuál ha sido el mayor error que ha cometido en su época dirigiendo Microsoft. Y el cofundador de Android no dud",
+      "url": "https://www.xataka.com/empresas-y-economia/bill-gates-responsable-mayor-error-todos-tiempos-que-costo-400-mil-millones-a-microsoft-cofundador-android",
+      "imagen": "https://i.blogs.es/3ae78d/840_560-1-/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-29T19:31:48.000Z",
+      "fechaAgregada": "2026-05-30T10:01:06.963Z"
+    },
+    {
+      "id": "325329fe-d3dc-4f5e-8c0d-3cbe6d426d9c",
+      "titulo": "Microsoft prepara una super app de IA para competir con Claude Code y ChatGPT",
+      "resumen": "Microsoft quiere que más gente use Copilot y es por ello que planea unificar su estrategia de inteligencia artificial. Según los rumores, el gigante tecnológico lanzará una aplicación que concentre todas sus herramientas de IA. La super app integrará funciones de programación, chat y automatización",
+      "url": "https://hipertextual.com/inteligencia-artificial/microsoft-super-app-copilot/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/Copilot-Hero-Image.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-29T19:06:00.000Z",
+      "fechaAgregada": "2026-05-30T10:01:07.441Z"
+    },
+    {
+      "id": "0ebf773b-b2a6-451c-8095-8a21f44482a8",
+      "titulo": "OpenAI mejora Codex con una nueva actualización: ya puedes controlar las apps de Windows desde el móvil",
+      "resumen": "No es de las mayores actualizaciones recientes de Codex, pero es un paso más que mejora el uso para los usuarios de Windows. Por lo que si tienes la app, ahora es el momento de que eches un vistazo a las últimas novedades y, sobre todo, actualices la aplicación. Especialmente porque prácticamente re",
+      "url": "https://www.adslzone.net/noticias/ia/openai-nueva-actualizacion-codex-29-mayo/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/05/codex-actualizacion-windows.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-29T18:53:59.000Z",
+      "fechaAgregada": "2026-05-30T10:01:10.660Z"
+    },
+    {
+      "id": "ad136751-763e-4163-9526-e5462bad1632",
+      "titulo": "Bofetón a Sam Altman: Anthropic (Claude) supera a OpenAI y ya es la startup de IA más valiosa del mundo",
+      "resumen": "La competencia entre Anthropic y OpenAI no se cierne al campo de la inteligencia artificial, de la mano de Claude y ChatGPT, respectivamente. Ambas empresas también están rivalizando muy fuerte en el ámbito financiero, con la salida a bolsa como el gran objetivo en persecución. Y los de Dario Amodei",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-supera-valoracion-openai-startup-ia-mas-valiosa-mundo/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/Dario-AModei.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-29T13:50:26.000Z",
+      "fechaAgregada": "2026-05-30T10:01:07.441Z"
+    },
+    {
+      "id": "502242b6-2c16-4c72-92ea-4522e994e59a",
+      "titulo": "Amazon quiso que sus empleados no pararan de usar la IA. Acaban de cortar por lo sano pidiendo que “no uséis la IA solo por usarla”",
+      "resumen": "Amazon quiso forzar a que sus empleados usaran la IA como si no hubiera mañana. Implementó una herramienta que medía ese uso, pero tras unas semanas la empresa se dio cuenta de algo: la gente estaba usando la IA para tareas absurdas y sin valor. Eso ha hecho que Amazon tome una decisión contundente:",
+      "url": "https://www.xataka.com/robotica-e-ia/amazon-quiso-que-sus-empleados-no-pararan-usar-ia-acaban-cortar-sano-pidiendo-que-no-useis-ia-solo-usarla",
+      "imagen": "https://i.blogs.es/167df4/tokenmaxxing-amazon/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-29T13:31:36.000Z",
+      "fechaAgregada": "2026-05-30T10:01:06.965Z"
+    },
+    {
+      "id": "81b46053-7145-4eed-afa6-9d8ab611576b",
+      "titulo": "La mejor alternativa al MacBook Neo la ha presentado Qualcomm: portátiles con IA por solo 300 euros",
+      "resumen": "Cuando todo parecía indicar que los procesadores Wildcat Lake de Intel eran la mejor alternativa al MacBook Neo de Apple, Qualcomm acaba de presentar el Snapdragon C con arquitectura ARM con núcleos Kryo heredados del móvil, con NPU para tareas de IA y que llegará al mercado por 300 euros de la mano",
+      "url": "https://hardzone.es/noticias/procesadores/procesadores-qualcomm-snapdragon-c-competir-macbook-neo/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/qualcomm-snapdragon-c.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-29T09:55:02.000Z",
+      "fechaAgregada": "2026-05-30T10:01:12.218Z"
+    },
+    {
+      "id": "a59d0a86-efee-45b8-8861-972767d56daf",
+      "titulo": "Gemini se actualiza a lo grande: nuevas voces y una mejora que vas a agradecer muchísimo",
+      "resumen": "Pese al nuevo límite que está volviendo locos a los usuarios, Google continúa anunciando novedades para Gemini. La nueva actualización de la app para Android trae un par de cambios que si bien no suponen una revolución en la IA, puede mejorar mucho la experiencia de uso y ahorrarte mucho tiempo en a",
+      "url": "https://hipertextual.com/tecnologia/gemini-se-actualiza-a-lo-grande-nuevas-voces-y-una-mejora-que-vas-a-agradecer-muchisimo/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/gemini-android.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-29T07:49:03.000Z",
+      "fechaAgregada": "2026-05-30T10:01:07.441Z"
+    },
+    {
+      "id": "40de234d-09a3-43f1-b1ce-7d48fa44da52",
+      "titulo": "¿Adiós al dominio de AMD? Intel presenta sus revolucionarios procesadores Arc G3 para consolas portátiles",
+      "resumen": "AMD es desde 2022, cuando se lanzó la Steam Deck, el rey indiscutible del mercado en cuanto a procesadores para consolas portátiles. Gran parte de culpa de la posición dominante de AMD en este segmento se debe a que Intel no se ha preocupado de seguir el mismo camino que el equipo rojo integrando un",
+      "url": "https://hardzone.es/noticias/procesadores/procesadores-intel-arc-g3-consolas-portatiles/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/consola-onexplayer-intel-arc-g3.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-29T07:01:26.000Z",
+      "fechaAgregada": "2026-05-30T10:01:12.218Z"
+    },
+    {
+      "id": "6184ad11-d0ba-430a-b1b9-588e8548f099",
+      "titulo": "La IA entra en una nueva fase: aprender a usarla en el trabajo real",
+      "resumen": "Hubo un momento, no hace tanto, en el que hablar de inteligencia artificial en el trabajo consistía sobre todo en experimentar. Probar un chatbot, pedirle que redactara un correo, resumir un documento o generar alguna imagen curiosa para compartir en redes sociales. Pero algo ha cambiado en muy poco",
+      "url": "https://www.muycomputer.com/2026/05/28/la-ia-entra-en-una-nueva-fase-aprender-a-usarla-en-el-trabajo-real/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/Boton-1-500x113.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-28T16:40:16.000Z",
+      "fechaAgregada": "2026-05-30T10:01:13.673Z"
+    },
+    {
+      "id": "da4cc823-2b88-4215-b6bb-9bae04deba0a",
+      "titulo": "¿Es el fin de los YouTubers? Google lanza una IA que busca entre todos los vídeos y te los fusiona",
+      "resumen": "YouTube es una de las plataformas de vídeos más importantes desde hace dos décadas. Permite encontrar contenido muy variado donde podrás solucionar problemas, aprender sobre temas que te interesen, buscar entretenimiento… Sin embargo, ahora, va a experimentar un cambio importante. Al igual que ha oc",
+      "url": "https://www.redeszone.net/noticias/redes/fin-youtubers-google-ia/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/logo-de-youtube.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-28T15:23:52.000Z",
+      "fechaAgregada": "2026-05-30T10:01:12.010Z"
+    },
+    {
+      "id": "77a59089-4fb9-485e-8a52-4cc23d85f17d",
+      "titulo": "Tu Gmail podría romper tus búsquedas en Google: así puedes evitarlo",
+      "resumen": "Uno de los cambios más significativos que ha traído la Inteligencia Artificial en los últimos tiempos son los resultados de búsquedas en Internet, en plataformas como Google. Para muchos, los resultados actuales distan bastante de lo que esperan obtener. En este artículo, vamos a hablarte de por qué",
+      "url": "https://www.redeszone.net/noticias/redes/gmail-romper-busquedas-google/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/logo-gmail-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-28T09:24:50.000Z",
+      "fechaAgregada": "2026-05-30T10:01:12.010Z"
+    },
+    {
+      "id": "b8d39a05-db9e-4523-a959-ad3ccc0c31b1",
+      "titulo": "Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA",
+      "resumen": "El Consejo de Ministros da luz verde a la normativa que traspone el reglamento europeo y que establece qué aplicaciones de inteligencia artificial están prohibidas",
+      "url": "https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y-multas-millonarias-el-gobierno-aprueba-su-ley-de-ia.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260526/1176089_135531_video_1800.mp4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-26T16:32:04.000Z",
+      "fechaAgregada": "2026-05-30T10:01:09.198Z"
+    },
+    {
+      "id": "fe7176bb-ebb9-43d1-bdc9-a410cacf7188",
+      "titulo": "¿Por qué hay cada vez más sobresalientes en la universidad? La culpa es de ChatGPT",
+      "resumen": "Una nueva investigación revela que al menos 1 de cada 10 trabajos está hecho con la ayuda de la IA. Las carreras donde los alumnos hacen más trampas son Económicas y Periodismo",
+      "url": "https://elpais.com/tecnologia/2026-05-21/por-que-hay-cada-vez-mas-sobresalientes-en-la-universidad-la-culpa-es-de-chatgpt.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3VZ5FDEFRRACXB2WUSEFEL6VSU.jpg?auth=967dbba1e3233a5a6a9f4816e3f0fb8d9090ddc4e9e445cf45f2ce0c37ab08b0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T18:00:14.000Z",
+      "fechaAgregada": "2026-05-30T10:01:09.198Z"
+    },
+    {
+      "id": "edb8a99a-20a7-4ee6-a8a0-936ef6722833",
+      "titulo": "Por qué el jurado le ha dado un revés a Elon Musk: las claves del gran juicio a la IA",
+      "resumen": "OpenAI sale vencedora de la denuncia por un “tecnicismo de calendario”, sin que la jueza entrara a valorar la cuestión de fondo",
+      "url": "https://elpais.com/tecnologia/2026-05-20/por-que-el-jurado-le-ha-dado-un-reves-a-elon-musk-las-claves-del-gran-juicio-a-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RPX3K73L6RHIDCE35QNRS6QCTQ.JPG?auth=cada19a133dabb1784d8a2c782099dc436be4e6bfbbde25f7e33071a091ffc1f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T03:30:01.000Z",
+      "fechaAgregada": "2026-05-30T10:01:09.198Z"
+    },
+    {
+      "id": "d13cc46e-386b-4dda-9d47-1805beb0603f",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-30T10:01:08.415Z"
+    },
+    {
+      "id": "644af39d-cb40-4727-b78b-60f40cffd685",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-30T10:01:08.415Z"
+    },
+    {
+      "id": "8a50e3cd-0676-4f84-80c5-5f0d4ba49116",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-30T10:01:08.415Z"
+    }
+  ]
+}
