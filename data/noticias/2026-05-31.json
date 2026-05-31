@@ -1,0 +1,161 @@
+{
+  "fecha": "2026-05-31",
+  "generado": "2026-05-31T10:16:18.364Z",
+  "total": 14,
+  "noticias": [
+    {
+      "id": "1ca56a5f-1c5d-4ceb-ace4-b34c51305377",
+      "titulo": "DuckDuckGo, el éxito de la búsqueda sin IA",
+      "resumen": "DuckDuckGo está viviendo una pequeña paradoja tecnológica bastante interesante. Justo cuando parecía que Internet avanzaba sin frenos hacia una era en la que toda búsqueda debía pasar inevitablemente por una capa de inteligencia artificial, resulta que una parte creciente de usuarios parece estar ha",
+      "url": "https://www.muycomputer.com/2026/05/31/duckduckgo-el-exito-de-la-busqueda-sin-ia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/DuckDuckGo-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-31T09:03:39.000Z",
+      "fechaAgregada": "2026-05-31T10:16:18.363Z"
+    },
+    {
+      "id": "d5fd146c-8f15-40a6-868f-db2b7137f3b3",
+      "titulo": "La IA más peligrosa del mundo podría integrarse en Claude Code muy pronto",
+      "resumen": "Uno de los modelos de IA más avanzados y peligrosos del mundo podría llegar pronto a Claude Code. Algunos usuarios descubrieron evidencia de Claude Mythos, el modelo de Anthropic que ha ayudado a encontrar vulnerabilidades y hackear sistemas, dentro de la herramienta para programar. Las primeras señ",
+      "url": "https://hipertextual.com/inteligencia-artificial/claude-code-mythos-seguridad-anthropic/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-code-app-portada.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-30T18:00:00.000Z",
+      "fechaAgregada": "2026-05-31T10:16:12.515Z"
+    },
+    {
+      "id": "bfb0abd6-f504-4bf1-824c-775cede5bb58",
+      "titulo": "Ya no vale con contar dedos para saber si una imagen está hecha con IA. Ahora hay que aprender dibujo técnico",
+      "resumen": "Detectar imágenes generadas por inteligencia artificial se ha convertido en un juego del gato y el ratón. Y lo peor es que va a ir a más. Durante un tiempo, todos nos empezábamos a fijar en las manos y en la cantidad de dedos que representaba la IA en las imágenes de personas a través de los mecanis",
+      "url": "https://www.xataka.com/robotica-e-ia/no-vale-contar-dedos-para-saber-imagen-esta-hecha-ia-ahora-hay-que-aprender-dibujo-tecnico",
+      "imagen": "https://i.blogs.es/b525d4/ia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-30T17:30:44.000Z",
+      "fechaAgregada": "2026-05-31T10:16:12.249Z"
+    },
+    {
+      "id": "77b5d49c-0c78-4d3f-ab65-7a564ec3e8f4",
+      "titulo": "Llevaban más de 5.000 años en el desierto, pero han hecho falta satélites para descubrir 260 tumbas de una civilización perdida en Sudán",
+      "resumen": "Si hay una civilización conocida dentro del continente africano, esa es el Antiguo Egipto y figuras como Ramsés o Cleopatra. No obstante, relativamente cerca hubo otro reino estudiado largo y tendido por la arqueología: Nubia (aunque menos famoso para el gran público). Y entre ambos, un desierto por",
+      "url": "https://www.xataka.com/magnet/sudan-escondia-cientos-tumbas-desconocidas-civilizacion-perdida-han-aparecido-gracias-a-satelites",
+      "imagen": "https://i.blogs.es/4bfbaf/muerte/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-30T16:00:45.000Z",
+      "fechaAgregada": "2026-05-31T10:16:12.250Z"
+    },
+    {
+      "id": "4ad3aa23-ef35-456b-8e0d-b5e90630821b",
+      "titulo": "En 2026 todavía hay gente lanzando al mar mensajes en una botella. Un hombre no para de encontrarlas en el Caribe",
+      "resumen": "Para que nos hagamos una idea, hace más de medio siglo, en 1959, Guinness lanzó 150.000 botellas al Atlántico para celebrar su bicentenario. Muchas décadas después, en plena era de las redes y los algoritmos, algunas siguen apareciendo en playas de lugares tan distintos como el Caribe, Canadá o el Á",
+      "url": "https://www.xataka.com/magnet/2026-todavia-hay-gente-lanzando-al-mar-mensajes-botella-hombre-no-para-encontrarlas-caribe",
+      "imagen": "https://i.blogs.es/494f96/message_bottle_on_sand/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-30T15:00:45.000Z",
+      "fechaAgregada": "2026-05-31T10:16:12.250Z"
+    },
+    {
+      "id": "eaa3e4b9-684a-4c43-b30d-03e6af28f701",
+      "titulo": "Las gráficas cada vez consumen más: ¿hasta dónde puede llegar esta tendencia?",
+      "resumen": "Con el lanzamiento de una nueva generación de gráficas, lo primero que nos llama la atención, además del rendimiento, es el consumo, un consumo máximo de energía, que, en el caso de la RTX 5090, es de 600W, por los 165 de máximo que tenía, por ejemplo, la GTX 980.\nEn el caso de NVIDIA, con el lanzam",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/tendencia-consumo-graficas-nuevas-generaciones/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/01/intelarc.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-30T09:30:48.000Z",
+      "fechaAgregada": "2026-05-31T10:16:17.168Z"
+    },
+    {
+      "id": "1bbafdbf-f881-4011-b67d-6ee79038a077",
+      "titulo": "La IA entra en una nueva fase: aprender a usarla en el trabajo real",
+      "resumen": "Hubo un momento, no hace tanto, en el que hablar de inteligencia artificial en el trabajo consistía sobre todo en experimentar. Probar un chatbot, pedirle que redactara un correo, resumir un documento o generar alguna imagen curiosa para compartir en redes sociales. Pero algo ha cambiado en muy poco",
+      "url": "https://www.muycomputer.com/2026/05/28/la-ia-entra-en-una-nueva-fase-aprender-a-usarla-en-el-trabajo-real/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/Boton-1-500x113.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-28T16:40:16.000Z",
+      "fechaAgregada": "2026-05-31T10:16:18.364Z"
+    },
+    {
+      "id": "8f26ddbc-2e3e-49b2-a00b-7b530fe0d5c9",
+      "titulo": "¿Es el fin de los YouTubers? Google lanza una IA que busca entre todos los vídeos y te los fusiona",
+      "resumen": "YouTube es una de las plataformas de vídeos más importantes desde hace dos décadas. Permite encontrar contenido muy variado donde podrás solucionar problemas, aprender sobre temas que te interesen, buscar entretenimiento… Sin embargo, ahora, va a experimentar un cambio importante. Al igual que ha oc",
+      "url": "https://www.redeszone.net/noticias/redes/fin-youtubers-google-ia/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/05/logo-de-youtube.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-28T15:23:52.000Z",
+      "fechaAgregada": "2026-05-31T10:16:15.820Z"
+    },
+    {
+      "id": "c3f272a9-3a20-4da5-8a49-877ca0581fc8",
+      "titulo": "Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA",
+      "resumen": "El Consejo de Ministros da luz verde a la normativa que traspone el reglamento europeo y que establece qué aplicaciones de inteligencia artificial están prohibidas",
+      "url": "https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y-multas-millonarias-el-gobierno-aprueba-su-ley-de-ia.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260526/1176089_135531_video_1800.mp4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-26T16:32:04.000Z",
+      "fechaAgregada": "2026-05-31T10:16:13.565Z"
+    },
+    {
+      "id": "0826020c-7284-45c4-9c75-35f69b0ab411",
+      "titulo": "¿Por qué hay cada vez más sobresalientes en la universidad? La culpa es de ChatGPT",
+      "resumen": "Una nueva investigación revela que al menos 1 de cada 10 trabajos está hecho con la ayuda de la IA. Las carreras donde los alumnos hacen más trampas son Económicas y Periodismo",
+      "url": "https://elpais.com/tecnologia/2026-05-21/por-que-hay-cada-vez-mas-sobresalientes-en-la-universidad-la-culpa-es-de-chatgpt.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3VZ5FDEFRRACXB2WUSEFEL6VSU.jpg?auth=967dbba1e3233a5a6a9f4816e3f0fb8d9090ddc4e9e445cf45f2ce0c37ab08b0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T18:00:14.000Z",
+      "fechaAgregada": "2026-05-31T10:16:13.565Z"
+    },
+    {
+      "id": "185a0ad3-6485-4b8e-937b-e4b3ec10fc97",
+      "titulo": "Por qué el jurado le ha dado un revés a Elon Musk: las claves del gran juicio a la IA",
+      "resumen": "OpenAI sale vencedora de la denuncia por un “tecnicismo de calendario”, sin que la jueza entrara a valorar la cuestión de fondo",
+      "url": "https://elpais.com/tecnologia/2026-05-20/por-que-el-jurado-le-ha-dado-un-reves-a-elon-musk-las-claves-del-gran-juicio-a-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RPX3K73L6RHIDCE35QNRS6QCTQ.JPG?auth=cada19a133dabb1784d8a2c782099dc436be4e6bfbbde25f7e33071a091ffc1f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T03:30:01.000Z",
+      "fechaAgregada": "2026-05-31T10:16:13.565Z"
+    },
+    {
+      "id": "d13fe2c7-8479-43db-a8f1-5d239ded4d08",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-05-31T10:16:13.488Z"
+    },
+    {
+      "id": "69cf9112-fcbd-4254-8447-64a337043a0c",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-05-31T10:16:13.488Z"
+    },
+    {
+      "id": "bba0fe6c-bcab-4145-b3ec-ed46e278a2e9",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-05-31T10:16:13.488Z"
+    }
+  ]
+}
