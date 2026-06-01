@@ -1,0 +1,128 @@
+{
+  "fecha": "2026-06-01",
+  "generado": "2026-06-01T13:37:10.271Z",
+  "total": 11,
+  "noticias": [
+    {
+      "id": "a278fcd4-cd42-4a9f-a8a5-d48acda641bf",
+      "titulo": "El objetivo ya no es la contraseña, sino convencer a la IA: así pueden robar tu cuenta de Instagram",
+      "resumen": "Un grupo de investigadores de seguridad de ZachXBT y Dark Web Informer han detectado una vulnerabilidad que afecta a la herramienta de recuperación de cuentas de Meta, la cual está impulsada por IA. Esto permite que los piratas informáticos puedan llegar a secuestrar cuentas al engañar al chatbot y",
+      "url": "https://www.redeszone.net/noticias/seguridad/atacantes-convencen-ia-robar-cuentas-instagram/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/logo-instagram-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-01T09:34:48.000Z",
+      "fechaAgregada": "2026-06-01T13:37:08.439Z"
+    },
+    {
+      "id": "fdf8802d-6e28-47fa-870a-6db71e7d9a72",
+      "titulo": "Un Google Pixel 10 por menos de 500 euros, Galaxy A57, varios Xiaomi y más: estas son las mejores ofertas en móviles de AliExpress",
+      "resumen": "Sí, la Promo de Verano de AliExpress ya está activa. Este marketplace va lanzando eventos durante todo el año, pero no hay demasiados que sean tan potentes como este. Hay ofertas en tecnología muy jugosas, aunque en esta ocasión nos vamos a centrar solo en teléfonos móviles. Y lo mejor es que, como",
+      "url": "https://www.xataka.com/seleccion/google-pixel-10-500-euros-galaxy-a57-varios-xiaomi-estas-mejores-ofertas-moviles-aliexpress",
+      "imagen": "https://i.blogs.es/5a6dd4/portada-google-pixel-10-poco-x8-pro-max/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-01T08:46:41.000Z",
+      "fechaAgregada": "2026-06-01T13:37:04.009Z"
+    },
+    {
+      "id": "53d0d952-df2a-4cd3-a7d5-5e47c4a01385",
+      "titulo": "NVIDIA presenta sus primeros procesadores RTX Spark para Windows",
+      "resumen": "NVIDIA acaba de presentar en el Computex 2026 su nueva familia de procesadores NVIDIA RTX Spark, un SoC (System on Chip) basado en la arquitectura ARM, diseñado específicamente para el ecosistema Windows, con los que quiere convertirse en una alternativa a Intel, AMD, Apple y Qualcomm, especialmente",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/nvidia-procesadores-windows-rtx-spark/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/06/nvidia-rtx-spark.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-01T06:10:58.000Z",
+      "fechaAgregada": "2026-06-01T13:37:09.206Z"
+    },
+    {
+      "id": "850c8517-3849-42e0-9de7-f8b3f70b6346",
+      "titulo": "Kling AI: todo sobre esta IA gratis para crear vídeos",
+      "resumen": "Durante los últimos meses y años, hemos visto cómo las IA evolucionan cada vez más, no ofreciendo solamente respuestas a preguntas, u organización de textos, sino yendo un paso más allá, y consiguiendo generar imágenes, canciones e incluso vídeos que, cada vez, son más realistas.\nEn el día de hoy, v",
+      "url": "https://hardzone.es/reportajes/que-es/kling-ai-todo-sobre-ia-gratis-crear-videos/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/resultado-kling-ia.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-31T19:00:06.000Z",
+      "fechaAgregada": "2026-06-01T13:37:09.207Z"
+    },
+    {
+      "id": "713b2522-70fe-40b5-87aa-b07d858fa494",
+      "titulo": "DuckDuckGo, el éxito de la búsqueda sin IA",
+      "resumen": "DuckDuckGo está viviendo una pequeña paradoja tecnológica bastante interesante. Justo cuando parecía que Internet avanzaba sin frenos hacia una era en la que toda búsqueda debía pasar inevitablemente por una capa de inteligencia artificial, resulta que una parte creciente de usuarios parece estar ha",
+      "url": "https://www.muycomputer.com/2026/05/31/duckduckgo-el-exito-de-la-busqueda-sin-ia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/05/DuckDuckGo-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-31T09:03:39.000Z",
+      "fechaAgregada": "2026-06-01T13:37:10.271Z"
+    },
+    {
+      "id": "a1b095b5-afc9-417b-8b97-3e46c38f07e8",
+      "titulo": "Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA",
+      "resumen": "El Consejo de Ministros da luz verde a la normativa que traspone el reglamento europeo y que establece qué aplicaciones de inteligencia artificial están prohibidas",
+      "url": "https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y-multas-millonarias-el-gobierno-aprueba-su-ley-de-ia.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260526/1176089_135531_video_1800.mp4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-26T16:32:04.000Z",
+      "fechaAgregada": "2026-06-01T13:37:05.333Z"
+    },
+    {
+      "id": "26aafd77-00e7-4b9f-84af-e70e0d9a7f81",
+      "titulo": "¿Por qué hay cada vez más sobresalientes en la universidad? La culpa es de ChatGPT",
+      "resumen": "Una nueva investigación revela que al menos 1 de cada 10 trabajos está hecho con la ayuda de la IA. Las carreras donde los alumnos hacen más trampas son Económicas y Periodismo",
+      "url": "https://elpais.com/tecnologia/2026-05-21/por-que-hay-cada-vez-mas-sobresalientes-en-la-universidad-la-culpa-es-de-chatgpt.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3VZ5FDEFRRACXB2WUSEFEL6VSU.jpg?auth=967dbba1e3233a5a6a9f4816e3f0fb8d9090ddc4e9e445cf45f2ce0c37ab08b0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T18:00:14.000Z",
+      "fechaAgregada": "2026-06-01T13:37:05.333Z"
+    },
+    {
+      "id": "a9bce2b4-086b-407f-be4a-300d44845694",
+      "titulo": "Por qué el jurado le ha dado un revés a Elon Musk: las claves del gran juicio a la IA",
+      "resumen": "OpenAI sale vencedora de la denuncia por un “tecnicismo de calendario”, sin que la jueza entrara a valorar la cuestión de fondo",
+      "url": "https://elpais.com/tecnologia/2026-05-20/por-que-el-jurado-le-ha-dado-un-reves-a-elon-musk-las-claves-del-gran-juicio-a-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RPX3K73L6RHIDCE35QNRS6QCTQ.JPG?auth=cada19a133dabb1784d8a2c782099dc436be4e6bfbbde25f7e33071a091ffc1f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-20T03:30:01.000Z",
+      "fechaAgregada": "2026-06-01T13:37:05.333Z"
+    },
+    {
+      "id": "d106cd59-bdb8-4e59-96d5-7b36d6203387",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-01T13:37:05.181Z"
+    },
+    {
+      "id": "cab32a8b-fc01-4b3f-95d9-bd4ab6b5d926",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-01T13:37:05.182Z"
+    },
+    {
+      "id": "8d3f2af3-0689-4448-b73f-5f05ae4fafe3",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-01T13:37:05.182Z"
+    }
+  ]
+}
