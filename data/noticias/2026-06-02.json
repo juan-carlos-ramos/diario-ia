@@ -1,0 +1,183 @@
+{
+  "fecha": "2026-06-02",
+  "generado": "2026-06-02T12:04:40.178Z",
+  "total": 16,
+  "noticias": [
+    {
+      "id": "43233f9c-7838-4d5b-b8a2-230f34034d6f",
+      "titulo": "La IA en local ya no será un problema: QNAP presenta en el COMPUTEX 2026 sus nuevos NAS para IA",
+      "resumen": "QNAP está presente en la popular feria de COMPUTEX 2026, una de las más importantes de todo el mundo que se celebra anualmente en Taipei (Taiwán). El fabricante ha aprovechado esta feria para presentar nuevos servidores NAS de gama media y alta orientada a la IA en local, por lo que estos NAS permit",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/qnap-nas-ia-local-computex-2026/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/QNAP_Computex_2026_destacada.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-02T11:05:49.000Z",
+      "fechaAgregada": "2026-06-02T12:04:38.245Z"
+    },
+    {
+      "id": "78f7bbc5-f292-4777-82a3-c409c9e427d2",
+      "titulo": "China tiene un nuevo \"cerebro de IA\": la tecnología necesaria para espiar y tomar decisiones militares desde el cielo",
+      "resumen": "La Inteligencia Artificial (IA) conlleva muchos beneficios, pero también muchos riesgos. Por eso, eliminar la supervisión humana puede ser una malísima idea. Es un tema bastante recurrente que se ha vuelto a poner sobre la mesa después de que China anuncie que está probando el uso de la IA para avan",
+      "url": "https://www.xataka.com/espacio/china-quiere-satelites-que-piensen-solos-ia-llega-a-vigilancia-orbital-expertos-se-preocupan",
+      "imagen": "https://i.blogs.es/5ee54d/satelites-chinos/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-02T10:01:40.000Z",
+      "fechaAgregada": "2026-06-02T12:04:32.271Z"
+    },
+    {
+      "id": "e2c18b34-d493-4fd5-8e10-1a8991607d00",
+      "titulo": "Anthropic se ha adelantado a OpenAI en su carrera para salir a bolsa. Son malísimas noticias para Sam Altman",
+      "resumen": "Anthropic confirmó el lunes que ha registrado formalmente su solicitud para su esperada salida a bolsa. La operación puede convertirse en la mayor de la historia de este tipo, y nos recuerda otro momento singular. En agosto de 1995 Netscape salió a bolsa y marcó el inicio de la era de internet y de",
+      "url": "https://www.xataka.com/empresas-y-economia/anthropic-se-ha-adelantado-a-openai-su-carrera-para-salir-a-bolsa-malisimas-noticias-para-sam-altman",
+      "imagen": "https://i.blogs.es/0b94f8/dario-amodei-salida-bolsa-anthropic/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-02T09:27:45.000Z",
+      "fechaAgregada": "2026-06-02T12:04:32.272Z"
+    },
+    {
+      "id": "9b4825ac-cb76-4fe4-aa71-3b0a9488495f",
+      "titulo": "Claude no funciona: la IA de Anthropic no carga bien",
+      "resumen": "La IA de Anthropic tiene problemas para responder a los usuarios. A través de redes sociales, se ha podido comprobar que Claude no funciona bien. Aquellas personas que lo intentan utilizar no consiguen que dé ninguna respuesta, solamente se muestra el siguiente mensaje: «Tardando más de lo habitual.",
+      "url": "https://www.adslzone.net/noticias/ia/claude-no-funciona-junio-2026/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/claude-no-funciona.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-02T08:01:54.000Z",
+      "fechaAgregada": "2026-06-02T12:04:36.762Z"
+    },
+    {
+      "id": "127ca365-fc32-44c2-948f-8ca34afc2046",
+      "titulo": "Sabemos exactamente lo que cuesta la IA, pero somos incapaces de medir lo que produce. Y eso es un problema serio",
+      "resumen": "Conocemos muy bien el coste que tiene desarrollar la IA: los centros de datos mastodónticos, el consumo de electricidad disparado, el capex de las tecnológicas por las nubes... El problema es que parece que todo eso no está teniendo un retorno, o no el suficiente para justificar tremenda inversión.",
+      "url": "https://www.xataka.com/empresas-y-economia/sabemos-exactamente-que-cuesta-ia-somos-incapaces-medir-que-produce-eso-empieza-a-ser-problema-serio",
+      "imagen": "https://i.blogs.es/667fc2/dark-output/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-02T08:01:40.000Z",
+      "fechaAgregada": "2026-06-02T12:04:32.272Z"
+    },
+    {
+      "id": "31799514-dd48-400c-9139-52e050ab3ae3",
+      "titulo": "AMD Radeon RX 9070 GRE, review: una elección inteligente para jugar a tope en 1440p",
+      "resumen": "Inicialmente, los modelos GRE de AMD se llamaban así porque se lanzaron inicialmente solo para el mercado chino durante el Año del Conejo de su calendario (GRE significaba Golden Rabbit Edition). Sin embargo, más adelante AMD pasó a interpretar estas siglas oficialmente como «Great Radeon Editon«, y",
+      "url": "https://hardzone.es/reviews/tarjetas-graficas/amd-radeon-rx-9070-gre/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/AMD-Radeon-RX-9070-GRE-portada.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-02T00:00:51.000Z",
+      "fechaAgregada": "2026-06-02T12:04:38.662Z"
+    },
+    {
+      "id": "907bc589-c82f-4ae6-9038-16910f2e381e",
+      "titulo": "Microsoft está por anunciar cambios importantes en Windows y nuevos modelos de IA",
+      "resumen": "Microsoft está a pocas horas de dar inicio a su conferencia anual de desarrolladores Build 2026. La edición de este año llegará con varias novedades que podrían cambiar el rumbo de la compañía, que lleva meses reorganizando toda su estructura en torno a la inteligencia artificial. El foco de este añ",
+      "url": "https://hipertextual.com/software/microsoft-build-2026-modelos-ia-windows/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/windows-12.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-01T19:18:56.000Z",
+      "fechaAgregada": "2026-06-02T12:04:32.638Z"
+    },
+    {
+      "id": "b3528639-dfa1-490b-be54-56724688783b",
+      "titulo": "Claude Code aumenta sus límites de uso para que programes por más tiempo sin interrupciones",
+      "resumen": "Si usas Claude Code a diario, esta semana tendrás más margen para trabajar. Anthropic ha anunciado un aumento temporal del 50% en los límites de uso de su herramienta de programación con IA. La medida llega sin coste adicional y sin que tengas que hacer nada para activarla. Aprovechando el lanzamien",
+      "url": "https://hipertextual.com/inteligencia-artificial/claude-code-aumento-limites-uso-opus-48/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Claude-Code-App.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-01T18:05:00.000Z",
+      "fechaAgregada": "2026-06-02T12:04:32.638Z"
+    },
+    {
+      "id": "896cff54-ad27-4b98-89a4-3daba1722bfc",
+      "titulo": "Llega el Surface Laptop Ultra: el portátil más potente de Microsoft, con chip NVIDIA RTX Spark",
+      "resumen": "Microsoft no quiere quedar atrás en la guerra con sus competidores. Apple está creciendo mucho durante el último año debido a la diversidad de modelos que ha lanzado, lo que ha conseguido generar mucha expectación, y que usuarios que nunca habían probado la marca de la manzana, ahora le estén cogien",
+      "url": "https://hardzone.es/noticias/equipos/surface-laptop-ultra-portatil-potente-microsoft-chip-nvidia-rtx-spark/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/06/microsoft-apple.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-01T17:28:13.000Z",
+      "fechaAgregada": "2026-06-02T12:04:38.662Z"
+    },
+    {
+      "id": "6e3ead7a-adb2-4af0-b4d7-66093889c7a5",
+      "titulo": "Anthropic se adelanta a OpenAI y pone en marcha su salida a bolsa",
+      "resumen": "Anthropic acaba de dar un paso crucial para salir a bolsa. La empresa detrás de Claude anunció este lunes que ha comenzado los papeleos ante la Comisión de Bolsa y Valores de Estados Unidos (SEC), con miras a concretar su oferta pública de venta (IPO, en inglés) en un futuro no muy lejano. En un […]",
+      "url": "https://hipertextual.com/economia-empresas/anthropic-pone-en-marcha-salida-a-bolsa/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Claude-Widget-iPhone.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-01T17:02:17.000Z",
+      "fechaAgregada": "2026-06-02T12:04:32.638Z"
+    },
+    {
+      "id": "9ceca20d-939f-4834-89f8-3f3f3ad78f68",
+      "titulo": "El objetivo ya no es la contraseña, sino convencer a la IA: así pueden robar tu cuenta de Instagram",
+      "resumen": "Un grupo de investigadores de seguridad de ZachXBT y Dark Web Informer han detectado una vulnerabilidad que afecta a la herramienta de recuperación de cuentas de Meta, la cual está impulsada por IA. Esto permite que los piratas informáticos puedan llegar a secuestrar cuentas al engañar al chatbot y",
+      "url": "https://www.redeszone.net/noticias/seguridad/atacantes-convencen-ia-robar-cuentas-instagram/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/logo-instagram-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-01T09:34:48.000Z",
+      "fechaAgregada": "2026-06-02T12:04:38.245Z"
+    },
+    {
+      "id": "6aad3589-5160-47e6-9bac-b5216c7d1d68",
+      "titulo": "Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA",
+      "resumen": "El Consejo de Ministros da luz verde a la normativa que traspone el reglamento europeo y que establece qué aplicaciones de inteligencia artificial están prohibidas",
+      "url": "https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y-multas-millonarias-el-gobierno-aprueba-su-ley-de-ia.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260526/1176089_135531_video_1800.mp4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-26T16:32:04.000Z",
+      "fechaAgregada": "2026-06-02T12:04:34.095Z"
+    },
+    {
+      "id": "119ead5a-4b44-4238-8963-dedfda11ad06",
+      "titulo": "¿Por qué hay cada vez más sobresalientes en la universidad? La culpa es de ChatGPT",
+      "resumen": "Una nueva investigación revela que al menos 1 de cada 10 trabajos está hecho con la ayuda de la IA. Las carreras donde los alumnos hacen más trampas son Económicas y Periodismo",
+      "url": "https://elpais.com/tecnologia/2026-05-21/por-que-hay-cada-vez-mas-sobresalientes-en-la-universidad-la-culpa-es-de-chatgpt.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3VZ5FDEFRRACXB2WUSEFEL6VSU.jpg?auth=967dbba1e3233a5a6a9f4816e3f0fb8d9090ddc4e9e445cf45f2ce0c37ab08b0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T18:00:14.000Z",
+      "fechaAgregada": "2026-06-02T12:04:34.095Z"
+    },
+    {
+      "id": "4d91781d-68ce-4b22-a2d0-e5055f591a3b",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-02T12:04:34.031Z"
+    },
+    {
+      "id": "c70103f4-44c2-43b3-aa0e-34267b430a95",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-02T12:04:34.031Z"
+    },
+    {
+      "id": "d4604354-d7d6-4862-8724-f0a8dfd8a0c9",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-02T12:04:34.031Z"
+    }
+  ]
+}
