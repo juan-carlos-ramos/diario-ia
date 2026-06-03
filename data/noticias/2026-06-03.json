@@ -1,0 +1,183 @@
+{
+  "fecha": "2026-06-03",
+  "generado": "2026-06-03T12:41:58.604Z",
+  "total": 16,
+  "noticias": [
+    {
+      "id": "39e487bd-7ae7-42ae-978c-b3c16c52bdc7",
+      "titulo": "Gemini sorprende con un nuevo modo completamente gratuito que no vas a dejar de usar: ya está disponible para todos",
+      "resumen": "Tras varias semanas de polémica y quejas de usuarios por las nuevas limitaciones de Gemini, Google parece estar reculando y ha lanzado una nueva función a todos los usuarios, incluyendo a aquellos con una cuenta gratuita. La compañía ha implementando en Gemini un nuevo modo de pensamiento \"extendido",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-sorprende-con-un-nuevo-modo-completamente-gratuito-que-no-vas-a-dejar-de-usar-ya-esta-disponible-para-todos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/gemini-02.jpg?fit=1024%2C672&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-03T11:05:01.000Z",
+      "fechaAgregada": "2026-06-03T12:41:54.236Z"
+    },
+    {
+      "id": "735263f9-f91f-4a78-b77c-da8dc507a3ea",
+      "titulo": "Los chips de Nvidia sí llegaban a China: solo hacía falta una filial en Malasia",
+      "resumen": "El Gobierno de EEUU sospecha desde hace varios años que las compañías y los centros de investigación chinos que se dedican a la inteligencia artificial (IA) adquieren las GPU más avanzadas de Nvidia a través de empresas intermediarias de Singapur y Malasia. En 2022 decidió prohibir la venta a China",
+      "url": "https://www.xataka.com/empresas-y-economia/chips-nvidia-llegaban-a-china-solo-falta-filial-malasia",
+      "imagen": "https://i.blogs.es/3d3cb8/nvidia-gpu-blackwelll/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-03T10:45:58.000Z",
+      "fechaAgregada": "2026-06-03T12:41:54.118Z"
+    },
+    {
+      "id": "b37f17ea-1a63-4336-a2aa-6b0bfe379231",
+      "titulo": "Cuidado si usas ChatGPT: están utilizando una aplicación falsa para estafarte",
+      "resumen": "ChatGPT es uno de los chatbots de IA más utilizados a nivel global. Permite realizar consultas de todo tipo y obtener respuestas. Puede ser útil para llevar a cabo determinadas tareas y ahorrar dinero. Sin embargo, los piratas informáticos también se están aprovechando de este reconocimiento y están",
+      "url": "https://www.redeszone.net/noticias/seguridad/cuidado-chatgpt-aplicacion-falsa/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/chatgpt-pantalla-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-03T09:37:15.000Z",
+      "fechaAgregada": "2026-06-03T12:41:56.834Z"
+    },
+    {
+      "id": "2461aaf8-c236-42b8-9b17-c9e9c58308eb",
+      "titulo": "Google permitirá a medios y webs excluirse de AI Overviews y AI Mode",
+      "resumen": "Google planteó durante el pasado Google I/O 2026 uno de los cambios más relevantes —y también más controvertidos— en la historia reciente de su buscador. La compañía presentó una profunda reinvención de Search basada en inteligencia artificial, con una nueva experiencia capaz de interpretar imágenes",
+      "url": "https://www.muycomputer.com/2026/06/03/google-permitira-a-medios-y-webs-excluirse-de-ai-overviews-y-ai-mode/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/google-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-03T06:05:55.000Z",
+      "fechaAgregada": "2026-06-03T12:41:58.603Z"
+    },
+    {
+      "id": "9a9b8ce7-eb98-4a0d-a784-0161d0637cc9",
+      "titulo": "ChatGPT añade una nueva función de seguridad y retirará varios modelos próximamente",
+      "resumen": "OpenAI introduce novedades y cambios en ChatGPT, desde una nueva función de seguridad anunciada en las últimas horas como la fecha en la que se retirarán varios modelos. Los usuarios deben tener en cuenta estas fechas para que el apagón de estos modelos no les pille por sorpresa.\nHay muchos cambios",
+      "url": "https://www.adslzone.net/noticias/ia/chatgpt-novedades-seguridad-fin-modelos/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/ChatGPT-nuevas-funciones-novedades.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-03T05:04:30.000Z",
+      "fechaAgregada": "2026-06-03T12:41:56.344Z"
+    },
+    {
+      "id": "99da5028-2eae-41c6-83b4-ac250543231c",
+      "titulo": "Olvídate de Claude Code: Microsoft ha presentado su primera IA para programar software",
+      "resumen": "Microsoft ha lanzado su primer modelo de inteligencia artificial orientado al desarrollo de software. Conocido como MAI-Code-1-Flash, la nueva IA compite contra los modelos ligeros de Anthropic, Google y otras empresas. El modelo se integra a GitHub Copilot a partir de hoy y también está disponible",
+      "url": "https://hipertextual.com/inteligencia-artificial/microsoft-mai-code-1-flash-github-copilot/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/mai-code-flash-microsoft.jpg?fit=1024%2C575&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-02T20:59:00.000Z",
+      "fechaAgregada": "2026-06-03T12:41:54.236Z"
+    },
+    {
+      "id": "aeaca0c8-10ac-4372-8bb7-94829efd1736",
+      "titulo": "Así es Project Solara: lo nuevo de Microsoft que reemplaza las apps por agentes de IA",
+      "resumen": "Microsoft lleva meses desarrollando en silencio una plataforma diseñada para dispositivos que funcionan con agentes de inteligencia artificial. Conocido como Project Solara, el proyecto cuestiona directamente el modelo tradicional de apps que vemos en los móviles. Según Microsoft, los agentes pueden",
+      "url": "https://hipertextual.com/inteligencia-artificial/project-solara-microsoft-plataforma-agentes-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/project-solara-portada.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-02T18:59:29.000Z",
+      "fechaAgregada": "2026-06-03T12:41:54.236Z"
+    },
+    {
+      "id": "9598fe38-6645-4e9d-9145-0bba3031da11",
+      "titulo": "Codex ya no es solo para programadores: OpenAI la transforma en una herramienta para todos",
+      "resumen": "OpenAI acaba de actualizar Codex con un conjunto de herramientas pensadas para ir mucho más allá del desarrollo de software. La compañía anunció nuevos plugins y una función que convierte a la herramienta en una plataforma de trabajo para equipos completos, sin importar su perfil técnico. Los agrega",
+      "url": "https://hipertextual.com/inteligencia-artificial/openai-codex-plugins-sites-anotaciones/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/codex-openai.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-02T17:50:00.000Z",
+      "fechaAgregada": "2026-06-03T12:41:54.236Z"
+    },
+    {
+      "id": "c70c7e1e-8b79-43d7-a05d-9b9bc8231f9b",
+      "titulo": "Anthropic abre Claude Mythos a más socios para detectar fallos en infraestructuras críticas",
+      "resumen": "Anthropic ha puesto en marcha la tan reclamada expansión internacional de Claude Mythos a través de Project Glasswing. La empresa anunció este martes que su IA más potente ahora está en manos de un mayor número de socios en 15 países, luego del despliegue inicial con empresas y organizaciones selecc",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-expande-acceso-claude-mythos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-mythos_01.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-02T16:41:07.000Z",
+      "fechaAgregada": "2026-06-03T12:41:54.236Z"
+    },
+    {
+      "id": "0b27ead0-bea4-433e-a330-80d6bda8bafc",
+      "titulo": "La IA en local ya no será un problema: QNAP presenta en el COMPUTEX 2026 sus nuevos NAS para IA",
+      "resumen": "QNAP está presente en la popular feria de COMPUTEX 2026, una de las más importantes de todo el mundo que se celebra anualmente en Taipei (Taiwán). El fabricante ha aprovechado esta feria para presentar nuevos servidores NAS de gama media y alta orientada a la IA en local, por lo que estos NAS permit",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/qnap-nas-ia-local-computex-2026/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/QNAP_Computex_2026_destacada.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-02T11:05:49.000Z",
+      "fechaAgregada": "2026-06-03T12:41:56.834Z"
+    },
+    {
+      "id": "1763bdaf-a161-4944-8ee2-f59f0596ee76",
+      "titulo": "El objetivo ya no es la contraseña, sino convencer a la IA: así pueden robar tu cuenta de Instagram",
+      "resumen": "Un grupo de investigadores de seguridad de ZachXBT y Dark Web Informer han detectado una vulnerabilidad que afecta a la herramienta de recuperación de cuentas de Meta, la cual está impulsada por IA. Esto permite que los piratas informáticos puedan llegar a secuestrar cuentas al engañar al chatbot y",
+      "url": "https://www.redeszone.net/noticias/seguridad/atacantes-convencen-ia-robar-cuentas-instagram/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/logo-instagram-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-01T09:34:48.000Z",
+      "fechaAgregada": "2026-06-03T12:41:56.835Z"
+    },
+    {
+      "id": "abb26b26-4018-4a26-b59c-004786ad9d72",
+      "titulo": "Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA",
+      "resumen": "El Consejo de Ministros da luz verde a la normativa que traspone el reglamento europeo y que establece qué aplicaciones de inteligencia artificial están prohibidas",
+      "url": "https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y-multas-millonarias-el-gobierno-aprueba-su-ley-de-ia.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260526/1176089_135531_video_1800.mp4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-26T16:32:04.000Z",
+      "fechaAgregada": "2026-06-03T12:41:55.186Z"
+    },
+    {
+      "id": "771c3834-94de-4776-abf9-5dcd3bf7b2d6",
+      "titulo": "¿Por qué hay cada vez más sobresalientes en la universidad? La culpa es de ChatGPT",
+      "resumen": "Una nueva investigación revela que al menos 1 de cada 10 trabajos está hecho con la ayuda de la IA. Las carreras donde los alumnos hacen más trampas son Económicas y Periodismo",
+      "url": "https://elpais.com/tecnologia/2026-05-21/por-que-hay-cada-vez-mas-sobresalientes-en-la-universidad-la-culpa-es-de-chatgpt.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3VZ5FDEFRRACXB2WUSEFEL6VSU.jpg?auth=967dbba1e3233a5a6a9f4816e3f0fb8d9090ddc4e9e445cf45f2ce0c37ab08b0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-21T18:00:14.000Z",
+      "fechaAgregada": "2026-06-03T12:41:55.186Z"
+    },
+    {
+      "id": "88c51713-3027-45cf-be89-a84cfe59ec13",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-03T12:41:55.061Z"
+    },
+    {
+      "id": "06b4873a-47f0-4660-b43e-1e1a2537dcb2",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-03T12:41:55.062Z"
+    },
+    {
+      "id": "282e97c5-80c5-4ecf-8877-d924e023ad0e",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-03T12:41:55.062Z"
+    }
+  ]
+}
