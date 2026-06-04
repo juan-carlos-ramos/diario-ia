@@ -1,0 +1,216 @@
+{
+  "fecha": "2026-06-04",
+  "generado": "2026-06-04T11:15:21.085Z",
+  "total": 19,
+  "noticias": [
+    {
+      "id": "a309440e-efd6-4b4c-a5d3-a73163c8a973",
+      "titulo": "ChatGPT se convierte en la aplicación más rápida en conseguir 1.000 millones de usuarios",
+      "resumen": "A fecha del segundo trimestre de 2026, supera en usuarios mensuales activos a otras rivales del sector",
+      "url": "https://elpais.com/tecnologia/2026-06-04/chatgpt-se-convierte-en-la-aplicacion-mas-rapida-en-conseguir-1000-millones-de-usuarios.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OEMSPTIIEBDIZCH4NMG37DJ7ZY.jpg?auth=050fc04d1e0ed2da52703e95aa0e4f1bca56ba6a7973e7675f48a1fe1cc2197e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T10:27:55.000Z",
+      "fechaAgregada": "2026-06-04T11:15:15.165Z"
+    },
+    {
+      "id": "2f17b0de-aa1a-4265-9bf0-248cbe8e566b",
+      "titulo": "iOS 27: todo lo que creemos saber hasta ahora de la próxima versión del sistema operativo móvil de Apple",
+      "resumen": "Vamos a decirte todo lo que creemos saber sobre iOS 27, basándonos en todas las filtraciones y rumores alrededor de la próxima versión del sistema operativo móvil de Apple. Como cada año, los meses precios a la ya inminente presentación de la nueva versión del sistema nos ha dejado toda una colecció",
+      "url": "https://www.xataka.com/nuevo/ios-27-todo-que-creemos-saber-ahora-proxima-version-sistema-operativo-movil-apple",
+      "imagen": "https://i.blogs.es/392aca/ios-27/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T10:27:36.000Z",
+      "fechaAgregada": "2026-06-04T11:15:14.255Z"
+    },
+    {
+      "id": "8bc27034-b700-4bc5-a8f6-7fd7e7dac8c0",
+      "titulo": "Google quiere acabar con las llamadas falsas con IA y presenta una solución",
+      "resumen": "Las llamadas fraudulentas son un problema importante que puede afectar en el día a día. Podrías recibir una llamada en la que suplanten a tu banco, por ejemplo, y pedirte ciertos datos para robarte. También pueden hacerse pasar por el servicio técnico de una empresa o por cualquier plataforma. Los a",
+      "url": "https://www.redeszone.net/noticias/seguridad/google-acabar-llamadas-falsas-ia-solucion/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/llamada-falsa-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T09:23:10.000Z",
+      "fechaAgregada": "2026-06-04T11:15:17.991Z"
+    },
+    {
+      "id": "b44e64db-4bc2-43a5-81bd-09b359a8a548",
+      "titulo": "Microsoft da marcha atrás: pronto podrás desinstalar los modelos de IA de Windows 11",
+      "resumen": "La estrategia de Microsoft con Windows 11 durante los últimos años ha estado marcada por una obsesión evidente: la Inteligencia Artificial. Desde la integración profunda de Copilot hasta el lanzamiento de la certificación «Copilot+ PC» para equipos con NPU integrada, la compañía con sede en Redmond",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/windows-11-eliminar-ia-sistema-operativo/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/06/windows-11-ia.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T06:55:16.000Z",
+      "fechaAgregada": "2026-06-04T11:15:20.072Z"
+    },
+    {
+      "id": "6ced1151-37f3-4b1f-963a-497cf97d8f5b",
+      "titulo": "GitHub Copilot: ¿el fin de la inteligencia artificial barata?",
+      "resumen": "Durante los últimos años, herramientas como GitHub Copilot nos han acostumbrado con una rapidez sorprendente a una idea que, probablemente, parecía casi imposible poco antes del estallido de la inteligencia artificial generativa: acceso relativamente barato —o incluso aparentemente ilimitado— a sist",
+      "url": "https://www.muycomputer.com/2026/06/04/github-copilot-el-fin-de-la-inteligencia-artificial-barata/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/Copilot-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T06:03:06.000Z",
+      "fechaAgregada": "2026-06-04T11:15:21.085Z"
+    },
+    {
+      "id": "c3666f00-15f9-471c-85ea-4c5c8e190e68",
+      "titulo": "Larry Ellison quiso alimentar al mundo cultivando lechugas en su isla privada: las regó con 500 millones de dólares",
+      "resumen": "Larry Ellison es conocido por ser cofundador de Oracle, consultor cercano en materia de IA en el Consejo de Asesores en Ciencia y Tecnología del segundo mandato de Donald Trump y la segunda mayor fortuna del mundo, según la lista de millonarios de Forbes. El millonario invirtió cientos de millones d",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/larry-ellison-quiso-alimentar-al-mundo-cultivando-lechugas-su-isla-privada-rego-500-millones-dolares-1",
+      "imagen": "https://i.blogs.es/cda059/larry-ellison-y-las-lechugas/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T06:01:55.000Z",
+      "fechaAgregada": "2026-06-04T11:15:14.257Z"
+    },
+    {
+      "id": "cd78a5e3-3ef7-4091-9aba-4f5567dc064a",
+      "titulo": "Gemini Go llega oficialmente para ocupar el sitio de Google Assistant: prepara tu móvil",
+      "resumen": "Google confirma que ha llegado la hora del cambio en los dispositivos Android Go. Todos los usuarios que tengan uno de estos móviles van a perder el acceso a Google Assistant para dar paso a la introducción definitiva de Gemini Go.\nEl despliegue de Gemini a través de la amplia cantidad de dispositiv",
+      "url": "https://www.adslzone.net/noticias/ia/gemini-go-sustituye-google-assistant-android-go/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/Chica-contenta-usando-movil-Gemini.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T04:00:46.000Z",
+      "fechaAgregada": "2026-06-04T11:15:16.584Z"
+    },
+    {
+      "id": "f14fa1dc-0188-4e54-b9eb-af5df970f236",
+      "titulo": "Google lanza una nueva versión de Gemma 4 que puedes ejecutar en tu portátil con 16 GB de RAM",
+      "resumen": "La familia de modelos de inteligencia artificial Gemma 4, de Google, acaba de sumar un integrante bastante interesante. Se trata de una nueva versión de 12.000 millones de parámetros especialmente pensada para tareas de ejecución local y que funciona en cualquier ordenador portátil con unos módicos",
+      "url": "https://hipertextual.com/inteligencia-artificial/nuevo-gemma-4-12b/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Gemma-4-12B.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-03T21:30:00.000Z",
+      "fechaAgregada": "2026-06-04T11:15:14.349Z"
+    },
+    {
+      "id": "79a0e575-237d-4721-81b8-96cbb5480975",
+      "titulo": "Lo nuevo de Amazon usa la IA para generar productos que no puedes comprar",
+      "resumen": "Amazon ha actualizado su app para ayudarte a encontrar lo que buscas aunque no sepas cómo se llama. Ahora, la barra de búsqueda muestra imágenes generadas por inteligencia artificial mientras escribes. Estas imágenes son de productos que no existen y, por lo tanto, no puedes comprar, aunque la tecno",
+      "url": "https://hipertextual.com/inteligencia-artificial/amazon-busqueda-ia-generativa-imagenes-productos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/amazon-app.jpg?fit=1024%2C641&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-03T19:49:00.000Z",
+      "fechaAgregada": "2026-06-04T11:15:14.350Z"
+    },
+    {
+      "id": "c080060d-7233-4a45-9ce3-a983de5e28f0",
+      "titulo": "Ya son oficiales: ocho portátiles que podrás comprar próximamente con el nuevo chip NVIDIA RTX Spark",
+      "resumen": "El mercado de los procesadores para portátiles Windows parece que está más vivo que nunca. Tras el desembarco de Qualcomm con sus chips ARM, MediaTek y NVIDIA acaban de anunciar oficialmente su contraataque: NVIDIA RTX Spark. Se trata de una nueva generación de procesadores diseñados específicamente",
+      "url": "https://www.xataka.com/seleccion/oficiales-ocho-portatiles-que-podras-comprar-proximamente-nuevo-chip-nvidia-rtx-spark",
+      "imagen": "https://i.blogs.es/a568a7/nvidia-rtx-spark/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-03T19:01:59.000Z",
+      "fechaAgregada": "2026-06-04T11:15:14.257Z"
+    },
+    {
+      "id": "078782c6-c94e-4401-b21e-26703efed2f9",
+      "titulo": "Con estas cámaras de seguridad en oferta podrás controlar todo lo que pase en tus vacaciones",
+      "resumen": "Si quieres controlar todo lo que ocurra en tu vivienda, aunque estés fuera de vacaciones, una buena opción es contar con cámaras de seguridad. Las podrás repartir por diferentes lugares y tener así una visión de todo lo que ocurra. Vamos a hablarte de algunas opciones que puedes encontrar en oferta.",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-vigilancia-0626/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/camara-tp-link.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-03T14:08:34.000Z",
+      "fechaAgregada": "2026-06-04T11:15:17.992Z"
+    },
+    {
+      "id": "34fe6e88-2df5-4077-a189-ddcaa0a460ab",
+      "titulo": "Meta quiere que vendas más y mejor en Instagram o WhatsApp con su nuevo agente comercial con IA",
+      "resumen": "Meta acaba de presentar una herramienta muy interesante para empresas y emprendedores que interactúan a diario con sus clientes a través de Instagram, WhatsApp o Messenger: un nuevo agente comercial con inteligencia artificial. Una solución ideal para quienes quieren mantener un contacto permanente",
+      "url": "https://hipertextual.com/inteligencia-artificial/agente-comercial-ia-meta-instagram-whatsapp-messenger/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Spanish_WhatsApp_conversations-2026-2.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-03T13:40:00.000Z",
+      "fechaAgregada": "2026-06-04T11:15:14.350Z"
+    },
+    {
+      "id": "88429d0a-7f52-4ae4-9395-8048ea154d49",
+      "titulo": "Cuidado si usas ChatGPT: están utilizando una aplicación falsa para estafarte",
+      "resumen": "ChatGPT es uno de los chatbots de IA más utilizados a nivel global. Permite realizar consultas de todo tipo y obtener respuestas. Puede ser útil para llevar a cabo determinadas tareas y ahorrar dinero. Sin embargo, los piratas informáticos también se están aprovechando de este reconocimiento y están",
+      "url": "https://www.redeszone.net/noticias/seguridad/cuidado-chatgpt-aplicacion-falsa/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/chatgpt-pantalla-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-03T09:37:15.000Z",
+      "fechaAgregada": "2026-06-04T11:15:17.992Z"
+    },
+    {
+      "id": "70c1f156-4506-416d-a1c4-e8493f42c173",
+      "titulo": "Google permitirá a medios y webs excluirse de AI Overviews y AI Mode",
+      "resumen": "Google planteó durante el pasado Google I/O 2026 uno de los cambios más relevantes —y también más controvertidos— en la historia reciente de su buscador. La compañía presentó una profunda reinvención de Search basada en inteligencia artificial, con una nueva experiencia capaz de interpretar imágenes",
+      "url": "https://www.muycomputer.com/2026/06/03/google-permitira-a-medios-y-webs-excluirse-de-ai-overviews-y-ai-mode/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/google-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-03T06:05:55.000Z",
+      "fechaAgregada": "2026-06-04T11:15:21.085Z"
+    },
+    {
+      "id": "3b40ac10-80a1-4c70-9d57-d94c5c754ad6",
+      "titulo": "La IA en local ya no será un problema: QNAP presenta en el COMPUTEX 2026 sus nuevos NAS para IA",
+      "resumen": "QNAP está presente en la popular feria de COMPUTEX 2026, una de las más importantes de todo el mundo que se celebra anualmente en Taipei (Taiwán). El fabricante ha aprovechado esta feria para presentar nuevos servidores NAS de gama media y alta orientada a la IA en local, por lo que estos NAS permit",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/qnap-nas-ia-local-computex-2026/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/QNAP_Computex_2026_destacada.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-02T11:05:49.000Z",
+      "fechaAgregada": "2026-06-04T11:15:17.993Z"
+    },
+    {
+      "id": "ce8f7204-59c6-4e7e-889c-40249349d317",
+      "titulo": "Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA",
+      "resumen": "El Consejo de Ministros da luz verde a la normativa que traspone el reglamento europeo y que establece qué aplicaciones de inteligencia artificial están prohibidas",
+      "url": "https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y-multas-millonarias-el-gobierno-aprueba-su-ley-de-ia.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260526/1176089_135531_video_1800.mp4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-26T16:32:04.000Z",
+      "fechaAgregada": "2026-06-04T11:15:15.165Z"
+    },
+    {
+      "id": "290e8392-6430-482b-9224-3d501fcd0ae5",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-04T11:15:15.109Z"
+    },
+    {
+      "id": "1020623d-626e-4d48-a5c1-9fa56a5f2f2e",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-04T11:15:15.109Z"
+    },
+    {
+      "id": "28911db6-d665-400c-ba52-50be5caaa6f5",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-04T11:15:15.109Z"
+    }
+  ]
+}
