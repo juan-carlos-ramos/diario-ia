@@ -1,0 +1,205 @@
+{
+  "fecha": "2026-06-06",
+  "generado": "2026-06-06T10:04:28.236Z",
+  "total": 18,
+  "noticias": [
+    {
+      "id": "f7c6462b-6ab4-46f7-8747-6133b931ff10",
+      "titulo": "Gemini Go llega a Android Go para sustituir definitivamente a Google Assistant",
+      "resumen": "La expansión de Gemini dentro del ecosistema Android sigue avanzando, pero hasta ahora había un territorio donde Google todavía no había terminado de entrar del todo: los móviles más modestos. Mientras la compañía empujaba su nueva IA hacia smartphones recientes y dispositivos con más recursos, mill",
+      "url": "https://www.muycomputer.com/2026/06/06/gemini-go-llega-a-android-go-para-sustituir-definitivamente-a-google-assistant/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/Gemini-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T07:16:01.000Z",
+      "fechaAgregada": "2026-06-06T10:04:28.235Z"
+    },
+    {
+      "id": "2f0d8660-a35e-4903-ab90-7d9bec8fc79f",
+      "titulo": "Estaba harto de las imprecisiones de ChatGPT hasta que usé este truco",
+      "resumen": "Preguntar algo a ChatGPT es fácil. Otra cosa es que tu pregunta esté bien planteada para obtener la respuesta que andas buscando. En muchas ocasiones, lo primero que te viene a la mente es suficiente para que ChatGPT te dé el dato, la información o la explicación que necesitas. Pero no siempre es as",
+      "url": "https://hipertextual.com/guias/corregir-preguntas-imprecisas-chatgpt/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/ChatGPT-Preguntas-Portatil.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T06:00:00.000Z",
+      "fechaAgregada": "2026-06-06T10:04:22.781Z"
+    },
+    {
+      "id": "21510a3d-877c-4fc0-abe4-d8987af16c70",
+      "titulo": "DeepSeek acaba de lograr algo impensable hace unos meses: ganar terreno entre empresas estadounidenses",
+      "resumen": "Hace no tanto, la idea de que una empresa estadounidense pagara directamente a una compañía china como DeepSeek para usar inteligencia artificial habría sonado, como mínimo, improbable. No porque faltaran modelos alternativos, sino porque el tablero de la IA empresarial parecía dominado por los gran",
+      "url": "https://www.xataka.com/robotica-e-ia/deepseek-acaba-lograr-algo-impensable-hace-unos-meses-ganar-terreno-empresas-estadounidenses",
+      "imagen": "https://i.blogs.es/396f56/deepseek/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-05T20:01:10.000Z",
+      "fechaAgregada": "2026-06-06T10:04:21.187Z"
+    },
+    {
+      "id": "f5661daa-42c5-41db-ba7f-ea41e8fa5336",
+      "titulo": "Ya es oficial: así es el primer monitor QD-OLED con triple resolución del mundo de MSI. Y no ha llegado solo",
+      "resumen": "La Computex 2026 está siendo el escenario para que muchas marcas presenten una batería de productos. Una de ellas es MSI, que ha puesto sobre el escenario una selección bastante grande de monitores donde destaca especialmente el primer monitor QD-OLED con triple resolución del mundo, aunque hay much",
+      "url": "https://www.xataka.com/seleccion/oficial-asi-primer-monitor-qd-oled-triple-resolucion-mundo-msi-no-ha-llegado-solo",
+      "imagen": "https://i.blogs.es/a46fce/msi-monitores-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-05T19:45:10.000Z",
+      "fechaAgregada": "2026-06-06T10:04:21.187Z"
+    },
+    {
+      "id": "eaeff018-a351-41d4-925e-e24a4cb5f7d7",
+      "titulo": "Google mata Pixel Studio: su app para crear stickers con IA",
+      "resumen": "Pixel Studio ha llegado a su fin. Google ha desactivado la aplicación de generación de imágenes con IA que lanzó en 2024 junto con el Pixel 9. La llegada de Gemini y Nano Banana han puesto el último clavo en el ataúd de una app que se promovía como uno de los mejores pretextos para […]\nSeguir leyend",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-cierra-pixel-studio-gemini/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/pixel-studio-ia.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-05T19:20:00.000Z",
+      "fechaAgregada": "2026-06-06T10:04:22.782Z"
+    },
+    {
+      "id": "89da140b-e66d-43fe-b28d-844dbd081e1c",
+      "titulo": "China prepara un hotel donde los robots harán de recepcionistas, camareros, limpiadores y vigilantes: aspira a automatizarlo casi todo",
+      "resumen": "Durante años, cuando hablábamos de robots atendiendo a personas, Japón aparecía casi siempre en primer plano. Ahora el foco se ha desplazado. La carrera por llevar la robótica y la inteligencia artificial a la vida cotidiana se ha acelerado, y China acaba de poner sobre la mesa una propuesta llamati",
+      "url": "https://www.xataka.com/robotica-e-ia/china-prepara-hotel-donde-robots-haran-recepcionistas-camareros-limpiadores-vigilantes-aspira-a-automatizarlo-casi-todo",
+      "imagen": "https://i.blogs.es/ede1ec/hotel-robotico-china/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-05T19:01:10.000Z",
+      "fechaAgregada": "2026-06-06T10:04:21.187Z"
+    },
+    {
+      "id": "2062e104-98f2-45c2-8ba2-7cceb96cd666",
+      "titulo": "Anthropic propone frenar el desarrollo de Claude y otras IA para evitar que se salgan de control",
+      "resumen": "Anthropic ha pedido una pausa global en el desarrollo de la inteligencia artificial. La empresa creadora de Claude advierte que los modelos avanzan a un ritmo que podría volverse incontrolable. El riesgo central es que los sistemas de IA lleguen a mejorarse a sí mismos sin intervención humana. En un",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-pausa-desarrollo-inteligencia-artificial/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Claude-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-05T18:25:00.000Z",
+      "fechaAgregada": "2026-06-06T10:04:22.782Z"
+    },
+    {
+      "id": "4507a946-eba8-4747-9f36-959adb50add3",
+      "titulo": "Pronto no hará falta que te acuerdes del nombre de nadie. Ya lo harán las gafas de Meta por ti",
+      "resumen": "Hace poco supimos que las Ray-Ban Meta siguen grabando cuando te las quitas y que hay contratistas en Kenia viendo todo lo que ocurre. También se están usando para cosas tan turbias como grabar mujeres sin su consentimiento. En un contexto ya delicado con el tema de la privacidad, Meta ha decidido q",
+      "url": "https://www.xataka.com/wearables/pronto-no-hara-falta-que-te-acuerdes-nombre-nadie-haran-gafas-meta-ti",
+      "imagen": "https://i.blogs.es/579182/1200_800/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-05T17:31:09.000Z",
+      "fechaAgregada": "2026-06-06T10:04:21.188Z"
+    },
+    {
+      "id": "3b9f78f1-5c7e-4163-92ec-03919737c34b",
+      "titulo": "Ya son oficiales los nuevos televisores TCL X11L y C8L en España: gama premium para ver el Mundial, cine y videojuegos",
+      "resumen": "TCL ha dado un golpe sobre la mesa en el mercado español con la llegada de sus nuevos buques insignia para 2026 en el sector de los televisores. La compañía, consolidada ya como uno de los principales fabricantes mundiales en teles, acaba de anunciar la disponibilidad de sus series X11L y C8L. Se tr",
+      "url": "https://www.xataka.com/seleccion/oficiales-nuevos-televisores-tcl-x11l-c8l-espana-gama-premium-para-ver-mundial-cine-videojuegos",
+      "imagen": "https://i.blogs.es/1c1167/tcl-x11l/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-05T16:45:10.000Z",
+      "fechaAgregada": "2026-06-06T10:04:21.188Z"
+    },
+    {
+      "id": "9e3199c5-45da-4562-961e-b2cf389c0246",
+      "titulo": "Anthropic pide una congelación mundial del desarrollo de la IA",
+      "resumen": "Anthropic, la empresa de IA más valiosa del mundo, ha pedido una paralización global del desarrollo de la IA, advirtiendo que los humanos corren el riesgo de perder el control de la tecnología. La compañía compara el avance imparable de los modelos de inteligencia artificial con «un problema de cont",
+      "url": "https://www.muycomputer.com/2026/06/05/anthropic-pide-una-congelacion-mundial-del-desarrollo-de-la-ia/",
+      "imagen": "https://picsum.photos/seed/444/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-05T09:17:48.000Z",
+      "fechaAgregada": "2026-06-06T10:04:28.235Z"
+    },
+    {
+      "id": "065fcaad-b219-4060-98db-17733194e6f7",
+      "titulo": "¿NPCs impulsados por IA? Hasbro ya está construyendo la tecnología que podría hacerlo posible en Exodus",
+      "resumen": "Hasbro (la empresa de Transformers, Monopoly, etc.) ha creado un equipo nuevo llamado Sixth Wall para hacer que sus personajes puedan hablar e interactuar con personas usando inteligencia artificial, algo que podría ser clave para el futuro de los NPCs en videojuegos como Exodus.\nSe trata de un proy",
+      "url": "https://hardzone.es/noticias/juegos/hasbro-quiere-llevar-personaje-ia-exodus-grandes-beneficiados/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/06/Hasbro-exodus.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T17:30:14.000Z",
+      "fechaAgregada": "2026-06-06T10:04:26.956Z"
+    },
+    {
+      "id": "4475ffea-5b55-4dd9-9710-a55465d1541e",
+      "titulo": "Primera vez que ocurre: los bots ya generan más tráfico en Internet que los humanos",
+      "resumen": "El tráfico en Internet no solo corresponde a usuarios reales que hagan búsquedas, entren en redes sociales o suban contenido a la nube. Hay también tráfico de bots automatizados, que puede ser positivo y negativo. Ahora, por primera vez, este tipo de tráfico ha superado al humano. Así lo recoge un i",
+      "url": "https://www.redeszone.net/noticias/redes/bots-superan-trafico-internet/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/trafico-bots-internet.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T11:15:54.000Z",
+      "fechaAgregada": "2026-06-06T10:04:26.757Z"
+    },
+    {
+      "id": "24267190-c53c-4c11-b0b8-fb0d82e5043e",
+      "titulo": "ChatGPT se convierte en la aplicación más rápida en conseguir 1.000 millones de usuarios",
+      "resumen": "A fecha del segundo trimestre de 2026, supera en usuarios mensuales activos a otras rivales del sector",
+      "url": "https://elpais.com/tecnologia/2026-06-04/chatgpt-se-convierte-en-la-aplicacion-mas-rapida-en-conseguir-1000-millones-de-usuarios.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OEMSPTIIEBDIZCH4NMG37DJ7ZY.jpg?auth=050fc04d1e0ed2da52703e95aa0e4f1bca56ba6a7973e7675f48a1fe1cc2197e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T10:27:55.000Z",
+      "fechaAgregada": "2026-06-06T10:04:23.860Z"
+    },
+    {
+      "id": "f9dcea2d-376c-46e3-9df5-eb7db6c894aa",
+      "titulo": "Google quiere acabar con las llamadas falsas con IA y presenta una solución",
+      "resumen": "Las llamadas fraudulentas son un problema importante que puede afectar en el día a día. Podrías recibir una llamada en la que suplanten a tu banco, por ejemplo, y pedirte ciertos datos para robarte. También pueden hacerse pasar por el servicio técnico de una empresa o por cualquier plataforma. Los a",
+      "url": "https://www.redeszone.net/noticias/seguridad/google-acabar-llamadas-falsas-ia-solucion/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/llamada-falsa-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T09:23:10.000Z",
+      "fechaAgregada": "2026-06-06T10:04:26.758Z"
+    },
+    {
+      "id": "b6f42028-cfad-4ff0-a30d-b26fc8e05c38",
+      "titulo": "Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA",
+      "resumen": "El Consejo de Ministros da luz verde a la normativa que traspone el reglamento europeo y que establece qué aplicaciones de inteligencia artificial están prohibidas",
+      "url": "https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y-multas-millonarias-el-gobierno-aprueba-su-ley-de-ia.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260526/1176089_135531_video_1800.mp4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-26T16:32:04.000Z",
+      "fechaAgregada": "2026-06-06T10:04:23.861Z"
+    },
+    {
+      "id": "117a852a-279b-407a-ae68-43b0a9665aa9",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-06T10:04:23.811Z"
+    },
+    {
+      "id": "5d1236c3-59fe-46c4-9b22-b6834565345c",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-06T10:04:23.811Z"
+    },
+    {
+      "id": "64f8979c-4d3e-4ff8-a187-fccc7f5b779a",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-06T10:04:23.812Z"
+    }
+  ]
+}
