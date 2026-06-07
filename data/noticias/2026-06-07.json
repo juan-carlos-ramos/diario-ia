@@ -1,0 +1,183 @@
+{
+  "fecha": "2026-06-07",
+  "generado": "2026-06-07T10:29:50.628Z",
+  "total": 16,
+  "noticias": [
+    {
+      "id": "454bd940-6b4f-43e3-8172-0c44e7b36c55",
+      "titulo": "Google quiere convertir a Gemini en un cohete y ya sabe cómo: pagando 920 millones al mes a SpaceX",
+      "resumen": "Elon Musk creó SpaceX para la exploración espacial, reducir costes relacionados con el transporte y en última instancia colonizar Marte, pero lo que ha encontrado es un filón en la Tierra: Google y SpaceX acaban de firmar un lucrativo acuerdo de infraestructura que pone a la empresa espacial de Elon",
+      "url": "https://www.xataka.com/servicios/google-quiere-convertir-a-gemini-cohete-sabe-como-pagando-920-millones-al-mes-a-spacex",
+      "imagen": "https://i.blogs.es/f282c5/duo/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-07T07:13:32.000Z",
+      "fechaAgregada": "2026-06-07T10:29:32.813Z"
+    },
+    {
+      "id": "cd106502-6861-448a-8972-56cdc6ed0cfe",
+      "titulo": "ChatGPT conoce tus secretos más oscuros. Activa estos ajustes para evitar que entren a tu cuenta",
+      "resumen": "Cuanto más tiempo le dediques a una aplicación, es más probable que esa app se llene de datos personales e información delicada que no querrás que acabe en malas manos. Tu gestor de correo electrónico, tu galería de fotos y WhatsApp son tres grandes ejemplos. Pero hay más. Como ChatGPT. Para muchos,",
+      "url": "https://hipertextual.com/guias/seguridad-chatgpt-seguridad-avanzada-cuenta/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/ChatGPT-Caja-Fuerte-Seguridad.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-07T07:00:00.000Z",
+      "fechaAgregada": "2026-06-07T10:29:33.025Z"
+    },
+    {
+      "id": "5dd2e020-a1ce-41f6-ba1d-1430e1deabc1",
+      "titulo": "La forma más sencilla de solucionar la gran queja de Gemini en Android Auto",
+      "resumen": "Desde que Gemini aterrizó en Android Auto, los usuarios han tenido que convivir con las respuestas excesivamente largas y repletas de errores. Un escenario que no ha sentado nada bien en la comunidad. Por suerte y pese a que no todo el mundo lo conoce, se trata de un comportamiento que tiene solució",
+      "url": "https://www.adslzone.net/e-movilidad/noticias-tecnologia/mejorar-respuestas-gemini-android-auto/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/05/android-auto-gemini-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-07T06:57:14.000Z",
+      "fechaAgregada": "2026-06-07T10:29:35.330Z"
+    },
+    {
+      "id": "4a0727a8-b1a5-41d6-9df1-d1e97053943c",
+      "titulo": "Así uso NotebookLM para procesar y organizar mis apuntes a mano y mis notas de reuniones",
+      "resumen": "NotebookLM es capaz de muchas cosas gracias al uso de la inteligencia artificial de Google. Pero no deja de ser un bloc de notas, tal y como indica su nombre. Como todo bloc de notas, sirve para guardar apuntes y anotaciones. Y, precisamente porque utiliza IA, es capaz de hacer mucho más de lo que [",
+      "url": "https://hipertextual.com/guias/tomar-notas-apuntes-notebooklm/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/NotebookLM-Escritorio-Documentos-Archivos.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-07T06:00:00.000Z",
+      "fechaAgregada": "2026-06-07T10:29:33.025Z"
+    },
+    {
+      "id": "a2c6b116-0091-4b94-b02d-8d0a5a6ec68e",
+      "titulo": "Sam Altman reconoce un secreto a voces: \"Creo que es la crítica más válida a la IA ahora mismo, hay mucho despilfarro\"",
+      "resumen": "La carrera de la inteligencia artificial está haciendo que las grandes tecnológicas dilapiden enormes sumas de dinero para tener la mejor IA, la que más gente usa y sobre todo, la que más dinero genera (tres conceptos que ni mucho menos son lo mismo y sino que se lo digan a Google). Según datos de G",
+      "url": "https://www.xataka.com/servicios/sam-altman-derroche-dinero-openai-creo-que-critica-valida-a-ia-ahora-hay-monton-gasto",
+      "imagen": "https://i.blogs.es/5f46e7/sam-alti-2/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T14:31:09.000Z",
+      "fechaAgregada": "2026-06-07T10:29:32.814Z"
+    },
+    {
+      "id": "db498fd1-1a36-46d0-a69b-99512ecb8f05",
+      "titulo": "Burlarte del estafador que te manda un SMS parece inofensivo: es una muy mala idea",
+      "resumen": "Es triste, pero hemos normalizado recibir intentos de estafa por todas partes. Un SMS de Correos te dice que no ha podido entregarte un paquete, en Instagram te dicen que has ganado un iPhone, el buzón de spam de tu correo electrónico está saturado y ahora hasta llegan estafas en el buzón de casa. P",
+      "url": "https://www.xataka.com/seguridad/burlarte-estafador-que-te-manda-sms-parece-inofensivo-muy-mala-idea",
+      "imagen": "https://i.blogs.es/b493c9/troll-estafadores/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T13:31:09.000Z",
+      "fechaAgregada": "2026-06-07T10:29:32.815Z"
+    },
+    {
+      "id": "e3a1aa38-f7dc-4635-aa4f-260568f6b54a",
+      "titulo": "Millones de adolescentes han convertido a la IA en su psicólogo de cabecera. Es un reto sin precedentes para la medicina",
+      "resumen": "En la sociedad hay un debate bastante bien asentado en torno a cómo afectan las redes sociales a la salud mental de los más jóvenes e incluso se debate acerca de las posibles consecuencias que tienen, llegando a plantear límites muy claros para acceder a ellas. Sin embargo, mientras el foco estaba p",
+      "url": "https://www.xataka.com/medicina-y-salud/millones-adolescentes-han-convertido-a-ia-su-psicologo-cabecera-reto-precedentes-para-medicina",
+      "imagen": "https://i.blogs.es/fe9f8a/usando-movil/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T12:31:09.000Z",
+      "fechaAgregada": "2026-06-07T10:29:32.815Z"
+    },
+    {
+      "id": "0bbb938a-5fc0-45cb-adac-db819287cfec",
+      "titulo": "El internet europeo pende de un hilo en el Mar Rojo. \nAsí que Europa ha encontrado una solución extrema en el Polo Norte",
+      "resumen": "El 99% del tráfico de datos internacional de internet viaja a través de cables de fibra óptica que discurren por el fondo de mares y océanos. Hay una especie de Google Maps de cables submarinos donde ver su trayectoria para descubrir que, mientras que hay zonas que son verdaderos páramos, en otras h",
+      "url": "https://www.xataka.com/servicios/talon-aquiles-internet-europa-esta-mar-rojo-solucion-cable-submarino-polo-norte",
+      "imagen": "https://i.blogs.es/4e3cb0/cable-polo-norte-gemini/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T12:01:09.000Z",
+      "fechaAgregada": "2026-06-07T10:29:32.815Z"
+    },
+    {
+      "id": "9fdb03f2-a83e-48ab-b183-df9ebf0377d8",
+      "titulo": "Qué son los niveles de esfuerzo de Claude, cómo funcionan y cuál debes usar",
+      "resumen": "Una de las novedades que llegó con Claude Opus 4.8 es el nuevo control de esfuerzo. Si usabas la IA de Anthropic antes de esta implementación, seguramente estabas acostumbrado a trabajar con las respuestas que te daba el modo por defecto. Eso cambió hace unos días gracias a un nuevo control que perm",
+      "url": "https://hipertextual.com/inteligencia-artificial/claude-niveles-esfuerzo-como-funcionan-cual-usar/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-laptop.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T11:00:00.000Z",
+      "fechaAgregada": "2026-06-07T10:29:33.026Z"
+    },
+    {
+      "id": "1e2103bc-8f89-466c-86ff-47c4833f9b27",
+      "titulo": "Olvídate de Windows 11: el truco definitivo para resucitar Windows 7 en tu ordenador y tener soporte hasta 2032",
+      "resumen": "Aunque Microsoft ha intentado optimizar Windows 11 prometiendo una interfaz más rápida e incluso retirando algunos elementos intrusivos de su inteligencia artificial Copilot, todavía son miles los usuarios que muestran su descontento. \nA pesar de los cambios que han ido introduciendo, la interfaz de",
+      "url": "https://www.adslzone.net/noticias/windows/windows-11-truco-windows-7-classic-2032/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/Windows-7-Classic.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T10:02:08.000Z",
+      "fechaAgregada": "2026-06-07T10:29:35.330Z"
+    },
+    {
+      "id": "2b2188c2-45d5-49fd-9550-46ac435a782e",
+      "titulo": "Primera vez que ocurre: los bots ya generan más tráfico en Internet que los humanos",
+      "resumen": "El tráfico en Internet no solo corresponde a usuarios reales que hagan búsquedas, entren en redes sociales o suban contenido a la nube. Hay también tráfico de bots automatizados, que puede ser positivo y negativo. Ahora, por primera vez, este tipo de tráfico ha superado al humano. Así lo recoge un i",
+      "url": "https://www.redeszone.net/noticias/redes/bots-superan-trafico-internet/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/trafico-bots-internet.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T11:15:54.000Z",
+      "fechaAgregada": "2026-06-07T10:29:35.479Z"
+    },
+    {
+      "id": "80053f0e-8053-4e0b-9fc7-59aee1d4a992",
+      "titulo": "ChatGPT se convierte en la aplicación más rápida en conseguir 1.000 millones de usuarios",
+      "resumen": "A fecha del segundo trimestre de 2026, supera en usuarios mensuales activos a otras rivales del sector",
+      "url": "https://elpais.com/tecnologia/2026-06-04/chatgpt-se-convierte-en-la-aplicacion-mas-rapida-en-conseguir-1000-millones-de-usuarios.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OEMSPTIIEBDIZCH4NMG37DJ7ZY.jpg?auth=050fc04d1e0ed2da52703e95aa0e4f1bca56ba6a7973e7675f48a1fe1cc2197e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T10:27:55.000Z",
+      "fechaAgregada": "2026-06-07T10:29:34.325Z"
+    },
+    {
+      "id": "af5d2672-19cb-4629-97eb-03b955589ed3",
+      "titulo": "Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA",
+      "resumen": "El Consejo de Ministros da luz verde a la normativa que traspone el reglamento europeo y que establece qué aplicaciones de inteligencia artificial están prohibidas",
+      "url": "https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y-multas-millonarias-el-gobierno-aprueba-su-ley-de-ia.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260526/1176089_135531_video_1800.mp4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-05-26T16:32:04.000Z",
+      "fechaAgregada": "2026-06-07T10:29:34.325Z"
+    },
+    {
+      "id": "f0be01f0-d942-440c-a84c-9a4f1d416b91",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-07T10:29:33.801Z"
+    },
+    {
+      "id": "efee3327-409e-4ec3-9dbe-e841fd659f65",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-07T10:29:33.802Z"
+    },
+    {
+      "id": "d8293230-76cb-45ef-b27b-5df221b4abd7",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-07T10:29:33.802Z"
+    }
+  ]
+}
