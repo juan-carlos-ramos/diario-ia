@@ -1,0 +1,271 @@
+{
+  "fecha": "2026-06-10",
+  "generado": "2026-06-10T11:38:58.410Z",
+  "total": 24,
+  "noticias": [
+    {
+      "id": "eae8261d-4e2f-4cff-a47e-44f5885701ec",
+      "titulo": "La nueva IA de Google para traducir en tiempo real es una locura: se integra con tus apps y habla igual que tú",
+      "resumen": "Google acaba de lanzar una nueva IA que no vas a dejar de usar. La compañía ha presentado Gemini 3.5 Live Translate, una versión de su modelo de lenguaje capaz de traducir en tiempo real y que, además, se integra a la perfección en algunas de las plataformas de la marca, como Google Meet o […]\nSegui",
+      "url": "https://hipertextual.com/tecnologia/la-nueva-ia-de-google-para-traducir-en-tiempo-real-es-una-locura-se-integra-con-tus-apps-y-habla-igual-que-tu/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/3-5_Live_Translate.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:25:46.000Z",
+      "fechaAgregada": "2026-06-10T11:38:55.211Z"
+    },
+    {
+      "id": "de4925a0-a2c6-4028-acd2-afcd404e9b2f",
+      "titulo": "Claude 5 Fable: lista de novedades de la nueva versión del modelo de Inteligencia Artificial de Anthropic",
+      "resumen": "Vamos a decirte cuáles son las novedades de Claude Fable 5, el nuevo modelo público de Anthropic para su chat de inteligencia artificial, Se trata del primer modelo de la nueva clase Mythos, que ya cuando lanzó su versión preview hace dos meses lo hizo diciendo que era tan potente que limitarían su",
+      "url": "https://www.xataka.com/basics/claude-5-fable-lista-novedades-nueva-version-modelo-inteligencia-artificial-anthropic",
+      "imagen": "https://i.blogs.es/fe87b8/fable5/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:17:41.000Z",
+      "fechaAgregada": "2026-06-10T11:38:55.099Z"
+    },
+    {
+      "id": "482cc9a4-6b75-4438-986b-b08182fd1dad",
+      "titulo": "Vigila todo lo que ocurre en tu casa con estas cámaras en oferta",
+      "resumen": "Si quieres proteger tu vivienda o negocio, una buena opción es contar con cámaras de vigilancia. Te ayudarán a tener un mayor control, incluso si estás fuera. En este artículo, vamos a mostrarte algunas opciones que puedes encontrar en oferta. Te hablaremos de las principales características, para q",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-seguridad-0626/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/camara-reolink-oferta.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:11:06.000Z",
+      "fechaAgregada": "2026-06-10T11:38:57.391Z"
+    },
+    {
+      "id": "dac8096c-ab42-4312-bc68-fee042b0322d",
+      "titulo": "Gemini no funciona: problemas con la IA de Google",
+      "resumen": "Hace unos minutos han comenzado a activarse las incidencias de la conexión de Gemini en DownDetector y también han aparecido algunos mensajes en redes sociales. Hemos podido comprobar que se están registrando algunos problemas de conectividad en la IA de Google.\nEste tipo de incidencias se suelen re",
+      "url": "https://www.adslzone.net/noticias/ia/gemini-problemas-junio-2026/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/04/Mensajes-salud-mental-logo-Gemini.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T10:48:31.000Z",
+      "fechaAgregada": "2026-06-10T11:38:56.897Z"
+    },
+    {
+      "id": "847c6a5f-07ce-4d21-a7ff-4ea902a4358a",
+      "titulo": "Nuevo miedo desbloqueado con ChatGPT. Por su culpa te pueden robar mientras compras en Amazon o cualquier tienda",
+      "resumen": "ChatGPT tiene un nuevo problema. Y no es pequeño, precisamente. El chatbot de OpenAI ha sido cazado haciendo recomendaciones fraudulentas, haciendo que muchos usuarios expongan sus datos bancarios y pierdan incluso dinero con algunas compras. ¿Cómo? Los delincuentes han encontrado la forma de no ten",
+      "url": "https://hipertextual.com/inteligencia-artificial/nuevo-miedo-desbloqueado-con-chatgpt-por-su-culpa-te-pueden-robar-mientras-compras-en-amazon-o-cualquier-tienda/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/chatgpt.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T10:31:10.000Z",
+      "fechaAgregada": "2026-06-10T11:38:55.211Z"
+    },
+    {
+      "id": "e3b7c4a9-2643-47dc-ab80-2643c2aadfd8",
+      "titulo": "Cuidado con esta nueva estrategia que usan para infectar por Instagram y TikTok",
+      "resumen": "Las redes sociales son muy utilizadas por los piratas informáticos para lograr atacar a las víctimas y llegar a robar datos personales, contraseñas o tomar el control de los dispositivos. Saben que tienen ahí una buena oportunidad, ya que son plataformas muy utilizadas por usuarios de todo tipo. Pue",
+      "url": "https://www.redeszone.net/noticias/seguridad/nueva-estrategia-ataques-tiktok-instagram/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/tiktok-pantalla-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T09:16:14.000Z",
+      "fechaAgregada": "2026-06-10T11:38:57.391Z"
+    },
+    {
+      "id": "9db9433b-9303-44b3-b47f-6bc92c92fe78",
+      "titulo": "Meta metió con calzador su chatbot IA en WhatsApp. Ahora Europa lanza una orden: tienen cinco días para abrirse a los rivales",
+      "resumen": "Si hay algo que no gusta nada a la Comisión Europea es que las empresas tecnológicas usen su poder para crear monopolios. Lleva años combatiendo activamente estas prácticas con persecuciones y multas históricas. El objetivo es favorecer la competencia y cuando Meta introdujo su chatbot de IA en What",
+      "url": "https://www.xataka.com/legislacion-y-derechos/meta-metio-calzador-su-chatbot-ia-whatsapp-ahora-europa-lanza-orden-tienen-cinco-dias-para-abrirse-a-rivales",
+      "imagen": "https://i.blogs.es/909ca2/original/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T08:30:45.000Z",
+      "fechaAgregada": "2026-06-10T11:38:55.100Z"
+    },
+    {
+      "id": "b474de62-fac1-4394-933a-7c2ba484da06",
+      "titulo": "Claude Fable 5 es el modelo de IA público más potente de la historia. También el más caro, exclusivo y frustrante",
+      "resumen": "Cuando Anthropic presentó Claude Mythos Preview hace dos meses, lo hizo con un mensaje singular: es tan potente que no vas a poder usarlo. Eso, por supuesto, provocó que todo el mundo quisiera tener acceso a él. Pues bien: Anthropic acaba de presentar Claude Fable 5 y Claude Mythos 5, sus nuevos mod",
+      "url": "https://www.xataka.com/robotica-e-ia/claude-fable-5-modelo-ia-publico-potente-historia-tambien-caro-exclusivo-frustrante",
+      "imagen": "https://i.blogs.es/109d2b/anthropic-claude-fable-5/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T07:51:34.000Z",
+      "fechaAgregada": "2026-06-10T11:38:55.100Z"
+    },
+    {
+      "id": "9eb35ca2-8a15-4471-953c-9d82dcc8eedd",
+      "titulo": "Lo que no te cuentan sobre Claude Fable 5: el modelo más avanzado hasta la fecha, pero inutilizable por su excesivo consumo",
+      "resumen": "Anthropic daba la sorpresa durante el día de ayer, abriendo la puerta de Mythos a cualquier usuario a través del modelo Claude Fable 5. Una noticia que muchos de nosotros llevábamos tiempo esperando, pero que ha sido muy bien recibida por parte de su comunidad, que ahora tiene acceso a la que es una",
+      "url": "https://www.adslzone.net/noticias/ia/claude-fable-5-limitaciones-uso-tokens/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/queja-claude-reddit-pcpalpcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T05:57:44.000Z",
+      "fechaAgregada": "2026-06-10T11:38:56.898Z"
+    },
+    {
+      "id": "c8ad0ead-fad1-4a6a-88e9-e59ac3fec06b",
+      "titulo": "Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España",
+      "resumen": "Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia",
+      "url": "https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T03:30:01.000Z",
+      "fechaAgregada": "2026-06-10T11:38:56.087Z"
+    },
+    {
+      "id": "3e0df780-5d10-4b90-8e9f-b33c3b2d67a4",
+      "titulo": "Anthropic duplica los límites de Claude por un mes (pero hay truco)",
+      "resumen": "Anthropic acaba de anunciar una ampliación temporal de los límites de uso de Claude Cowork, su herramienta de automatización de tareas de trabajo. La medida estará activa durante un mes exacto y afecta únicamente a los planes de pago de la plataforma. Aunque el aumento de los límites de uso es norma",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-duplica-limites-claude-cowork/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/claude-cowork-portada.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-09T22:14:00.000Z",
+      "fechaAgregada": "2026-06-10T11:38:55.211Z"
+    },
+    {
+      "id": "fa8de19a-08b5-403f-8c05-441baab421e6",
+      "titulo": "AMD estima el fin de la crisis de la RAM, e incluso vaticina una fecha estimada",
+      "resumen": "Aunque nadie tiene una varita mágica para saber en qué época todo volverá a la normalidad, AMD sí cree que la crisis podría tener un fin, y que adquirir una memoria RAM vuelva a ser asequible para el usuario habitual, con una producción suficiente, y sin falta de stock que eleve los precios.\nLos cen",
+      "url": "https://hardzone.es/noticias/componentes/amd-estima-fin-crisis-ram-fecha-estimada/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2025/12/ram.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-09T19:01:58.000Z",
+      "fechaAgregada": "2026-06-10T11:38:57.522Z"
+    },
+    {
+      "id": "915469d1-3f76-4567-bccf-59ae98981281",
+      "titulo": "Así es Claude Fable: la poderosa IA basada en Mythos que programa sola y se termina ‘Pokémon Rojo Fuego’ sin ayuda",
+      "resumen": "Anthropic acaba de presentar Claude Fable, su modelo más potente disponible para el público general. Si bien la compañía suele decir lo mismo cada que anuncia una versión de Opus, el nuevo modelo se distingue por ser el primero en contar con capacidades de clase Mythos. Claude Fable, conocido como F",
+      "url": "https://hipertextual.com/inteligencia-artificial/claude-fable-anthropic-modelo-ia-mythos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/claude-fable-portada-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-09T18:51:09.000Z",
+      "fechaAgregada": "2026-06-10T11:38:55.211Z"
+    },
+    {
+      "id": "943b4098-c04e-4211-8efb-30f15e4d01c3",
+      "titulo": "¿El MacBook Neo puede utilizar la nueva Siri AI y las ventajas de Apple Intelligence?",
+      "resumen": "Tras todo el lío de Siri AI, macOS 27 Golden Gate y los modelos compatibles, seguro que te lo estás preguntando: ¿puede el MacBook Neo ejecutar las novedades de inteligencia artificial que Apple ha presentado en la última WWDC? Y es que, a pesar de estar ante un modelo de este mismo año, la compañía",
+      "url": "https://hipertextual.com/apple/el-macbook-neo-puede-utilizar-la-nueva-siri-ai-y-las-ventajas-de-apple-intelligence/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Macbook-neo-.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-09T15:43:48.000Z",
+      "fechaAgregada": "2026-06-10T11:38:55.211Z"
+    },
+    {
+      "id": "438bb005-b272-487d-a7e5-a40a371338be",
+      "titulo": "Apple presenta Siri AI como la estrella del WWDC 2026",
+      "resumen": "Siri AI ha sido la gran estrella de la keynote de Apple en el arranque de la conferencia anual con desarrolladores WWDC 2026. Como estaba previsto, la firma de Cupertino se pone al día en tecnologías de inteligencia artificial con un nuevo asistente que usa tecnologías de Google en su base y servici",
+      "url": "https://www.muycomputer.com/2026/06/09/apple-presenta-siri-ai-como-la-estrella-del-wwdc-2026/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/Siri_AI_10.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-09T07:57:29.000Z",
+      "fechaAgregada": "2026-06-10T11:38:58.410Z"
+    },
+    {
+      "id": "3a77d95a-a588-4a01-866f-d734ca8a9257",
+      "titulo": "Apple va a cambiar automáticamente tus contraseñas para que no te roben",
+      "resumen": "Es muy probable que estés utilizando ahora mismo alguna cuenta que tiene una contraseña débil o comprometida y no lo sepas. Esto es habitual, especialmente al usar cuentas que utilizas desde hace muchos años o a las que no sueles entrar frecuentemente. Puede haber filtraciones, claves demasiado senc",
+      "url": "https://www.redeszone.net/noticias/seguridad/apple-cambiar-contrasenas-evitar-robos/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/iphone-encima-mesa.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-09T07:17:40.000Z",
+      "fechaAgregada": "2026-06-10T11:38:57.391Z"
+    },
+    {
+      "id": "e6f9f92b-52e3-4184-9f66-d22491e6a7b4",
+      "titulo": "WWDC 2026: Apple presenta una Siri renovada con IA generativa que no podrán usar los iPhone y iPads en Europa",
+      "resumen": "El popular asistente de voz inteligente tendrá este otoño, solo en inglés, las funciones de inteligencia artificial ya prometidas hace dos años por la empresa tecnológica, que no ha aclarado si llegarán a ser compatibles con la normativa europea",
+      "url": "https://elpais.com/tecnologia/2026-06-08/wwdc-2026-tim-cook-presenta-una-siri-renovada-con-ia-generativa-en-su-despedida-al-frente-de-apple.html",
+      "imagen": "https://www.youtube.com/watch?v=hF8swzNR1-o",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-08T19:11:10.000Z",
+      "fechaAgregada": "2026-06-10T11:38:56.087Z"
+    },
+    {
+      "id": "c11ba23c-c420-4901-89df-7be111a08d30",
+      "titulo": "ChatGPT y el fin del chatbot: OpenAI prepara una transformación profunda",
+      "resumen": "ChatGPT nació como una interfaz extraordinariamente simple para una tecnología extraordinariamente compleja. Una caja de texto, una pregunta y una respuesta. Durante años, esa ha sido la esencia del producto que convirtió la inteligencia artificial generativa en algo masivo. Pero todo apunta a que O",
+      "url": "https://www.muycomputer.com/2026/06/08/chatgpt-y-el-fin-del-chatbot-openai-prepara-una-transformacion-profunda/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/ChatGPT-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-08T16:11:52.000Z",
+      "fechaAgregada": "2026-06-10T11:38:58.410Z"
+    },
+    {
+      "id": "21b3e0c5-bb2e-4d36-8994-3cbcc28ca38a",
+      "titulo": "¿Dejarías que la IA publique por ti en tus redes sociales? Facebook cree que es buena idea",
+      "resumen": "Las redes sociales han sido durante años plataformas para comunicarnos en Internet. No solo podemos enviar mensajes a amigos y familiares, sino que también podemos formar parte de una red mucho más amplia y crear contenido para que cualquiera pueda llegar a él, como podría ser en X o Instagram. Tamb",
+      "url": "https://www.redeszone.net/noticias/redes/redes-sociales-ia-facebook-publicar/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/logo-facebook-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-08T07:03:15.000Z",
+      "fechaAgregada": "2026-06-10T11:38:57.392Z"
+    },
+    {
+      "id": "e2b15c43-87ff-49a2-aec8-51276de09d7b",
+      "titulo": "El gasto público en ChatGPT para funcionarios se dispara: de un solo contrato en 2022 a más de 1.300 tres años después",
+      "resumen": "Los chatbots de IA creados por OpenAI y Anthropic son una partida nueva en los contratos de las administraciones",
+      "url": "https://elpais.com/tecnologia/2026-06-06/el-gasto-publico-en-chatgpt-para-funcionarios-se-dispara-de-un-solo-contrato-en-2022-a-mas-de-1300-tres-anos-despues.html",
+      "imagen": "https://picsum.photos/seed/2/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T03:30:00.000Z",
+      "fechaAgregada": "2026-06-10T11:38:56.087Z"
+    },
+    {
+      "id": "dd3e5e17-940a-4a83-800e-3fbf17d3b1a3",
+      "titulo": "ChatGPT se convierte en la aplicación más rápida en conseguir 1.000 millones de usuarios",
+      "resumen": "A fecha del segundo trimestre de 2026, supera en usuarios mensuales activos a otras rivales del sector",
+      "url": "https://elpais.com/tecnologia/2026-06-04/chatgpt-se-convierte-en-la-aplicacion-mas-rapida-en-conseguir-1000-millones-de-usuarios.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OEMSPTIIEBDIZCH4NMG37DJ7ZY.jpg?auth=050fc04d1e0ed2da52703e95aa0e4f1bca56ba6a7973e7675f48a1fe1cc2197e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T10:27:55.000Z",
+      "fechaAgregada": "2026-06-10T11:38:56.087Z"
+    },
+    {
+      "id": "c838ed45-b70b-4730-8fd5-a1926abd10c7",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-10T11:38:56.048Z"
+    },
+    {
+      "id": "0f0aa0ae-dfc8-44db-afaa-199f723b6ef2",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-10T11:38:56.048Z"
+    },
+    {
+      "id": "ace677e1-8a56-4312-87e4-bec334326a2c",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-10T11:38:56.048Z"
+    }
+  ]
+}
