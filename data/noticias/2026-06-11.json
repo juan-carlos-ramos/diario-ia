@@ -1,0 +1,205 @@
+{
+  "fecha": "2026-06-11",
+  "generado": "2026-06-11T12:09:55.641Z",
+  "total": 18,
+  "noticias": [
+    {
+      "id": "fcc08303-d13d-4b51-a788-0c83791e803c",
+      "titulo": "GPT 5.6 va a destrozar a Gemini y Claude: llega este mes con muchísimas mejoras",
+      "resumen": "OpenAI continúa trabajando sin descanso para intentar colocarse a la altura de sus competidores, quienes siguen sacándole una cierta ventaja gracias a lanzamientos como Claude Fable o la nueva IA de Google. Las filtraciones ya han revelado los planes de la compañía para transformar ChatGPT, pero Ope",
+      "url": "https://hipertextual.com/tecnologia/gpt-5-6-va-a-destrozar-a-gemini-y-claude-llega-este-mes-con-muchisimas-mejoras/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/gpt-5.6.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-11T09:13:45.000Z",
+      "fechaAgregada": "2026-06-11T12:09:50.487Z"
+    },
+    {
+      "id": "13ed29c9-6f82-4b2f-93b9-988c22b6a58b",
+      "titulo": "Cuidado si te fías de ChatGPT para comprar: están colando páginas falsas",
+      "resumen": "Utilizar chatbots como ChatGPT se ha convertido en algo muy común en el día a día de muchos usuarios en Internet. Aunque puede ser útil para muchas tareas, como buscar información sobre algún tema, aprender a solucionar algún problema o incluso ahorrar tiempo, también puede llegar a suponer un riesg",
+      "url": "https://www.redeszone.net/noticias/seguridad/cuidado-comprar-online-chatgpt/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/chatgpt-pantalla-movil-1.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-11T07:11:54.000Z",
+      "fechaAgregada": "2026-06-11T12:09:54.479Z"
+    },
+    {
+      "id": "c4137f60-7ba3-4e40-9739-01a9fe361c3c",
+      "titulo": "China acaba de situarse segunda en capacidad de computación inteligente. La cifra importante no es la más llamativa",
+      "resumen": "Hay una forma sencilla de exagerar la inteligencia artificial: hablar solo de modelos. Y hay una forma más útil de entenderla: mirar qué países tienen capacidad para entrenarlos, ejecutarlos y llevarlos a millones de usuarios sin que el sistema se rompa por el camino. En esa segunda carrera, mucho m",
+      "url": "https://www.xataka.com/robotica-e-ia/china-acaba-situarse-segunda-capacidad-computacion-inteligente-cifra-importante-no-llamativa",
+      "imagen": "https://i.blogs.es/492b8e/ia-china/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-11T06:30:17.000Z",
+      "fechaAgregada": "2026-06-11T12:09:50.372Z"
+    },
+    {
+      "id": "e29a5761-2e9e-4c11-bb55-6d54d5e07131",
+      "titulo": "Los centros de datos tienen un problema de fondo: una compañía china acaba de convertir su energía en piezas prefabricadas",
+      "resumen": "La última novedad china en inteligencia artificial no tiene forma de chatbot ni de chip. Tiene forma de una enorme base eléctrica prefabricada para alimentar centros de datos orientados a cargas intensivas de cálculo. Puede sonar menos llamativo, pero explica muy bien uno de los problemas de fondo d",
+      "url": "https://www.xataka.com/energia/centros-datos-tienen-problema-fondo-compania-china-acaba-convertir-su-energia-piezas-prefabricadas",
+      "imagen": "https://i.blogs.es/d36dac/modulo-energia-prefabricado/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T20:00:17.000Z",
+      "fechaAgregada": "2026-06-11T12:09:50.372Z"
+    },
+    {
+      "id": "941e5c74-198b-46e3-a190-9dc257f254bf",
+      "titulo": "Google lanza una IA que genera texto diez veces más rápido que ChatGPT (y es gratis)",
+      "resumen": "Google ha presentado DiffusionGemma, un modelo experimental de inteligencia artificial que cambia la forma como se genera el texto. A diferencia de los modelos actuales, este no construye las respuestas palabra por palabra, sino que lo hace en bloques completos, y eso lo vuelve mucho más rápido. De",
+      "url": "https://hipertextual.com/inteligencia-artificial/diffusiongemma-modelo-ia-google-generacion-texto-rapida/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/diffusion-gemma-google.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T18:20:00.000Z",
+      "fechaAgregada": "2026-06-11T12:09:50.487Z"
+    },
+    {
+      "id": "02fa48b1-ccfd-440e-aa26-5557f634dbd2",
+      "titulo": "Ni mapas ni trucos: la nueva IA de Anthropic logra acabar Pokémon Rojo Fuego a base de capturas de pantalla",
+      "resumen": "Si tienes una edad, estoy seguro de que has jugado a Pokémon Rojo, uno de esos títulos que marcó la infancia de muchos, y pese a tener ya sus años, sigue siendo un juego «difícil», sobre todo si es la primera vez que juegas y no conoces la mecánica. Te llevará muchas horas completarlo.\nPues bien, un",
+      "url": "https://hardzone.es/noticias/juegos/nueva-ia-anthropic-capaz-completar-videojuegos-usando-unicamente-capturas/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/06/pokemon-rojo.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T14:32:05.000Z",
+      "fechaAgregada": "2026-06-11T12:09:54.586Z"
+    },
+    {
+      "id": "701dbc09-38ad-44e6-859c-4cf4c70fe6ea",
+      "titulo": "Cansados de imitadores, Apple prepara su MacBook Neo 2, más potente y con más RAM",
+      "resumen": "Por primera vez, Apple habría lanzado un ordenador de gama media-alta, pero con un precio asequible, orientado a los usuarios que buscan tener todos los dispositivos del ecosistema de la manzana mordida, pero sin gastarse mucho dinero en adquirirlos, sobre todo cuando no necesitan algo super potente",
+      "url": "https://hardzone.es/noticias/equipos/apple-prepara-macbook-neo-2-potente-ram/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/04/MacBook-Neo-Apple.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T13:02:08.000Z",
+      "fechaAgregada": "2026-06-11T12:09:54.586Z"
+    },
+    {
+      "id": "ebe1655a-caf0-4051-b0ff-615444822665",
+      "titulo": "Anthropic lanza una versión “segura” de Mythos, el programa que ha puesto en guardia a todo el planeta: “Hay que prepararse por si cae en malas manos”",
+      "resumen": "Los expertos en ciberseguridad que han manejado la herramienta destacan su velocidad y creen que, tarde o temprano, los ciberdelincuentes accederán a un modelo similar",
+      "url": "https://elpais.com/tecnologia/2026-06-10/anthropic-lanza-una-version-segura-de-mythos-el-programa-que-ha-puesto-en-guardia-a-todo-el-planeta-hay-que-prepararse-por-si-cae-en-malas-manos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SCAZXISFKZBZZEUPMOZHBUVV7M.jpg?auth=ae8245eaeebfe09dc7d2a6e2da6ab3f2bb19dfec6c6faf97f8bb1ba80ec5710f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:51:05.000Z",
+      "fechaAgregada": "2026-06-11T12:09:51.384Z"
+    },
+    {
+      "id": "514a0b2c-ef97-4d21-96ca-c574e957eb33",
+      "titulo": "Vigila todo lo que ocurre en tu casa con estas cámaras en oferta",
+      "resumen": "Si quieres proteger tu vivienda o negocio, una buena opción es contar con cámaras de vigilancia. Te ayudarán a tener un mayor control, incluso si estás fuera. En este artículo, vamos a mostrarte algunas opciones que puedes encontrar en oferta. Te hablaremos de las principales características, para q",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-seguridad-0626/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/camara-reolink-oferta.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:11:06.000Z",
+      "fechaAgregada": "2026-06-11T12:09:54.480Z"
+    },
+    {
+      "id": "8e7adf0a-ca41-4924-baab-284189c781dc",
+      "titulo": "Cuidado con esta nueva estrategia que usan para infectar por Instagram y TikTok",
+      "resumen": "Las redes sociales son muy utilizadas por los piratas informáticos para lograr atacar a las víctimas y llegar a robar datos personales, contraseñas o tomar el control de los dispositivos. Saben que tienen ahí una buena oportunidad, ya que son plataformas muy utilizadas por usuarios de todo tipo. Pue",
+      "url": "https://www.redeszone.net/noticias/seguridad/nueva-estrategia-ataques-tiktok-instagram/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/tiktok-pantalla-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T09:16:14.000Z",
+      "fechaAgregada": "2026-06-11T12:09:54.480Z"
+    },
+    {
+      "id": "5f2f082f-9e2a-4e7b-aa73-c857ea65451c",
+      "titulo": "Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España",
+      "resumen": "Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia",
+      "url": "https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T03:30:01.000Z",
+      "fechaAgregada": "2026-06-11T12:09:51.384Z"
+    },
+    {
+      "id": "0cfd64c4-dd84-4e6e-8209-4e5ffbc8f7fa",
+      "titulo": "Apple va a cambiar automáticamente tus contraseñas para que no te roben",
+      "resumen": "Es muy probable que estés utilizando ahora mismo alguna cuenta que tiene una contraseña débil o comprometida y no lo sepas. Esto es habitual, especialmente al usar cuentas que utilizas desde hace muchos años o a las que no sueles entrar frecuentemente. Puede haber filtraciones, claves demasiado senc",
+      "url": "https://www.redeszone.net/noticias/seguridad/apple-cambiar-contrasenas-evitar-robos/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/iphone-encima-mesa.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-09T07:17:40.000Z",
+      "fechaAgregada": "2026-06-11T12:09:54.481Z"
+    },
+    {
+      "id": "c33d3786-3536-43b9-93a7-0a7f1f94f9e5",
+      "titulo": "WWDC 2026: Apple presenta una Siri renovada con IA generativa que no podrán usar los iPhone y iPads en Europa",
+      "resumen": "El popular asistente de voz inteligente tendrá este otoño, solo en inglés, las funciones de inteligencia artificial ya prometidas hace dos años por la empresa tecnológica, que no ha aclarado si llegarán a ser compatibles con la normativa europea",
+      "url": "https://elpais.com/tecnologia/2026-06-08/wwdc-2026-tim-cook-presenta-una-siri-renovada-con-ia-generativa-en-su-despedida-al-frente-de-apple.html",
+      "imagen": "https://www.youtube.com/watch?v=hF8swzNR1-o",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-08T19:11:10.000Z",
+      "fechaAgregada": "2026-06-11T12:09:51.384Z"
+    },
+    {
+      "id": "784b0fdc-1f0e-406c-9e01-6cceb8ce09c4",
+      "titulo": "El gasto público en ChatGPT para funcionarios se dispara: de un solo contrato en 2022 a más de 1.300 tres años después",
+      "resumen": "Los chatbots de IA creados por OpenAI y Anthropic son una partida nueva en los contratos de las administraciones",
+      "url": "https://elpais.com/tecnologia/2026-06-06/el-gasto-publico-en-chatgpt-para-funcionarios-se-dispara-de-un-solo-contrato-en-2022-a-mas-de-1300-tres-anos-despues.html",
+      "imagen": "https://picsum.photos/seed/295/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T03:30:00.000Z",
+      "fechaAgregada": "2026-06-11T12:09:51.384Z"
+    },
+    {
+      "id": "e0a92ebe-7997-416c-9de5-37846cbf3f4a",
+      "titulo": "ChatGPT se convierte en la aplicación más rápida en conseguir 1.000 millones de usuarios",
+      "resumen": "A fecha del segundo trimestre de 2026, supera en usuarios mensuales activos a otras rivales del sector",
+      "url": "https://elpais.com/tecnologia/2026-06-04/chatgpt-se-convierte-en-la-aplicacion-mas-rapida-en-conseguir-1000-millones-de-usuarios.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OEMSPTIIEBDIZCH4NMG37DJ7ZY.jpg?auth=050fc04d1e0ed2da52703e95aa0e4f1bca56ba6a7973e7675f48a1fe1cc2197e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T10:27:55.000Z",
+      "fechaAgregada": "2026-06-11T12:09:51.384Z"
+    },
+    {
+      "id": "e480d75a-634d-4ce6-bdc3-129d4b2cb0f8",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-11T12:09:51.340Z"
+    },
+    {
+      "id": "b63dc139-5a28-4d85-afec-99d2c8299c0d",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-11T12:09:51.340Z"
+    },
+    {
+      "id": "3f227d80-3efa-4290-8575-042f4f661d1c",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-11T12:09:51.340Z"
+    }
+  ]
+}
