@@ -1,0 +1,216 @@
+{
+  "fecha": "2026-06-15",
+  "generado": "2026-06-15T13:55:27.740Z",
+  "total": 19,
+  "noticias": [
+    {
+      "id": "fc7a9fd0-0898-49f0-8a1a-23f68ac2f3b2",
+      "titulo": "El mayor experto del mundo en identificar deepfakes tiene un gran problema. Ya no es capaz de identificarlos",
+      "resumen": "Se llama Hany Farid y es considerado como uno de los mayores expertos en vídeos falsos (deefakes) del mundo. Este experto forense digital era capaz de destapar por ejemplo vídeos manipulados por los gobiernos, pero ahora ha decidido abandonar Silicon Valley por una sencilla razón: ya no es capaz de",
+      "url": "https://www.xataka.com/robotica-e-ia/mayor-experto-mundo-identificar-deepfakes-tiene-gran-problema-no-capaz-identificarlos",
+      "imagen": "https://i.blogs.es/50ab79/deepfak-papa-francisco/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-15T13:30:17.000Z",
+      "fechaAgregada": "2026-06-15T13:55:23.591Z"
+    },
+    {
+      "id": "bdcb3909-fd40-49af-ab9c-8f882d54fe9d",
+      "titulo": "El gobierno de Trump bloquea el acceso a los modelos de Anthropic",
+      "resumen": "Anthropic ha suspendido el acceso a sus modelos de IA, Fable 5 y Mythos 5, para todos sus clientes, tras recibir una directiva de control de exportaciones del gobierno estadounidense que citaba «preocupaciones por la soberanía nacional». La orden del gobierno de Trump exige a la compañía suspender e",
+      "url": "https://www.muycomputer.com/2026/06/15/el-gobierno-de-trump-bloquea-el-acceso-a-los-modelos-de-anthropic/",
+      "imagen": "https://picsum.photos/seed/199/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-15T10:36:55.000Z",
+      "fechaAgregada": "2026-06-15T13:55:27.739Z"
+    },
+    {
+      "id": "4ea2561c-7bee-42ec-af62-3ae0aba92115",
+      "titulo": "Cómo crear un calendario con los partidos de tus equipos del Mundial 2026 y añadirlos a Google Calendar con inteligencia artificial",
+      "resumen": "Vamos a decirte cómo crear un calendario con los partidos de tus equipos favoritos del Mundial 2026 utilizando inteligencia artificial, algo bastante sencillo de hacer. Porque aquí se pone interesante, porque luego te diremos cómo añadirlos a tu Google Calendar para que no te los pierdas.\n\rEsto es a",
+      "url": "https://www.xataka.com/basics/como-crear-calendario-partidos-tus-equipos-mundial-2026-anadirlos-a-google-calendar-inteligencia-artificial",
+      "imagen": "https://i.blogs.es/61527e/mundial/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-15T10:22:01.000Z",
+      "fechaAgregada": "2026-06-15T13:55:23.593Z"
+    },
+    {
+      "id": "eb6194f9-16ca-4933-9e59-05d469e0c0d8",
+      "titulo": "La acusación usó IA, la defensa usó IA: la jueza canceló el juicio y les puso una multa",
+      "resumen": "La abogacía es una de las profesiones que abrazó el uso de la IA generativa antes incluso de que llegara el boom de ChatGPT. Hemos conocido casos de abogados sancionados por incluir citas falsas, pero eso no ha disuadido a otros de hacer lo mismo. El último caso que hemos conocido lo lleva a un nuev",
+      "url": "https://www.xataka.com/legislacion-y-derechos/acusacion-uso-ia-defensa-uso-ia-jueza-cancelo-juicio-les-puso-multa",
+      "imagen": "https://i.blogs.es/9a3fe1/justicia-ia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-15T10:00:17.000Z",
+      "fechaAgregada": "2026-06-15T13:55:23.593Z"
+    },
+    {
+      "id": "970e7d27-918a-4a42-842c-26506ad4f6df",
+      "titulo": "La IA provoca un salto en los ataques: el FBI elimina un servicio con más de 1 millón de URL falsas",
+      "resumen": "La Inteligencia Artificial está muy presente en nuestro día a día a la hora de realizar tareas en Internet, buscar información o usar múltiples servicios, pero también es algo que están aprovechando los piratas informáticos. En este artículo nos hacemos eco de cómo el FBI ha desmantelado un servicio",
+      "url": "https://www.redeszone.net/noticias/seguridad/ataques-ia-fbi-elimina-servicio-phishing/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/logo-fbi.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-15T09:21:42.000Z",
+      "fechaAgregada": "2026-06-15T13:55:25.927Z"
+    },
+    {
+      "id": "854162cd-e7b3-4667-8227-93f8c6f5e9dd",
+      "titulo": "El apagón de Fable 5 por parte de Anthropic es la chispa para que Europa refuerce su mensaje: el de la soberanía tecnológica",
+      "resumen": "El último modelo de Anthropic, Fable 5, es alucinante. Eso es, al menos, lo que sabemos gracias a las pruebas que hemos podido ver. Porque pasa una cosa: Anthropic ha desactivado Fable 5. Atendiendo a una orden de Estados Unidos que dictaba que Anthropic debía suspender el acceso a estos modelos par",
+      "url": "https://www.xataka.com/robotica-e-ia/apagon-fable-5-parte-anthropic-chispa-europa-refuerce-su-mensaje-soberania-tecnologica",
+      "imagen": "https://i.blogs.es/eca9ed/fable-5-no-disponible/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-15T07:38:18.000Z",
+      "fechaAgregada": "2026-06-15T13:55:23.594Z"
+    },
+    {
+      "id": "7d734c60-461e-494b-8c47-87beff8cd026",
+      "titulo": "Hoy empieza una de las medidas más polémica en Reino Unido: a las 20:30h miles de personas se quedarán sin redes sociales",
+      "resumen": "Reino Unido lleva meses trabajando para restringir el uso de redes sociales en menores, con una propuesta para limitarlo. Esto viene de atrás, de la conocida como Online Safety Act (Ley de Seguridad en Línea) de 2023. El gobierno británico lanzó una consulta pública que ha estado abierta entre el 2",
+      "url": "https://www.redeszone.net/noticias/redes/anuncio-reino-unido-restricciones-redes-sociales/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/logo-tiktok-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-15T07:33:16.000Z",
+      "fechaAgregada": "2026-06-15T13:55:25.927Z"
+    },
+    {
+      "id": "5bb588e5-8d53-45c1-bd57-62273ee795eb",
+      "titulo": "¿Qué es Claude Fable 5 y por qué está en boca de todos?",
+      "resumen": "Fable 5 está por todas partes desde hace unos días, y no precisamente porque Anthropic haya decidido lanzar otro LLM más en una industria ya saturada de modelos de inteligencia artificial. El motivo es bastante más ambicioso. La compañía acaba de abrir al público el que describe como su sistema más",
+      "url": "https://www.muycomputer.com/2026/06/14/que-es-claude-fable-5-y-por-que-esta-en-boca-de-todos/",
+      "imagen": "https://picsum.photos/seed/35/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-14T14:03:05.000Z",
+      "fechaAgregada": "2026-06-15T13:55:27.740Z"
+    },
+    {
+      "id": "3a01a94b-0053-4450-b778-0f817f195e39",
+      "titulo": "Microsoft Edge acelera sus actualizaciones: ventajas y riesgos del cambio",
+      "resumen": "Microsoft Edge sigue siendo, ante todo, un navegador web, aunque como prácticamente todos sus rivales ha ido sumando funciones y servicios con el paso del tiempo. Integración con inteligencia artificial, mejoras de seguridad, nuevas herramientas de productividad y una relación cada vez más estrecha",
+      "url": "https://www.muycomputer.com/2026/06/13/microsoft-edge-acelera-sus-actualizaciones-ventajas-y-riesgos-del-cambio/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/Edge-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-13T09:19:18.000Z",
+      "fechaAgregada": "2026-06-15T13:55:27.740Z"
+    },
+    {
+      "id": "1a7f2ebe-2cb8-41ae-be20-3fa13afc8943",
+      "titulo": "Qué datos no deberías subir nunca a un chatbot",
+      "resumen": "Los chatbots, como pueden ser ChatGPT, Claude o Gemini, son herramientas muy utilizadas para realizar consultas, solucionar problemas o aprender sobre algo en concreto. Puedes interactuar mediante mensajes, pero es conveniente que tengas en cuenta el riesgo de subir ciertos datos. Vamos a explicarte",
+      "url": "https://www.redeszone.net/noticias/seguridad/datos-evitar-compartir-chatbot/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/logos-chatbots-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-12T17:06:15.000Z",
+      "fechaAgregada": "2026-06-15T13:55:25.928Z"
+    },
+    {
+      "id": "1971ac2d-1da7-434c-bb8e-a1c53d5d1b1d",
+      "titulo": "Cuando ChatGPT detecta una crisis… y aun así algo falla",
+      "resumen": "ChatGPT ha cambiado profundamente la manera en la que muchas personas buscan información, compañía e incluso apoyo emocional. Para millones de usuarios ya no es únicamente una herramienta para resolver dudas o redactar textos: también se ha convertido, en ciertos momentos, en una conversación dispon",
+      "url": "https://www.muycomputer.com/2026/06/12/cuando-chatgpt-detecta-una-crisis-y-aun-asi-algo-falla/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/ChatGPT-2-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-12T17:03:25.000Z",
+      "fechaAgregada": "2026-06-15T13:55:27.740Z"
+    },
+    {
+      "id": "543a398d-58a2-4117-96ce-f8ed4a307a0e",
+      "titulo": "Anthropic lanza una versión “segura” de Mythos, el programa que ha puesto en guardia a todo el planeta: “Hay que prepararse por si cae en malas manos”",
+      "resumen": "Los expertos en ciberseguridad que han manejado la herramienta destacan su velocidad y creen que, tarde o temprano, los ciberdelincuentes accederán a un modelo similar",
+      "url": "https://elpais.com/tecnologia/2026-06-10/anthropic-lanza-una-version-segura-de-mythos-el-programa-que-ha-puesto-en-guardia-a-todo-el-planeta-hay-que-prepararse-por-si-cae-en-malas-manos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SCAZXISFKZBZZEUPMOZHBUVV7M.jpg?auth=ae8245eaeebfe09dc7d2a6e2da6ab3f2bb19dfec6c6faf97f8bb1ba80ec5710f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:51:05.000Z",
+      "fechaAgregada": "2026-06-15T13:55:24.854Z"
+    },
+    {
+      "id": "9cce1390-993a-4333-b1f5-158685c4389c",
+      "titulo": "Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España",
+      "resumen": "Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia",
+      "url": "https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T03:30:01.000Z",
+      "fechaAgregada": "2026-06-15T13:55:24.854Z"
+    },
+    {
+      "id": "0879759b-af76-4269-ae48-2fd8a4812c3c",
+      "titulo": "WWDC 2026: Apple presenta una Siri renovada con IA generativa que no podrán usar los iPhone y iPads en Europa",
+      "resumen": "El popular asistente de voz inteligente tendrá este otoño, solo en inglés, las funciones de inteligencia artificial ya prometidas hace dos años por la empresa tecnológica, que no ha aclarado si llegarán a ser compatibles con la normativa europea",
+      "url": "https://elpais.com/tecnologia/2026-06-08/wwdc-2026-tim-cook-presenta-una-siri-renovada-con-ia-generativa-en-su-despedida-al-frente-de-apple.html",
+      "imagen": "https://www.youtube.com/watch?v=hF8swzNR1-o",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-08T19:11:10.000Z",
+      "fechaAgregada": "2026-06-15T13:55:24.854Z"
+    },
+    {
+      "id": "b16d4f6a-88cf-401c-905a-8d0a2b9dac33",
+      "titulo": "El gasto público en ChatGPT para funcionarios se dispara: de un solo contrato en 2022 a más de 1.300 tres años después",
+      "resumen": "Los chatbots de IA creados por OpenAI y Anthropic son una partida nueva en los contratos de las administraciones",
+      "url": "https://elpais.com/tecnologia/2026-06-06/el-gasto-publico-en-chatgpt-para-funcionarios-se-dispara-de-un-solo-contrato-en-2022-a-mas-de-1300-tres-anos-despues.html",
+      "imagen": "https://picsum.photos/seed/17/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T03:30:00.000Z",
+      "fechaAgregada": "2026-06-15T13:55:24.854Z"
+    },
+    {
+      "id": "3b4d88c6-89fd-47ae-a373-45768e9cc9dd",
+      "titulo": "ChatGPT se convierte en la aplicación más rápida en conseguir 1.000 millones de usuarios",
+      "resumen": "A fecha del segundo trimestre de 2026, supera en usuarios mensuales activos a otras rivales del sector",
+      "url": "https://elpais.com/tecnologia/2026-06-04/chatgpt-se-convierte-en-la-aplicacion-mas-rapida-en-conseguir-1000-millones-de-usuarios.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OEMSPTIIEBDIZCH4NMG37DJ7ZY.jpg?auth=050fc04d1e0ed2da52703e95aa0e4f1bca56ba6a7973e7675f48a1fe1cc2197e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T10:27:55.000Z",
+      "fechaAgregada": "2026-06-15T13:55:24.854Z"
+    },
+    {
+      "id": "f694947b-fe4c-4d14-8bfd-44803e4e94ed",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-15T13:55:24.774Z"
+    },
+    {
+      "id": "10cdf8d7-70a9-4286-ae34-297c8027515e",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-15T13:55:24.775Z"
+    },
+    {
+      "id": "57befe0b-e351-4900-bc5d-27aee189d20a",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-15T13:55:24.775Z"
+    }
+  ]
+}
