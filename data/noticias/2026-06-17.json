@@ -1,0 +1,260 @@
+{
+  "fecha": "2026-06-17",
+  "generado": "2026-06-17T12:16:33.343Z",
+  "total": 23,
+  "noticias": [
+    {
+      "id": "46c1f18b-9d14-42bc-b30e-4400c4e3d03e",
+      "titulo": "Los Samsung Galaxy estrenan una función que cualquier persona querría tener en su móvil: por fin la IA tiene algo bueno",
+      "resumen": "Mientras OpenAI, Google y Anthropic compiten por ver quién tiene la IA más potente, Samsung está anunciando funciones para sus móviles Galaxy que utilizan la inteligencia artificial para facilitarnos más la vida y nuestro día a día. De hecho, la última novedad anunciada por la compañía surcoreana de",
+      "url": "https://hipertextual.com/mobile/los-samsung-galaxy-estrenan-una-funcion-que-cualquier-persona-querria-tener-en-su-movil-por-fin-la-ia-tiene-algo-bueno/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/07/Galaxy-s25-edge.jpg?fit=1024%2C652&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T11:13:21.000Z",
+      "fechaAgregada": "2026-06-17T12:16:25.896Z"
+    },
+    {
+      "id": "826dbaad-60df-497a-b582-8ff18553b139",
+      "titulo": "Samsung tiene una gran TV de 65 pulgadas y pantalla QLED con más de 500 € de rebaja en Amazon",
+      "resumen": "Tener una nueva TV, con pantalla QLED y de Samsung al mejor precio es posible. Solamente hay que estar pendiente de los diferentes descuentos de las tiendas online. Ahora, por ejemplo, en Amazon hay uno de los televisores más populares de este fabricante con más de 500 euros de rebaja.\nEl televisor",
+      "url": "https://www.adslzone.net/ofertas/amazon/smart-tv-samsung-tq65qef1-0626/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/tv-qef1-samsung-oferta-amazon.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T11:08:55.000Z",
+      "fechaAgregada": "2026-06-17T12:16:28.865Z"
+    },
+    {
+      "id": "2c9ae7d3-4e3d-4ec2-9ad6-d61375e1eade",
+      "titulo": "MiMo Claw: qué es, cómo funciona y quién puede usar la plataforma de agentes de IA de Xiaomi",
+      "resumen": "Vamos a decirte qué es y cómo funciona Xiaomi MiMo Claw, la plataforma de inteligencia artificial creada por Xiaomi. Se trata de una servicio que combina la inteligencia artificial propia del fabricante con la plataforma OpenClaw, el popular agente de IA. \nTodo esto Xiaomi lo simplifica al máxima pa",
+      "url": "https://www.xataka.com/basics/mimo-claw-que-como-funciona-quien-puede-usar-plataforma-agentes-ia-xiaomi",
+      "imagen": "https://i.blogs.es/ebad46/mimo-claw/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T10:41:48.000Z",
+      "fechaAgregada": "2026-06-17T12:16:25.708Z"
+    },
+    {
+      "id": "6b922091-f965-478b-98d6-aaccf75bc1fe",
+      "titulo": "¿Están obsoletas las matemáticas? Los investigadores replantean para qué sirven en la era de la IA",
+      "resumen": "OpenAI y Google han resuelto problemas que llevaban décadas sin solución. La comunidad científica ha empezado a preguntarse dónde poner los límites de las máquinas",
+      "url": "https://elpais.com/tecnologia/2026-06-17/estan-obsoletas-las-matematicas-los-investigadores-replantean-para-que-sirven-en-la-era-de-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJZYTTNARFDPLK7N3QRJ4MHDUU.jpg?auth=0d5aad7e71b117869b9fbb1048a4b7ba4c6c47df25940b820b67f05850a48968",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T03:30:01.000Z",
+      "fechaAgregada": "2026-06-17T12:16:27.102Z"
+    },
+    {
+      "id": "00fa2e73-3d17-46aa-b6ba-d29a718c03c6",
+      "titulo": "Esta IA de código abierto que nadie conoce está a punto de superar a Claude Opus 4.8",
+      "resumen": "El terreno de la IA está dominado por empresas como OpenAI, Google o Anthropic; sin embargo, existen algunas compañías que irrumpen de la nada y ponen a temblar a las más grandes. Tal es el caso de DeepSeek, que causó una revolución a inicios de 2025 que terminó afectando las acciones de NVIDIA. Hoy",
+      "url": "https://hipertextual.com/inteligencia-artificial/glm-52-ia-china-codigo-abierto-vs-claude-opus/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/glm-5-2-portada.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T22:54:18.000Z",
+      "fechaAgregada": "2026-06-17T12:16:25.896Z"
+    },
+    {
+      "id": "58681a37-27c0-4b15-9163-cdc5615edc59",
+      "titulo": "ChatGPT se desploma y pierde millones de usuarios mientras Claude sube como la espuma",
+      "resumen": "A más de tres años de su lanzamiento, ChatGPT es un referente de inteligencia artificial para millones de personas en todo el mundo. El chatbot de OpenAI pegó primero y aprovechó el momento para sacar ventaja a Google y otras empresas. El problema es que este dominio se está diluyendo y ChatGPT regi",
+      "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-caida-popularidad-chatbot-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/chatgpt-modo-voz.jpg?fit=1024%2C630&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T19:00:00.000Z",
+      "fechaAgregada": "2026-06-17T12:16:25.896Z"
+    },
+    {
+      "id": "3d8f6110-5e20-492b-a070-7c8a779edbad",
+      "titulo": "La paradoja del \"botsitting\": cuando la IA no te libera del trabajo, sino que crea una nueva tarea que termina agotándote más",
+      "resumen": "Imagina que contratas a alguien para que te ayude a gestionar tu correo. Como es lógico, la primera semana tienes que explicarle cómo te gusta que filtre los mensajes y te comunique lo más urgente. La segunda semana, corriges los errores que va cometiendo y, para la tercera semana, le tienes que vol",
+      "url": "https://www.xataka.com/robotica-e-ia/paradoja-botsitting-cuando-ia-no-te-libera-trabajo-sino-que-crea-nueva-tarea-que-termina-agotandote",
+      "imagen": "https://i.blogs.es/1ea7f3/revisar-los-errores-de-la-ia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T18:30:17.000Z",
+      "fechaAgregada": "2026-06-17T12:16:25.710Z"
+    },
+    {
+      "id": "05fe738d-ea56-43f0-b5c2-b399594ba41f",
+      "titulo": "Hasta 30.000 Pa de potencia de succión, pero más pequeños para pasar por huecos estrechos: así son los nuevos Roomba de iRobot",
+      "resumen": "Habemus nuevos Roomba. Los nuevos robot aspiradores de iRobot ya se pueden comprar en España (con una excepción que llegará este mismo mes) y, como de costumbre, todos tienen sus puntos fuertes. Os vamos a hablar de los nuevos modelos, concretamente de sus versiones que están disponibles en Amazon.",
+      "url": "https://www.xataka.com/seleccion/30-000-pa-potencia-succion-pequenos-para-pasar-huecos-estrechos-asi-nuevos-roomba-irobot",
+      "imagen": "https://i.blogs.es/783260/roomba-plus-515-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T18:16:17.000Z",
+      "fechaAgregada": "2026-06-17T12:16:25.710Z"
+    },
+    {
+      "id": "6157e79f-d3a5-4088-81fc-271f91430917",
+      "titulo": "Google actualiza los Pixel a Android 17, con Gemini Omni y muchas más funciones de IA",
+      "resumen": "Google acaba de lanzar el Pixel Drop de junio, que actualiza los móviles Pixel compatibles a Android 17 e introduce varias funciones de inteligencia artificial generativa. Por ejemplo, la generación de vídeos a través de Gemini Omni. A esto se suma el despliegue de Wear OS 7 a los Pixel Watch compat",
+      "url": "https://hipertextual.com/mobile/google-pixel-drop-junio-android-17/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/pixel-10-a-006.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T18:00:00.000Z",
+      "fechaAgregada": "2026-06-17T12:16:25.896Z"
+    },
+    {
+      "id": "5f52f08e-d9a5-489f-833c-071f81afa873",
+      "titulo": "Qualcomm presenta Snapdragon Reality Elite: su nuevo chip para gafas y cascos con IA es una auténtica bestia",
+      "resumen": "Qualcomm redobla su apuesta por la realidad extendida (XR) con un nuevo chip avanzado que también pone sus fichas en la IA generativa. Se trata del Snapdragon Reality Elite, una plataforma que funciona tanto con cascos de realidad virtual y realidad aumentada, como con gafas inteligentes. El nuevo S",
+      "url": "https://hipertextual.com/tecnologia/nuevo-qualcomm-snapdragon-reality-elite-chip-gafas-cascos-xr-con-ia-2026/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Snapdragon-Reality-Elite-2.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T17:00:00.000Z",
+      "fechaAgregada": "2026-06-17T12:16:25.897Z"
+    },
+    {
+      "id": "c67895c4-7404-4e8b-af9c-fc3dab91ec60",
+      "titulo": "La empresa de TikTok entra en el diseño de chips: ByteDance desarrolla su propia CPU ante las subidas de precio de Intel y AMD",
+      "resumen": "ByteDance, la empresa matriz de TikTok, compra desde hace muchos años los procesadores que necesita para sus centros de datos a Intel y AMD. Va a dejar de hacerlo. Y es que esta compañía china ha decidido que este modelo acaba de llegar a su fin. Según Reuters, ya está desarrollando sus propios proc",
+      "url": "https://www.xataka.com/empresas-y-economia/bytedance-ha-decidido-que-intel-amd-le-salen-demasiado-caros-asi-que-va-a-fabricar-sus-propias-cpu",
+      "imagen": "https://i.blogs.es/119fe6/intel-cpu/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T16:30:17.000Z",
+      "fechaAgregada": "2026-06-17T12:16:25.710Z"
+    },
+    {
+      "id": "60f63e31-5378-4eae-99be-f238c87d0d02",
+      "titulo": "¿Respuestas falsas en Google por culpa de la IA? Un tribunal alemán puede cambiarlo todo",
+      "resumen": "La Inteligencia Artificial ha cambiado la manera en la que buscamos y obtenemos respuestas en Internet. Puedes hacer una consulta en Google y encontrarte con un resumen hecho por IA, que es lo que se conoce como AI Overviews. Sin embargo, esto puede provocar que obtengas respuestas falsas y ahora un",
+      "url": "https://www.redeszone.net/noticias/redes/tribunal-aleman-ressponsabiliza-google-respuestas-ia/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/imagen-google-fondo-blanco.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T07:11:41.000Z",
+      "fechaAgregada": "2026-06-17T12:16:30.643Z"
+    },
+    {
+      "id": "45df73eb-fed0-492f-b9c8-037b6cfb4de7",
+      "titulo": "Qué puede hacer Europa si EE UU bloquea el acceso a la mejor IA: “Estamos en segunda o tercera división”",
+      "resumen": "El Gobierno de Trump ha prohibido el modelo Fable, el mejor de Anthropic, a los no estadounidenses. Las consecuencias para el resto de países son difíciles de prever",
+      "url": "https://elpais.com/tecnologia/2026-06-16/que-puede-hacer-europa-si-ee-uu-bloquea-el-acceso-a-la-mejor-ia-estamos-en-segunda-o-tercera-division.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L2BSNIO5NJHNXLEMHTYD2GR2T4.jpg?auth=1e4a4902eb777df1fa1ad642ae0253bd4bb82eeb70bb708876c6ad6161e1597c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T03:30:01.000Z",
+      "fechaAgregada": "2026-06-17T12:16:27.102Z"
+    },
+    {
+      "id": "97fb503a-58a5-483f-8aa7-fdd367429cc7",
+      "titulo": "La IA provoca un salto en los ataques: el FBI elimina un servicio con más de 1 millón de URL falsas",
+      "resumen": "La Inteligencia Artificial está muy presente en nuestro día a día a la hora de realizar tareas en Internet, buscar información o usar múltiples servicios, pero también es algo que están aprovechando los piratas informáticos. En este artículo nos hacemos eco de cómo el FBI ha desmantelado un servicio",
+      "url": "https://www.redeszone.net/noticias/seguridad/ataques-ia-fbi-elimina-servicio-phishing/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/logo-fbi.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-15T09:21:42.000Z",
+      "fechaAgregada": "2026-06-17T12:16:30.644Z"
+    },
+    {
+      "id": "546384b2-c568-4f2c-a48a-96a39ed2d775",
+      "titulo": "Hoy empieza una de las medidas más polémica en Reino Unido: a las 20:30h miles de personas se quedarán sin redes sociales",
+      "resumen": "Reino Unido lleva meses trabajando para restringir el uso de redes sociales en menores, con una propuesta para limitarlo. Esto viene de atrás, de la conocida como Online Safety Act (Ley de Seguridad en Línea) de 2023. El gobierno británico lanzó una consulta pública que ha estado abierta entre el 2",
+      "url": "https://www.redeszone.net/noticias/redes/anuncio-reino-unido-restricciones-redes-sociales/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/logo-tiktok-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-15T07:33:16.000Z",
+      "fechaAgregada": "2026-06-17T12:16:30.644Z"
+    },
+    {
+      "id": "abd83e9b-921b-4e95-858c-1e231df6ad65",
+      "titulo": "Anthropic lanza una versión “segura” de Mythos, el programa que ha puesto en guardia a todo el planeta: “Hay que prepararse por si cae en malas manos”",
+      "resumen": "Los expertos en ciberseguridad que han manejado la herramienta destacan su velocidad y creen que, tarde o temprano, los ciberdelincuentes accederán a un modelo similar",
+      "url": "https://elpais.com/tecnologia/2026-06-10/anthropic-lanza-una-version-segura-de-mythos-el-programa-que-ha-puesto-en-guardia-a-todo-el-planeta-hay-que-prepararse-por-si-cae-en-malas-manos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SCAZXISFKZBZZEUPMOZHBUVV7M.jpg?auth=ae8245eaeebfe09dc7d2a6e2da6ab3f2bb19dfec6c6faf97f8bb1ba80ec5710f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:51:05.000Z",
+      "fechaAgregada": "2026-06-17T12:16:27.102Z"
+    },
+    {
+      "id": "94716022-97e5-430c-ac20-24e72ee359a7",
+      "titulo": "Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España",
+      "resumen": "Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia",
+      "url": "https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T03:30:01.000Z",
+      "fechaAgregada": "2026-06-17T12:16:27.102Z"
+    },
+    {
+      "id": "45a694cb-37a3-439d-a4f3-e67b8dbc5732",
+      "titulo": "WWDC 2026: Apple presenta una Siri renovada con IA generativa que no podrán usar los iPhone y iPads en Europa",
+      "resumen": "El popular asistente de voz inteligente tendrá este otoño, solo en inglés, las funciones de inteligencia artificial ya prometidas hace dos años por la empresa tecnológica, que no ha aclarado si llegarán a ser compatibles con la normativa europea",
+      "url": "https://elpais.com/tecnologia/2026-06-08/wwdc-2026-tim-cook-presenta-una-siri-renovada-con-ia-generativa-en-su-despedida-al-frente-de-apple.html",
+      "imagen": "https://www.youtube.com/watch?v=hF8swzNR1-o",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-08T19:11:10.000Z",
+      "fechaAgregada": "2026-06-17T12:16:27.102Z"
+    },
+    {
+      "id": "649a37c6-6d88-470e-b85b-7c5c97fd8418",
+      "titulo": "El gasto público en ChatGPT para funcionarios se dispara: de un solo contrato en 2022 a más de 1.300 tres años después",
+      "resumen": "Los chatbots de IA creados por OpenAI y Anthropic son una partida nueva en los contratos de las administraciones",
+      "url": "https://elpais.com/tecnologia/2026-06-06/el-gasto-publico-en-chatgpt-para-funcionarios-se-dispara-de-un-solo-contrato-en-2022-a-mas-de-1300-tres-anos-despues.html",
+      "imagen": "https://picsum.photos/seed/32/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T03:30:00.000Z",
+      "fechaAgregada": "2026-06-17T12:16:27.102Z"
+    },
+    {
+      "id": "ad75a9c3-e447-4d46-9b80-61cc29e0c620",
+      "titulo": "ChatGPT se convierte en la aplicación más rápida en conseguir 1.000 millones de usuarios",
+      "resumen": "A fecha del segundo trimestre de 2026, supera en usuarios mensuales activos a otras rivales del sector",
+      "url": "https://elpais.com/tecnologia/2026-06-04/chatgpt-se-convierte-en-la-aplicacion-mas-rapida-en-conseguir-1000-millones-de-usuarios.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OEMSPTIIEBDIZCH4NMG37DJ7ZY.jpg?auth=050fc04d1e0ed2da52703e95aa0e4f1bca56ba6a7973e7675f48a1fe1cc2197e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-04T10:27:55.000Z",
+      "fechaAgregada": "2026-06-17T12:16:27.102Z"
+    },
+    {
+      "id": "dd4a3949-ccaf-42ef-9cfa-f542667dba82",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-17T12:16:27.011Z"
+    },
+    {
+      "id": "403750d1-0f97-4452-a9f0-d7b11288bf99",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-17T12:16:27.011Z"
+    },
+    {
+      "id": "cf562bb9-2769-4ce4-a491-5582b53124fb",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-17T12:16:27.011Z"
+    }
+  ]
+}
