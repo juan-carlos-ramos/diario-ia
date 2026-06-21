@@ -1,0 +1,194 @@
+{
+  "fecha": "2026-06-21",
+  "generado": "2026-06-21T11:16:16.337Z",
+  "total": 17,
+  "noticias": [
+    {
+      "id": "328c1d41-21b4-4f67-b955-8eadbbbc1a83",
+      "titulo": "Cómo usar Gemma 4 12B, la alternativa a Claude Code que te ayuda a programar gratis con IA",
+      "resumen": "Con los límites de uso en Claude, Gemini y ChatGPT, cada vez más usuarios están migrando a modelos que se ejecutan en el ordenador. Aunque estos no alcanzan los niveles de Opus 4.8 o Gemini 3.1 Pro, lo cierto es que han avanzado de forma notable. Tal es el caso de Gemma 4 12B, un […]\nSeguir leyendo:",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemma-4-12b-vs-claude-code/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Gemma-4-12B.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-21T11:00:00.000Z",
+      "fechaAgregada": "2026-06-21T11:16:09.203Z"
+    },
+    {
+      "id": "9d07eb54-5b09-43fc-a15b-56906ec31288",
+      "titulo": "\"La IA está matando mis libros\": Tim Ferriss lleva años vendiendo consejos de productividad que ChatGPT ahora da gratis",
+      "resumen": "Vender libros ya era difícil antes de la IA. Ahora se está comenzando a poner casi imposible. Es justo lo que está confesando Tim Ferriss, gurú de la productividad y autor de superventas históricos como 'La semana laboral de 4 horas' o 'El cuerpo perfecto en 4 horas'. Este escritor ha realizado un a",
+      "url": "https://www.xataka.com/literatura-comics-y-juegos/ia-esta-matando-mis-libros-tim-ferriss-lleva-anos-vendiendo-consejos-productividad-que-chatgpt-ahora-da-gratis",
+      "imagen": "https://i.blogs.es/7be597/books-copia-2/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-21T09:01:07.000Z",
+      "fechaAgregada": "2026-06-21T11:16:08.759Z"
+    },
+    {
+      "id": "995871a9-bbd5-43c9-8375-4d002f52c0f4",
+      "titulo": "Acabamos de encontrar una tablilla de plomo que pone los pelos de punta: esconde una maldición en griego antiguo",
+      "resumen": "En las ciudades de la antigua Grecia y Roma y al margen de las leyes oficiales del estado, existía un aciago mundo de secretos y supersticiones. Así, cuando alguien sentía que la justicia no estaba de su lado o tenía una rencilla pendiente, esperaba a la noche oscura para esconder pequeñas láminas d",
+      "url": "https://www.xataka.com/magnet/acabamos-encontrar-tablilla-plomo-que-pone-pelos-punta-esconde-maldicion-griego-antiguo",
+      "imagen": "https://i.blogs.es/a760aa/gemini_generated_image_89xjqu89xjqu89xj/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-20T19:01:07.000Z",
+      "fechaAgregada": "2026-06-21T11:16:08.759Z"
+    },
+    {
+      "id": "36c2e064-ebcb-45b3-afbf-486810bf5efe",
+      "titulo": "Ahorra más de 300 euros al comprar el gran Google Pixel 10 Pro con 16 GB de RAM con esta oferta en PcComponentes",
+      "resumen": "¿Quieres un gran móvil Android? Una de las diferentes marcas favoritas de muchos usuarios es Google. Y si lo que buscas es un terminal de gama alta, lo cierto es que te recomendamos que apuestes por su modelo Pixel 10 Pro. Tiene una buena pantalla con más de 6 pulgadas, una autonomía más que decente",
+      "url": "https://www.adslzone.net/ofertas/pccomponentes-smartphone-google-pixel-10-pro-0626/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/google-pixel-10-pro.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-20T16:09:17.000Z",
+      "fechaAgregada": "2026-06-21T11:16:12.258Z"
+    },
+    {
+      "id": "0116181d-4390-4e6d-a95a-38568d00c06e",
+      "titulo": "Microsoft empieza a cerrar algunas puertas a Copilot",
+      "resumen": "Copilot se ha convertido en una de las grandes apuestas de Microsoft para llevar la inteligencia artificial al entorno empresarial. La idea resulta sencilla sobre el papel: cuanto más acceso tenga la IA a los datos y documentos de una organización, más útil podrá ser. Sin embargo, esa misma premisa",
+      "url": "https://www.muycomputer.com/2026/06/20/microsoft-empieza-a-cerrar-algunas-puertas-a-copilot/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/Copilot-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-20T09:17:37.000Z",
+      "fechaAgregada": "2026-06-21T11:16:16.337Z"
+    },
+    {
+      "id": "2e647c52-e738-41a5-b71f-d687e48aee08",
+      "titulo": "ChatGPT mejora sus tareas automáticas y elimina Pulse",
+      "resumen": "ChatGPT nació como una herramienta eminentemente reactiva. El usuario escribía una pregunta, una petición o una consulta, y el modelo respondía. Sin embargo, durante los últimos tiempos OpenAI ha ido dando pasos para transformar esa relación en algo más ambicioso. La última actualización anunciada p",
+      "url": "https://www.muycomputer.com/2026/06/19/chatgpt-mejora-sus-tareas-automaticas-y-elimina-pulse/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/ChatGPT-2-4.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-19T16:34:32.000Z",
+      "fechaAgregada": "2026-06-21T11:16:16.337Z"
+    },
+    {
+      "id": "32ffd799-5759-446c-a04c-6c98be316476",
+      "titulo": "Firefox quiere recuperar terreno y lanza mejoras de seguridad, VPN y otras novedades",
+      "resumen": "Hubo un tiempo en el que Mozilla Firefox era uno de los navegadores más utilizados. Actualmente la cuota de mercado es bastante baja, ya que otros como Google Chrome han ganado terreno. Esto ha hecho que tomen medidas y acaban de lanzar una hoja de ruta ambiciosa, con novedades de las que vamos a ha",
+      "url": "https://www.redeszone.net/noticias/redes/novedades-firefox-ganar-usuarios/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/logo-firefox-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-19T09:14:09.000Z",
+      "fechaAgregada": "2026-06-21T11:16:13.807Z"
+    },
+    {
+      "id": "b44b94d7-aad9-4752-9df3-881b436b83d5",
+      "titulo": "Vuelven a usar YouTube y la IA para engañar e infectar con malware: no caigas en la trampa",
+      "resumen": "Los piratas informáticos utilizan cada vez más la Inteligencia Artificial para crear campañas maliciosas y lograr su objetivo de robar datos personales, contraseñas o tomar el control del dispositivo. Esta vez nos hacemos eco de cómo están utilizando de nuevo YouTube para colar un malware llamado Cr",
+      "url": "https://www.redeszone.net/noticias/seguridad/youtube-ia-enganar-infectar-malware/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/imagen-logo-youtube.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-18T15:15:42.000Z",
+      "fechaAgregada": "2026-06-21T11:16:13.808Z"
+    },
+    {
+      "id": "8da99a0b-3fba-49c0-8591-934f0a73752d",
+      "titulo": "¿Están obsoletas las matemáticas? Los investigadores replantean para qué sirven en la era de la IA",
+      "resumen": "OpenAI y Google han resuelto problemas que llevaban décadas sin solución. La comunidad científica ha empezado a preguntarse dónde poner los límites de las máquinas",
+      "url": "https://elpais.com/tecnologia/2026-06-17/estan-obsoletas-las-matematicas-los-investigadores-replantean-para-que-sirven-en-la-era-de-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJZYTTNARFDPLK7N3QRJ4MHDUU.jpg?auth=0d5aad7e71b117869b9fbb1048a4b7ba4c6c47df25940b820b67f05850a48968",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T03:30:01.000Z",
+      "fechaAgregada": "2026-06-21T11:16:10.396Z"
+    },
+    {
+      "id": "7952f7c1-5fde-4f2d-afde-fe92bbc1b843",
+      "titulo": "Qué puede hacer Europa si EE UU bloquea el acceso a la mejor IA: “Estamos en segunda o tercera división”",
+      "resumen": "El Gobierno de Trump ha prohibido el modelo Fable, el mejor de Anthropic, a los no estadounidenses. Las consecuencias para el resto de países son difíciles de prever",
+      "url": "https://elpais.com/tecnologia/2026-06-16/que-puede-hacer-europa-si-ee-uu-bloquea-el-acceso-a-la-mejor-ia-estamos-en-segunda-o-tercera-division.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L2BSNIO5NJHNXLEMHTYD2GR2T4.jpg?auth=1e4a4902eb777df1fa1ad642ae0253bd4bb82eeb70bb708876c6ad6161e1597c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T03:30:01.000Z",
+      "fechaAgregada": "2026-06-21T11:16:10.396Z"
+    },
+    {
+      "id": "c0556380-f3e1-4a20-a9f7-f49aad1ca4ff",
+      "titulo": "Anthropic lanza una versión “segura” de Mythos, el programa que ha puesto en guardia a todo el planeta: “Hay que prepararse por si cae en malas manos”",
+      "resumen": "Los expertos en ciberseguridad que han manejado la herramienta destacan su velocidad y creen que, tarde o temprano, los ciberdelincuentes accederán a un modelo similar",
+      "url": "https://elpais.com/tecnologia/2026-06-10/anthropic-lanza-una-version-segura-de-mythos-el-programa-que-ha-puesto-en-guardia-a-todo-el-planeta-hay-que-prepararse-por-si-cae-en-malas-manos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SCAZXISFKZBZZEUPMOZHBUVV7M.jpg?auth=ae8245eaeebfe09dc7d2a6e2da6ab3f2bb19dfec6c6faf97f8bb1ba80ec5710f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:51:05.000Z",
+      "fechaAgregada": "2026-06-21T11:16:10.396Z"
+    },
+    {
+      "id": "261ad2db-8f32-40f8-b47d-004bc567e3a9",
+      "titulo": "Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España",
+      "resumen": "Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia",
+      "url": "https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T03:30:01.000Z",
+      "fechaAgregada": "2026-06-21T11:16:10.396Z"
+    },
+    {
+      "id": "6bd58dc7-4f42-436a-832d-c9df6072a826",
+      "titulo": "WWDC 2026: Apple presenta una Siri renovada con IA generativa que no podrán usar los iPhone y iPads en Europa",
+      "resumen": "El popular asistente de voz inteligente tendrá este otoño, solo en inglés, las funciones de inteligencia artificial ya prometidas hace dos años por la empresa tecnológica, que no ha aclarado si llegarán a ser compatibles con la normativa europea",
+      "url": "https://elpais.com/tecnologia/2026-06-08/wwdc-2026-tim-cook-presenta-una-siri-renovada-con-ia-generativa-en-su-despedida-al-frente-de-apple.html",
+      "imagen": "https://www.youtube.com/watch?v=hF8swzNR1-o",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-08T19:11:10.000Z",
+      "fechaAgregada": "2026-06-21T11:16:10.397Z"
+    },
+    {
+      "id": "8d2ed853-daa6-4fc8-8f3c-a9dca5a387f6",
+      "titulo": "El gasto público en ChatGPT para funcionarios se dispara: de un solo contrato en 2022 a más de 1.300 tres años después",
+      "resumen": "Los chatbots de IA creados por OpenAI y Anthropic son una partida nueva en los contratos de las administraciones",
+      "url": "https://elpais.com/tecnologia/2026-06-06/el-gasto-publico-en-chatgpt-para-funcionarios-se-dispara-de-un-solo-contrato-en-2022-a-mas-de-1300-tres-anos-despues.html",
+      "imagen": "https://picsum.photos/seed/449/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T03:30:00.000Z",
+      "fechaAgregada": "2026-06-21T11:16:10.397Z"
+    },
+    {
+      "id": "26a6313b-df82-42f4-be80-772fcb6b9591",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-21T11:16:10.202Z"
+    },
+    {
+      "id": "57b104f6-7ed6-45fc-8153-0a90ff856b8e",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-21T11:16:10.203Z"
+    },
+    {
+      "id": "1ee602de-745f-45c5-9d50-785b2a0fb81c",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-21T11:16:10.203Z"
+    }
+  ]
+}
