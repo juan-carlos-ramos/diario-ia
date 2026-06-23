@@ -1,0 +1,205 @@
+{
+  "fecha": "2026-06-23",
+  "generado": "2026-06-23T11:16:58.755Z",
+  "total": 18,
+  "noticias": [
+    {
+      "id": "2de09ec7-b729-433a-b22d-26ed7ed47210",
+      "titulo": "Samsung presenta su almacenamiento UFS 5.0 para potenciar la IA móvil",
+      "resumen": "Samsung ha desarrollado una solución de memoria UFS 5.0 de última generación, que duplica el rendimiento en lecturas y escrituras de normas anteriores. El objetivo principal es mejorar la ejecución de funciones de inteligencia artificial. Si usas modelos de IA local en dispositivos móviles, habrás c",
+      "url": "https://www.muycomputer.com/2026/06/23/samsung-presenta-su-almacenamiento-ufs-5-0-para-potenciar-la-ia-movil/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/UFS_5.0_2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-23T07:40:28.000Z",
+      "fechaAgregada": "2026-06-23T11:16:58.754Z"
+    },
+    {
+      "id": "afbd8bfb-1314-4e35-8338-8905b7c96607",
+      "titulo": "Gemini cambia en los teléfonos Android y añade una nueva e inesperada función",
+      "resumen": "La Inteligencia Artificial de Google no deja de sorprender con nuevos cambios y más características que nos permiten exprimir al máximo su uso. La última actualización nos deja interesantes funciones para que podamos aprovechar el uso de la IA al máximo, con independencia de la aplicación que tengam",
+      "url": "https://www.adslzone.net/noticias/ia/gemini-anade-nuevas-funciones-android/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/cambios-gemini-pcpal-cuerpo-1212.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-23T06:10:49.000Z",
+      "fechaAgregada": "2026-06-23T11:16:54.108Z"
+    },
+    {
+      "id": "61b1f219-487f-47cd-ae5a-4a96018bc95c",
+      "titulo": "AMD FSR 4.1 llega a la serie Radeon RX 7000: así puedes empezar a utilizarlo",
+      "resumen": "El pasado 14 de mayo, AMD anunció, por fin, el soporte de FSR 4.1 para las gráficas RX 7000 para el mes julio y RX 6000 para 2027 ampliando así el soporte a la última versión de FSR disponible en la actualidad más allá de la RX 9000, satisfaciendo así una de las mayores demandas de los usuarios. Con",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/lanzamiento-fsr-4-1-graficas-amd-rx-7000-configuracion/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/06/fsr-4-1-rx-7000.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-23T05:50:23.000Z",
+      "fechaAgregada": "2026-06-23T11:16:56.438Z"
+    },
+    {
+      "id": "93b8d056-5719-4e39-a82f-d72de981b392",
+      "titulo": "OpenAI lanza GPT-5.5 Cyber, una poderosa IA que detecta y corrige vulnerabilidades de software",
+      "resumen": "OpenAI ha aprovechado la crisis que vive Anthropic tras el bloqueo de Claude Fable para lanzar una poderosa IA enfocada en ciberseguridad. La compañía lanzó GPT-5.5 Cyber, un modelo capaz de detectar y corregir fallos de seguridad en software. La nueva IA es tan potente como Mythos, aunque se especi",
+      "url": "https://hipertextual.com/inteligencia-artificial/gpt-5-5-cyber-openai-ciberseguridad/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/gpt-5-5-hacker.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T23:54:51.000Z",
+      "fechaAgregada": "2026-06-23T11:16:51.261Z"
+    },
+    {
+      "id": "e1b02cb0-a571-4c64-9cc9-ea4ed0b6cfc5",
+      "titulo": "Crean un World of Warcraft con Claude que puedes jugar desde el navegador (y tiene ya 25.000 jugadores online)",
+      "resumen": "Un desarrollador independiente ha conseguido algo que hasta hace poco parecía imposible: recrear una experiencia al estilo de World of Warcraft directamente en el navegador… usando inteligencia artificial, y no parece que haya defraudado a los jugadores.\nY es que, en este momento, cuenta con unas 25",
+      "url": "https://hardzone.es/noticias/juegos/crean-world-of-warcraft-claude-jugar-navegador-25000-jugadores-online/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/06/wow.jpeg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T20:03:12.000Z",
+      "fechaAgregada": "2026-06-23T11:16:56.438Z"
+    },
+    {
+      "id": "b627cadb-b62b-4060-8741-1a5bbc5140d4",
+      "titulo": "China ha encontrado un atajo inesperado para llevar la IA a millones de hogares: el robot aspirador",
+      "resumen": "Puede que ya estés usando inteligencia artificial china en casa sin haberlo pensado demasiado. No necesariamente en forma de chatbot, ni como una función escondida en el móvil, ni como una promesa más dentro del televisor. Quizá está en algo bastante menos solemne: un robot aspirador que recorre el",
+      "url": "https://www.xataka.com/robotica-e-ia/china-ha-encontrado-atajo-inesperado-para-llevar-ia-a-millones-hogares-robot-aspirador",
+      "imagen": "https://i.blogs.es/bf1e31/china-robot-aspirador-ia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T19:01:01.000Z",
+      "fechaAgregada": "2026-06-23T11:16:50.924Z"
+    },
+    {
+      "id": "5221d274-195f-4f03-9ed4-f6c96c890c69",
+      "titulo": "FSR 4.1 ya está disponible para las Radeon RX 7000",
+      "resumen": "FSR 4.1 ya está disponible oficialmente para las Radeon RX 7000. AMD cumple así el calendario que anunció el pasado mes de mayo y lleva su última tecnología de reescalado basada en inteligencia artificial a una generación anterior de tarjetas gráficas. Sin embargo, la noticia más interesante no está",
+      "url": "https://www.muycomputer.com/2026/06/22/fsr-4-1-ya-esta-disponible-para-las-radeon-rx-7000/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/AMD-FSR-4-1-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T17:03:47.000Z",
+      "fechaAgregada": "2026-06-23T11:16:58.754Z"
+    },
+    {
+      "id": "0c45ae86-c2f6-400a-9e90-3b9db641f1bc",
+      "titulo": "Efectos perjudiciales de la inteligencia artificial (IA)",
+      "resumen": "Un equipo de investigadores de prestigiosas universidades inglesas y norteamericanas alertan sobre los posibles inconvenientes de un uso inadecuado de esta tecnología",
+      "url": "https://elpais.com/ciencia/materia-gris/2026-06-22/efectos-perjudiciales-de-la-inteligencia-artificial-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V6JK24VDEBDMFASOIWIDFKS63Y.jpg?auth=4bc06f515cf026880ce62f6b21680e5c6683ab1a71455277a59d9629f7be8037",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T03:30:01.000Z",
+      "fechaAgregada": "2026-06-23T11:16:52.465Z"
+    },
+    {
+      "id": "761c7849-1671-4195-bae5-22421db6a6c8",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/295/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-06-23T11:16:52.466Z"
+    },
+    {
+      "id": "6509ae95-7fcb-441a-aa23-c54f3ff85652",
+      "titulo": "¿Están obsoletas las matemáticas? Los investigadores replantean para qué sirven en la era de la IA",
+      "resumen": "OpenAI y Google han resuelto problemas que llevaban décadas sin solución. La comunidad científica ha empezado a preguntarse dónde poner los límites de las máquinas",
+      "url": "https://elpais.com/tecnologia/2026-06-17/estan-obsoletas-las-matematicas-los-investigadores-replantean-para-que-sirven-en-la-era-de-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJZYTTNARFDPLK7N3QRJ4MHDUU.jpg?auth=0d5aad7e71b117869b9fbb1048a4b7ba4c6c47df25940b820b67f05850a48968",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T03:30:01.000Z",
+      "fechaAgregada": "2026-06-23T11:16:52.465Z"
+    },
+    {
+      "id": "1a2cba9c-0bd3-413f-bab3-575ad616fcc3",
+      "titulo": "Qué puede hacer Europa si EE UU bloquea el acceso a la mejor IA: “Estamos en segunda o tercera división”",
+      "resumen": "El Gobierno de Trump ha prohibido el modelo Fable, el mejor de Anthropic, a los no estadounidenses. Las consecuencias para el resto de países son difíciles de prever",
+      "url": "https://elpais.com/tecnologia/2026-06-16/que-puede-hacer-europa-si-ee-uu-bloquea-el-acceso-a-la-mejor-ia-estamos-en-segunda-o-tercera-division.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L2BSNIO5NJHNXLEMHTYD2GR2T4.jpg?auth=1e4a4902eb777df1fa1ad642ae0253bd4bb82eeb70bb708876c6ad6161e1597c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T03:30:01.000Z",
+      "fechaAgregada": "2026-06-23T11:16:52.465Z"
+    },
+    {
+      "id": "f2298b7c-b53d-4cc2-b07d-1203de514ddc",
+      "titulo": "Anthropic lanza una versión “segura” de Mythos, el programa que ha puesto en guardia a todo el planeta: “Hay que prepararse por si cae en malas manos”",
+      "resumen": "Los expertos en ciberseguridad que han manejado la herramienta destacan su velocidad y creen que, tarde o temprano, los ciberdelincuentes accederán a un modelo similar",
+      "url": "https://elpais.com/tecnologia/2026-06-10/anthropic-lanza-una-version-segura-de-mythos-el-programa-que-ha-puesto-en-guardia-a-todo-el-planeta-hay-que-prepararse-por-si-cae-en-malas-manos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SCAZXISFKZBZZEUPMOZHBUVV7M.jpg?auth=ae8245eaeebfe09dc7d2a6e2da6ab3f2bb19dfec6c6faf97f8bb1ba80ec5710f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:51:05.000Z",
+      "fechaAgregada": "2026-06-23T11:16:52.466Z"
+    },
+    {
+      "id": "ffc22176-e069-4572-8856-123ba0a97a7b",
+      "titulo": "Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España",
+      "resumen": "Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia",
+      "url": "https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T03:30:01.000Z",
+      "fechaAgregada": "2026-06-23T11:16:52.466Z"
+    },
+    {
+      "id": "6c051577-dda3-4d4d-b213-96582a3274c5",
+      "titulo": "WWDC 2026: Apple presenta una Siri renovada con IA generativa que no podrán usar los iPhone y iPads en Europa",
+      "resumen": "El popular asistente de voz inteligente tendrá este otoño, solo en inglés, las funciones de inteligencia artificial ya prometidas hace dos años por la empresa tecnológica, que no ha aclarado si llegarán a ser compatibles con la normativa europea",
+      "url": "https://elpais.com/tecnologia/2026-06-08/wwdc-2026-tim-cook-presenta-una-siri-renovada-con-ia-generativa-en-su-despedida-al-frente-de-apple.html",
+      "imagen": "https://www.youtube.com/watch?v=hF8swzNR1-o",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-08T19:11:10.000Z",
+      "fechaAgregada": "2026-06-23T11:16:52.466Z"
+    },
+    {
+      "id": "1a202bd6-5c3a-4e36-9768-11ed23a3e4b8",
+      "titulo": "El gasto público en ChatGPT para funcionarios se dispara: de un solo contrato en 2022 a más de 1.300 tres años después",
+      "resumen": "Los chatbots de IA creados por OpenAI y Anthropic son una partida nueva en los contratos de las administraciones",
+      "url": "https://elpais.com/tecnologia/2026-06-06/el-gasto-publico-en-chatgpt-para-funcionarios-se-dispara-de-un-solo-contrato-en-2022-a-mas-de-1300-tres-anos-despues.html",
+      "imagen": "https://picsum.photos/seed/414/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-06T03:30:00.000Z",
+      "fechaAgregada": "2026-06-23T11:16:52.466Z"
+    },
+    {
+      "id": "c18bcc8b-e865-473a-8baa-d0d43f16fc74",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-23T11:16:52.258Z"
+    },
+    {
+      "id": "b2de2075-9167-4ccd-8968-8a1620104c90",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-23T11:16:52.258Z"
+    },
+    {
+      "id": "24fee7fb-8a8b-45c2-9895-6eb466bb09ff",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-23T11:16:52.258Z"
+    }
+  ]
+}
