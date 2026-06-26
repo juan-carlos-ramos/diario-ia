@@ -1,0 +1,205 @@
+{
+  "fecha": "2026-06-26",
+  "generado": "2026-06-26T10:51:39.948Z",
+  "total": 18,
+  "noticias": [
+    {
+      "id": "16bc3a94-b5f2-40ce-a69a-7fd202a5350f",
+      "titulo": "SpaceX ya ha lanzado más satélites que toda la humanidad junta. Y va a seguir siendo así durante mucho tiempo",
+      "resumen": "SpaceX ha salido a Bolsa hace apenas unos días, por lo que ese es el principal tema de conversación en torno a la compañía espacial de Elon Musk. Sin embargo, mientras tanto, ha batido un récord que ha pasado mucho más desapercibido. Según ha explicado en su cuenta de Twitter el ex directivo de la i",
+      "url": "https://www.xataka.com/espacio/spacex-ha-lanzado-satelites-que-toda-humanidad-junta-va-a-seguir-siendo-asi-durante-mucho-tiempo",
+      "imagen": "https://i.blogs.es/42763d/starlink/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-26T07:01:24.000Z",
+      "fechaAgregada": "2026-06-26T10:51:32.174Z"
+    },
+    {
+      "id": "c0cc00a2-9f86-40f2-9ffd-324767b8e620",
+      "titulo": "¿Ha cambiado Claude sus límites sin avisar? Miles de usuarios se quedan sin tokens de repente",
+      "resumen": "Los límites de Claude han sido una de las principales fuentes de polémica que han surgido durante los últimos meses en materia de Inteligencia Artificial. La compañía ha realizado varios cambios a lo largo de su corta historia con la intención de encontrar la rentabilidad adecuada sobre su modelo de",
+      "url": "https://www.adslzone.net/noticias/ia/claude-cambia-limites-uso-tokens/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/claude-limites-uso-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-26T06:57:36.000Z",
+      "fechaAgregada": "2026-06-26T10:51:35.912Z"
+    },
+    {
+      "id": "9f7934d8-dbff-4287-8955-0f45d63766c7",
+      "titulo": "ChatGPT 5.6 llegará pronto, pero no lo podrás usar ni siquiera pagando",
+      "resumen": "OpenAI prepara el lanzamiento de su rumoreada nueva versión ChatGPT 5.6. Se lleva hablando de ella desde hace semanas, pero la mala noticia es que no tendrás la oportunidad de probarla pronto. La compañía estaría preparando su lanzamiento con un acceso limitado para que solo esté disponible en casos",
+      "url": "https://www.adslzone.net/noticias/ia/cuando-llegara-chatgpt-5-6-limitaciones-openai/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/ChatGPT-5-6-ordenador-confiscado.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-26T04:00:33.000Z",
+      "fechaAgregada": "2026-06-26T10:51:35.913Z"
+    },
+    {
+      "id": "4c85013c-8f7e-469d-9bc4-62e5586268c3",
+      "titulo": "Apple cambia su estrategia de chips: adiós a los M6 Pro y M6 Max",
+      "resumen": "Apple está por alterar el lanzamiento de sus procesadores en un intento por volverse competitiva en el terreno de la inteligencia artificial. Un reporte afirma que los de Cupertino se saltarán los chips M6 Pro y M6 Max para pasar directo a la generación del M7. El cambio solo afectará a la gama alta",
+      "url": "https://hipertextual.com/apple/apple-salta-m6-pro-max-apuesta-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/05/apple-silicon-m1-m1x-edited-scaled.jpeg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-25T19:35:00.000Z",
+      "fechaAgregada": "2026-06-26T10:51:32.329Z"
+    },
+    {
+      "id": "111c80b8-44b7-4846-90a1-3a2718a9af2b",
+      "titulo": "Apple sube 100€ el precio de los MacBook Neo, pero todavía puedes conseguirlo barato en España",
+      "resumen": "En el día de hoy, Apple ha sorprendido a todos con una noticia que no ha gustado mucho, y que ya hemos visto en otras empresas de tecnología, y es la subida de precio de alguno de sus productos, debido al coste de fabricación de los mismos, tras la crisis de memoria RAM o SSD.\nEs por ello que, orden",
+      "url": "https://hardzone.es/noticias/equipos/apple-sube-100e-precio-macbook-neo-conseguirlo-barato-espana/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/03/MacBook-Neo.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-25T15:02:02.000Z",
+      "fechaAgregada": "2026-06-26T10:51:38.609Z"
+    },
+    {
+      "id": "52b77ad7-4340-4d2b-9724-8989553fca20",
+      "titulo": "Así son los nuevos controles de privacidad de Google para el historial de actividad y la personalización",
+      "resumen": "Google quiere dar mayor control sobre la privacidad a los usuarios y que puedan gestionar mejor cómo se guarda su actividad o cómo se utilizan esos datos a la hora de personalizar servicios como Google Maps o Google Play, por ejemplo. Estas herramientas de privacidad de Google permiten que los usuar",
+      "url": "https://www.redeszone.net/noticias/seguridad/nuevos-controles-privacidad-google-historial/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/logo-google-fondo-blanco.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-25T07:26:46.000Z",
+      "fechaAgregada": "2026-06-26T10:51:37.293Z"
+    },
+    {
+      "id": "46432e15-b91b-4ba0-98a4-692534469b0c",
+      "titulo": "¿Se volverán clasificados los mejores modelos de IA? Mythos y Fable van por ese camino",
+      "resumen": "Las dos IA más potentes que existen hoy en día son Mythos y Fable; la primera de ellas es usada por la NSA de EEUU para sus propias operaciones cibernéticas, con ingenieros de Anthropic integrados dentro de la propia Agencia de Seguridad Nacional. Fable es la versión «apta para todos los públicos» d",
+      "url": "https://www.redeszone.net/noticias/seguridad/clasificados-mejores-modelos-ia-mythos-fable/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/Claude_Mython_bloqueado_IA.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-24T17:06:02.000Z",
+      "fechaAgregada": "2026-06-26T10:51:37.293Z"
+    },
+    {
+      "id": "ccfbb4a2-0000-487f-8a00-74a4abab6631",
+      "titulo": "Este estudio demuestra lo fácil que es usar Reddit para manipular los resultados de búsqueda de IA",
+      "resumen": "Un estudio realizado desde Cornell Tech ha demostrado cómo pueden usar Reddit, el famoso foro de Internet, para manipular los resultados de búsquedas con IA. Según explican, un simple comentario, que se puede escribir en segundos, puede influir en las respuestas generadas por las herramientas que ut",
+      "url": "https://www.redeszone.net/noticias/redes/estudio-manipular-resultados-busqueda-ia-reddit/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/logo-aplicacion-reddit.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-24T14:09:35.000Z",
+      "fechaAgregada": "2026-06-26T10:51:37.293Z"
+    },
+    {
+      "id": "e3886d71-d526-472a-9099-224696b10730",
+      "titulo": "Efectos perjudiciales de la inteligencia artificial (IA)",
+      "resumen": "Un equipo de investigadores de prestigiosas universidades inglesas y norteamericanas alertan sobre los posibles inconvenientes de un uso inadecuado de esta tecnología",
+      "url": "https://elpais.com/ciencia/materia-gris/2026-06-22/efectos-perjudiciales-de-la-inteligencia-artificial-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V6JK24VDEBDMFASOIWIDFKS63Y.jpg?auth=4bc06f515cf026880ce62f6b21680e5c6683ab1a71455277a59d9629f7be8037",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T03:30:01.000Z",
+      "fechaAgregada": "2026-06-26T10:51:33.958Z"
+    },
+    {
+      "id": "2fd8247e-02ce-4637-b59d-94d357b1c56f",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/161/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-06-26T10:51:33.958Z"
+    },
+    {
+      "id": "a7bf80e2-fd87-4bb3-acc7-af9a5c51860b",
+      "titulo": "¿Están obsoletas las matemáticas? Los investigadores replantean para qué sirven en la era de la IA",
+      "resumen": "OpenAI y Google han resuelto problemas que llevaban décadas sin solución. La comunidad científica ha empezado a preguntarse dónde poner los límites de las máquinas",
+      "url": "https://elpais.com/tecnologia/2026-06-17/estan-obsoletas-las-matematicas-los-investigadores-replantean-para-que-sirven-en-la-era-de-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJZYTTNARFDPLK7N3QRJ4MHDUU.jpg?auth=0d5aad7e71b117869b9fbb1048a4b7ba4c6c47df25940b820b67f05850a48968",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T03:30:01.000Z",
+      "fechaAgregada": "2026-06-26T10:51:33.958Z"
+    },
+    {
+      "id": "46fe117c-a62c-4518-9b0b-a7cd05115b27",
+      "titulo": "Qué puede hacer Europa si EE UU bloquea el acceso a la mejor IA: “Estamos en segunda o tercera división”",
+      "resumen": "El Gobierno de Trump ha prohibido el modelo Fable, el mejor de Anthropic, a los no estadounidenses. Las consecuencias para el resto de países son difíciles de prever",
+      "url": "https://elpais.com/tecnologia/2026-06-16/que-puede-hacer-europa-si-ee-uu-bloquea-el-acceso-a-la-mejor-ia-estamos-en-segunda-o-tercera-division.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L2BSNIO5NJHNXLEMHTYD2GR2T4.jpg?auth=1e4a4902eb777df1fa1ad642ae0253bd4bb82eeb70bb708876c6ad6161e1597c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T03:30:01.000Z",
+      "fechaAgregada": "2026-06-26T10:51:33.958Z"
+    },
+    {
+      "id": "dea68af2-54a3-4266-90bc-8c38d00f9c7f",
+      "titulo": "Anthropic lanza una versión “segura” de Mythos, el programa que ha puesto en guardia a todo el planeta: “Hay que prepararse por si cae en malas manos”",
+      "resumen": "Los expertos en ciberseguridad que han manejado la herramienta destacan su velocidad y creen que, tarde o temprano, los ciberdelincuentes accederán a un modelo similar",
+      "url": "https://elpais.com/tecnologia/2026-06-10/anthropic-lanza-una-version-segura-de-mythos-el-programa-que-ha-puesto-en-guardia-a-todo-el-planeta-hay-que-prepararse-por-si-cae-en-malas-manos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SCAZXISFKZBZZEUPMOZHBUVV7M.jpg?auth=ae8245eaeebfe09dc7d2a6e2da6ab3f2bb19dfec6c6faf97f8bb1ba80ec5710f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:51:05.000Z",
+      "fechaAgregada": "2026-06-26T10:51:33.958Z"
+    },
+    {
+      "id": "8ebf833a-ff6e-4383-a348-4ba62ae81237",
+      "titulo": "Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España",
+      "resumen": "Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia",
+      "url": "https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T03:30:01.000Z",
+      "fechaAgregada": "2026-06-26T10:51:33.958Z"
+    },
+    {
+      "id": "12a27a19-65f6-4d9d-8e3c-3d398ac1ff8a",
+      "titulo": "WWDC 2026: Apple presenta una Siri renovada con IA generativa que no podrán usar los iPhone y iPads en Europa",
+      "resumen": "El popular asistente de voz inteligente tendrá este otoño, solo en inglés, las funciones de inteligencia artificial ya prometidas hace dos años por la empresa tecnológica, que no ha aclarado si llegarán a ser compatibles con la normativa europea",
+      "url": "https://elpais.com/tecnologia/2026-06-08/wwdc-2026-tim-cook-presenta-una-siri-renovada-con-ia-generativa-en-su-despedida-al-frente-de-apple.html",
+      "imagen": "https://www.youtube.com/watch?v=hF8swzNR1-o",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-08T19:11:10.000Z",
+      "fechaAgregada": "2026-06-26T10:51:33.958Z"
+    },
+    {
+      "id": "dcf0b32e-49e3-40e9-a86d-c8f1fd7ca4c8",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-26T10:51:33.881Z"
+    },
+    {
+      "id": "4f717f2e-7bd3-4fd0-9da2-159ef02c5c5c",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-26T10:51:33.881Z"
+    },
+    {
+      "id": "ae21870e-71e2-4dc8-8f12-a962d43af9f5",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-26T10:51:33.882Z"
+    }
+  ]
+}
