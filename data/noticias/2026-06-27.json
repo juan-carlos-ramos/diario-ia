@@ -1,0 +1,227 @@
+{
+  "fecha": "2026-06-27",
+  "generado": "2026-06-27T10:08:33.574Z",
+  "total": 20,
+  "noticias": [
+    {
+      "id": "b28f7f79-85f0-481a-a5de-f99a4debf2e6",
+      "titulo": "La IA está cambiando el mercado laboral como nunca antes, y lo está volviendo cada vez más desigual",
+      "resumen": "Que la IA generativa está impactando sobre el trabajo en todas sus formas y aristas, no es novedad. El furor por esta tecnología ha invadido a prácticamente todas las industrias, para bien o para mal. Esto se ha traducido en la rápida evolución de nuevas herramientas destinadas a simplificar tareas,",
+      "url": "https://hipertextual.com/inteligencia-artificial/ia-en-el-trabajo-mercados-laborales-desiguales/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/cash-macanaya-X9Cemmq4YjM-unsplash.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-27T08:00:00.000Z",
+      "fechaAgregada": "2026-06-27T10:08:26.659Z"
+    },
+    {
+      "id": "eb75049e-dd4e-4fe5-bf71-55d1aed7bb42",
+      "titulo": "La IA más poderosa de Anthropic vuelve a medias: Mythos 5 ya tiene autorización de Estados Unidos",
+      "resumen": "Donald Trump y su administración han dado luz verde a Mythos. Anthropic ya puede desplegar su IA más avanzada y polémica, pero con serias limitaciones respecto a sus objetivos iniciales. Estados Unidos sigue controlando la baraja de cartas de la IA.\nTras el bloqueo de Mythos y Fable 5 por petición d",
+      "url": "https://www.adslzone.net/noticias/ia/anthropic-mythos-5-autorizacion-eeuu-trump/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/IA-Mythos-5-candado-abierto-Estados-Unidos.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-27T07:02:41.000Z",
+      "fechaAgregada": "2026-06-27T10:08:29.799Z"
+    },
+    {
+      "id": "10a38a99-d4af-4f3a-af5d-e61db0ab27c3",
+      "titulo": "Mythos vuelve solo para un selecto club de empresas estadounidenses. Y deja algo claro: quién controla la IA más potente del mundo",
+      "resumen": "Hace justo dos semanas contábamos cómo el gobierno de Estados Unidos bloqueaba dos de los modelos de IA más inteligentes del mundo: Claude Fable 5 y Mythos 5 mientras Anthropic prometía estar trabajando en ello para solucionarlo. Apenas 15 días después, la situación ha dado un primer giro: el Depart",
+      "url": "https://www.xataka.com/servicios/mythos-vuelve-solo-para-selecto-club-empresas-estadounidenses-deja-algo-claro-quien-controla-ia-potente-mundo",
+      "imagen": "https://i.blogs.es/3540da/porti/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-27T06:19:40.000Z",
+      "fechaAgregada": "2026-06-27T10:08:25.794Z"
+    },
+    {
+      "id": "220fee70-2cc5-499f-a98f-7162c247ac39",
+      "titulo": "Apple pierde al jefe del Vision Pro y sus gafas inteligentes, que ficha por OpenAI",
+      "resumen": "En una movida que está causando bastante sorpresa, Apple pierde al jefe del Vision Pro y responsable del desarrollo de las primeras gafas inteligentes de la marca. Se trata de Paul Meade, quien deja la firma de Cupertino para pasarse a las filas de OpenAI, donde se reencontrará con Jony Ive y otros",
+      "url": "https://hipertextual.com/apple/paul-meade-apple-openai-apple-vision-pro/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/06/Sequence-01.00_00_02_38.Still001-2-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-26T21:00:00.000Z",
+      "fechaAgregada": "2026-06-27T10:08:26.659Z"
+    },
+    {
+      "id": "6609ab4f-2ec0-4654-8788-be8589b39331",
+      "titulo": "GPT‑5.6 ya está aquí y es la IA más poderosa de OpenAI, pero no podrás usarla por culpa de Donald Trump",
+      "resumen": "OpenAI ha presentado GPT-5.6, su modelo de IA más potente a la fecha. La compañía ha lanzado una familia completa con tres versiones que se diferencian por rendimiento, velocidad y precio. A diferencia de lanzamientos anteriores, el nuevo GPT-5.6 no estará disponible para todos debido a una restricc",
+      "url": "https://hipertextual.com/inteligencia-artificial/gpt-5-6-sol-terra-luna-openai/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/gpt-56.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-26T19:01:38.000Z",
+      "fechaAgregada": "2026-06-27T10:08:26.659Z"
+    },
+    {
+      "id": "09fc9067-d8f9-4841-8ea9-a09fae32218d",
+      "titulo": "OpenAI lanza GPT 5.6, pero solo en Estados Unidos",
+      "resumen": "Durante mucho tiempo hemos asumido que los grandes avances tecnológicos llegaban a todo el mundo prácticamente al mismo tiempo. Bastaba con que una compañía pulsara el botón de lanzamiento para que un nuevo servicio estuviera disponible, independientemente del país desde el que accediéramos a Intern",
+      "url": "https://www.muycomputer.com/2026/06/26/openai-lanza-gpt-5-6-pero-solo-en-estados-unidos/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/GPT-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-26T18:42:05.000Z",
+      "fechaAgregada": "2026-06-27T10:08:33.574Z"
+    },
+    {
+      "id": "55f1f412-15df-4e24-be9a-a4741ada7059",
+      "titulo": "OpenAI lanza una versión preliminar de GPT-5.6, pero de forma casi exclusiva",
+      "resumen": "Esta misma mañana ya hablábamos sobre la llegada próximamente de GPT-5.6, el nuevo modelo para ChatGPT. Y, finalmente, OpenAI ha confirmado lo que todo el mundo esperaba. Sin embargo, también se ha confirmado la triste noticia de que prácticamente nadie lo podrá usar. Al menos, por ahora.\nSin duda,",
+      "url": "https://www.adslzone.net/noticias/ia/openai-version-preliminar-gpt-5-6/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/gpt-5-6-openai.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-26T18:17:25.000Z",
+      "fechaAgregada": "2026-06-27T10:08:29.799Z"
+    },
+    {
+      "id": "3ab09c9a-da57-47b8-92a2-4d1ca169f782",
+      "titulo": "Christian Klein, CEO de SAP, lo tiene claro: \"En tres o cuatro años es posible que ya no haya nadie desarrollando software aquí\"",
+      "resumen": "SAP es una de las empresas de software más grandes del mundo, por eso, cuando su CEO afirma que en muy poco tiempo no habrá nadie programando, es que la cosa se va a poner realmente complicada para los ingenieros de software.\nChristian Klein, CEO de SAP, aseguró en una entrevista para Financial Revi",
+      "url": "https://www.xataka.com/robotica-e-ia/christian-klein-ceo-sap-tiene-claro-tres-cuatro-anos-posible-que-no-haya-nadie-desarrollando-software-aqui",
+      "imagen": "https://i.blogs.es/861b22/sap-y-los-programadores/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-26T17:47:01.000Z",
+      "fechaAgregada": "2026-06-27T10:08:25.795Z"
+    },
+    {
+      "id": "3f808eaf-bc09-4715-a001-8eb69095e84c",
+      "titulo": "Anthropic acusa a Alibaba de clonar Claude con 25.000 cuentas falsas: es el mayor ataque de destilación jamás registrado",
+      "resumen": "Anthropic ha enviado una carta confidencial al Senado de los Estados Unidos en la que acusa a Alibaba de haber orquestado el ataque de destilación más grande que ha sufrido Claude. Según comparte Bloomberg, la compañía china habría creado casi 25.000 cuentas falsas para extraer capacidades de su mod",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-acusa-a-alibaba-clonar-claude-25-000-cuentas-falsas-mayor-robo-ia-historia",
+      "imagen": "https://i.blogs.es/5467c4/original/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-26T15:31:39.000Z",
+      "fechaAgregada": "2026-06-27T10:08:25.796Z"
+    },
+    {
+      "id": "1a85f6c7-66f6-4bf5-8443-066271c135a1",
+      "titulo": "Así son los nuevos controles de privacidad de Google para el historial de actividad y la personalización",
+      "resumen": "Google quiere dar mayor control sobre la privacidad a los usuarios y que puedan gestionar mejor cómo se guarda su actividad o cómo se utilizan esos datos a la hora de personalizar servicios como Google Maps o Google Play, por ejemplo. Estas herramientas de privacidad de Google permiten que los usuar",
+      "url": "https://www.redeszone.net/noticias/seguridad/nuevos-controles-privacidad-google-historial/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/logo-google-fondo-blanco.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-25T07:26:46.000Z",
+      "fechaAgregada": "2026-06-27T10:08:31.085Z"
+    },
+    {
+      "id": "038947f5-571b-4dee-8484-5c6d71eec0c6",
+      "titulo": "¿Se volverán clasificados los mejores modelos de IA? Mythos y Fable van por ese camino",
+      "resumen": "Las dos IA más potentes que existen hoy en día son Mythos y Fable; la primera de ellas es usada por la NSA de EEUU para sus propias operaciones cibernéticas, con ingenieros de Anthropic integrados dentro de la propia Agencia de Seguridad Nacional. Fable es la versión «apta para todos los públicos» d",
+      "url": "https://www.redeszone.net/noticias/seguridad/clasificados-mejores-modelos-ia-mythos-fable/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/Claude_Mython_bloqueado_IA.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-24T17:06:02.000Z",
+      "fechaAgregada": "2026-06-27T10:08:31.085Z"
+    },
+    {
+      "id": "559dc6ea-8aa8-472a-ae37-e96228d323ce",
+      "titulo": "Efectos perjudiciales de la inteligencia artificial (IA)",
+      "resumen": "Un equipo de investigadores de prestigiosas universidades inglesas y norteamericanas alertan sobre los posibles inconvenientes de un uso inadecuado de esta tecnología",
+      "url": "https://elpais.com/ciencia/materia-gris/2026-06-22/efectos-perjudiciales-de-la-inteligencia-artificial-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V6JK24VDEBDMFASOIWIDFKS63Y.jpg?auth=4bc06f515cf026880ce62f6b21680e5c6683ab1a71455277a59d9629f7be8037",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T03:30:01.000Z",
+      "fechaAgregada": "2026-06-27T10:08:27.776Z"
+    },
+    {
+      "id": "d912a556-6a58-4e70-a3c3-8212c0d53873",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/259/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-06-27T10:08:27.776Z"
+    },
+    {
+      "id": "733e2066-77c7-41df-aaa5-f5f9ea31bfa9",
+      "titulo": "¿Están obsoletas las matemáticas? Los investigadores replantean para qué sirven en la era de la IA",
+      "resumen": "OpenAI y Google han resuelto problemas que llevaban décadas sin solución. La comunidad científica ha empezado a preguntarse dónde poner los límites de las máquinas",
+      "url": "https://elpais.com/tecnologia/2026-06-17/estan-obsoletas-las-matematicas-los-investigadores-replantean-para-que-sirven-en-la-era-de-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJZYTTNARFDPLK7N3QRJ4MHDUU.jpg?auth=0d5aad7e71b117869b9fbb1048a4b7ba4c6c47df25940b820b67f05850a48968",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T03:30:01.000Z",
+      "fechaAgregada": "2026-06-27T10:08:27.776Z"
+    },
+    {
+      "id": "2d65f032-4102-4b7a-8158-074d9e249644",
+      "titulo": "Qué puede hacer Europa si EE UU bloquea el acceso a la mejor IA: “Estamos en segunda o tercera división”",
+      "resumen": "El Gobierno de Trump ha prohibido el modelo Fable, el mejor de Anthropic, a los no estadounidenses. Las consecuencias para el resto de países son difíciles de prever",
+      "url": "https://elpais.com/tecnologia/2026-06-16/que-puede-hacer-europa-si-ee-uu-bloquea-el-acceso-a-la-mejor-ia-estamos-en-segunda-o-tercera-division.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L2BSNIO5NJHNXLEMHTYD2GR2T4.jpg?auth=1e4a4902eb777df1fa1ad642ae0253bd4bb82eeb70bb708876c6ad6161e1597c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T03:30:01.000Z",
+      "fechaAgregada": "2026-06-27T10:08:27.776Z"
+    },
+    {
+      "id": "cbabb818-9472-4c80-b56f-e505880c7f17",
+      "titulo": "Anthropic lanza una versión “segura” de Mythos, el programa que ha puesto en guardia a todo el planeta: “Hay que prepararse por si cae en malas manos”",
+      "resumen": "Los expertos en ciberseguridad que han manejado la herramienta destacan su velocidad y creen que, tarde o temprano, los ciberdelincuentes accederán a un modelo similar",
+      "url": "https://elpais.com/tecnologia/2026-06-10/anthropic-lanza-una-version-segura-de-mythos-el-programa-que-ha-puesto-en-guardia-a-todo-el-planeta-hay-que-prepararse-por-si-cae-en-malas-manos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SCAZXISFKZBZZEUPMOZHBUVV7M.jpg?auth=ae8245eaeebfe09dc7d2a6e2da6ab3f2bb19dfec6c6faf97f8bb1ba80ec5710f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:51:05.000Z",
+      "fechaAgregada": "2026-06-27T10:08:27.776Z"
+    },
+    {
+      "id": "1e837609-3942-4a15-92d7-00c9a8f04672",
+      "titulo": "Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España",
+      "resumen": "Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia",
+      "url": "https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T03:30:01.000Z",
+      "fechaAgregada": "2026-06-27T10:08:27.776Z"
+    },
+    {
+      "id": "bbbb7096-8ddb-4d36-aa51-48aa43c2355f",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-27T10:08:27.684Z"
+    },
+    {
+      "id": "ceab6151-2ff8-4787-8d8e-cff21780f5fe",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-27T10:08:27.685Z"
+    },
+    {
+      "id": "813ab47a-1491-43ae-a9df-a8026208c11f",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-27T10:08:27.685Z"
+    }
+  ]
+}
