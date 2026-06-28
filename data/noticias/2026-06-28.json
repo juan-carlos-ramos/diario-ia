@@ -1,0 +1,183 @@
+{
+  "fecha": "2026-06-28",
+  "generado": "2026-06-28T10:28:00.963Z",
+  "total": 16,
+  "noticias": [
+    {
+      "id": "9183cf70-6a7a-4cf5-a08b-c4bb2167e2bb",
+      "titulo": "Un 49% de estadounidenses ya usan la IA con frecuencia. Solo un 16% cree que trae algo bueno",
+      "resumen": "La gente está usando la IA sin parar, pero tienen miedo de ela. Es la gran conclusión de un estudio reciente de Pew Research Center en el que se plantea un dilema singular. La adopción se dispara, pero el pesimismo y la desconfianza con respecto a la IA, también.\nUna encuesta con resultados contradi",
+      "url": "https://www.xataka.com/robotica-e-ia/49-estadounidenses-usan-ia-frecuencia-solo-16-cree-que-sera-buena-para-mundo",
+      "imagen": "https://i.blogs.es/42ead6/chatgpt-copia-2/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-28T09:00:13.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.000Z"
+    },
+    {
+      "id": "f6f1af0c-dcf2-4986-957f-b29408a31fb3",
+      "titulo": "Harto de la IA, un programador creó un chat donde 16.000 personas fingen ser ChatGPT para no tener que usarlo",
+      "resumen": "No hace falta que te diga que el viejo internet hace tiempo que murió: primero, centralizado en redes sociales y sus respectivos algoritmos. Después, con la inteligencia artificial: ya hay más contenido generado por inteligencia artificial que por humanos. De hecho, hasta el omnipresente buscador de",
+      "url": "https://www.xataka.com/aplicaciones/harto-ia-programador-creo-chat-donde-16-000-personas-fingen-ser-chatgpt-para-no-tener-que-usarlo",
+      "imagen": "https://i.blogs.es/c1c907/gemini_generated_image_6w6u2o6w6u2o6w6u/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-27T18:00:13.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.001Z"
+    },
+    {
+      "id": "5182aa06-9c60-4be6-935a-54960db320dc",
+      "titulo": "Esta versión de World of Warcraft no tiene humanos, solo agentes de IA que juegan y chatean entre si",
+      "resumen": "Un jugador ha conseguido lo que Blizzard no pudo en más de veinte años: convertir a World of Warcraft en un juego single player. Si bien es posible jugar el clásico MMORPG en solitario, este experimento va un paso más lejos y reemplaza a todos los usuarios con cientos de bots controlados por intelig",
+      "url": "https://hipertextual.com/inteligencia-artificial/world-of-warcraft-single-player-bots-deepseek/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/wow-classic.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-27T16:00:00.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.150Z"
+    },
+    {
+      "id": "cf61e1ea-7a83-4c14-87cf-214dc5f72844",
+      "titulo": "He ganado más de 600 euros en una semana solamente haciendo encuestas. No tengo claro que haya merecido la pena",
+      "resumen": "Hay multitud de páginas de Internet y apps que poco menos que te prometen que podrías hacerte rico usándolas. Todas ellas son una estafa o como máximo una monstruosa exageración del dinero que realmente puedes conseguir con ellas. Pese a ello, reconozco que me gusta indagar qué pueden ofrecer realme",
+      "url": "https://www.xataka.com/investigacion/he-ganado-600-euros-semana-solamente-haciendo-encuestas-no-tengo-claro-que-haya-merecido-pena",
+      "imagen": "https://i.blogs.es/2417be/photo-1680602239356-f919632ce80d/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-27T11:30:12.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.003Z"
+    },
+    {
+      "id": "94d21239-684c-4aa2-94f4-20cb317d2b5d",
+      "titulo": "Yann LeCun, padrino de la IA: \"Si bloqueas una IA porque crees que es peligrosa, estás en el oscurantismo medieval\"",
+      "resumen": "La frase \"este modelo de IA es tan peligroso que sería un error hacerlo público\" es algo más viejo que las primeras versiones públicas de ChatGPT. Esa narrativa de la IA \"peligrosa\" tiene más de marketing que de realidad, pero no deja de ser el discurso que empresas como Anthropic y OpenAI empujan c",
+      "url": "https://www.xataka.com/empresas-y-economia/yann-lecun-padrino-ia-bloqueas-ia-porque-crees-que-peligrosa-estas-oscurantismo-medieval",
+      "imagen": "https://i.blogs.es/7d1447/chatgpt-image-25-jun-2026-12_06_33/1024_2000.png",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-27T11:00:13.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.003Z"
+    },
+    {
+      "id": "4a19bf92-c40a-4101-b15a-8e67ac2100f1",
+      "titulo": "La IA más poderosa de Anthropic vuelve a medias: Mythos 5 ya tiene autorización de Estados Unidos",
+      "resumen": "Donald Trump y su administración han dado luz verde a Mythos. Anthropic ya puede desplegar su IA más avanzada y polémica, pero con serias limitaciones respecto a sus objetivos iniciales. Estados Unidos sigue controlando la baraja de cartas de la IA.\nTras el bloqueo de Mythos y Fable 5 por petición d",
+      "url": "https://www.adslzone.net/noticias/ia/anthropic-mythos-5-autorizacion-eeuu-trump/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/IA-Mythos-5-candado-abierto-Estados-Unidos.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-27T07:02:41.000Z",
+      "fechaAgregada": "2026-06-28T10:27:58.282Z"
+    },
+    {
+      "id": "7d6ceac3-2976-4ed8-a954-24a74260a613",
+      "titulo": "OpenAI lanza GPT 5.6, pero solo en Estados Unidos",
+      "resumen": "Durante mucho tiempo hemos asumido que los grandes avances tecnológicos llegaban a todo el mundo prácticamente al mismo tiempo. Bastaba con que una compañía pulsara el botón de lanzamiento para que un nuevo servicio estuviera disponible, independientemente del país desde el que accediéramos a Intern",
+      "url": "https://www.muycomputer.com/2026/06/26/openai-lanza-gpt-5-6-pero-solo-en-estados-unidos/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/GPT-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-26T18:42:05.000Z",
+      "fechaAgregada": "2026-06-28T10:28:00.963Z"
+    },
+    {
+      "id": "10eed059-3c4d-45ef-9e74-e99654117847",
+      "titulo": "Efectos perjudiciales de la inteligencia artificial (IA)",
+      "resumen": "Un equipo de investigadores de prestigiosas universidades inglesas y norteamericanas alertan sobre los posibles inconvenientes de un uso inadecuado de esta tecnología",
+      "url": "https://elpais.com/ciencia/materia-gris/2026-06-22/efectos-perjudiciales-de-la-inteligencia-artificial-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V6JK24VDEBDMFASOIWIDFKS63Y.jpg?auth=4bc06f515cf026880ce62f6b21680e5c6683ab1a71455277a59d9629f7be8037",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T03:30:01.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.916Z"
+    },
+    {
+      "id": "5753ce34-36ef-416a-aa40-5b565078cf55",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/6/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.916Z"
+    },
+    {
+      "id": "374e422d-ce00-482b-91e6-d69deafab242",
+      "titulo": "¿Están obsoletas las matemáticas? Los investigadores replantean para qué sirven en la era de la IA",
+      "resumen": "OpenAI y Google han resuelto problemas que llevaban décadas sin solución. La comunidad científica ha empezado a preguntarse dónde poner los límites de las máquinas",
+      "url": "https://elpais.com/tecnologia/2026-06-17/estan-obsoletas-las-matematicas-los-investigadores-replantean-para-que-sirven-en-la-era-de-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJZYTTNARFDPLK7N3QRJ4MHDUU.jpg?auth=0d5aad7e71b117869b9fbb1048a4b7ba4c6c47df25940b820b67f05850a48968",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T03:30:01.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.916Z"
+    },
+    {
+      "id": "8ce21b47-9149-4e50-94d8-57c7654c9d5b",
+      "titulo": "Qué puede hacer Europa si EE UU bloquea el acceso a la mejor IA: “Estamos en segunda o tercera división”",
+      "resumen": "El Gobierno de Trump ha prohibido el modelo Fable, el mejor de Anthropic, a los no estadounidenses. Las consecuencias para el resto de países son difíciles de prever",
+      "url": "https://elpais.com/tecnologia/2026-06-16/que-puede-hacer-europa-si-ee-uu-bloquea-el-acceso-a-la-mejor-ia-estamos-en-segunda-o-tercera-division.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L2BSNIO5NJHNXLEMHTYD2GR2T4.jpg?auth=1e4a4902eb777df1fa1ad642ae0253bd4bb82eeb70bb708876c6ad6161e1597c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T03:30:01.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.916Z"
+    },
+    {
+      "id": "e3af98b2-5c9e-4d0a-9255-c165387860a4",
+      "titulo": "Anthropic lanza una versión “segura” de Mythos, el programa que ha puesto en guardia a todo el planeta: “Hay que prepararse por si cae en malas manos”",
+      "resumen": "Los expertos en ciberseguridad que han manejado la herramienta destacan su velocidad y creen que, tarde o temprano, los ciberdelincuentes accederán a un modelo similar",
+      "url": "https://elpais.com/tecnologia/2026-06-10/anthropic-lanza-una-version-segura-de-mythos-el-programa-que-ha-puesto-en-guardia-a-todo-el-planeta-hay-que-prepararse-por-si-cae-en-malas-manos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SCAZXISFKZBZZEUPMOZHBUVV7M.jpg?auth=ae8245eaeebfe09dc7d2a6e2da6ab3f2bb19dfec6c6faf97f8bb1ba80ec5710f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:51:05.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.916Z"
+    },
+    {
+      "id": "92735aee-bf9f-49f2-8ed8-4ff242e28b33",
+      "titulo": "Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España",
+      "resumen": "Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia",
+      "url": "https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T03:30:01.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.916Z"
+    },
+    {
+      "id": "eae4fb6a-1d72-4acf-8212-c44b553a6f7a",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.850Z"
+    },
+    {
+      "id": "58dba6a4-f564-44cf-9acd-37a0f40a3af9",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.850Z"
+    },
+    {
+      "id": "a9a82ae7-3331-4bc0-a150-236a7047fcfd",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-28T10:27:56.850Z"
+    }
+  ]
+}
