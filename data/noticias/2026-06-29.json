@@ -1,0 +1,183 @@
+{
+  "fecha": "2026-06-29",
+  "generado": "2026-06-29T12:35:11.658Z",
+  "total": 16,
+  "noticias": [
+    {
+      "id": "67a9ba33-7dd2-4992-b390-59d2da043787",
+      "titulo": "Gemini tiene un nuevo truco que es una maravilla y te ahorra muchísimo tiempo (y gratis)",
+      "resumen": "Lo último de Gemini puede parecer algo sin demasiada importancia, pero soluciona uno de los problemas más antiguos de los móviles Android. De hecho, es posible que a lo largo de los años esta herramienta te hubiese venido de perlas, pero no ha sido hasta ahora, y gracias a la inteligencia artificial",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-tiene-un-nuevo-truco-que-es-una-maravilla-y-te-ahorra-muchisimo-tiempo-y-gratis/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Google-Gemini-.jpg?fit=1024%2C643&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-29T11:49:27.000Z",
+      "fechaAgregada": "2026-06-29T12:35:05.451Z"
+    },
+    {
+      "id": "fae09f54-fa74-47ac-b6b0-6a981da5d970",
+      "titulo": "Samsung vuelve al foco por la RAM: una demanda revive su pasado de fijación de precios",
+      "resumen": "Samsung vuelve a estar bajo la lupa de la justicia por su negocio de memoria RAM. Una demanda colectiva presentada en California acusa a Samsung Electronics, Samsung Semiconductor, SK Hynix y Micron de restringir artificialmente la oferta de DRAM convencional. Esto se haría para redirigir su capacid",
+      "url": "https://www.adslzone.net/noticias/marcas/samsung-demanda-fijacion-precios-memoria-ram-dram/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/samsung-fijacion-precios-ram.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-29T11:07:31.000Z",
+      "fechaAgregada": "2026-06-29T12:35:08.021Z"
+    },
+    {
+      "id": "d3383c4a-2131-47eb-a14b-773b6e437ae9",
+      "titulo": "OpenAI lanza GPT 5.6 y promete mayor seguridad",
+      "resumen": "OpenAI acaba de lanzar la versión GPT-5.6, que trae novedades interesantes relacionadas con la protección de seguridad. Son varios modelos que han denominado Sol, Terra y Luna. El primero es el que se posiciona como el modelo de referencia, el más potente y que ofrece la mayor seguridad. Eso sí, de",
+      "url": "https://www.redeszone.net/noticias/seguridad/openai-gpt-5-6-mayor-seguridad/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/openai-logo.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-29T11:06:35.000Z",
+      "fechaAgregada": "2026-06-29T12:35:09.258Z"
+    },
+    {
+      "id": "619673c7-ebce-401b-83a3-4741ef2b4ff3",
+      "titulo": "EEUU se ha dado cuenta de que millones de trabajadores no tienen futuro por la IA. Y se ha puesto manos a la obra",
+      "resumen": "Una pregunta lleva recorriendo los consejos de ministros y los principales foros económicos del mundo desde hace que ChatGPT mostró sus capacidades en noviembre de 2022. ¿Cuántos puestos de trabajo va a destruir la IA?\nEl propio fundador de OpenAI ha sido una de las voces más pesimistas, e incluso h",
+      "url": "https://www.xataka.com/robotica-e-ia/eeuu-se-ha-dado-cuenta-que-millones-trabajadores-no-tienen-futuro-ia-se-ha-puesto-manos-a-obra",
+      "imagen": "https://i.blogs.es/4b925c/shamin-haky-rik-i9rxpao-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-29T10:00:14.000Z",
+      "fechaAgregada": "2026-06-29T12:35:05.178Z"
+    },
+    {
+      "id": "f6a090fd-f691-4f92-b531-92e0294dde94",
+      "titulo": "Starlink incorpora una nueva función en su app que impide que la firma recoja datos de tu conexión",
+      "resumen": "Si lo que te preocupa es tu privacidad cuando navegas por Internet, en Starlink tienes una opción en su aplicación que te permite ser un poco más anónimo. Aunque no es la función definitiva, sí que puede ayudarte de forma considerable.\nLa privacidad online se ha convertido en uno de los grandes prob",
+      "url": "https://www.adslzone.net/noticias/internet/starlink-nueva-funcion-privacidad/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/starlink-configuracion-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-29T08:57:49.000Z",
+      "fechaAgregada": "2026-06-29T12:35:08.021Z"
+    },
+    {
+      "id": "2531e81a-8c22-46e8-91b0-d2cfb234fb2a",
+      "titulo": "Satya Nadella, CEO de Microsoft: \"La sociedad no va a tolerar que solo unas pocas empresas hagan todo el aprendizaje\"",
+      "resumen": "Que últimamente no están las cosas muy allá en la industria tech es una realidad (según en qué lado estés, claro). La economía en torno a la exacerbada demanda de los centros de datos de IA se ha desvirtualizado tanto que ya no sorprende que una gran tecnológica se haya gastado decenas de miles de m",
+      "url": "https://www.xataka.com/empresas-y-economia/satya-nadella-ceo-microsoft-sociedad-no-va-a-tolerar-que-solo-unas-pocas-empresas-hagan-todo-aprendizaje",
+      "imagen": "https://i.blogs.es/23c5be/nadella-microsoft/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-28T11:30:13.000Z",
+      "fechaAgregada": "2026-06-29T12:35:05.180Z"
+    },
+    {
+      "id": "31fbe163-cd22-4a6a-b2fc-828d2c6af3f5",
+      "titulo": "OpenAI lanza GPT 5.6, pero solo en Estados Unidos",
+      "resumen": "Durante mucho tiempo hemos asumido que los grandes avances tecnológicos llegaban a todo el mundo prácticamente al mismo tiempo. Bastaba con que una compañía pulsara el botón de lanzamiento para que un nuevo servicio estuviera disponible, independientemente del país desde el que accediéramos a Intern",
+      "url": "https://www.muycomputer.com/2026/06/26/openai-lanza-gpt-5-6-pero-solo-en-estados-unidos/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/06/GPT-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-26T18:42:05.000Z",
+      "fechaAgregada": "2026-06-29T12:35:11.657Z"
+    },
+    {
+      "id": "d37d34d0-a155-41bc-be5f-6d317ced7208",
+      "titulo": "Efectos perjudiciales de la inteligencia artificial (IA)",
+      "resumen": "Un equipo de investigadores de prestigiosas universidades inglesas y norteamericanas alertan sobre los posibles inconvenientes de un uso inadecuado de esta tecnología",
+      "url": "https://elpais.com/ciencia/materia-gris/2026-06-22/efectos-perjudiciales-de-la-inteligencia-artificial-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V6JK24VDEBDMFASOIWIDFKS63Y.jpg?auth=4bc06f515cf026880ce62f6b21680e5c6683ab1a71455277a59d9629f7be8037",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T03:30:01.000Z",
+      "fechaAgregada": "2026-06-29T12:35:06.442Z"
+    },
+    {
+      "id": "ed7ca05e-4e97-4951-991a-c3bccaaed60b",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/263/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-06-29T12:35:06.442Z"
+    },
+    {
+      "id": "22302e7a-9678-45ea-b2d2-b8a5bb5884d5",
+      "titulo": "¿Están obsoletas las matemáticas? Los investigadores replantean para qué sirven en la era de la IA",
+      "resumen": "OpenAI y Google han resuelto problemas que llevaban décadas sin solución. La comunidad científica ha empezado a preguntarse dónde poner los límites de las máquinas",
+      "url": "https://elpais.com/tecnologia/2026-06-17/estan-obsoletas-las-matematicas-los-investigadores-replantean-para-que-sirven-en-la-era-de-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJZYTTNARFDPLK7N3QRJ4MHDUU.jpg?auth=0d5aad7e71b117869b9fbb1048a4b7ba4c6c47df25940b820b67f05850a48968",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T03:30:01.000Z",
+      "fechaAgregada": "2026-06-29T12:35:06.442Z"
+    },
+    {
+      "id": "04a552b8-4aee-497c-8217-76f361016c06",
+      "titulo": "Qué puede hacer Europa si EE UU bloquea el acceso a la mejor IA: “Estamos en segunda o tercera división”",
+      "resumen": "El Gobierno de Trump ha prohibido el modelo Fable, el mejor de Anthropic, a los no estadounidenses. Las consecuencias para el resto de países son difíciles de prever",
+      "url": "https://elpais.com/tecnologia/2026-06-16/que-puede-hacer-europa-si-ee-uu-bloquea-el-acceso-a-la-mejor-ia-estamos-en-segunda-o-tercera-division.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L2BSNIO5NJHNXLEMHTYD2GR2T4.jpg?auth=1e4a4902eb777df1fa1ad642ae0253bd4bb82eeb70bb708876c6ad6161e1597c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T03:30:01.000Z",
+      "fechaAgregada": "2026-06-29T12:35:06.442Z"
+    },
+    {
+      "id": "12b63c64-b492-4132-911b-5f603f0de026",
+      "titulo": "Anthropic lanza una versión “segura” de Mythos, el programa que ha puesto en guardia a todo el planeta: “Hay que prepararse por si cae en malas manos”",
+      "resumen": "Los expertos en ciberseguridad que han manejado la herramienta destacan su velocidad y creen que, tarde o temprano, los ciberdelincuentes accederán a un modelo similar",
+      "url": "https://elpais.com/tecnologia/2026-06-10/anthropic-lanza-una-version-segura-de-mythos-el-programa-que-ha-puesto-en-guardia-a-todo-el-planeta-hay-que-prepararse-por-si-cae-en-malas-manos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SCAZXISFKZBZZEUPMOZHBUVV7M.jpg?auth=ae8245eaeebfe09dc7d2a6e2da6ab3f2bb19dfec6c6faf97f8bb1ba80ec5710f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:51:05.000Z",
+      "fechaAgregada": "2026-06-29T12:35:06.442Z"
+    },
+    {
+      "id": "53bf8092-cac8-450a-8c11-965fd3792a9f",
+      "titulo": "Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España",
+      "resumen": "Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia",
+      "url": "https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T03:30:01.000Z",
+      "fechaAgregada": "2026-06-29T12:35:06.442Z"
+    },
+    {
+      "id": "23c8acdb-145c-434c-bf16-71508056d804",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-29T12:35:06.381Z"
+    },
+    {
+      "id": "ce227e5f-1b88-4b4a-a471-399ca7a59eaa",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-29T12:35:06.382Z"
+    },
+    {
+      "id": "ca18c7c6-2295-4bdc-9b83-d92ebc4ba12b",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-29T12:35:06.382Z"
+    }
+  ]
+}
