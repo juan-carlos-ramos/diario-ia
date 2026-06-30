@@ -1,0 +1,161 @@
+{
+  "fecha": "2026-06-30",
+  "generado": "2026-06-30T10:56:46.880Z",
+  "total": 14,
+  "noticias": [
+    {
+      "id": "4e591a2e-1eae-4ca9-b9ac-4fbc3260da67",
+      "titulo": "La aplicación oficial de OpenClaw ya está para iOS y Android: la IA más privada en tu mano",
+      "resumen": "OpenClaw es un popular asistente personal de Inteligencia Artificial que puedes tener instalado directamente en tu dispositivo. Más allá de poder usarlo en un ordenador, ahora acaban de anunciar que va a contar con aplicación para Android y para iOS. Esto es interesante para quienes deseen dejar de",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/aplicacion-oficial-openclaw-ios-android/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/imagen-openclaw-ia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-30T07:23:50.000Z",
+      "fechaAgregada": "2026-06-30T10:56:44.451Z"
+    },
+    {
+      "id": "c640d00f-fec8-4594-ba43-fd28c1b18fd5",
+      "titulo": "Gmail estrena una nueva forma de buscar correos en Android e iOS usando su propia IA",
+      "resumen": "Uno de los anuncios más interesantes que pudimos conocer durante el pasado Android Show: I/O Edition 2026 que celebró el sistema operativo de Google era la integración de Gemini con Gmail, que iba a permitir, entre otras muchas cosas, ofrecernos una nueva forma de buscar correos en ambos sistemas op",
+      "url": "https://www.adslzone.net/noticias/ia/gmail-estrena-nueva-forma-buscar-correos-gemini/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/gmail-correos-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-30T06:57:36.000Z",
+      "fechaAgregada": "2026-06-30T10:56:43.379Z"
+    },
+    {
+      "id": "009b93b5-be75-4a42-b667-0dfc3a3112c7",
+      "titulo": "Gemini cambia una de sus mejores funciones y pasa a ser gratis, pero no todo son buenas noticias",
+      "resumen": "Google sigue puliendo su estrategia con Gemini para que la IA pueda obtener los mejores resultados entre los usuarios. Debido a ello, es frecuente que algunas de sus funciones que comienzan siendo de pago se acaben ofreciendo gratis. El último cambio ha sido desvelado en las últimas horas.\nHasta aho",
+      "url": "https://www.adslzone.net/noticias/ia/generacion-imagenes-gratis-gemini-inteligencia-personal/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/Gemini-ofrece-funcion-Inteligencia-Personal-gratis.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-30T04:02:01.000Z",
+      "fechaAgregada": "2026-06-30T10:56:43.380Z"
+    },
+    {
+      "id": "2c612183-d425-4557-a9d1-892a72f361b0",
+      "titulo": "OpenAI comienza a buscar ingenieros en Madrid: tres días de oficina, arriesgados y con calma modélica",
+      "resumen": "OpenAI ya ha puesto en marcha su estrategia de expansión en Europa para continuar compitiendo contra Google (Gemini) y Anthropic (Claude). El portal Euronews ha confirmado que la compañía abrirá una oficina en Madrid, España, para así poder llevar a cabo la colaboración con empresas e instituciones",
+      "url": "https://hipertextual.com/tecnologia/openai-comienza-a-buscar-ingenieros-en-madrid-tres-dias-de-oficina-arriesgados-y-con-calma-modelica/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/open-ai-001.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-29T13:50:41.000Z",
+      "fechaAgregada": "2026-06-30T10:56:41.097Z"
+    },
+    {
+      "id": "31f8f9f1-b140-448e-869f-b291b92be633",
+      "titulo": "OpenAI lanza GPT 5.6 y promete mayor seguridad",
+      "resumen": "OpenAI acaba de lanzar la versión GPT-5.6, que trae novedades interesantes relacionadas con la protección de seguridad. Son varios modelos que han denominado Sol, Terra y Luna. El primero es el que se posiciona como el modelo de referencia, el más potente y que ofrece la mayor seguridad. Eso sí, de",
+      "url": "https://www.redeszone.net/noticias/seguridad/openai-gpt-5-6-mayor-seguridad/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/openai-logo.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-29T11:06:35.000Z",
+      "fechaAgregada": "2026-06-30T10:56:44.452Z"
+    },
+    {
+      "id": "693ebdf4-7e1b-4a00-8bf3-5abf9b9c3c70",
+      "titulo": "Efectos perjudiciales de la inteligencia artificial (IA)",
+      "resumen": "Un equipo de investigadores de prestigiosas universidades inglesas y norteamericanas alertan sobre los posibles inconvenientes de un uso inadecuado de esta tecnología",
+      "url": "https://elpais.com/ciencia/materia-gris/2026-06-22/efectos-perjudiciales-de-la-inteligencia-artificial-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V6JK24VDEBDMFASOIWIDFKS63Y.jpg?auth=4bc06f515cf026880ce62f6b21680e5c6683ab1a71455277a59d9629f7be8037",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T03:30:01.000Z",
+      "fechaAgregada": "2026-06-30T10:56:42.271Z"
+    },
+    {
+      "id": "7688267d-dd98-4ec7-aecb-ea8a2b3b6167",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/465/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-06-30T10:56:42.271Z"
+    },
+    {
+      "id": "d79f983d-0713-416f-a7b5-8df2ae162eae",
+      "titulo": "¿Están obsoletas las matemáticas? Los investigadores replantean para qué sirven en la era de la IA",
+      "resumen": "OpenAI y Google han resuelto problemas que llevaban décadas sin solución. La comunidad científica ha empezado a preguntarse dónde poner los límites de las máquinas",
+      "url": "https://elpais.com/tecnologia/2026-06-17/estan-obsoletas-las-matematicas-los-investigadores-replantean-para-que-sirven-en-la-era-de-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJZYTTNARFDPLK7N3QRJ4MHDUU.jpg?auth=0d5aad7e71b117869b9fbb1048a4b7ba4c6c47df25940b820b67f05850a48968",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T03:30:01.000Z",
+      "fechaAgregada": "2026-06-30T10:56:42.271Z"
+    },
+    {
+      "id": "7c4dc4b5-afa8-4b6d-8675-05f216865450",
+      "titulo": "Qué puede hacer Europa si EE UU bloquea el acceso a la mejor IA: “Estamos en segunda o tercera división”",
+      "resumen": "El Gobierno de Trump ha prohibido el modelo Fable, el mejor de Anthropic, a los no estadounidenses. Las consecuencias para el resto de países son difíciles de prever",
+      "url": "https://elpais.com/tecnologia/2026-06-16/que-puede-hacer-europa-si-ee-uu-bloquea-el-acceso-a-la-mejor-ia-estamos-en-segunda-o-tercera-division.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L2BSNIO5NJHNXLEMHTYD2GR2T4.jpg?auth=1e4a4902eb777df1fa1ad642ae0253bd4bb82eeb70bb708876c6ad6161e1597c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T03:30:01.000Z",
+      "fechaAgregada": "2026-06-30T10:56:42.271Z"
+    },
+    {
+      "id": "64a00d99-62a2-41c1-ae22-d8ded1cc923b",
+      "titulo": "Anthropic lanza una versión “segura” de Mythos, el programa que ha puesto en guardia a todo el planeta: “Hay que prepararse por si cae en malas manos”",
+      "resumen": "Los expertos en ciberseguridad que han manejado la herramienta destacan su velocidad y creen que, tarde o temprano, los ciberdelincuentes accederán a un modelo similar",
+      "url": "https://elpais.com/tecnologia/2026-06-10/anthropic-lanza-una-version-segura-de-mythos-el-programa-que-ha-puesto-en-guardia-a-todo-el-planeta-hay-que-prepararse-por-si-cae-en-malas-manos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SCAZXISFKZBZZEUPMOZHBUVV7M.jpg?auth=ae8245eaeebfe09dc7d2a6e2da6ab3f2bb19dfec6c6faf97f8bb1ba80ec5710f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:51:05.000Z",
+      "fechaAgregada": "2026-06-30T10:56:42.271Z"
+    },
+    {
+      "id": "e3a806de-b205-4ce9-9089-d9ce1a182d1f",
+      "titulo": "Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España",
+      "resumen": "Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia",
+      "url": "https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T03:30:01.000Z",
+      "fechaAgregada": "2026-06-30T10:56:42.271Z"
+    },
+    {
+      "id": "6ef5e2e0-d256-4a5d-b140-ce8aeaafbf41",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-06-30T10:56:42.071Z"
+    },
+    {
+      "id": "90684754-0f29-452a-871b-38a244c23578",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-06-30T10:56:42.071Z"
+    },
+    {
+      "id": "7198c692-55c0-4b4b-a704-efd7bbdfbc18",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-06-30T10:56:42.071Z"
+    }
+  ]
+}
