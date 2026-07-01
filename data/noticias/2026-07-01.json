@@ -1,0 +1,216 @@
+{
+  "fecha": "2026-07-01",
+  "generado": "2026-07-01T11:23:39.036Z",
+  "total": 19,
+  "noticias": [
+    {
+      "id": "46970727-393c-4523-b55c-e8410c29136b",
+      "titulo": "Netflix va cuesta abajo: pierde más de 245.000 millones y los usuarios empiezan a cansarse",
+      "resumen": "Netflix ha pasado de ser el valor intocable del segmento del streaming a convertirse en una de las grandes decepciones de Wall Street. Desde sus máximos de junio de 2025, la compañía se ha dejado cerca de un 47% de capitalización bursátil, lo que equivale a más de 245.000 millones de dólares que han",
+      "url": "https://www.adslzone.net/noticias/streaming-tv/netflix-caida-bolsa-subida-precios-2026/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/netflix-bolsa-caida-grafico.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-01T10:27:51.000Z",
+      "fechaAgregada": "2026-07-01T11:23:33.959Z"
+    },
+    {
+      "id": "a72cb75b-1792-4911-99d4-f3fed5d7518c",
+      "titulo": "La IA de NVIDIA se vuelve mucho más barata: DeepSeek V4 reduce su coste por token hasta un 80 %",
+      "resumen": "Cuando hablamos del avance de la Inteligencia Artificial es habitual centrar toda la atención en el hardware, cada nueva generación de GPU promete más rendimiento, mayor ancho de banda y una capacidad de cálculo superior. Sin embargo, NVIDIA acaba de demostrar que el software también puede marcar un",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/ia-nvidia-coste-deepseek-mas-barato/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/Deepseek-NVIDIA.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-01T08:32:56.000Z",
+      "fechaAgregada": "2026-07-01T11:23:37.470Z"
+    },
+    {
+      "id": "a81390e2-ff9b-42c0-aef3-678907716aee",
+      "titulo": "Anthropic acaba de lanzar Claude Sonnet 5 con un objetivo claro: no cruzar ninguna línea roja",
+      "resumen": "Anthropic anunció ayer el lanzamiento de Claude Sonnet 5, un modelo más \"normal\" y conservador de lo que nos tenía acostumbrados. También es más barato, lo que lo hace interesante para usarlo en esos agentes de IA que consumen muchos tokens. Sin embargo, lo más llamativo de Sonnet 5 es que es un mod",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-claude-sonnet-5-objetivo-claro-no-cruzar-ninguna-linea-roja",
+      "imagen": "https://i.blogs.es/455121/sonnet-5/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-01T07:16:01.000Z",
+      "fechaAgregada": "2026-07-01T11:23:29.682Z"
+    },
+    {
+      "id": "514148c0-cd93-4b75-8c2b-5d2d42318342",
+      "titulo": "Es oficial: Anthropic llega a un acuerdo con EEUU y volverá a distribuir Claude Fable 5 y Claude Mythos 5",
+      "resumen": "Hace poco más de dos semanas, la industria de la IA vivió un auténtico terremoto. Por primera vez en su corta historia, la Casa Blanca había decidido vetar la distribución del modelo más avanzado de Anthropic: Mythos 5 y, su versión doméstica, Fable 5. Hace unas pocas horas, la restricción ha sido e",
+      "url": "https://www.adslzone.net/noticias/ia/eeuu-aprueba-claude-mythos-fable-5/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/claude-mythos-pcpal-122-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-01T05:38:15.000Z",
+      "fechaAgregada": "2026-07-01T11:23:33.960Z"
+    },
+    {
+      "id": "cd77cb20-fc92-4d6a-a5be-1505ce753e27",
+      "titulo": "Anthropic lanza Claude Sonnet 5, una IA casi tan buena como Opus 4.8, pero más barata",
+      "resumen": "Anthropic acaba de actualizar su catálogo con Claude Sonnet 5, una nueva IA que destaca por ser casi tan buena como Opus 4.8, pero con un precio más bajo. El modelo ya se encuentra disponible tanto en las apps de Claude como a través de la API, y se posiciona como una opción muy atractiva […]\nSeguir",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-lanza-claude-sonnet-5/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Claude-Sonnet-5-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-30T20:33:37.000Z",
+      "fechaAgregada": "2026-07-01T11:23:29.866Z"
+    },
+    {
+      "id": "b0992b6a-d28e-4759-bed0-788e814d42d8",
+      "titulo": "Anthropic lanza Claude Science, una IA que acelera el descubrimiento científico",
+      "resumen": "Anthropic ha presentado Claude Science, una nueva herramienta con la que busca ganarse a la comunidad científica. En lugar de diseñar un modelo dedicado, la compañía prefirió personalizar a Claude para convertirlo en un asistente para centralizar tareas. El objetivo es acelerar el ritmo del descubri",
+      "url": "https://hipertextual.com/inteligencia-artificial/claude-science-ia-anthropic-cientificos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/claude-science.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-30T19:12:41.000Z",
+      "fechaAgregada": "2026-07-01T11:23:29.866Z"
+    },
+    {
+      "id": "cac94e5e-ba0d-40ca-8123-6c34f851f942",
+      "titulo": "Con 15 años, un tubo de PVC y 10 euros construyó un generador oceánico. Una década después, sigue despertando el interés en el sector",
+      "resumen": "Corría el año 2015 cuando una estudiante de instituto de Boca Ratón, en Florida, presentó ante un jurado de científicos un prototipo construido con piezas que cualquiera podría encontrar en una ferretería. Su proyecto intentaba resolver cómo generar electricidad allí donde no llega el tendido eléctr",
+      "url": "https://www.xataka.com/energia/15-anos-tubo-pvc-10-euros-construyo-generador-oceanico-decada-despues-sigue-despertando-interes-sector",
+      "imagen": "https://i.blogs.es/c6011f/hannah/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-30T17:16:59.000Z",
+      "fechaAgregada": "2026-07-01T11:23:29.683Z"
+    },
+    {
+      "id": "000824ef-5c96-4632-ad7e-98b23712f928",
+      "titulo": "Gemini acaba de enterrar a ChatGPT: la mejor función de su generador de imágenes ahora es GRATIS para todos",
+      "resumen": "Probablemente no lo sabías, pero Google tiene una herramienta de generación de imágenes muchísimo mejor que la que utilizas en Gemini ahora mismo. Está basada en Nano Banana 2, y desde que se lanzó solo ha estado disponible para los usuarios de los planes más avanzados de la IA. Esto acaba de cambia",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-acaba-de-enterrar-a-chatgpt-la-mejor-funcion-de-su-generador-de-imagenes-ahora-es-gratis-para-todos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/iphone-Gemini-1.jpg?fit=1024%2C664&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-30T15:04:30.000Z",
+      "fechaAgregada": "2026-07-01T11:23:29.866Z"
+    },
+    {
+      "id": "e3d5c0e1-454f-444b-9a5c-cec3008d221f",
+      "titulo": "La aplicación oficial de OpenClaw ya está para iOS y Android: la IA más privada en tu mano",
+      "resumen": "OpenClaw es un popular asistente personal de Inteligencia Artificial que puedes tener instalado directamente en tu dispositivo. Más allá de poder usarlo en un ordenador, ahora acaban de anunciar que va a contar con aplicación para Android y para iOS. Esto es interesante para quienes deseen dejar de",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/aplicacion-oficial-openclaw-ios-android/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/imagen-openclaw-ia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-30T07:23:50.000Z",
+      "fechaAgregada": "2026-07-01T11:23:35.558Z"
+    },
+    {
+      "id": "dfc4d255-8371-498d-9955-1e251f7fc434",
+      "titulo": "OpenAI lanza GPT 5.6 y promete mayor seguridad",
+      "resumen": "OpenAI acaba de lanzar la versión GPT-5.6, que trae novedades interesantes relacionadas con la protección de seguridad. Son varios modelos que han denominado Sol, Terra y Luna. El primero es el que se posiciona como el modelo de referencia, el más potente y que ofrece la mayor seguridad. Eso sí, de",
+      "url": "https://www.redeszone.net/noticias/seguridad/openai-gpt-5-6-mayor-seguridad/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/06/openai-logo.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-29T11:06:35.000Z",
+      "fechaAgregada": "2026-07-01T11:23:35.558Z"
+    },
+    {
+      "id": "a9b915df-314a-4576-b3af-d3b4d5a056e4",
+      "titulo": "Efectos perjudiciales de la inteligencia artificial (IA)",
+      "resumen": "Un equipo de investigadores de prestigiosas universidades inglesas y norteamericanas alertan sobre los posibles inconvenientes de un uso inadecuado de esta tecnología",
+      "url": "https://elpais.com/ciencia/materia-gris/2026-06-22/efectos-perjudiciales-de-la-inteligencia-artificial-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V6JK24VDEBDMFASOIWIDFKS63Y.jpg?auth=4bc06f515cf026880ce62f6b21680e5c6683ab1a71455277a59d9629f7be8037",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T03:30:01.000Z",
+      "fechaAgregada": "2026-07-01T11:23:32.626Z"
+    },
+    {
+      "id": "5c76a1cf-884c-4970-a744-ca82e8a3195e",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/418/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-01T11:23:32.627Z"
+    },
+    {
+      "id": "430d3fba-b0ef-4c70-bd32-b3ef776ac1ae",
+      "titulo": "¿Están obsoletas las matemáticas? Los investigadores replantean para qué sirven en la era de la IA",
+      "resumen": "OpenAI y Google han resuelto problemas que llevaban décadas sin solución. La comunidad científica ha empezado a preguntarse dónde poner los límites de las máquinas",
+      "url": "https://elpais.com/tecnologia/2026-06-17/estan-obsoletas-las-matematicas-los-investigadores-replantean-para-que-sirven-en-la-era-de-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJZYTTNARFDPLK7N3QRJ4MHDUU.jpg?auth=0d5aad7e71b117869b9fbb1048a4b7ba4c6c47df25940b820b67f05850a48968",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T03:30:01.000Z",
+      "fechaAgregada": "2026-07-01T11:23:32.626Z"
+    },
+    {
+      "id": "da8effff-e20c-4d01-9c68-05c4912aaf58",
+      "titulo": "Qué puede hacer Europa si EE UU bloquea el acceso a la mejor IA: “Estamos en segunda o tercera división”",
+      "resumen": "El Gobierno de Trump ha prohibido el modelo Fable, el mejor de Anthropic, a los no estadounidenses. Las consecuencias para el resto de países son difíciles de prever",
+      "url": "https://elpais.com/tecnologia/2026-06-16/que-puede-hacer-europa-si-ee-uu-bloquea-el-acceso-a-la-mejor-ia-estamos-en-segunda-o-tercera-division.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L2BSNIO5NJHNXLEMHTYD2GR2T4.jpg?auth=1e4a4902eb777df1fa1ad642ae0253bd4bb82eeb70bb708876c6ad6161e1597c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T03:30:01.000Z",
+      "fechaAgregada": "2026-07-01T11:23:32.626Z"
+    },
+    {
+      "id": "843bdd5f-95ca-4095-b9ad-59dd8f403fcf",
+      "titulo": "Anthropic lanza una versión “segura” de Mythos, el programa que ha puesto en guardia a todo el planeta: “Hay que prepararse por si cae en malas manos”",
+      "resumen": "Los expertos en ciberseguridad que han manejado la herramienta destacan su velocidad y creen que, tarde o temprano, los ciberdelincuentes accederán a un modelo similar",
+      "url": "https://elpais.com/tecnologia/2026-06-10/anthropic-lanza-una-version-segura-de-mythos-el-programa-que-ha-puesto-en-guardia-a-todo-el-planeta-hay-que-prepararse-por-si-cae-en-malas-manos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SCAZXISFKZBZZEUPMOZHBUVV7M.jpg?auth=ae8245eaeebfe09dc7d2a6e2da6ab3f2bb19dfec6c6faf97f8bb1ba80ec5710f",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T11:51:05.000Z",
+      "fechaAgregada": "2026-07-01T11:23:32.626Z"
+    },
+    {
+      "id": "0406e83f-8151-4dfd-8092-0474e3d3ad74",
+      "titulo": "Cataluña es lo más español que hay, al menos para ChatGPT: así explica la IA cómo es España",
+      "resumen": "Los ciudadanos usarán los principales ‘chatbots’ para aprender del mundo, como si fueran una vieja enciclopedia. Saber qué respuestas dan y por qué será básico para entender su influencia",
+      "url": "https://elpais.com/tecnologia/2026-06-10/cataluna-es-lo-mas-espanol-que-hay-al-menos-para-chatgpt-asi-explica-la-ia-como-es-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-10T03:30:01.000Z",
+      "fechaAgregada": "2026-07-01T11:23:32.626Z"
+    },
+    {
+      "id": "2bfeb7c7-d8be-4370-ac87-f8bc59cf8933",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-01T11:23:32.498Z"
+    },
+    {
+      "id": "33f5c855-06a2-4c1b-910c-aa6823af103d",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-01T11:23:32.498Z"
+    },
+    {
+      "id": "16dde8b4-c2c5-4e3b-a092-559793437d01",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-01T11:23:32.498Z"
+    }
+  ]
+}
