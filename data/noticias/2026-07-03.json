@@ -1,0 +1,172 @@
+{
+  "fecha": "2026-07-03",
+  "generado": "2026-07-03T10:35:12.731Z",
+  "total": 15,
+  "noticias": [
+    {
+      "id": "62b35aa9-aae9-4562-8b5c-38bf773a646b",
+      "titulo": "\"El Papa está trabajando para los comunistas chinos\": Peter Thiel cree que la Santa Sede está cometiendo un craso error",
+      "resumen": "Peter Thiel no se suele morder la lengua, y no lo hizo hace unos días en el Aspen Ideas Festival. El inversor y cofundador de Palantir y PayPal participó en una charla en la que acusó al Papa León XIV de estar (sin saberlo) al servicio del Partido Comunista China. El motivo: su última encíclica, Mag",
+      "url": "https://www.xataka.com/robotica-e-ia/papa-esta-trabajando-para-comunistas-chinos-peter-thiel-cree-que-santa-sede-esta-cometiendo-craso-error",
+      "imagen": "https://i.blogs.es/d3f1d1/thiel-papa-leon-xiv-ia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-03T10:30:43.000Z",
+      "fechaAgregada": "2026-07-03T10:35:09.359Z"
+    },
+    {
+      "id": "f6c5d788-5c25-4984-9b44-ddb6cfff11dc",
+      "titulo": "Meta se pasa al otro lado del mostrador de la IA. Está pasando de comprar cómputo a venderlo",
+      "resumen": "Meta está diseñando un negocio de computación en la nube para vender a terceros el exceso de capacidad de sus centros de datos de IA, según ha adelantado Bloomberg. La empresa valora dos vías:\n\nOfrecer acceso a modelos alojados en su infraestructura.\nO alquilar directamente potencia de cálculo, al e",
+      "url": "https://www.xataka.com/empresas-y-economia/meta-se-pasa-al-otro-lado-mostrador-ia-esta-pasando-comprar-computo-a-venderlo",
+      "imagen": "https://i.blogs.es/e9c71d/meta/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-03T09:15:54.000Z",
+      "fechaAgregada": "2026-07-03T10:35:09.359Z"
+    },
+    {
+      "id": "e7b41e99-a886-478e-b936-78cc616a92a3",
+      "titulo": "La NASA ha conseguido que un satélite “entienda” lo que ve, sin mandar ni una foto a la Tierra",
+      "resumen": "El papel de los satélites es sencillo. Toman datos, los envían a la Tierra y, una vez aquí, se analizan. Hasta ahora, eso está siendo viable. Sin embargo, el proceso se está complicando. Cada vez hay más satélites (hola, Elon Musk), lo cual supone más información fluyendo a la Tierra. No hay suficie",
+      "url": "https://www.xataka.com/espacio/nasa-ha-conseguido-que-satelite-entienda-que-ve-mandar-foto-a-tierra",
+      "imagen": "https://i.blogs.es/fe51c0/satelite-con-ia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-03T06:01:54.000Z",
+      "fechaAgregada": "2026-07-03T10:35:09.361Z"
+    },
+    {
+      "id": "1880efc0-d4c1-4509-a625-8ba16e2d3ffc",
+      "titulo": "Carrefour liquida el precio del Google Pixel 10 con 256 GB: ahora tiene más 300 euros de descuento",
+      "resumen": "No todos los días puedes encontrar un móvil de gama alta con este tipo de descuentos. Dentro del catálogo de Google hay modelos que cuestan más o menos. Pero, al menos por ahora, en la tienda online de Carrefour está disponible su Pixel 10 en color negro y con 256 GB con más de 300 euros de descuent",
+      "url": "https://www.adslzone.net/ofertas/carrefour-smartphones-google-pixel-10-0726/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/google-pixel-10-movil.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-02T19:04:49.000Z",
+      "fechaAgregada": "2026-07-03T10:35:11.385Z"
+    },
+    {
+      "id": "68e49f3f-ae31-42e3-863a-0ba5f1702e73",
+      "titulo": "Anthropic (Claude) quiere su propio chip de IA y ya habla con Samsung para fabricarlo",
+      "resumen": "Anthropic está siguiendo los pasos de OpenAI y ya evalúa fabricar su propio chip de inteligencia artificial. Según los reportes, la compañía ha mantenido conversaciones con Samsung como posible socio de manufactura. El proyecto se encuentra en una fase muy temprana de desarrollo y Anthropic todavía",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-negocia-samsung-chip-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-laptop-1.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-02T18:37:42.000Z",
+      "fechaAgregada": "2026-07-03T10:35:09.551Z"
+    },
+    {
+      "id": "57b3ea0c-1759-4e87-b1bd-a363d8a911d2",
+      "titulo": "Meta limita una función de sus gafas inteligentes y abre un peligroso precedente",
+      "resumen": "Durante años, las suscripciones han demostrado ser un modelo válido para acceder a servicios que requieren una infraestructura continua. Nadie se sorprende ya de pagar por almacenamiento en la nube, plataformas de streaming o asistentes de inteligencia artificial que dependen de enormes centros de d",
+      "url": "https://www.muycomputer.com/2026/07/02/meta-limita-una-funcion-de-sus-gafas-inteligentes-y-abre-un-peligroso-precedente/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/Meta-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-02T18:12:35.000Z",
+      "fechaAgregada": "2026-07-03T10:35:12.731Z"
+    },
+    {
+      "id": "04af3a8c-900b-43b3-bfe8-04f56346f464",
+      "titulo": "Copilot estuvo a punto de convertirse en el corazón de Windows",
+      "resumen": "Hubo un momento en el Microsoft quería convertir Copilot en el centro absoluto de toda su estrategia. No bastaba con integrar la inteligencia artificial en Windows o en Microsoft 365; Copilot empezó a aparecer en prácticamente todos los productos y servicios de la compañía, alimentando la sensación",
+      "url": "https://www.muycomputer.com/2026/07/02/copilot-estuvo-a-punto-de-convertirse-en-el-corazon-de-windows/",
+      "imagen": "https://picsum.photos/seed/343/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-02T16:45:18.000Z",
+      "fechaAgregada": "2026-07-03T10:35:12.731Z"
+    },
+    {
+      "id": "6daf236f-a62d-494e-a625-72945398d151",
+      "titulo": "Google cambia Gmail para siempre: ahora se usa con la voz y tiene IA en todas partes",
+      "resumen": "Google no tenía suficiente con la integración de Gemini en Gmail y está volviendo a cambiar por completo su plataforma de correo. A partir de hoy, la compañía está implementando una función que te va a permitir utilizar Gmail con la voz y controlar tu bandeja de entrada de una forma nunca antes vist",
+      "url": "https://hipertextual.com/mobile/google-cambia-gmail-para-siempre-ahora-se-usa-con-la-voz-y-tiene-ia-en-todas-partes/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/01/gemini-gmail.jpg?fit=1024%2C574&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-02T11:59:43.000Z",
+      "fechaAgregada": "2026-07-03T10:35:09.551Z"
+    },
+    {
+      "id": "4be15f6d-d90d-447d-81fc-323737cde8ee",
+      "titulo": "Efectos perjudiciales de la inteligencia artificial (IA)",
+      "resumen": "Un equipo de investigadores de prestigiosas universidades inglesas y norteamericanas alertan sobre los posibles inconvenientes de un uso inadecuado de esta tecnología",
+      "url": "https://elpais.com/ciencia/materia-gris/2026-06-22/efectos-perjudiciales-de-la-inteligencia-artificial-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V6JK24VDEBDMFASOIWIDFKS63Y.jpg?auth=4bc06f515cf026880ce62f6b21680e5c6683ab1a71455277a59d9629f7be8037",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T03:30:01.000Z",
+      "fechaAgregada": "2026-07-03T10:35:10.476Z"
+    },
+    {
+      "id": "413dad3e-1259-44e1-a116-bbf58b31a7e8",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/131/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-03T10:35:10.476Z"
+    },
+    {
+      "id": "b6460faf-0200-4507-a7f8-715046d9f228",
+      "titulo": "¿Están obsoletas las matemáticas? Los investigadores replantean para qué sirven en la era de la IA",
+      "resumen": "OpenAI y Google han resuelto problemas que llevaban décadas sin solución. La comunidad científica ha empezado a preguntarse dónde poner los límites de las máquinas",
+      "url": "https://elpais.com/tecnologia/2026-06-17/estan-obsoletas-las-matematicas-los-investigadores-replantean-para-que-sirven-en-la-era-de-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJZYTTNARFDPLK7N3QRJ4MHDUU.jpg?auth=0d5aad7e71b117869b9fbb1048a4b7ba4c6c47df25940b820b67f05850a48968",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T03:30:01.000Z",
+      "fechaAgregada": "2026-07-03T10:35:10.476Z"
+    },
+    {
+      "id": "85068fd3-4aec-4ecc-9a10-d1a98eb664c5",
+      "titulo": "Qué puede hacer Europa si EE UU bloquea el acceso a la mejor IA: “Estamos en segunda o tercera división”",
+      "resumen": "El Gobierno de Trump ha prohibido el modelo Fable, el mejor de Anthropic, a los no estadounidenses. Las consecuencias para el resto de países son difíciles de prever",
+      "url": "https://elpais.com/tecnologia/2026-06-16/que-puede-hacer-europa-si-ee-uu-bloquea-el-acceso-a-la-mejor-ia-estamos-en-segunda-o-tercera-division.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L2BSNIO5NJHNXLEMHTYD2GR2T4.jpg?auth=1e4a4902eb777df1fa1ad642ae0253bd4bb82eeb70bb708876c6ad6161e1597c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T03:30:01.000Z",
+      "fechaAgregada": "2026-07-03T10:35:10.476Z"
+    },
+    {
+      "id": "0c4bb27f-c1ad-475a-8d4d-aa0a3cd38b5c",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-03T10:35:10.326Z"
+    },
+    {
+      "id": "719f22e6-102e-410d-913c-e5faa83396d8",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-03T10:35:10.327Z"
+    },
+    {
+      "id": "a214bdf6-59d9-4b11-93e5-4404c70a5d61",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-03T10:35:10.327Z"
+    }
+  ]
+}
