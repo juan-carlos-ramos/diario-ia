@@ -1,0 +1,150 @@
+{
+  "fecha": "2026-07-05",
+  "generado": "2026-07-05T10:12:56.048Z",
+  "total": 13,
+  "noticias": [
+    {
+      "id": "61aaee8e-2b87-4888-9447-df16705b3630",
+      "titulo": "La IA te puede quitar el trabajo, pero no lo va a hacer. A las empresas les han colado un Caballo de Troya y se están dando cuenta ahora",
+      "resumen": "Seguro que durante el último año has escuchado algo similar a \"La IA te va a quitar el trabajo\". Hoy tengo buenas noticias para ti. No las mejores, pero sí buenas. La inteligencia artificial está cambiando el mundo empresarial, hace cosas increíbles y todo apunta a que solo estamos viendo la punta d",
+      "url": "https://hipertextual.com/inteligencia-artificial/la-ia-te-puede-quitar-el-trabajo-pero-no-lo-va-a-hacer-a-las-empresas-les-han-colado-un-caballo-de-troya-y-se-estan-dando-cuenta-ahora/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/IA.jpg?fit=1024%2C680&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-05T10:00:00.000Z",
+      "fechaAgregada": "2026-07-05T10:12:47.239Z"
+    },
+    {
+      "id": "666b7e86-9915-4f30-a640-f2bd3e064407",
+      "titulo": "Así es MiMo Claw, la apuesta de Xiaomi por los agentes de inteligencia artificial",
+      "resumen": "Ahora que los asistentes inteligentes están en todas partes y millones de personas los utilizan a diario en sus ordenadores, tabletas y teléfonos móviles, los agentes de IA son el siguiente paso en la evolución de la inteligencia artificial generativa. Ya sea para ayudar a programar código, apps o s",
+      "url": "https://hipertextual.com/guias/mimo-claw-agente-ia-xiaomi-openclaw/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Xiaomi-MiMo-Claw.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-05T07:00:00.000Z",
+      "fechaAgregada": "2026-07-05T10:12:47.239Z"
+    },
+    {
+      "id": "44ca7397-71ab-4dc5-aa3f-85bd5a4cd0db",
+      "titulo": "El gran tapado de la IA: el gigante de los váteres inteligentes japonés gastará 500 millones en chips del futuro",
+      "resumen": "Si has viajado a Asia a países como Japón, China o Singapur, es posible que a lo largo de tu periplo hayas puesto las posaderas en un inodoro inteligente. Y también es probable que ese vater inteligente fuera de la marca TOTO. La firma nipona es famosa principalmente por sus WC, pero que su core sea",
+      "url": "https://www.xataka.com/empresas-y-economia/gran-tapado-ia-mayor-fabricante-wc-inteligentes-japon-va-a-gastar-500-millones-chips-futuro",
+      "imagen": "https://i.blogs.es/43d8e7/totito/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-04T12:00:43.000Z",
+      "fechaAgregada": "2026-07-05T10:12:47.077Z"
+    },
+    {
+      "id": "8f72b770-c6d0-4510-b1f9-b71bee13a13b",
+      "titulo": "Esta IA china ya es igual de poderosa que Claude Mythos y puedes usarla gratis",
+      "resumen": "Una IA china de código abierto está poniendo de cabeza a los sistemas más avanzados de Occidente. A unas semanas de debutar en el mercado, GLM-5.2 ya está al nivel de Claude Mythos en tareas de ciberseguridad. Según los reportes más recientes, el modelo puede descubrir vulnerabilidades igual o mejor",
+      "url": "https://hipertextual.com/inteligencia-artificial/glm-5-2-ia-china-codigo-abierto-claude-mythos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/GLM-5-2-CHINA.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-04T12:00:00.000Z",
+      "fechaAgregada": "2026-07-05T10:12:47.239Z"
+    },
+    {
+      "id": "7d13296c-90e5-4fe0-a0a7-1287f8fdee11",
+      "titulo": "Meta limita una función de sus gafas inteligentes y abre un peligroso precedente",
+      "resumen": "Durante años, las suscripciones han demostrado ser un modelo válido para acceder a servicios que requieren una infraestructura continua. Nadie se sorprende ya de pagar por almacenamiento en la nube, plataformas de streaming o asistentes de inteligencia artificial que dependen de enormes centros de d",
+      "url": "https://www.muycomputer.com/2026/07/02/meta-limita-una-funcion-de-sus-gafas-inteligentes-y-abre-un-peligroso-precedente/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/Meta-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-02T18:12:35.000Z",
+      "fechaAgregada": "2026-07-05T10:12:56.047Z"
+    },
+    {
+      "id": "86bd7f33-e546-4fa5-be40-c8d439572f01",
+      "titulo": "Copilot estuvo a punto de convertirse en el corazón de Windows",
+      "resumen": "Hubo un momento en el Microsoft quería convertir Copilot en el centro absoluto de toda su estrategia. No bastaba con integrar la inteligencia artificial en Windows o en Microsoft 365; Copilot empezó a aparecer en prácticamente todos los productos y servicios de la compañía, alimentando la sensación",
+      "url": "https://www.muycomputer.com/2026/07/02/copilot-estuvo-a-punto-de-convertirse-en-el-corazon-de-windows/",
+      "imagen": "https://picsum.photos/seed/365/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-02T16:45:18.000Z",
+      "fechaAgregada": "2026-07-05T10:12:56.047Z"
+    },
+    {
+      "id": "f31b41de-c761-4647-826b-5b0126d1a127",
+      "titulo": "Efectos perjudiciales de la inteligencia artificial (IA)",
+      "resumen": "Un equipo de investigadores de prestigiosas universidades inglesas y norteamericanas alertan sobre los posibles inconvenientes de un uso inadecuado de esta tecnología",
+      "url": "https://elpais.com/ciencia/materia-gris/2026-06-22/efectos-perjudiciales-de-la-inteligencia-artificial-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V6JK24VDEBDMFASOIWIDFKS63Y.jpg?auth=4bc06f515cf026880ce62f6b21680e5c6683ab1a71455277a59d9629f7be8037",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T03:30:01.000Z",
+      "fechaAgregada": "2026-07-05T10:12:48.224Z"
+    },
+    {
+      "id": "50b599d6-a713-4f83-afb9-90174b8f489f",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/465/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-05T10:12:48.225Z"
+    },
+    {
+      "id": "6557180a-1b58-4bce-b8ed-ac3b7a26029a",
+      "titulo": "¿Están obsoletas las matemáticas? Los investigadores replantean para qué sirven en la era de la IA",
+      "resumen": "OpenAI y Google han resuelto problemas que llevaban décadas sin solución. La comunidad científica ha empezado a preguntarse dónde poner los límites de las máquinas",
+      "url": "https://elpais.com/tecnologia/2026-06-17/estan-obsoletas-las-matematicas-los-investigadores-replantean-para-que-sirven-en-la-era-de-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJZYTTNARFDPLK7N3QRJ4MHDUU.jpg?auth=0d5aad7e71b117869b9fbb1048a4b7ba4c6c47df25940b820b67f05850a48968",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T03:30:01.000Z",
+      "fechaAgregada": "2026-07-05T10:12:48.224Z"
+    },
+    {
+      "id": "7692ec46-967d-4906-a658-96c1fa5037f0",
+      "titulo": "Qué puede hacer Europa si EE UU bloquea el acceso a la mejor IA: “Estamos en segunda o tercera división”",
+      "resumen": "El Gobierno de Trump ha prohibido el modelo Fable, el mejor de Anthropic, a los no estadounidenses. Las consecuencias para el resto de países son difíciles de prever",
+      "url": "https://elpais.com/tecnologia/2026-06-16/que-puede-hacer-europa-si-ee-uu-bloquea-el-acceso-a-la-mejor-ia-estamos-en-segunda-o-tercera-division.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L2BSNIO5NJHNXLEMHTYD2GR2T4.jpg?auth=1e4a4902eb777df1fa1ad642ae0253bd4bb82eeb70bb708876c6ad6161e1597c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T03:30:01.000Z",
+      "fechaAgregada": "2026-07-05T10:12:48.225Z"
+    },
+    {
+      "id": "a1a1ad02-30f5-450d-8f8d-bae19a407248",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-05T10:12:48.135Z"
+    },
+    {
+      "id": "f38c49ac-853e-489a-9244-555c2511844f",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-05T10:12:48.135Z"
+    },
+    {
+      "id": "d873ee1e-39a5-4bf0-ae41-5955213b9e52",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-05T10:12:48.135Z"
+    }
+  ]
+}
