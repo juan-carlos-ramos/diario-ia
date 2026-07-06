@@ -1,0 +1,106 @@
+{
+  "fecha": "2026-07-06",
+  "generado": "2026-07-06T12:04:44.079Z",
+  "total": 9,
+  "noticias": [
+    {
+      "id": "23267b23-8e92-4c81-977e-759c71e5ad21",
+      "titulo": "\"La idea de hacer un móvil hace que quiera morirme\": dijo Musk. Dos años después, está dentrísimo con su prototipo de móvil con IA",
+      "resumen": "En octubre de 2024, Elon Musk apareció en un acto electoral en Pensilvania, y allí afirmó que \"La idea de hacer un móvil hace que quiera morirme\" porque era \"mucho trabajo\", pero después añadió que \"si tenemos que hacer un móvil, lo haremos\". Y eso es lo que parece que está pasando.\nPrototipo en mar",
+      "url": "https://www.xataka.com/moviles/idea-hacer-movil-hace-que-quiera-morirme-dijo-musk-dos-anos-despues-esta-dentrisimo-su-prototipo-movil-ia",
+      "imagen": "https://i.blogs.es/f62eb0/musk-starlink/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-06T10:00:54.000Z",
+      "fechaAgregada": "2026-07-06T12:04:36.311Z"
+    },
+    {
+      "id": "3555e2aa-d1e4-4769-8388-14a83913edea",
+      "titulo": "Microsoft ha lanzado su propia distribución de Linux, pero no es lo que piensas",
+      "resumen": "La industria tecnológica actual muestra cómo las viejas rivalidades se han transformado con el paso de los años. En 2001, el entonces CEO de Microsoft, Steve Ballmer, describió Linux como un cáncer que se adhería a todo lo que tocaba en términos de propiedad intelectual. Dos décadas después, esa mis",
+      "url": "https://hipertextual.com/software/microsoft-azure-linux-distribucion-nube-open-source/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2016/11/Microsoft-Linux.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-05T15:00:00.000Z",
+      "fechaAgregada": "2026-07-06T12:04:36.473Z"
+    },
+    {
+      "id": "325ffacb-fc16-41c7-89f1-c781df9b3ea2",
+      "titulo": "Efectos perjudiciales de la inteligencia artificial (IA)",
+      "resumen": "Un equipo de investigadores de prestigiosas universidades inglesas y norteamericanas alertan sobre los posibles inconvenientes de un uso inadecuado de esta tecnología",
+      "url": "https://elpais.com/ciencia/materia-gris/2026-06-22/efectos-perjudiciales-de-la-inteligencia-artificial-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V6JK24VDEBDMFASOIWIDFKS63Y.jpg?auth=4bc06f515cf026880ce62f6b21680e5c6683ab1a71455277a59d9629f7be8037",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T03:30:01.000Z",
+      "fechaAgregada": "2026-07-06T12:04:38.887Z"
+    },
+    {
+      "id": "da6ee73b-1d0d-4d1d-9a9c-5c74b30ba69b",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/423/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-06T12:04:38.887Z"
+    },
+    {
+      "id": "d7bc3376-e206-44b0-8bee-aacab776746e",
+      "titulo": "¿Están obsoletas las matemáticas? Los investigadores replantean para qué sirven en la era de la IA",
+      "resumen": "OpenAI y Google han resuelto problemas que llevaban décadas sin solución. La comunidad científica ha empezado a preguntarse dónde poner los límites de las máquinas",
+      "url": "https://elpais.com/tecnologia/2026-06-17/estan-obsoletas-las-matematicas-los-investigadores-replantean-para-que-sirven-en-la-era-de-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJZYTTNARFDPLK7N3QRJ4MHDUU.jpg?auth=0d5aad7e71b117869b9fbb1048a4b7ba4c6c47df25940b820b67f05850a48968",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T03:30:01.000Z",
+      "fechaAgregada": "2026-07-06T12:04:38.887Z"
+    },
+    {
+      "id": "4bf3efe6-a154-4437-a868-f0722cbab2ea",
+      "titulo": "Qué puede hacer Europa si EE UU bloquea el acceso a la mejor IA: “Estamos en segunda o tercera división”",
+      "resumen": "El Gobierno de Trump ha prohibido el modelo Fable, el mejor de Anthropic, a los no estadounidenses. Las consecuencias para el resto de países son difíciles de prever",
+      "url": "https://elpais.com/tecnologia/2026-06-16/que-puede-hacer-europa-si-ee-uu-bloquea-el-acceso-a-la-mejor-ia-estamos-en-segunda-o-tercera-division.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L2BSNIO5NJHNXLEMHTYD2GR2T4.jpg?auth=1e4a4902eb777df1fa1ad642ae0253bd4bb82eeb70bb708876c6ad6161e1597c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-16T03:30:01.000Z",
+      "fechaAgregada": "2026-07-06T12:04:38.887Z"
+    },
+    {
+      "id": "7c201cc8-50ed-476a-ad97-b9f727ca39fb",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-06T12:04:37.800Z"
+    },
+    {
+      "id": "38b3c3df-6a29-4a7b-93da-f1fea31f2142",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-06T12:04:37.800Z"
+    },
+    {
+      "id": "7b57b2ef-c8f5-4c39-af35-73ee0c900a95",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-06T12:04:37.800Z"
+    }
+  ]
+}
