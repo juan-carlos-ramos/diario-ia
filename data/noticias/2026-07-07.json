@@ -1,0 +1,150 @@
+{
+  "fecha": "2026-07-07",
+  "generado": "2026-07-07T10:55:50.562Z",
+  "total": 13,
+  "noticias": [
+    {
+      "id": "0fd69e5a-ff07-4b7a-a1ef-e1d9d294bac7",
+      "titulo": "El 5G español aprueba en velocidad, pero suspende donde más importa para la IA",
+      "resumen": "El 5G español cumple en muchos aspectos que tradicionalmente se han mirado para medir el rendimiento de una red. Sin embargo, la inteligencia artificial empieza a exigir algo más que velocidad de descarga. Un nuevo informe ha analizado 22 mercados y ha concluido que España registra una latencia base",
+      "url": "https://www.adslzone.net/noticias/redes/rendimiento-5g-espana-latencia/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/5g-vs-ia.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-07T10:25:30.000Z",
+      "fechaAgregada": "2026-07-07T10:55:47.735Z"
+    },
+    {
+      "id": "2cbea657-755c-4d36-be6d-9f0170874e36",
+      "titulo": "ChatGPT cambia los límites por sorpresa y deja a sus usuarios de pago sin poder generar imágenes",
+      "resumen": "La herramienta de IA desarrollada por OpenAI sigue los pasos que Anthropic impuso a sus usuarios en Claude y ha comenzado a restringir muchas de sus funciones de forma mucho más severa a lo que lo hacía hasta el momento actual. Una decisión que no ha sentado nada bien en su comunidad, especialmente,",
+      "url": "https://www.adslzone.net/noticias/ia/chatgpt-cambia-limites-generacion-imagenes/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/mensaje-error-chatgpt-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-07T09:57:24.000Z",
+      "fechaAgregada": "2026-07-07T10:55:47.735Z"
+    },
+    {
+      "id": "5c5efdd9-49d4-4ad8-8c59-69c08a429b2f",
+      "titulo": "Ya ni memoria DDR4 podremos comprar: ha subido un 20% en el último mes",
+      "resumen": "Después de ver cómo la memoria DDR5 ha subido considerablemente de precio en el último año, muchos han sido los usuarios que han optado por no actualizar sus equipos, reemplazando únicamente el procesador por uno más potente, un movimiento que ha aprovechado especialmente AMD devolviendo al mercado",
+      "url": "https://hardzone.es/noticias/componentes/subida-precio-memoria-ddr4/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/ram-ddr4.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-07T07:02:02.000Z",
+      "fechaAgregada": "2026-07-07T10:55:49.268Z"
+    },
+    {
+      "id": "6c7eb08a-8509-4a2d-95a5-593c5f3546fa",
+      "titulo": "Android Auto cambia la forma de escuchar música y pierde estas dos funciones",
+      "resumen": "El sistema de infoentretenimiento de Google continúa con su vertiginoso ritmo de actualizaciones. Recientemente, te contábamos cómo la firma había sustituido la clásica línea de reproducción en horizontal para dar paso a la nueva vista ondulada. Ahora, nos enteramos de dos funciones que han desappar",
+      "url": "https://www.adslzone.net/e-movilidad/noticias-tecnologia/android-auto-cambia-forma-escuchar-musica/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/android-auto-botones-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-07T05:57:14.000Z",
+      "fechaAgregada": "2026-07-07T10:55:47.736Z"
+    },
+    {
+      "id": "51fa32b3-e3e4-4ca5-9975-0a9f4e277af6",
+      "titulo": "Microsoft sube los precios de Office: prepárate a pagar más por «mejoras en la inteligencia artificial»",
+      "resumen": "Microsoft ha puesto en marcha una subida en los precios de Office que afectará a millones de usuarios en Europa y el resto del mundo. El incremento, anunciado meses atrás, entró en vigor el pasado 1 de julio con aumentos que alcanzan hasta el 13% en planes empresariales. La compañía afirma que el su",
+      "url": "https://hipertextual.com/software/microsoft-subida-precios-office-365-copilot/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/09/office-word-excel-powerpoint-microsoft-scaled.jpg?fit=1024%2C575&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-06T19:46:00.000Z",
+      "fechaAgregada": "2026-07-07T10:55:43.366Z"
+    },
+    {
+      "id": "8fe48b0d-1127-445a-bbfa-e5291ffa5bc1",
+      "titulo": "Los navegadores de IA llegaron con la promesa de cambiarlo todo. No solo no lo han hecho: son un peligro",
+      "resumen": "Los navegadores de inteligencia artificial no llegaron prometiendo una pestaña más lista ni un buscador con mejores respuestas. Llegaron con una ambición bastante mayor: OpenAI habla de acercarse a un “verdadero superasistente”, Perplexity resume Comet como “el navegador que trabaja para ti” y Googl",
+      "url": "https://www.xataka.com/seguridad/navegadores-ia-llegaron-promesa-cambiarlo-todo-no-solo-no-han-hecho-peligro",
+      "imagen": "https://i.blogs.es/fec3a6/navegadores-con-ia-amenaza-de-seguridad-1/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-06T19:30:54.000Z",
+      "fechaAgregada": "2026-07-07T10:55:43.147Z"
+    },
+    {
+      "id": "426cb9b5-d3ea-4919-82c5-4f25212f2ad6",
+      "titulo": "Descubren el primer ataque de ransomware generado por completo por una IA autónoma: tu peor pesadilla se vuelve realidad",
+      "resumen": "La inteligencia artificial aplicada a la cibercriminalidad acaba de dar un salto evolutivo que asusta. Investigadores han detectado el primer ataque de ransomware generado por completo por un agente de IA, que no solo sorprende por su peligrosidad, sino especialmente por su capacidad de adaptación.",
+      "url": "https://hipertextual.com/inteligencia-artificial/jadepuffer-primer-ataque-ransomware-ia-autonoma/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/09/Laptop-Ransomware-Extortion.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-06T13:50:57.000Z",
+      "fechaAgregada": "2026-07-07T10:55:43.366Z"
+    },
+    {
+      "id": "b176278b-5a4e-46c0-89ba-dc1a0cecc4a1",
+      "titulo": "Efectos perjudiciales de la inteligencia artificial (IA)",
+      "resumen": "Un equipo de investigadores de prestigiosas universidades inglesas y norteamericanas alertan sobre los posibles inconvenientes de un uso inadecuado de esta tecnología",
+      "url": "https://elpais.com/ciencia/materia-gris/2026-06-22/efectos-perjudiciales-de-la-inteligencia-artificial-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V6JK24VDEBDMFASOIWIDFKS63Y.jpg?auth=4bc06f515cf026880ce62f6b21680e5c6683ab1a71455277a59d9629f7be8037",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T03:30:01.000Z",
+      "fechaAgregada": "2026-07-07T10:55:45.974Z"
+    },
+    {
+      "id": "e5f27ad1-690a-4fbe-880d-13886511783e",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/488/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-07T10:55:45.975Z"
+    },
+    {
+      "id": "b5504b1c-5973-4e02-986b-b86a2ead6253",
+      "titulo": "¿Están obsoletas las matemáticas? Los investigadores replantean para qué sirven en la era de la IA",
+      "resumen": "OpenAI y Google han resuelto problemas que llevaban décadas sin solución. La comunidad científica ha empezado a preguntarse dónde poner los límites de las máquinas",
+      "url": "https://elpais.com/tecnologia/2026-06-17/estan-obsoletas-las-matematicas-los-investigadores-replantean-para-que-sirven-en-la-era-de-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJZYTTNARFDPLK7N3QRJ4MHDUU.jpg?auth=0d5aad7e71b117869b9fbb1048a4b7ba4c6c47df25940b820b67f05850a48968",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T03:30:01.000Z",
+      "fechaAgregada": "2026-07-07T10:55:45.975Z"
+    },
+    {
+      "id": "8cd7e2c5-ebed-40ba-8aa4-842bfc8153e7",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-07T10:55:44.824Z"
+    },
+    {
+      "id": "60aa70cd-10af-4684-ae31-9cbffafe76a7",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-07T10:55:44.824Z"
+    },
+    {
+      "id": "a534e596-bae3-484f-a46e-d6eddcc34a0e",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-07T10:55:44.824Z"
+    }
+  ]
+}
