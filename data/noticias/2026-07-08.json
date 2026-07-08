@@ -1,0 +1,150 @@
+{
+  "fecha": "2026-07-08",
+  "generado": "2026-07-08T10:18:15.012Z",
+  "total": 13,
+  "noticias": [
+    {
+      "id": "d0506692-b31d-4050-bfaa-79f31afeb22f",
+      "titulo": "Starlink prepara su gran revolución: más de 100.000 nuevos satélites, velocidades más rápidas e IA",
+      "resumen": "El objetivo que busca la firma con su sistema de tercera generación es mejorar el rendimiento de la conectividad satelital y, además, pasar a ser compatible con el creciente número de sistemas de IA que necesitan de conexión constante para poder funcionar, como te vamos a explicar. \nEl lunes pasado,",
+      "url": "https://www.adslzone.net/noticias/internet/starlink-desplegara-mas-satelites-tercera-generacion/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/space-x-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-08T07:57:27.000Z",
+      "fechaAgregada": "2026-07-08T10:18:11.717Z"
+    },
+    {
+      "id": "d1cdb72e-c3fe-4a25-8638-e1719faf6565",
+      "titulo": "Las CPU Intel Nova Lake pegan un inmenso salto de rendimiento en vídeo, ¿sabes por qué?",
+      "resumen": "Durante años, Intel ha tenido una relación complicada con una tecnología llamada AVX‑512, un conjunto de instrucciones que permite a los procesadores trabajar con datos más grandes y realizar operaciones complejas mucho más rápido.\nAunque por su nombre no nos dice nada, su función es fácil de entend",
+      "url": "https://hardzone.es/noticias/procesadores/procesadores-nova-lake-intel-avx-512/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/portatil-procesador-intel.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-08T07:02:59.000Z",
+      "fechaAgregada": "2026-07-08T10:18:13.981Z"
+    },
+    {
+      "id": "13d81c10-b614-4bba-ba03-d3e69c411515",
+      "titulo": "EEUU enseñó que el acceso a la IA avanzada puede cortarse. China estudia lo mismo, según Reuters, y Europa mira desde fuera",
+      "resumen": "Cuando Estados Unidos activó controles de exportación que acabaron llevando a Anthropic a desactivar Fable 5 y Mythos 5 para todos sus usuarios, quedó expuesta una realidad difícil de ignorar: el acceso a la IA avanzada puede cortarse. No porque el modelo desaparezca, ni porque deje de funcionar téc",
+      "url": "https://www.xataka.com/robotica-e-ia/eeuu-enseno-que-acceso-a-ia-avanzada-puede-cortarse-china-estudia-reuters-europa-mira-fuera",
+      "imagen": "https://i.blogs.es/5c04ed/china-restringe-su-ia-concepto/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-07T23:02:10.000Z",
+      "fechaAgregada": "2026-07-08T10:18:07.814Z"
+    },
+    {
+      "id": "b7c7d2f2-9a97-4ad6-859d-2803b4c85f17",
+      "titulo": "Así funciona Muse Image, la IA de Meta para crear fotos en WhatsApp e Instagram",
+      "resumen": "Meta ha presentado Muse Image, su último modelo de generación de imágenes con inteligencia artificial. La nueva herramienta permitirá crear imágenes dentro Instagram y WhatsApp con solo una instrucción de texto, tal y como hacemos con Gemini o ChatGPT. Con este lanzamiento, la empresa busca competir",
+      "url": "https://hipertextual.com/inteligencia-artificial/muse-image-meta-ia-generacion-imagenes/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/meta-muse-image.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-07T20:35:00.000Z",
+      "fechaAgregada": "2026-07-08T10:18:08.928Z"
+    },
+    {
+      "id": "892e853e-a297-4ae9-a86d-5b46f017ce6c",
+      "titulo": "La mejor función de Claude ya está disponible en iPhone y Android",
+      "resumen": "Claude Cowork ya no depende de tu portátil para funcionar. Anthropic anunció que una de sus herramientas más populares está disponible en el móvil y la web. Los usuarios podrán delegar tareas completas a la inteligencia artificial desde el iPhone, Android o iPad, por lo que ya no será necesario depe",
+      "url": "https://hipertextual.com/inteligencia-artificial/claude-cowork-movil-web/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/claude-cowork-mobile.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-07T17:35:00.000Z",
+      "fechaAgregada": "2026-07-08T10:18:08.928Z"
+    },
+    {
+      "id": "2a1d7ecf-d5ed-4b9d-8eb3-5c29f05f07a6",
+      "titulo": "El modelo de IA Qwen de Alibaba es la nueva joya de la corona. El único problema es que no ganan dinero con él",
+      "resumen": "Jack Ma regresaba cual hijo pródigo al panorama internacional en febrero del año pasado. Lo hacía en un acto junto al presidente de China, Xi Jinping, y aquello suponía un importante respaldo para el líder tecnológico. Desde entonces su empresa, Alibaba, no ha parado de inundarnos con sus modelos ab",
+      "url": "https://www.xataka.com/robotica-e-ia/modelo-ia-qwen-alibaba-nueva-joya-corona-unico-problema-que-no-ganan-dinero",
+      "imagen": "https://i.blogs.es/ce09f2/qwen-alibaba-modelos-ia-abiertos/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-07T14:30:40.000Z",
+      "fechaAgregada": "2026-07-08T10:18:07.815Z"
+    },
+    {
+      "id": "b0448ee0-4ee5-4af2-b3dd-ccdb534b4655",
+      "titulo": "Samsung gana 19 veces más que hace un año. Los inversores han reaccionado hundiendo la acción un 7%",
+      "resumen": "Samsung ha anunciado que su beneficio operativo se disparó hasta los 89,4 billones de wones (58.400 millones de dólares) en el segundo trimestre de 2026. Eso representa un 1.810% más que lo que logró el año pasado, es decir, multiplicó por 19 la cifra que consiguió en el mismo periodo de 2025. Lo cu",
+      "url": "https://www.xataka.com/empresas-y-economia/samsung-gana-19-veces-que-hace-ano-inversores-han-reaccionado-hundiendo-accion-7",
+      "imagen": "https://i.blogs.es/644cf3/samsung-memorias/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-07T14:16:40.000Z",
+      "fechaAgregada": "2026-07-08T10:18:07.815Z"
+    },
+    {
+      "id": "ec72aa10-9126-4498-b68e-94c493a9f03c",
+      "titulo": "Ya ni memoria DDR4 podremos comprar: ha subido un 20% en el último mes",
+      "resumen": "Después de ver cómo la memoria DDR5 ha subido considerablemente de precio en el último año, muchos han sido los usuarios que han optado por no actualizar sus equipos, reemplazando únicamente el procesador por uno más potente, un movimiento que ha aprovechado especialmente AMD devolviendo al mercado",
+      "url": "https://hardzone.es/noticias/componentes/subida-precio-memoria-ddr4/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/ram-ddr4.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-07T07:02:02.000Z",
+      "fechaAgregada": "2026-07-08T10:18:13.981Z"
+    },
+    {
+      "id": "7fff50ac-0feb-47ca-a297-0e165e74ad51",
+      "titulo": "Efectos perjudiciales de la inteligencia artificial (IA)",
+      "resumen": "Un equipo de investigadores de prestigiosas universidades inglesas y norteamericanas alertan sobre los posibles inconvenientes de un uso inadecuado de esta tecnología",
+      "url": "https://elpais.com/ciencia/materia-gris/2026-06-22/efectos-perjudiciales-de-la-inteligencia-artificial-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V6JK24VDEBDMFASOIWIDFKS63Y.jpg?auth=4bc06f515cf026880ce62f6b21680e5c6683ab1a71455277a59d9629f7be8037",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-22T03:30:01.000Z",
+      "fechaAgregada": "2026-07-08T10:18:09.807Z"
+    },
+    {
+      "id": "ce73c328-a457-4896-9342-b9b8f21dbfcb",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/447/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-08T10:18:09.807Z"
+    },
+    {
+      "id": "dcfb1463-81c9-400b-8b9d-821b7bfc7193",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-08T10:18:09.679Z"
+    },
+    {
+      "id": "488992d2-693f-4a7d-926f-16aa7a19749e",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-08T10:18:09.679Z"
+    },
+    {
+      "id": "3ac49b4b-5fd7-44a3-b724-223f247a46dc",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-08T10:18:09.679Z"
+    }
+  ]
+}
