@@ -1,0 +1,227 @@
+{
+  "fecha": "2026-07-10",
+  "generado": "2026-07-10T10:53:34.133Z",
+  "total": 20,
+  "noticias": [
+    {
+      "id": "4d6552aa-832c-498d-b48b-a50e0f7bf7c1",
+      "titulo": "Solo hasta la semana que viene: descuentazos en teles, móviles de gama alta y más por el 27 aniversario de MediaMarkt",
+      "resumen": "Las ofertas y descuentos no paran en verano. Ahora mismo es MediaMarkt la que está celebrando su 27 aniversario y, como de costumbre, tiene activos un montón de chollos en tecnología. Hay de todo: desde televisores hasta electrodomésticos, pasando por tablets, móviles, portátiles, auriculares e incl",
+      "url": "https://www.xataka.com/seleccion/solo-semana-que-viene-descuentazos-teles-moviles-gama-alta-27-aniversario-mediamarkt",
+      "imagen": "https://i.blogs.es/f3a5e2/portada-aniversario-de-mediamarkt-s25-xiaomi-pad-8/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T10:15:57.000Z",
+      "fechaAgregada": "2026-07-10T10:53:26.540Z"
+    },
+    {
+      "id": "6a4b6d3a-e086-4bb8-bb9f-2154b87e341b",
+      "titulo": "Anthropic responde a ChatGPT 5.6 dando una buena noticia a todos sus usuarios",
+      "resumen": "En la carrera por alzarse con el liderazgo de la Inteligencia Artificial, cualquier movimiento que realiza una de las empresas líderes es contestado inmediatamente por su principal competidor. Esto es lo que ha ocurrido con Anthropic una vez que OpenAI ha presentado oficialmente ChatGPT 5.6 Sol, Tie",
+      "url": "https://www.adslzone.net/noticias/ia/anthropic-elimina-limites-uso-esta-semana/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/chat-gpt-5-6-claude-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T09:57:20.000Z",
+      "fechaAgregada": "2026-07-10T10:53:30.263Z"
+    },
+    {
+      "id": "38640400-4bb0-4bc5-a3bf-2037688e084a",
+      "titulo": "GPT-5.6 probablemente sea el mejor modelo de IA del mundo. Y precisamente por eso, la mayoría no lo necesita",
+      "resumen": "Ayer OpenAI lanzaba públicamente GPT-5.6, su nueva familia de modelos de IA con tres variantes: Sol, la más potente, Terra, más equilibrada, y Luna, la más eficiente en costes. Una idea sobresalía en ese lanzamiento: la de que GPT-5.6 probablemente sea el mejor modelo del mundo.\n\rY precisamente por",
+      "url": "https://www.xataka.com/robotica-e-ia/gpt-5-6-probablemente-sea-mejor-modelo-ia-mundo-precisamente-eso-mayoria-no-necesita",
+      "imagen": "https://i.blogs.es/1960e7/sol-gpt-5-6-openai/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T08:15:58.000Z",
+      "fechaAgregada": "2026-07-10T10:53:26.542Z"
+    },
+    {
+      "id": "23db5120-1520-4d94-9a90-1c3e1c9ee85c",
+      "titulo": "Revolut ofrece a sus clientes operar con criptomonedas usando Gemini, Claude y otras herramientas de IA",
+      "resumen": "El neobanco líder a nivel europeo anuncia un importante cambio para todos aquellos que acostumbran a operar con criptomonedas. A partir de ahora, podrán hacer uso de sus herramientas de IA preferidas, como Claude o Gemini, para llevar a cabo sus operaciones. Y lo mejor de todo es que no será necesar",
+      "url": "https://www.adslzone.net/noticias/fintech/revolut-inteligencia-artificial-operar-criptomonedas/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/revolut-x-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T08:13:16.000Z",
+      "fechaAgregada": "2026-07-10T10:53:30.263Z"
+    },
+    {
+      "id": "fbdec39f-19ee-48e6-9dbe-30c29b8cb5d9",
+      "titulo": "Meta acaba de convertir tus fotos de Instagram en materia prima para su IA sin pedirte permiso: cómo desactivarlo",
+      "resumen": "Meta no es conocida precisamente por ser una empresa que cuide la privacidad de sus usuarios, más bien al contrario. Con su último lanzamiento nos lo han dejado aún más claro si cabe: un generador de imágenes en el que cualquiera puede etiquetar tu cuenta de Instagram y generar deepfakes con tu cara",
+      "url": "https://www.xataka.com/privacidad/meta-acaba-convertir-tus-fotos-instagram-materia-prima-para-su-ia-pedirte-permiso-como-desactivarlo",
+      "imagen": "https://i.blogs.es/b7aa01/instagram-metaai/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T07:31:58.000Z",
+      "fechaAgregada": "2026-07-10T10:53:26.542Z"
+    },
+    {
+      "id": "7324b74b-e03a-43aa-80ca-439c9a681871",
+      "titulo": "GPT-5.6 ya está disponible y llega acompañado de ChatGPT Work",
+      "resumen": "Hace apenas dos semanas, OpenAI sorprendía al anunciar GPT-5.6, pero también por una decisión poco habitual: limitar inicialmente su acceso a un reducido grupo de organizaciones autorizadas por el Gobierno de Estados Unidos. Aquella situación ya forma parte del pasado. La compañía ha recibido el vis",
+      "url": "https://www.muycomputer.com/2026/07/10/gpt-5-6-ya-esta-disponible-y-llega-acompanado-de-chatgpt-work/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/GPT-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T06:03:18.000Z",
+      "fechaAgregada": "2026-07-10T10:53:34.132Z"
+    },
+    {
+      "id": "93ecf8b0-1246-49a0-ad05-8ec96ba5f528",
+      "titulo": "Windows 11 se prepara para cambiar sus actualizaciones mensuales por culpa de la inteligencia artificial",
+      "resumen": "Microsoft cambiará la forma en como recibes las actualizaciones de seguridad de Windows 11. El gigante tecnológico anunció que a partir de ahora vas a recibir más parches en cada actualización mensual. La compañía señaló que este ajuste tiene que ver con el uso masivo de la inteligencia artificial,",
+      "url": "https://hipertextual.com/seguridad/windows-actualizaciones-seguridad-inteligencia-artificial/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/windows-11-1.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T20:17:00.000Z",
+      "fechaAgregada": "2026-07-10T10:53:26.810Z"
+    },
+    {
+      "id": "5b549d60-839d-4a9a-a0b6-015db28b8663",
+      "titulo": "ChatGPT ahora trabaja solo: la nueva IA puede crear presentaciones y hojas de Excel sin ayuda",
+      "resumen": "ChatGPT es una de las aplicaciones más populares de la IA. Pese a ello, Claude la supera en múltiples campos gracias a implementaciones como Code o Cowork, que van más allá de las conversaciones habituales. Para contrarrestar un poco el avance de Anthropic, la compañía ha presentado ChatGPT Work, un",
+      "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-work-agente-ia-openai-funciones/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/chatgpt-work.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T18:57:42.000Z",
+      "fechaAgregada": "2026-07-10T10:53:26.810Z"
+    },
+    {
+      "id": "44975fec-617f-4ad1-a822-71fcc52636fa",
+      "titulo": "OpenAI lanza ChatGPT Work y deja GPT-5.6 Sol, Terra y luna para todos los usuarios",
+      "resumen": "OpenAI ha hecho un evento en directo en el que ha presentado diferentes novedades clave. Entre ellas, GPT-5.6 Sol, Terra y Luna empiezan a desplegarse de forma global para todos los usuarios. Y todo después de que se anunciase una versión preliminar. Lo mejor de todo es que esto es solo una pequeña",
+      "url": "https://www.adslzone.net/noticias/ia/openai-chatgpt-work-gpt-5-6-todos-usuarios/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/gpt-5-6-openai-chatgpt.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T18:17:43.000Z",
+      "fechaAgregada": "2026-07-10T10:53:30.263Z"
+    },
+    {
+      "id": "67de5494-2b39-4b0f-90c9-eb90507309b1",
+      "titulo": "La IA cambiará la forma en que Microsoft protege Windows",
+      "resumen": "Microsoft ha anunciado una importante evolución en su estrategia de seguridad para Windows que tendrá una consecuencia muy visible para los usuarios: el sistema operativo recibirá un mayor número de actualizaciones de seguridad. La explicación está en la creciente utilización de inteligencia artific",
+      "url": "https://www.muycomputer.com/2026/07/09/la-ia-cambiara-la-forma-en-que-microsoft-protege-windows/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/Windows-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T16:47:25.000Z",
+      "fechaAgregada": "2026-07-10T10:53:34.132Z"
+    },
+    {
+      "id": "1451e265-4a9a-4f55-b407-99f8ecd98993",
+      "titulo": "Las Big Tech chinas tienen un plan: la mayor apuesta de su historia a las fabricantes de chips nacionales",
+      "resumen": "China ha definido una serie de pasos para convertirse en la primera potencia mundial. Dentro de esa hoja de ruta entra la soberanía tecnológica y, para lograr el objetivo, es necesaria una inversión mayor en tecnología local. El campo de batalla actual es el de los chips de IA, un segmento que Nvidi",
+      "url": "https://www.xataka.com/empresas-y-economia/big-tech-chinas-tienen-plan-mayor-apuesta-su-historia-a-fabricantes-chips-nacionales",
+      "imagen": "https://i.blogs.es/a462a7/original/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T16:31:20.000Z",
+      "fechaAgregada": "2026-07-10T10:53:26.544Z"
+    },
+    {
+      "id": "9dd7edf6-8a0f-4078-a3b0-651115df7e45",
+      "titulo": "Hacer una mano robótica es \"100 veces más difícil\" que construir el robot entero. Estas empresas chinas están decididas a resolverlo",
+      "resumen": "China ha logrado que sus robots humanoides corran, se peleen e incluso que ejecuten coreografías con una precisión asombrosa. Esa era la parte fácil. La clave para que un humanoide deje de ser una atracción de feria y se convierta en un producto útil no está en las piernas, el equilibrio o su \"cereb",
+      "url": "https://www.xataka.com/robotica-e-ia/hacer-mano-robotica-100-veces-dificil-que-construir-robot-entero-estas-empresas-chinas-estan-decididas-a-resolverlo",
+      "imagen": "https://i.blogs.es/bf7413/magnific_elimina-el-ojo_sorrr1pub8/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T16:01:19.000Z",
+      "fechaAgregada": "2026-07-10T10:53:26.544Z"
+    },
+    {
+      "id": "f9196614-4274-4e1c-a586-825c76cb3bd8",
+      "titulo": "China carga contra Claude Code por un supuesto backdoor que Anthropic niega",
+      "resumen": "Las tensiones entre Estados Unidos y China en el ámbito de la inteligencia artificial vuelven a escribir un nuevo capítulo. En este caso, el foco recae sobre Claude Code, la herramienta de programación basada en IA de Anthropic, a la que las autoridades chinas acusan de incorporar un mecanismo que r",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/china-claude-code-backdoor/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/Claude-Code.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T11:31:31.000Z",
+      "fechaAgregada": "2026-07-10T10:53:32.598Z"
+    },
+    {
+      "id": "88aa1d04-c824-4c6d-af2c-988d4a42e610",
+      "titulo": "Google Fotos ahora convierte tus vídeos en clips de cine con un solo clic. Parece magia, pero es IA",
+      "resumen": "La integración de Gemini en los diferentes servicios de Google nos está dejando cosas impresionantes, y la última función de Google Fotos es solo un ejemplo más. La compañía acaba de integrar su nuevo modelo de vídeo Omni en su servicio de fotos en la nube para que puedas tener una nueva forma de ap",
+      "url": "https://hipertextual.com/tecnologia/google-fotos-ahora-convierte-tus-videos-en-clips-de-cine-con-un-solo-clic-parece-magia-pero-es-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/google-fotos.jpg?fit=1024%2C636&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T08:56:24.000Z",
+      "fechaAgregada": "2026-07-10T10:53:26.810Z"
+    },
+    {
+      "id": "4c391e8d-b8d7-426d-b1d4-7dfe85973114",
+      "titulo": "Las próximas gafas de Meta tienen algo que asusta y que a la vez es súper útil: van a estar grabándote todo el tiempo para que puedas hacer esto",
+      "resumen": "OpenAI no es la única compañía que prepara dispositivos de inteligencia artificial para utilizar en nuestro día a día, durante prácticamente todo el tiempo. Meta también está trabajando en un llamado wearable de IA siempre activo que llegará en forma de gafas inteligentes con una función que no habí",
+      "url": "https://hipertextual.com/tecnologia/las-proximas-gafas-de-meta-tienen-algo-que-asusta-y-que-a-la-vez-es-super-util-van-a-estar-grabandote-todo-el-tiempo-para-que-puedas-hacer-esto/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/06/meta-ray-ban.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T08:42:17.000Z",
+      "fechaAgregada": "2026-07-10T10:53:26.810Z"
+    },
+    {
+      "id": "46ec3185-509b-4132-99ba-8b6fe4042ddd",
+      "titulo": "A Anthropic le sale rentable ser la IA antagonista de Donald Trump",
+      "resumen": "La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores",
+      "url": "https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7DR672DYFVPKBEQHYPDXMSJUIU.jpg?auth=75543e9e4bd8231480d02f143a8947c1bebf97fd43a3c7c66a55b6df7befa1a6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T03:30:01.000Z",
+      "fechaAgregada": "2026-07-10T10:53:28.084Z"
+    },
+    {
+      "id": "1984b59a-c0aa-42b1-b30f-1d46c91f2b1d",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/273/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-10T10:53:28.084Z"
+    },
+    {
+      "id": "caca18a9-1992-4f11-8044-b5052aa7fa99",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-10T10:53:27.930Z"
+    },
+    {
+      "id": "395fc721-fde5-4bfe-9246-74be7fcebb4d",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-10T10:53:27.930Z"
+    },
+    {
+      "id": "8b742dc6-1eb9-4744-9fb5-0d1ce5b32232",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-10T10:53:27.930Z"
+    }
+  ]
+}
