@@ -1,0 +1,172 @@
+{
+  "fecha": "2026-07-11",
+  "generado": "2026-07-11T09:37:36.472Z",
+  "total": 15,
+  "noticias": [
+    {
+      "id": "8f59ac92-37fc-476b-a5dc-6b2b55cac72c",
+      "titulo": "Apple demanda a OpenAI por robo de información confidencial",
+      "resumen": "Apple ha presentado una demanda contra OpenAI y dos exempleados de la compañía ante un tribunal federal de Estados Unidos. Los de Cupertino acusan a la empresa de IA de robo de información confidencial sobre diseño de productos y procesos de fabricación. Según el documento legal, el objetivo de Open",
+      "url": "https://hipertextual.com/apple/apple-demanda-openai-secretos-comerciales/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/apple-logo.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T22:31:43.000Z",
+      "fechaAgregada": "2026-07-11T09:37:31.263Z"
+    },
+    {
+      "id": "64059baf-a56b-4ffe-929e-dbfb50d6d7b2",
+      "titulo": "NVIDIA prepara la RTX 5090 SE, una versión intermedia entre la 5080 y la 5090",
+      "resumen": "A la hora de adquirir una tarjeta gráfica, tenemos muchas opciones, y NVIDIA quiere que tengamos todavía más, y es que tienen pensado lanzar una RTX 5090 SE, una versión intermedia entre las ya conocidas RTX 5080 y RTX 5090, para quienes busquen algo entre una y otra.\nPor tanto, en el día de hoy, va",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/nvidia-prepara-rtx-5090-version-intermedia-entre-5080-5090/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/RTX-5090-SE.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T18:55:30.000Z",
+      "fechaAgregada": "2026-07-11T09:37:35.156Z"
+    },
+    {
+      "id": "938c9157-d3f0-4902-bc27-3d872710e5a3",
+      "titulo": "OpenAI cerrará ChatGPT Atlas y trasladará sus funciones a ChatGPT",
+      "resumen": "Hace apenas unas horas, OpenAI presentaba ChatGPT Work como una de las grandes novedades de su nueva estrategia para convertir ChatGPT en una plataforma de productividad capaz de ir mucho más allá de un simple asistente conversacional. Ahora la compañía ha confirmado otro movimiento que ayuda a ente",
+      "url": "https://www.muycomputer.com/2026/07/10/openai-cerrara-chatgpt-atlas-y-trasladara-sus-funciones-a-chatgpt/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/ChatGPT-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T18:23:42.000Z",
+      "fechaAgregada": "2026-07-11T09:37:36.471Z"
+    },
+    {
+      "id": "a71c8634-f84d-4bae-9dea-449799849709",
+      "titulo": "Los nuevos Grok 4.5 y Muse Spark 1.1 tienen una apuesta rompedora: hacer el 90% de sus rivales al 20% de su precio",
+      "resumen": "Llevamos una semana bastante loca en cuanto a lanzamientos de modelos de IA. Puede que el protagonismo se lo haya llevado la esperada familia GPT-5.6 (con sus variantes Sol, Terra, Luna), pero es que además hemos visto como SpaceXAI lanzaba Grok 4.5 y Meta también se renovaba con Muse Spark 1.1.\n\rEn",
+      "url": "https://www.xataka.com/robotica-e-ia/nuevos-grok-4-5-muse-spark-1-1-tienen-apuesta-rompedora-hacer-90-sus-rivales-al-20-su-precio",
+      "imagen": "https://i.blogs.es/d95950/grok-muse-spark/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T15:31:57.000Z",
+      "fechaAgregada": "2026-07-11T09:37:31.129Z"
+    },
+    {
+      "id": "8adbbe98-7354-459d-996a-6610606858d5",
+      "titulo": "Asha Sharma se carga 3.200 empleados de Xbox y la nombran asesora de empleo y productividad en EE.UU.",
+      "resumen": "La actualidad de Xbox sigue dejándonos titulares difíciles de pasar por alto. Hace apenas unos días, la compañía anunció una profunda reestructuración que supone el despido de más de 3.200 empleados en la división Xbox de Microsoft, y ahora Asha Sharma, CEO de dicha división, es nombrada asesora de",
+      "url": "https://hardzone.es/noticias/equipos/asha-sharma-xbox-asesora-reserva-federal/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/Asha-Sharma-EEUU.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T15:08:53.000Z",
+      "fechaAgregada": "2026-07-11T09:37:35.157Z"
+    },
+    {
+      "id": "ba0ca03f-7cc1-4786-a268-7763220f0439",
+      "titulo": "La IA dispara otra salida histórica en Wall Street: SK Hynix recauda 26.500 millones por la fiebre de la memoria",
+      "resumen": "SK Hynix acaba de convertir la fiebre por la IA (y, por consiguiente, por la memoria) en una de las grandes operaciones bursátiles del año. El fabricante surcoreano ha fijado el precio de acciones en 149 dólares y ha levantado 26.500 millones de dólares. AP y Reuters la describen como la mayor salid",
+      "url": "https://www.adslzone.net/noticias/ia/hynix-salida-bolsa-nasdaq-memoria/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/dispara-otra-salida-historica-wall.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T13:55:11.000Z",
+      "fechaAgregada": "2026-07-11T09:37:33.881Z"
+    },
+    {
+      "id": "1d046890-a112-457f-84cd-c21d69d24d3e",
+      "titulo": "GPT-5.6 ya está disponible y llega acompañado de ChatGPT Work",
+      "resumen": "Hace apenas dos semanas, OpenAI sorprendía al anunciar GPT-5.6, pero también por una decisión poco habitual: limitar inicialmente su acceso a un reducido grupo de organizaciones autorizadas por el Gobierno de Estados Unidos. Aquella situación ya forma parte del pasado. La compañía ha recibido el vis",
+      "url": "https://www.muycomputer.com/2026/07/10/gpt-5-6-ya-esta-disponible-y-llega-acompanado-de-chatgpt-work/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/GPT-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T06:03:18.000Z",
+      "fechaAgregada": "2026-07-11T09:37:36.472Z"
+    },
+    {
+      "id": "6ae0c01e-5437-44e6-ac47-54b6619866e5",
+      "titulo": "Windows 11 se prepara para cambiar sus actualizaciones mensuales por culpa de la inteligencia artificial",
+      "resumen": "Microsoft cambiará la forma en como recibes las actualizaciones de seguridad de Windows 11. El gigante tecnológico anunció que a partir de ahora vas a recibir más parches en cada actualización mensual. La compañía señaló que este ajuste tiene que ver con el uso masivo de la inteligencia artificial,",
+      "url": "https://hipertextual.com/seguridad/windows-actualizaciones-seguridad-inteligencia-artificial/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/windows-11-1.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T20:17:00.000Z",
+      "fechaAgregada": "2026-07-11T09:37:31.263Z"
+    },
+    {
+      "id": "28879232-5249-4f69-81c2-6e04433774e5",
+      "titulo": "ChatGPT ahora trabaja solo: la nueva IA puede crear presentaciones y hojas de Excel sin ayuda",
+      "resumen": "ChatGPT es una de las aplicaciones más populares de la IA. Pese a ello, Claude la supera en múltiples campos gracias a implementaciones como Code o Cowork, que van más allá de las conversaciones habituales. Para contrarrestar un poco el avance de Anthropic, la compañía ha presentado ChatGPT Work, un",
+      "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-work-agente-ia-openai-funciones/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/chatgpt-work.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T18:57:42.000Z",
+      "fechaAgregada": "2026-07-11T09:37:31.263Z"
+    },
+    {
+      "id": "0925d3d9-2907-41a0-ba35-2fd99153689b",
+      "titulo": "La IA cambiará la forma en que Microsoft protege Windows",
+      "resumen": "Microsoft ha anunciado una importante evolución en su estrategia de seguridad para Windows que tendrá una consecuencia muy visible para los usuarios: el sistema operativo recibirá un mayor número de actualizaciones de seguridad. La explicación está en la creciente utilización de inteligencia artific",
+      "url": "https://www.muycomputer.com/2026/07/09/la-ia-cambiara-la-forma-en-que-microsoft-protege-windows/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/Windows-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T16:47:25.000Z",
+      "fechaAgregada": "2026-07-11T09:37:36.472Z"
+    },
+    {
+      "id": "c769253e-8506-439f-bce7-8499429e2e55",
+      "titulo": "A Anthropic le sale rentable ser la IA antagonista de Donald Trump",
+      "resumen": "La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores",
+      "url": "https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7DR672DYFVPKBEQHYPDXMSJUIU.jpg?auth=75543e9e4bd8231480d02f143a8947c1bebf97fd43a3c7c66a55b6df7befa1a6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T03:30:01.000Z",
+      "fechaAgregada": "2026-07-11T09:37:32.133Z"
+    },
+    {
+      "id": "e7643bd5-0bda-4883-8495-02c13115ddde",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/116/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-11T09:37:32.134Z"
+    },
+    {
+      "id": "3687bb46-6e7b-4960-b29e-05ba0d6e66f7",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-11T09:37:32.053Z"
+    },
+    {
+      "id": "14ef0195-e8e7-4337-bfe2-293a418bb9a7",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-11T09:37:32.053Z"
+    },
+    {
+      "id": "bb88d7de-4c30-4b5b-ad1a-e8051c4bccff",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-11T09:37:32.053Z"
+    }
+  ]
+}
