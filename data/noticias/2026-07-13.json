@@ -1,0 +1,106 @@
+{
+  "fecha": "2026-07-13",
+  "generado": "2026-07-13T11:10:48.972Z",
+  "total": 9,
+  "noticias": [
+    {
+      "id": "92e1c139-be66-47f5-a628-a8e082365fd0",
+      "titulo": "Starlink confirma el lanzamiento de los satélites V3 esta semana: así mejorarán la velocidad de Internet",
+      "resumen": "A principios del mes de junio, te contábamos que Elon Musk había confirmado que Starlink trabajaba en programar un nuevo lanzamiento con SpaceX para poner en órbita 100.000 nuevos satélites que prometían un ancho de banda hasta 10 veces superior a la actual. Ahora, ya tenemos fecha de lanzamiento.\nP",
+      "url": "https://www.adslzone.net/noticias/internet/starlink-lanzara-20-nuevos-satelites-v3/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/space-x-pcpal-1212-az-1.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-13T06:11:41.000Z",
+      "fechaAgregada": "2026-07-13T11:10:47.146Z"
+    },
+    {
+      "id": "7c4b5888-7d5a-4e8f-bfd7-562b92723917",
+      "titulo": "Anthropic toma una decisión inesperada y extiende el acceso a Claude Fable 5",
+      "resumen": "En las oficinas de Anthropic han decidido dar un poco de tranquilidad a sus usuarios al anunciar que el acceso a Claude Fable 5 seguirá estando disponible con su plan. La nueva fecha final se ha establecido en el próximo domingo día 19 de julio.\nEn las últimas semanas, Claude Fable 5, el modelo más",
+      "url": "https://www.adslzone.net/noticias/ia/anthropic-extiende-acceso-claude-fable-5-suscripciones/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/Promocion-Fable-5-extendida.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-13T04:00:31.000Z",
+      "fechaAgregada": "2026-07-13T11:10:47.146Z"
+    },
+    {
+      "id": "ebfa41c5-fbf9-4bba-84e1-0eb2fd14f8aa",
+      "titulo": "El cobre y la fibra de vidrio: las próximas escaseces tras la RAM",
+      "resumen": "Durante los últimos meses, hemos visto cómo la memoria RAM, así como otros componentes como los SSD, han sufrido una demanda mucho más alta que la oferta, debido, sobre todo, a los centros de IA, por lo que conseguirla a precios asequibles, es cosa del pasado.\nSin embargo, no es la única afectada, y",
+      "url": "https://hardzone.es/noticias/componentes/cobre-fibra-vidrio-proximas-escaseces-ram/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/cobre.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-12T19:03:54.000Z",
+      "fechaAgregada": "2026-07-13T11:10:47.887Z"
+    },
+    {
+      "id": "5a068943-cc2f-40c2-8e70-9570c5c7822a",
+      "titulo": "OpenAI cerrará ChatGPT Atlas y trasladará sus funciones a ChatGPT",
+      "resumen": "Hace apenas unas horas, OpenAI presentaba ChatGPT Work como una de las grandes novedades de su nueva estrategia para convertir ChatGPT en una plataforma de productividad capaz de ir mucho más allá de un simple asistente conversacional. Ahora la compañía ha confirmado otro movimiento que ayuda a ente",
+      "url": "https://www.muycomputer.com/2026/07/10/openai-cerrara-chatgpt-atlas-y-trasladara-sus-funciones-a-chatgpt/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/ChatGPT-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-10T18:23:42.000Z",
+      "fechaAgregada": "2026-07-13T11:10:48.972Z"
+    },
+    {
+      "id": "162f577b-ce1a-4702-a339-7702d53dd76f",
+      "titulo": "A Anthropic le sale rentable ser la IA antagonista de Donald Trump",
+      "resumen": "La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores",
+      "url": "https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7DR672DYFVPKBEQHYPDXMSJUIU.jpg?auth=75543e9e4bd8231480d02f143a8947c1bebf97fd43a3c7c66a55b6df7befa1a6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T03:30:01.000Z",
+      "fechaAgregada": "2026-07-13T11:10:45.491Z"
+    },
+    {
+      "id": "f333b0d2-8877-4275-909a-ce80ea193021",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/488/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-13T11:10:45.491Z"
+    },
+    {
+      "id": "32551831-0cef-4d08-bfd8-dc0c8e90d274",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-13T11:10:45.346Z"
+    },
+    {
+      "id": "c9b0ef6b-97dc-436a-bfe9-ec51a0244520",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-13T11:10:45.347Z"
+    },
+    {
+      "id": "bcd6f58c-7e93-43dd-960a-7b78e874179f",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-13T11:10:45.347Z"
+    }
+  ]
+}
