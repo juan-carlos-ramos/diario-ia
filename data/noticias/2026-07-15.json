@@ -1,0 +1,161 @@
+{
+  "fecha": "2026-07-15",
+  "generado": "2026-07-15T10:02:28.811Z",
+  "total": 14,
+  "noticias": [
+    {
+      "id": "ee1848b3-d1c9-4821-933a-c26bc94d3426",
+      "titulo": "Ni un móvil, ni unos auriculares: este es el primer producto de OpenAI con ChatGPT que ha mosqueado a Apple",
+      "resumen": "Llevamos meses pensando que el primer producto de OpenAI (diseñado por Jony Ive, quien trabajó en Apple) iba a ser un móvil o incluso unos auriculares, pero un nuevo informe acaba de revelar que será un dispositivo completamente diferente. Tal y como afirma Bloomberg, la compañía de IA anunciará pró",
+      "url": "https://hipertextual.com/tecnologia/ni-un-movil-ni-unos-auriculares-este-es-el-primer-producto-de-openai-con-chatgpt-que-ha-mosqueado-a-apple/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/chatgpt.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-15T06:58:22.000Z",
+      "fechaAgregada": "2026-07-15T10:02:23.991Z"
+    },
+    {
+      "id": "e509ab64-16d2-45ac-91a2-04c938f713be",
+      "titulo": "Google Imágenes estrena una portada más visual",
+      "resumen": "Google Imágenes cumple 25 años y la compañía ha decidido celebrarlo con dos novedades que apuntan a una transformación importante del servicio. Por un lado, estrenará una página principal pensada para descubrir contenido visual sin necesidad de realizar una búsqueda concreta. Por otro, incorporará l",
+      "url": "https://www.muycomputer.com/2026/07/15/google-imagenes-estrena-una-portada-mas-visual/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/google-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-15T06:01:31.000Z",
+      "fechaAgregada": "2026-07-15T10:02:28.810Z"
+    },
+    {
+      "id": "b25e9e84-c701-4a1d-abf9-ff1afe58a18e",
+      "titulo": "Ni ChatGPT ni Gemini: Spotify estrena una IA con la que puedes hablar para pedir música",
+      "resumen": "Spotify quiere que dejes de escribir en el buscador para encontrar música. Tras unos meses de prueba, la compañía de streaming lanzó una función que permite hablar con una IA para pedirle lo que quieres escuchar. La nueva característica ya está disponible a partir de hoy, aunque solo para los usuari",
+      "url": "https://hipertextual.com/inteligencia-artificial/spotify-chat-ia-conversacional-musica/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/spotify-01.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-14T21:25:00.000Z",
+      "fechaAgregada": "2026-07-15T10:02:23.991Z"
+    },
+    {
+      "id": "b170c3d0-292f-4d21-994c-ccc4e0e50ebe",
+      "titulo": "ChatGPT ya puede predecir quién ganará el Mundial y España no es favorita",
+      "resumen": "ChatGPT podrá predecir la final del Mundial 2026 de la FIFA. OpenAI ha integrado datos de mercados de predicción en su chatbot para mostrar probabilidades sobre los próximos partidos. La función utiliza información de Kalshi, una plataforma de apuestas que opera sobre casi cualquier evento. Según re",
+      "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-prediccion-mundial-2026-kalshi/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/mbappe-anime-mundial.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-14T17:39:23.000Z",
+      "fechaAgregada": "2026-07-15T10:02:23.992Z"
+    },
+    {
+      "id": "87ac4eaa-00ec-458d-b6c0-29dc9dcd5796",
+      "titulo": "Ya es oficial: así son los nuevos Huawei FreeClip 2 S, unos auriculares con un diseño más propio de una joya",
+      "resumen": "Al buscar unos nuevos auriculares, no todo el mundo quiere que ofrezcan el mejor sonido posible. Hay otras cosas que valorar, incluido su diseño. Justo por eso, nos llaman tanto la atención los Huawei FreeClip 2 S, unos auriculares que parecen más una joya para los oídos y ya que ya se pueden compra",
+      "url": "https://www.xataka.com/seleccion/oficial-asi-nuevos-huawei-freeclip-2-s-unos-auriculares-diseno-propio-joya",
+      "imagen": "https://i.blogs.es/3ddc39/huawei-freeclip-2-s-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-14T15:16:06.000Z",
+      "fechaAgregada": "2026-07-15T10:02:23.798Z"
+    },
+    {
+      "id": "19f0bc12-0ccc-47fd-914f-ebe9ba212f27",
+      "titulo": "Madrid va a abrir un túnel que vigila el tráfico con IA en tiempo real: así funcionará el nuevo subterráneo de la Castellana",
+      "resumen": "Hace unos días conocíamos que Madrid había terminado con una de las fases clave del soterramiento del norte del paseo de la Castellana. Esta es la excavación del túnel que conectará la M-30 con el entorno de las Cuatro Torres, finalizando tras la demolición del último muro que separaba ambos extremo",
+      "url": "https://www.xataka.com/movilidad/madrid-va-a-abrir-tunel-que-vigila-trafico-ia-tiempo-real-asi-funcionara-nuevo-subterraneo-castellana",
+      "imagen": "https://i.blogs.es/9e9694/tunel-castellana/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-14T14:16:06.000Z",
+      "fechaAgregada": "2026-07-15T10:02:23.798Z"
+    },
+    {
+      "id": "2d0763af-cc17-4a90-a05c-d1b5760e4844",
+      "titulo": "La IA vuelve a demostrar de qué es capaz y detecta un fallo en Linux que tenía 15 años",
+      "resumen": "La IA aplicada a la ciberseguridad vuelve a demostrar que juega ya un papel muy importante. Una vulnerabilidad puede pasar desapercibida incluso durante décadas, pero la Inteligencia Artificial podría ayudar a detectar un problema de forma eficaz y rápida. Es lo que ha ocurrido con una vulnerabilida",
+      "url": "https://www.redeszone.net/noticias/seguridad/ia-detecta-fallo-linux-15-anos/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/alerta-malware-ia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-14T07:28:17.000Z",
+      "fechaAgregada": "2026-07-15T10:02:27.474Z"
+    },
+    {
+      "id": "85d9f447-5928-4a72-9a45-8a9d83a37874",
+      "titulo": "Starfire, el nuevo procesador de Intel diseñado para soportar temperaturas y radicación extrema del espacio",
+      "resumen": "Intel ha presentado Starfire, un sistema en chip de grado espacial que marca un antes y un después en la computación destinada a satélites, sondas y plataformas orbitales.\nEste SoC, desarrollado para el gobierno de Estados Unidos, combina tecnologías de vanguardia como el nodo Intel 18A, el empaquet",
+      "url": "https://hardzone.es/noticias/procesadores/starifire-procesador-intel-funcionar-espacio/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/procesador-starfire-intel.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-14T06:02:58.000Z",
+      "fechaAgregada": "2026-07-15T10:02:27.623Z"
+    },
+    {
+      "id": "729d1876-cf09-495f-8875-ed75683e48cb",
+      "titulo": "Samsung condiciona Health a ceder datos para IA",
+      "resumen": "Según esta fuente, Samsung está empezando a pedir a los usuarios de Samsung Health que autoricen el uso de sus datos de salud para entrenar y desarrollar modelos de inteligencia artificial. La compañía permite rechazarlo, al menos formalmente, pero acompaña esa negativa con una consecuencia difícil",
+      "url": "https://www.muycomputer.com/2026/07/14/samsung-condiciona-health-a-ceder-datos-para-ia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/Samsung-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-14T06:02:23.000Z",
+      "fechaAgregada": "2026-07-15T10:02:28.810Z"
+    },
+    {
+      "id": "c06c4862-3e1e-4adb-80c3-8c8c19289ac3",
+      "titulo": "A Anthropic le sale rentable ser la IA antagonista de Donald Trump",
+      "resumen": "La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores",
+      "url": "https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7DR672DYFVPKBEQHYPDXMSJUIU.jpg?auth=75543e9e4bd8231480d02f143a8947c1bebf97fd43a3c7c66a55b6df7befa1a6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T03:30:01.000Z",
+      "fechaAgregada": "2026-07-15T10:02:25.420Z"
+    },
+    {
+      "id": "504afedb-ca0d-4678-9c60-8d03fab19a41",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/226/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-15T10:02:25.420Z"
+    },
+    {
+      "id": "d17bc23f-8309-4477-bcd5-bb69c0136613",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-15T10:02:24.804Z"
+    },
+    {
+      "id": "f8823c52-a670-4846-ae46-0b141283a545",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-15T10:02:24.804Z"
+    },
+    {
+      "id": "70f1e060-1936-41d5-b25a-7c64213fb188",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-15T10:02:24.805Z"
+    }
+  ]
+}
