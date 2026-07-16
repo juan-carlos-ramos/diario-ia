@@ -1,0 +1,183 @@
+{
+  "fecha": "2026-07-16",
+  "generado": "2026-07-16T10:08:20.351Z",
+  "total": 16,
+  "noticias": [
+    {
+      "id": "6ae6ee40-9a4f-48b4-ad49-6b4fd07de14a",
+      "titulo": "Synology DSM 7.4 disponible: primera versión con IA nativa",
+      "resumen": "Synology acaba de lanzar su nueva versión DSM 7.4. Se trata de la primera gran actualización que introduce la Inteligencia Artificial de forma nativa para su sistema operativo NAS. Anteriormente ya había añadido IA en varias partes del sistema, pero ahora llega de forma nativa, lo que aporta intelig",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/synology-dsm-7-4-ia-nativa/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/nas-synology.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-16T09:32:45.000Z",
+      "fechaAgregada": "2026-07-16T10:08:18.521Z"
+    },
+    {
+      "id": "2d82885e-2ad2-4c05-83b6-c081e8aff898",
+      "titulo": "Un grupo de ciberdelincuentes ha utilizado Gemini como agente de hacking y operador de botnet",
+      "resumen": "La IA ofrece un amplio abanico de opciones para nuestro día a día, pero también puede ser utilizada por parte de los piratas informáticos para delinquir. Vamos a hablar de cómo un grupo de cibercriminales conocido como “bandcampro” ha utilizado la herramienta de IA de código abierto Gemini CLI de Go",
+      "url": "https://www.redeszone.net/noticias/seguridad/grupo-ciberdelincuentes-gemini-agente-hacking/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/ciberdelincuente-uso-ia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-16T07:26:16.000Z",
+      "fechaAgregada": "2026-07-16T10:08:18.521Z"
+    },
+    {
+      "id": "0a32eb0c-c3d9-44c1-86af-ff8d138f0436",
+      "titulo": "Codex Micro lleva los agentes de OpenAI al escritorio",
+      "resumen": "OpenAI ha presentado Codex Micro, un teclado auxiliar diseñado para controlar mediante botones físicos los agentes y flujos de trabajo de Codex. Desarrollado junto al fabricante especializado Work Louder, el dispositivo no funciona de manera autónoma ni pretende sustituir al teclado convencional: ac",
+      "url": "https://www.muycomputer.com/2026/07/16/codex-micro-lleva-los-agentes-de-openai-al-escritorio/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/Codex-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-16T06:05:59.000Z",
+      "fechaAgregada": "2026-07-16T10:08:20.351Z"
+    },
+    {
+      "id": "8c5e14dd-39c0-4b0c-b5d6-60a5f1b1cdf1",
+      "titulo": "OpenAI lanza su nuevo modelo de IA para reforzar la seguridad: así es GPT-Red",
+      "resumen": "En las oficinas de OpenAI no están dispuestos a bajar el ritmo. En las últimas horas han lanzado un nuevo modelo de IA conocido como GPT-Red. Y, en este caso, su objetivo es uno muy importante: aumentar la seguridad.\nDesde hace tiempo, OpenAI ha visto que cada vez hay más personas que buscan la mane",
+      "url": "https://www.adslzone.net/noticias/ia/openai-gpt-red-seguridad/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/GPT-RED-presentacion-OpenAI.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-16T04:00:46.000Z",
+      "fechaAgregada": "2026-07-16T10:08:16.815Z"
+    },
+    {
+      "id": "a4cd585b-94fa-4aca-8379-af5396d3ce5e",
+      "titulo": "Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda",
+      "resumen": "Un correo mal dirigido ha sido el causante de que la relación entre OpenAI y Apple se rompiera. Previo a la demanda, las dos empresas intentaron resolver sus diferencias para no tener que llegar a los tribunales. No obstante, un simple error de destinatario terminó por complicar las negociaciones y",
+      "url": "https://hipertextual.com/apple/apple-openai-email-error-demanda-secretos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/apple-store-logo.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-15T20:39:00.000Z",
+      "fechaAgregada": "2026-07-16T10:08:14.527Z"
+    },
+    {
+      "id": "eb56bf51-f19b-44e1-8478-7d1624ecbe58",
+      "titulo": "China acaba de reunir 100.000 aceleradores nacionales en un superclúster. El desafío ahora es que trabajen juntos con eficiencia",
+      "resumen": "China ha puesto en marcha en Zhengzhou el Dawning 8000, un superclúster de inteligencia artificial que, según Sugon, puede integrar 100.000 tarjetas de cálculo desarrolladas en el país. La compañía lo presenta como el primer sistema chino de esta dimensión construido alrededor de una infraestructura",
+      "url": "https://www.xataka.com/robotica-e-ia/china-acaba-reunir-100-000-aceleradores-nacionales-supercluster-desafio-trabajen-juntos-eficiencia",
+      "imagen": "https://i.blogs.es/1e9bf8/supercluster-chino-2/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-15T19:01:55.000Z",
+      "fechaAgregada": "2026-07-16T10:08:14.349Z"
+    },
+    {
+      "id": "e6461c94-a271-4d0d-b5a8-071dbbcdf96c",
+      "titulo": "OpenAI lanza su primer hardware, aunque no es lo que imaginas",
+      "resumen": "OpenAI acaba de estrenar su primer producto de hardware. Pero todavía no te emociones con ver el dispositivo que la compañía está preparando junto a Jony Ive, que sería una suerte de altavoz inteligente. El lanzamiento de hoy es Codex Micro, una consola para programadores que ha desarrollado en cola",
+      "url": "https://hipertextual.com/inteligencia-artificial/codex-micro-hardware-openai/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Codex-Micro.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-15T17:30:00.000Z",
+      "fechaAgregada": "2026-07-16T10:08:14.527Z"
+    },
+    {
+      "id": "f2d789b6-14e2-4e5a-9846-d0257a009c39",
+      "titulo": "Crear un agente de IA que te ayude a automatizar procesos ya no exige saber programar: así es Hermes Agent de Hostinger",
+      "resumen": "La IA ya forma parte de nuestra vida, tanto personal como laboral. En este último ámbito, puede ser una herramienta que nos ayude mucho con procesos de todo tipo, pero todo va a depender de qué utilicemos para ello. Hay muchos autónomos o emprendedores que simplemente buscan algo sencillo e intuitiv",
+      "url": "https://www.xataka.com/seleccion/crear-agente-ia-que-te-ayude-a-automatizar-procesos-no-exige-saber-programar-asi-hermes-agent-hostinger",
+      "imagen": "https://i.blogs.es/c3393e/hermes-agent-hostinger/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-15T17:15:55.000Z",
+      "fechaAgregada": "2026-07-16T10:08:14.350Z"
+    },
+    {
+      "id": "61ddc209-2b74-4e9e-99d7-03881ba08856",
+      "titulo": "Descubren dos vulnerabilidades en Claude que permiten leer tu Gmail y documentos de Google",
+      "resumen": "Un fallo importante en Claude para Chrome permite que algunas extensiones maliciosas puedan leer Gmail, los documentos y el calendario de Google. Estos problemas están presentes en la versión de Claude 1.0.801.0 que fue lanzada este mes de julio para Google Chrome. Si utilizas esta IA en tu navegado",
+      "url": "https://www.redeszone.net/noticias/seguridad/vulnerabilidades-claude-leer-gmail/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/seguridad-pantalla-portatil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-15T11:06:47.000Z",
+      "fechaAgregada": "2026-07-16T10:08:18.521Z"
+    },
+    {
+      "id": "eee3c797-7666-40ff-af5b-1a8ed1d904fc",
+      "titulo": "Google Imágenes estrena una portada más visual",
+      "resumen": "Google Imágenes cumple 25 años y la compañía ha decidido celebrarlo con dos novedades que apuntan a una transformación importante del servicio. Por un lado, estrenará una página principal pensada para descubrir contenido visual sin necesidad de realizar una búsqueda concreta. Por otro, incorporará l",
+      "url": "https://www.muycomputer.com/2026/07/15/google-imagenes-estrena-una-portada-mas-visual/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/google-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-15T06:01:31.000Z",
+      "fechaAgregada": "2026-07-16T10:08:20.351Z"
+    },
+    {
+      "id": "18a294fe-85f0-40db-8f8a-c2d075a1acf1",
+      "titulo": "La IA vuelve a demostrar de qué es capaz y detecta un fallo en Linux que tenía 15 años",
+      "resumen": "La IA aplicada a la ciberseguridad vuelve a demostrar que juega ya un papel muy importante. Una vulnerabilidad puede pasar desapercibida incluso durante décadas, pero la Inteligencia Artificial podría ayudar a detectar un problema de forma eficaz y rápida. Es lo que ha ocurrido con una vulnerabilida",
+      "url": "https://www.redeszone.net/noticias/seguridad/ia-detecta-fallo-linux-15-anos/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/alerta-malware-ia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-14T07:28:17.000Z",
+      "fechaAgregada": "2026-07-16T10:08:18.522Z"
+    },
+    {
+      "id": "4f488fe6-be26-4390-984d-4c2bead52997",
+      "titulo": "A Anthropic le sale rentable ser la IA antagonista de Donald Trump",
+      "resumen": "La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores",
+      "url": "https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7DR672DYFVPKBEQHYPDXMSJUIU.jpg?auth=75543e9e4bd8231480d02f143a8947c1bebf97fd43a3c7c66a55b6df7befa1a6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T03:30:01.000Z",
+      "fechaAgregada": "2026-07-16T10:08:15.452Z"
+    },
+    {
+      "id": "74080a4f-c996-4ae5-a1ac-7184624e326a",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/164/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-16T10:08:15.453Z"
+    },
+    {
+      "id": "a20357fd-9d77-4a07-a6c0-dc6bb1f2efa8",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-16T10:08:15.378Z"
+    },
+    {
+      "id": "a4ae4f11-8ff9-437a-8e8b-569401bfe691",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-16T10:08:15.379Z"
+    },
+    {
+      "id": "0603da4c-aaa7-4761-9ecb-ab7c4ac416f3",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-16T10:08:15.379Z"
+    }
+  ]
+}
