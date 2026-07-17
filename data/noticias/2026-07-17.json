@@ -1,0 +1,205 @@
+{
+  "fecha": "2026-07-17",
+  "generado": "2026-07-17T09:56:53.567Z",
+  "total": 18,
+  "noticias": [
+    {
+      "id": "2ad53493-46f5-41cf-a774-e63365f5ddfe",
+      "titulo": "Ya está aquí el mayor cambio de Gemini del año: si activas esta función de la IA va a parecer que hablas con un humano",
+      "resumen": "Google continúa mejorando Gemini con nuevas prestaciones para hacerte la vida más fácil, y la última novedad va a cambiar por completo la forma en la que interactúas con el asistente. La compañía va a añadir una nueva función de personalización que va a permitir cambiar por completo cómo suena Gemin",
+      "url": "https://hipertextual.com/tecnologia/ya-esta-aqui-el-mayor-cambio-de-gemini-del-ano-si-activas-esta-funcion-de-la-ia-va-a-parecer-que-hablas-con-un-humano/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/01/gemini.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-17T07:52:10.000Z",
+      "fechaAgregada": "2026-07-17T09:56:47.499Z"
+    },
+    {
+      "id": "8520d3a3-7823-47cc-893d-b9eb630353b3",
+      "titulo": "Google rebautiza NotebookLM como Gemini Notebook",
+      "resumen": "Google ha decidido retirar la marca NotebookLM y rebautizar su popular herramienta de investigación como Gemini Notebook. El cambio no supone la desaparición del servicio ni una transformación inmediata de su funcionamiento: los cuadernos existentes se conservarán y los usuarios podrán seguir trabaj",
+      "url": "https://www.muycomputer.com/2026/07/17/google-rebautiza-notebooklm-como-gemini-notebook/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/NotebookLM-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-17T07:32:56.000Z",
+      "fechaAgregada": "2026-07-17T09:56:53.567Z"
+    },
+    {
+      "id": "86461a2e-64a5-48eb-957c-36e1cfc07c5b",
+      "titulo": "NotebookLM desaparece y Google transforma sus cuadernos en Gemini Notebook",
+      "resumen": "Periodo de cambio en Google, donde han anunciado que el servicio NotebookLM cambia de nombre con la intención de llamarse ahora Gemini Notebook. La empresa afronta una nueva etapa entre los usuarios que utilizan el servicio y pone rumbo a que continúe siendo una de sus herramientas más destacadas.\nC",
+      "url": "https://www.adslzone.net/noticias/ia/notebooklm-cambia-nombre-gemini-notebook/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/Gemini-Notebook-ordenador-portatil-cuaderno.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-17T04:12:52.000Z",
+      "fechaAgregada": "2026-07-17T09:56:50.196Z"
+    },
+    {
+      "id": "d4c4809f-519a-4b1d-84e5-358f4dda52e1",
+      "titulo": "Kimi K3: así es la nueva IA china que pone en apuros a Claude Opus 4.8 y GPT-5.5",
+      "resumen": "Moonshot acaba de lanzar una nueva versión de Kimi, la IA china que pone en apuros a varios de los modelos occidentales más importantes. En este caso, se trata de Kimi K3, un modelo de frontera con 2,8 billones de parámetros y una ventana de contexto de 1 millón de tokens. De acuerdo con sus […]\nSeg",
+      "url": "https://hipertextual.com/inteligencia-artificial/kimi-k3-nueva-ia-moonshot/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/KIMI-K3-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-16T20:32:22.000Z",
+      "fechaAgregada": "2026-07-17T09:56:47.499Z"
+    },
+    {
+      "id": "f8e44751-38f0-4efa-be1c-3c345d52eb9a",
+      "titulo": "Adiós NotebookLM: Google cambia el nombre de una sus herramientas de IA más populares",
+      "resumen": "NotebookLM es, sin lugar a discusión, una de las herramientas de inteligencia artificial más útiles y populares de Google. La plataforma nació como un experimento dedicado inicialmente a estudiantes, pues permitía generar resúmenes y reportes a partir de los archivos que le proveían los usuarios. Pe",
+      "url": "https://hipertextual.com/inteligencia-artificial/notebooklm-cambio-nombre-gemini-notebook/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/NotebookLM-1-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-16T17:58:23.000Z",
+      "fechaAgregada": "2026-07-17T09:56:47.499Z"
+    },
+    {
+      "id": "dc92c148-fcb8-4397-927e-794dce220450",
+      "titulo": "Google conecta AI Mode con YouTube Music y Canva",
+      "resumen": "Google continúa ampliando las capacidades de AI Mode con nuevas conexiones a servicios propios y de terceros. La compañía está incorporando compatibilidad con YouTube Music, Canva e Instacart, tres integraciones que permitirán pasar de una consulta generada por inteligencia artificial a una acción c",
+      "url": "https://www.muycomputer.com/2026/07/16/google-conecta-ai-mode-con-youtube-music-y-canva/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/google-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-16T17:06:05.000Z",
+      "fechaAgregada": "2026-07-17T09:56:53.567Z"
+    },
+    {
+      "id": "5c0ed52f-b580-4344-80fb-8a3c2fdce8b4",
+      "titulo": "Ganar más de 600.000 euros al año parecía una rareza en España. Hacienda ha contado ya casi 19.000 casos",
+      "resumen": "Hace veinte años, cruzarte con alguien que ganara más de 600.000 euros al año era como las meigas de Galicia: haberlas haylas, pero es difícil encontrarlas. Ese exclusivo club existía, pero sus miembros cabían en un autobús urbano. Hoy ya se necesitan unos cuantos.\nSegún datos facilitados por la Age",
+      "url": "https://www.xataka.com/empresas-y-economia/ganar-600-000-euros-al-ano-parecia-rareza-espana-hacienda-ha-contado-casi-19-000-casos",
+      "imagen": "https://i.blogs.es/6b27ea/salarios-de-millonarios/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-16T16:45:55.000Z",
+      "fechaAgregada": "2026-07-17T09:56:47.203Z"
+    },
+    {
+      "id": "98f622f2-1684-4ea2-8dae-52269536cce6",
+      "titulo": "Aprovecha estas cámaras de seguridad en oferta y toma el control de tu vivienda en todo momento",
+      "resumen": "Si quieres vigilar tu vivienda y tener el control desde cualquier lugar, te mostramos algunas cámaras que puedes encontrar en oferta. Te hablaremos de las diferentes características de cada una de ellas, para que puedas elegir la que mejor se adapte a lo que necesitas. Podrás ubicarlas en diferentes",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-seguridad-0726/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/camaras-seguridad.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-16T11:11:21.000Z",
+      "fechaAgregada": "2026-07-17T09:56:51.156Z"
+    },
+    {
+      "id": "eb937c59-30da-4787-ae5e-1acc92a1ed8c",
+      "titulo": "Synology DSM 7.4 disponible: primera versión con IA nativa",
+      "resumen": "Synology acaba de lanzar su nueva versión DSM 7.4. Se trata de la primera gran actualización que introduce la Inteligencia Artificial de forma nativa para su sistema operativo NAS. Anteriormente ya había añadido IA en varias partes del sistema, pero ahora llega de forma nativa, lo que aporta intelig",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/synology-dsm-7-4-ia-nativa/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/nas-synology.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-16T09:32:45.000Z",
+      "fechaAgregada": "2026-07-17T09:56:51.156Z"
+    },
+    {
+      "id": "848d4713-c63f-4ed4-b14b-48ef24e51146",
+      "titulo": "Un grupo de ciberdelincuentes ha utilizado Gemini como agente de hacking y operador de botnet",
+      "resumen": "La IA ofrece un amplio abanico de opciones para nuestro día a día, pero también puede ser utilizada por parte de los piratas informáticos para delinquir. Vamos a hablar de cómo un grupo de cibercriminales conocido como “bandcampro” ha utilizado la herramienta de IA de código abierto Gemini CLI de Go",
+      "url": "https://www.redeszone.net/noticias/seguridad/grupo-ciberdelincuentes-gemini-agente-hacking/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/ciberdelincuente-uso-ia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-16T07:26:16.000Z",
+      "fechaAgregada": "2026-07-17T09:56:51.156Z"
+    },
+    {
+      "id": "51f106f2-9dfd-4d91-910a-b770e7abcb25",
+      "titulo": "Codex Micro lleva los agentes de OpenAI al escritorio",
+      "resumen": "OpenAI ha presentado Codex Micro, un teclado auxiliar diseñado para controlar mediante botones físicos los agentes y flujos de trabajo de Codex. Desarrollado junto al fabricante especializado Work Louder, el dispositivo no funciona de manera autónoma ni pretende sustituir al teclado convencional: ac",
+      "url": "https://www.muycomputer.com/2026/07/16/codex-micro-lleva-los-agentes-de-openai-al-escritorio/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/Codex-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-16T06:05:59.000Z",
+      "fechaAgregada": "2026-07-17T09:56:53.567Z"
+    },
+    {
+      "id": "8c612ee8-e43f-43c9-81f2-23f11615a48a",
+      "titulo": "Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda",
+      "resumen": "Un correo mal dirigido ha sido el causante de que la relación entre OpenAI y Apple se rompiera. Previo a la demanda, las dos empresas intentaron resolver sus diferencias para no tener que llegar a los tribunales. No obstante, un simple error de destinatario terminó por complicar las negociaciones y",
+      "url": "https://hipertextual.com/apple/apple-openai-email-error-demanda-secretos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/apple-store-logo.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-15T20:39:00.000Z",
+      "fechaAgregada": "2026-07-17T09:56:47.499Z"
+    },
+    {
+      "id": "ed962980-8680-491d-aa58-cd23ff5ac11a",
+      "titulo": "Descubren dos vulnerabilidades en Claude que permiten leer tu Gmail y documentos de Google",
+      "resumen": "Un fallo importante en Claude para Chrome permite que algunas extensiones maliciosas puedan leer Gmail, los documentos y el calendario de Google. Estos problemas están presentes en la versión de Claude 1.0.801.0 que fue lanzada este mes de julio para Google Chrome. Si utilizas esta IA en tu navegado",
+      "url": "https://www.redeszone.net/noticias/seguridad/vulnerabilidades-claude-leer-gmail/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/seguridad-pantalla-portatil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-15T11:06:47.000Z",
+      "fechaAgregada": "2026-07-17T09:56:51.156Z"
+    },
+    {
+      "id": "7448b99a-6cf8-46ef-bb43-8164ab3ef133",
+      "titulo": "A Anthropic le sale rentable ser la IA antagonista de Donald Trump",
+      "resumen": "La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores",
+      "url": "https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7DR672DYFVPKBEQHYPDXMSJUIU.jpg?auth=75543e9e4bd8231480d02f143a8947c1bebf97fd43a3c7c66a55b6df7befa1a6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T03:30:01.000Z",
+      "fechaAgregada": "2026-07-17T09:56:48.595Z"
+    },
+    {
+      "id": "44dce836-f25d-44bf-b48e-9ecb94a05e7d",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/484/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-17T09:56:48.595Z"
+    },
+    {
+      "id": "87cd12d0-24a0-4c3a-9ab4-c61f1287b822",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-17T09:56:48.440Z"
+    },
+    {
+      "id": "99a4c26c-b118-491e-8628-a062a149426c",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-17T09:56:48.440Z"
+    },
+    {
+      "id": "f03974ab-90b5-40eb-bb19-f5a30aba62ff",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-17T09:56:48.440Z"
+    }
+  ]
+}
