@@ -1,0 +1,106 @@
+{
+  "fecha": "2026-07-19",
+  "generado": "2026-07-19T09:51:48.848Z",
+  "total": 9,
+  "noticias": [
+    {
+      "id": "273ceb2c-a2d9-4482-bb70-1b6cc0ad86c6",
+      "titulo": "Los países con más multimillonarios del mundo, reunidos en un gráfico con un sorprendente ganador",
+      "resumen": "Adivina, adivinanza: ¿dónde viven hoy la mayoría de multimillonarios del mundo? Responde lo primero que se te pase por la cabeza y sin hacer trampa. Probablemente la mayoría diríamos que Estados Unidos y la realidad es que esto era cierto hasta hace muy poco tiempo, pero el mapa de la riqueza ha cam",
+      "url": "https://www.xataka.com/empresas-y-economia/pregunta-donde-hay-millonarios-mundo-esta-lista-china-destapa-sorpasso-a-estados-unidos",
+      "imagen": "https://i.blogs.es/618fb0/millonarios/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-19T08:00:08.000Z",
+      "fechaAgregada": "2026-07-19T09:51:27.606Z"
+    },
+    {
+      "id": "954e9668-f69a-4540-b216-f8cd29e26aa6",
+      "titulo": "Cómo mejorar la calidad de tus viejos MP3 o cascos baratos mediante software",
+      "resumen": "Seguro que tienes canciones en MP3 antiguos o escuchas música con auriculares baratos y notas que, pese a que se puede entender bien la canción, le falta algo, y realmente no suena como debería, o no al menos como los dispositivos actuales (algo lógico). Sin embargo, gracias a la IA, esto puede mejo",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/como-mejorar-calidad-viejos-mp3-cascos-baratos-mediante-software/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2019/10/mujer-utilizando-auriculares.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-18T14:34:42.000Z",
+      "fechaAgregada": "2026-07-19T09:51:33.844Z"
+    },
+    {
+      "id": "9cbc3e65-fd39-47db-962a-b3f3a3eadd13",
+      "titulo": "Open Notebook: la alternativa libre a NotebookLM que puedes instalar tú mismo en tu PC",
+      "resumen": "NotebookLM es, en palabras de la IA de Google, Gemini, “un asistente virtual de investigación y redacción desarrollado por Google, diseñado para ayudarte a interactuar de forma inteligente con tus propios documentos y fuentes de información”. Es decir, que es una herramienta o aplicación diseñada pa",
+      "url": "https://hipertextual.com/guias/open-notebook-alternativa-gratis-ia-local-privada-notebooklm/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/NotebookLM-Open-Notebook.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-18T11:00:00.000Z",
+      "fechaAgregada": "2026-07-19T09:51:28.319Z"
+    },
+    {
+      "id": "56207716-b30f-4852-b388-5dd68541ca22",
+      "titulo": "Aprovecha estas cámaras de seguridad en oferta y toma el control de tu vivienda en todo momento",
+      "resumen": "Si quieres vigilar tu vivienda y tener el control desde cualquier lugar, te mostramos algunas cámaras que puedes encontrar en oferta. Te hablaremos de las diferentes características de cada una de ellas, para que puedas elegir la que mejor se adapte a lo que necesitas. Podrás ubicarlas en diferentes",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-seguridad-0726/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/camaras-seguridad.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-16T11:11:21.000Z",
+      "fechaAgregada": "2026-07-19T09:51:32.552Z"
+    },
+    {
+      "id": "d1dc9a3f-18cf-46e9-ba66-e9c3c761b7ee",
+      "titulo": "A Anthropic le sale rentable ser la IA antagonista de Donald Trump",
+      "resumen": "La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores",
+      "url": "https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7DR672DYFVPKBEQHYPDXMSJUIU.jpg?auth=75543e9e4bd8231480d02f143a8947c1bebf97fd43a3c7c66a55b6df7befa1a6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T03:30:01.000Z",
+      "fechaAgregada": "2026-07-19T09:51:29.405Z"
+    },
+    {
+      "id": "85a6038e-0677-4cc9-90ab-0cca2e75cf8e",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/318/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-19T09:51:29.406Z"
+    },
+    {
+      "id": "e4d6f01c-b6b1-464d-a399-57883f47671c",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-19T09:51:29.334Z"
+    },
+    {
+      "id": "1d3c2890-fec7-487c-a858-aa9e98b28d66",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-19T09:51:29.334Z"
+    },
+    {
+      "id": "073da428-5eae-464c-9802-1f0b708cf40e",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-19T09:51:29.334Z"
+    }
+  ]
+}
