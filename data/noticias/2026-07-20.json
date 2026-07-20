@@ -1,0 +1,128 @@
+{
+  "fecha": "2026-07-20",
+  "generado": "2026-07-20T10:51:43.426Z",
+  "total": 11,
+  "noticias": [
+    {
+      "id": "2b6210e2-db6f-427a-933d-89896bd3f32d",
+      "titulo": "El gigantesco Qwen 3.8 es otra señal inquietante para EEUU: su ventaja en IA está evaporándose",
+      "resumen": "Las empresas chinas de IA están que lo tiran. Tras el lanzamiento del prometedor Kimi K3, ahora Alibaba acaba de presentar Qwen 3.8, un modelo gigantesco que según sus responsables es tan potente que solo Fable 5 logra superarlo. Si eso se confirma, estaremos ante un potencial punto de inflexión en",
+      "url": "https://www.xataka.com/robotica-e-ia/gigantesco-qwen-3-8-otra-senal-inquietante-para-eeuu-su-ventaja-ia-esta-evaporandose",
+      "imagen": "https://i.blogs.es/2bec45/qwen/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-20T08:31:41.000Z",
+      "fechaAgregada": "2026-07-20T10:51:39.418Z"
+    },
+    {
+      "id": "0e7c1082-8ac1-4795-a094-5d20c21192c3",
+      "titulo": "ChatGPT amplía sus controles parentales",
+      "resumen": "ChatGPT ampliará sus controles parentales para avisar a padres y tutores cuando la cuenta vinculada de un adolescente haya sido desactivada por infringir las políticas de OpenAI relacionadas con amenazas o actos de violencia. La medida extiende un sistema que ya podía enviar alertas ante posibles se",
+      "url": "https://www.muycomputer.com/2026/07/19/chatgpt-amplia-sus-controles-parentales/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/ChatGPT-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-19T16:22:59.000Z",
+      "fechaAgregada": "2026-07-20T10:51:43.425Z"
+    },
+    {
+      "id": "debc4619-8da9-4845-be9d-862719b1e07c",
+      "titulo": "Lleva 30 años congelado a 8.500 metros. Ahora una misión quiere resolver por fin quién era el cadáver más famoso del Everest",
+      "resumen": "Si te gusta la montaña y alguna vez has ido (o fantaseas con ir) al Everest, seguramente que el nombre de Green Boots te suene: es el recordatorio de que subir la montaña más alta del mundo sigue siendo una actividad de riesgo. El cuerpo de este montañero fallecido en pleno ascenso quedó momificado",
+      "url": "https://www.xataka.com/magnet/lleva-30-anos-congelado-a-8-500-metros-ahora-mision-quiere-resolver-fin-quien-era-cadaver-famoso-everest",
+      "imagen": "https://i.blogs.es/244db5/greeeee/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-19T16:00:32.000Z",
+      "fechaAgregada": "2026-07-20T10:51:39.419Z"
+    },
+    {
+      "id": "e2fe62e2-9109-46f4-9ccf-53b518911afc",
+      "titulo": "Google Search preocupa por su IA para menores",
+      "resumen": "Google ha integrado la inteligencia artificial generativa en su buscador hasta convertirla en una parte prácticamente inevitable de la experiencia, también para los menores que lo utilizan en el colegio o para hacer los deberes. Un nuevo informe de Common Sense Media considera que AI Overviews y AI",
+      "url": "https://www.muycomputer.com/2026/07/19/google-search-preocupa-por-su-ia-para-menores/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/Google-2-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-19T14:11:25.000Z",
+      "fechaAgregada": "2026-07-20T10:51:43.426Z"
+    },
+    {
+      "id": "085f2e51-2366-425a-9328-de62d61fa90b",
+      "titulo": "Cinco tareas del día a día donde se notan mucho las diferencias entre un procesador de gama alta y otro más humilde",
+      "resumen": "Es muy común escuchar frases del tipo \"para navegar por Internet y ver cuatro vídeos, cualquier móvil de 200 euros sirve\". En parte es verdad, pero hay diferencia entre elegir un procesador de gama alta (como Snapdragon 8 Elite Gen 5 o un Apple A19 Pro) y uno de gama media-baja (como un Dimensity 70",
+      "url": "https://www.xataka.com/seleccion/cinco-tareas-dia-a-dia-donde-se-notan-mucho-diferencias-procesador-gama-alta-otro-humilde",
+      "imagen": "https://i.blogs.es/6d7189/procesadores-moviles/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-19T13:16:31.000Z",
+      "fechaAgregada": "2026-07-20T10:51:39.420Z"
+    },
+    {
+      "id": "514e34ba-9eb5-4372-8853-567c344be9b7",
+      "titulo": "Cómo mejorar la calidad de tus viejos MP3 o cascos baratos mediante software",
+      "resumen": "Seguro que tienes canciones en MP3 antiguos o escuchas música con auriculares baratos y notas que, pese a que se puede entender bien la canción, le falta algo, y realmente no suena como debería, o no al menos como los dispositivos actuales (algo lógico). Sin embargo, gracias a la IA, esto puede mejo",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/como-mejorar-calidad-viejos-mp3-cascos-baratos-mediante-software/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2019/10/mujer-utilizando-auriculares.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-18T14:34:42.000Z",
+      "fechaAgregada": "2026-07-20T10:51:42.597Z"
+    },
+    {
+      "id": "a444964f-342d-4e07-8c95-56737baac1de",
+      "titulo": "A Anthropic le sale rentable ser la IA antagonista de Donald Trump",
+      "resumen": "La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores",
+      "url": "https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7DR672DYFVPKBEQHYPDXMSJUIU.jpg?auth=75543e9e4bd8231480d02f143a8947c1bebf97fd43a3c7c66a55b6df7befa1a6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T03:30:01.000Z",
+      "fechaAgregada": "2026-07-20T10:51:40.544Z"
+    },
+    {
+      "id": "41024f22-63ec-4806-bb7c-22c52817fdb6",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/86/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-20T10:51:40.544Z"
+    },
+    {
+      "id": "4a62c1b7-65fa-476e-a210-9889750d0246",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-20T10:51:40.435Z"
+    },
+    {
+      "id": "3e1a3635-73a2-4db5-a8cd-516f06c7746e",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-20T10:51:40.436Z"
+    },
+    {
+      "id": "ce244972-2001-4cd2-979d-8805770cb642",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-20T10:51:40.436Z"
+    }
+  ]
+}
