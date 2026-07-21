@@ -1,0 +1,183 @@
+{
+  "fecha": "2026-07-21",
+  "generado": "2026-07-21T10:25:04.993Z",
+  "total": 16,
+  "noticias": [
+    {
+      "id": "13e51606-0a78-4d63-9c84-c3c81612ada4",
+      "titulo": "Google Maps añade la función estrella de Gemini y cambia la navegación por completo: olvídate de buscar el destino para siempre",
+      "resumen": "Google Maps es una de las aplicaciones más cuidadas del ecosistema de Google, y prueba de ello es la multitud de mejoras que la compañía incluye para mejorar la experiencia de navegación, como las recomendaciones o los avisos de atascos. Estas funciones, sin embargo, no son nada comparadas con lo qu",
+      "url": "https://hipertextual.com/mobile/google-maps-anade-la-funcion-estrella-de-gemini-y-cambia-la-navegacion-por-completo-olvidate-de-buscar-el-destino-para-siempre/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/google-maps-004.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T07:56:59.000Z",
+      "fechaAgregada": "2026-07-21T10:24:58.039Z"
+    },
+    {
+      "id": "52bb2189-4a0c-4ec7-8e2c-96d1895c7868",
+      "titulo": "Esta nueva campaña está utilizando miles de repositorios falsos de GitHub para propagar un peligroso malware",
+      "resumen": "Un grupo de investigadores de seguridad de Island, como puedes ver en su publicación con fecha de 20 de julio, ha detectado una campaña denominada FakeGit, con unos 7600 repositorios maliciosos en GitHub. De todos ellos, según los investigadores de seguridad, unos 800 se hicieron pasar por herramien",
+      "url": "https://www.redeszone.net/noticias/seguridad/nueva-campana-repositorios-falsos-github/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/malware-lupa.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T07:25:17.000Z",
+      "fechaAgregada": "2026-07-21T10:25:03.091Z"
+    },
+    {
+      "id": "01f8eeb4-f2e2-4bed-b48e-a333f0cb882d",
+      "titulo": "La PS4 portátil que Sony nunca hizo: OLED, HDMI, batería extraíble y diseño V2 más pequeño",
+      "resumen": "En el mercado podemos encontrar una amplia variedad de consolas portátiles, tanto retro como capaces de ejecutar juegos de PC. Pero, además, de vez en cuando nos encontramos con un proyecto llevado a cabo por un entusiasta como el que ha llevado a cabo un usuario de Reddit convirtiendo una PS4 Slim",
+      "url": "https://hardzone.es/noticias/equipos/ps4-portatil-pantalla-oled-hdmi-bateria-extraible-nuevo-diseno/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/ps4-portatil.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T07:02:20.000Z",
+      "fechaAgregada": "2026-07-21T10:25:03.424Z"
+    },
+    {
+      "id": "1d764a34-7d24-41b9-9a17-517921bf10ac",
+      "titulo": "Cuando el conocimiento de internet ya no es suficiente: la IA les pone el ojo a las librerías de segunda mano",
+      "resumen": "Libreros de todo el mundo han detectado compras masivas de libros descatalogados por parte de empresas tecnológicas para entrenar sus modelos de inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-07-21/cuando-el-conocimiento-de-internet-ya-no-es-suficiente-la-ia-le-pone-el-ojo-a-las-librerias-de-segunda-mano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MGH5Y4IBOJEHBNRE2IUOB7Y7LE.jpg?auth=18c6051331ee4930b1caca12045e8e7e8909d1f15dfefb71fa2f73218331c83e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T03:30:00.000Z",
+      "fechaAgregada": "2026-07-21T10:24:59.319Z"
+    },
+    {
+      "id": "26f76a6e-f013-404d-9d98-dc9fe97c23f6",
+      "titulo": "La nueva IA de Adobe es una pasada: edita tus fotos, añade filtros y te da consejos para ser mejor fotógrafo",
+      "resumen": "Adobe acaba de añadir una dosis de inteligencia artificial a su app de cámara experimental para el iPhone. La nueva herramienta, conocida como AI Playground, incluye varias funciones que te ayudarán a sacar mejores fotos y editarlas sin salir de la app. A diferencia de otras integraciones de IA que",
+      "url": "https://hipertextual.com/inteligencia-artificial/adobe-ia-project-indigo-ai-playground-iphone/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/app-adobe-camara.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-20T21:45:00.000Z",
+      "fechaAgregada": "2026-07-21T10:24:58.039Z"
+    },
+    {
+      "id": "2ee6a69e-6905-4475-bc55-d5f839fe4767",
+      "titulo": "Google prepara un chip secreto que promete disparar el rendimiento de su inteligencia artificial",
+      "resumen": "Google está trabajando en un nuevo chip para hacer más eficientes sus modelos de inteligencia artificial. El proyecto, conocido internamente como Frozen v2, busca resolver uno de los mayores dolores de cabeza de la compañía en este momento. Google, al igual que otras empresas, está lidiando con esca",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-chip-frozen-v2-inteligencia-artificial/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/google-chip-ia.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-20T17:49:51.000Z",
+      "fechaAgregada": "2026-07-21T10:24:58.039Z"
+    },
+    {
+      "id": "bee8b871-329a-4410-bfc9-c3944b3f2444",
+      "titulo": "Project Indigo aprende a criticar tus fotos",
+      "resumen": "Project Indigo amplía su propuesta con AI Playground, un nuevo espacio experimental que permite editar fotografías con inteligencia artificial, eliminar distracciones, modificar su estilo y recibir recomendaciones sobre cómo mejorarlas. La novedad va más allá de incorporar otro editor generativo al",
+      "url": "https://www.muycomputer.com/2026/07/20/project-indigo-aprende-a-criticar-tus-fotos/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/Adobe-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-20T16:47:06.000Z",
+      "fechaAgregada": "2026-07-21T10:25:04.993Z"
+    },
+    {
+      "id": "349bb0f8-3ed5-4693-8810-b23e3c251422",
+      "titulo": "Fable, Kimi… ¿y ahora Qwen3.8? El cambio de mensaje de Alibaba pone en duda su lanzamiento",
+      "resumen": "La aceleración vertiginosa en el desarrollo de la inteligencia artificial ha dejado de ser un monopolio exclusivo de los laboratorios norteamericanos de Silicon Valley. El vertiginoso avance de las empresas tecnológicas chinas ha recortado las distancias hasta situarse en el mismo escalón. \nPero tra",
+      "url": "https://www.adslzone.net/noticias/ia/qwen-3-8-alibaba-lanzamiento-duda/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/Qwen-38.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-20T16:28:47.000Z",
+      "fechaAgregada": "2026-07-21T10:25:01.293Z"
+    },
+    {
+      "id": "66ea53e2-dd29-4622-8d0e-bddda32e6ec6",
+      "titulo": "La primera generación de graduados con ChatGPT abre un dilema: “Algo se ha roto en la Universidad”",
+      "resumen": "Los que salen al mercado laboral este año son los primeros estudiantes que han completado su carrera 100% con la ayuda de la IA. Pero la herramienta también ha erosionado su forma de aprender y socializar",
+      "url": "https://elpais.com/educacion/2026-07-20/la-primera-generacion-de-graduados-con-chatgpt-abre-un-dilema-algo-se-ha-roto-en-la-universidad.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BTKC7I3GVNFD5OV5NIXTFG3ILM.JPG?auth=4423681f9835d6a184b8113b7cbf9d476953172c7af14514a84e1a8fc3472dae",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-20T03:30:00.000Z",
+      "fechaAgregada": "2026-07-21T10:24:59.319Z"
+    },
+    {
+      "id": "3f044d0c-d818-4455-95a1-057eab7fb3c4",
+      "titulo": "ChatGPT amplía sus controles parentales",
+      "resumen": "ChatGPT ampliará sus controles parentales para avisar a padres y tutores cuando la cuenta vinculada de un adolescente haya sido desactivada por infringir las políticas de OpenAI relacionadas con amenazas o actos de violencia. La medida extiende un sistema que ya podía enviar alertas ante posibles se",
+      "url": "https://www.muycomputer.com/2026/07/19/chatgpt-amplia-sus-controles-parentales/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/ChatGPT-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-19T16:22:59.000Z",
+      "fechaAgregada": "2026-07-21T10:25:04.993Z"
+    },
+    {
+      "id": "e98d8757-52b6-4aac-a715-8623739ff71a",
+      "titulo": "Google Search preocupa por su IA para menores",
+      "resumen": "Google ha integrado la inteligencia artificial generativa en su buscador hasta convertirla en una parte prácticamente inevitable de la experiencia, también para los menores que lo utilizan en el colegio o para hacer los deberes. Un nuevo informe de Common Sense Media considera que AI Overviews y AI",
+      "url": "https://www.muycomputer.com/2026/07/19/google-search-preocupa-por-su-ia-para-menores/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/Google-2-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-19T14:11:25.000Z",
+      "fechaAgregada": "2026-07-21T10:25:04.993Z"
+    },
+    {
+      "id": "87d19f0d-dbbc-4416-9892-83577d50ac6c",
+      "titulo": "A Anthropic le sale rentable ser la IA antagonista de Donald Trump",
+      "resumen": "La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores",
+      "url": "https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7DR672DYFVPKBEQHYPDXMSJUIU.jpg?auth=75543e9e4bd8231480d02f143a8947c1bebf97fd43a3c7c66a55b6df7befa1a6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T03:30:01.000Z",
+      "fechaAgregada": "2026-07-21T10:24:59.319Z"
+    },
+    {
+      "id": "a5028c7c-c7e2-4143-a1b9-b1b10fd5b7c7",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/324/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-21T10:24:59.319Z"
+    },
+    {
+      "id": "3cccc9cc-34c0-401f-9834-a90975f2657d",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-21T10:24:59.215Z"
+    },
+    {
+      "id": "08363266-4bbc-4444-a7f4-5410ac6fdda9",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-21T10:24:59.216Z"
+    },
+    {
+      "id": "60c0dd68-55dc-4fe1-84a6-9bd0919f629c",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-21T10:24:59.216Z"
+    }
+  ]
+}
