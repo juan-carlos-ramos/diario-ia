@@ -1,0 +1,249 @@
+{
+  "fecha": "2026-07-22",
+  "generado": "2026-07-22T10:25:00.661Z",
+  "total": 22,
+  "noticias": [
+    {
+      "id": "50cc5334-6cc6-4b5f-b682-d77b38d9c80f",
+      "titulo": "Adiós a los prompts en Claude: Anthropic cambia para siempre la forma de pedirle cosas a la IA (ahora es muchísimo más útil)",
+      "resumen": "Uno de los mayores quebraderos de cabeza a la hora de usar la IA, son los prompts. A menudo las descripciones tienen que ser muy precisas o elaboradas para que así los modelos puedan entender correctamente lo que le queremos que hagan. Sin embargo, en muchas ocasiones la inspiración no surge o simpl",
+      "url": "https://hipertextual.com/tecnologia/adios-a-los-prompts-en-claude-anthropic-cambia-para-siempre-la-forma-de-pedirle-cosas-a-la-ia-ahora-es-muchisimo-mas-util/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Claude-Widget-iPhone.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T08:22:16.000Z",
+      "fechaAgregada": "2026-07-22T10:24:54.370Z"
+    },
+    {
+      "id": "850cc2c1-9f90-4d66-8918-d9c3737aa57b",
+      "titulo": "Google lanza Gemini 3.5 Flash Cyber para encontrar y corregir vulnerabilidades críticas",
+      "resumen": "Google acaba de lanzar Gemini 3.5 Flash Cyber, como puedes ver en una publicación en su web oficial con fecha de 21 de julio. Se trata de un modelo de Inteligencia Artificial que está diseñado específicamente para encontrar, validar y corregir vulnerabilidades críticas. Esto ayuda a los equipos de s",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/google-lanza-gemini-3-5-flash-cyber/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/candado-seguridad-informatica.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T07:25:31.000Z",
+      "fechaAgregada": "2026-07-22T10:24:57.996Z"
+    },
+    {
+      "id": "3b480027-2c3a-4966-a267-8958bc37ecc6",
+      "titulo": "‘Captchas’: ¿Ha logrado Google que todos entrenemos a su IA sin saberlo?",
+      "resumen": "El servicio fue creado hace 15 años con doble propósito: como filtro de seguridad para el tráfico de ‘bots’ y como generador de bases de datos para entrenar inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-07-22/captchas-ha-logrado-google-que-todos-entrenemos-a-su-ia-sin-saberlo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/D7TEO5ECFFCIVP6CPLIGXNWMUQ.jpg?auth=df3f114b93ceac4adcc0ab742602bf0892d2a4a74b4798e7cd45e5a9d3900ebc",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T03:30:01.000Z",
+      "fechaAgregada": "2026-07-22T10:24:56.644Z"
+    },
+    {
+      "id": "64c8f4d4-562b-41bb-aff3-024ffd86c0e2",
+      "titulo": "\"Está diezmando el tráfico de búsqueda\": así es como la IA de Google está absorbiendo al resto de internet",
+      "resumen": "ChatGPT llevaba menos de un mes en marcha y en Google ya se hablaba de un \"código rojo\". La tecnología que muchos daban por hecho que acabaría con el negocio central de Google —sustituir el buscador por un chatbot cualquiera— está haciendo justo lo contrario. Desde que Google metió a Gemini dentro d",
+      "url": "https://www.xataka.com/robotica-e-ia/esta-diezmando-trafico-busqueda-asi-como-ia-google-esta-absorbiendo-al-resto-internet",
+      "imagen": "https://i.blogs.es/d4af22/google-buscador-ai-overviews/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T17:31:14.000Z",
+      "fechaAgregada": "2026-07-22T10:24:54.179Z"
+    },
+    {
+      "id": "2d12c2fe-a2ed-4483-a919-6d36b8caf81f",
+      "titulo": "Google presenta Gemini 3.5 Flash Cyber, su respuesta a Claude Mythos y GPT-5.5 para detectar y resolver vulnerabilidades",
+      "resumen": "Google acaba de sumarse al juego de los modelos de inteligencia artificial especializados en ciberseguridad. La compañía acaba de anunciar Gemini 3.5 Flash Cyber, su respuesta a Claude Mythos y GPT-5.5 Cyber, que es capaz de detectar y resolver vulnerabilidades de forma automática. La estrategia de",
+      "url": "https://hipertextual.com/tecnologia/google-gemini-3-5-flash-cyber-ia-ciberseguridad/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Gemini-3.5-Flash-Cyber.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T17:03:16.000Z",
+      "fechaAgregada": "2026-07-22T10:24:54.371Z"
+    },
+    {
+      "id": "a730fddf-5aea-4797-83bd-23833d7d109c",
+      "titulo": "50.000 dólares en créditos: el potente regalo que ofrece la Anthropic y su IA a este tipo de  trabajadores",
+      "resumen": "La inteligencia artificial ha dejado de ser una mera herramienta de automatización de tareas para convertirse en la piedra angular de la investigación científica. En disciplinas donde el análisis de datos masivos y la identificación de patrones genéticos exigen meses de procesamiento informático, di",
+      "url": "https://www.adslzone.net/noticias/ia/anthropic-regala-50000-creditos-cura-enfermedades/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/03/Claude-logo-imagen-oficial.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T17:02:34.000Z",
+      "fechaAgregada": "2026-07-22T10:24:57.596Z"
+    },
+    {
+      "id": "69f53ce3-df09-4ff4-8210-9c530ab5a62c",
+      "titulo": "ASML vende las máquinas más importantes de la industria del chip. Ahora todo apunta a que serán más caras",
+      "resumen": "ASML, la única empresa del mundo capaz de fabricar los equipos de litografía ultravioleta extrema (EUV) necesarios para producir los chips más avanzados, se prepara para una subida de costes en su maquinaria. Y el primero en plantar cara ha sido, precisamente, su cliente más importante: TSMC. Y es q",
+      "url": "https://www.xataka.com/empresas-y-economia/asml-vende-maquinas-importantes-industria-chip-ahora-todo-apunta-a-que-seran-caras",
+      "imagen": "https://i.blogs.es/75e1d2/asml-destacada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T16:31:15.000Z",
+      "fechaAgregada": "2026-07-22T10:24:54.180Z"
+    },
+    {
+      "id": "3e660f92-2f87-477a-a7ac-eac960fd4623",
+      "titulo": "Anthropic fue acusada de robar libros para entrenar sus modelos de IA. Su solución ha sido sencilla: pagar",
+      "resumen": "Una jueza federal de San Francisco ha dado luz verde definitiva al acuerdo de 1.500 millones de dólares entre Anthropic y un grupo de autores y editoriales que la denunciaron por usar sus libros sin permiso para entrenar a Claude. Y es que después de extraer millones de libros desde bibliotecas digi",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-fue-acusada-robar-libros-para-entrenar-sus-modelos-ia-su-solucion-ha-sido-sencilla-pagar",
+      "imagen": "https://i.blogs.es/dbeea0/original/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T15:45:15.000Z",
+      "fechaAgregada": "2026-07-22T10:24:54.180Z"
+    },
+    {
+      "id": "98c90c57-3b3c-4a11-982c-8b5309051a93",
+      "titulo": "Google prepara un chip para Gemini que podría multiplicar por 10 la eficiencia de las IA",
+      "resumen": "2026 es uno de los años más importantes para las IA, donde la mayoría de empresas buscan un hueco en este mercado, intentando conseguir la mejor inteligencia artificial para los usuarios, pudiendo así ganar ese terreno frente a los competidores futuros.\nEs por ello que Google habría preparado un chi",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/google-chip-gemini-eficiencia/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/02/Chipset-PC.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T14:33:05.000Z",
+      "fechaAgregada": "2026-07-22T10:24:59.052Z"
+    },
+    {
+      "id": "808c2bea-d2d9-4b1f-88ea-ba325e22352b",
+      "titulo": "Anthropic saca la chequera: pagará una fortuna a autores por usar sus libros sin permiso para entrenar a Claude",
+      "resumen": "Anthropic desembolsará una verdadera fortuna para resarcir a un grupo de autores, tras una demanda por usar sus libros sin permiso para entrenar a Claude. Un tribunal estadounidense aprobó el monto que la empresa está dispuesta a pagar, tras alcanzar un principio de acuerdo con la mayoría de los dem",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-pago-resarcimiento-milmillonario-claude/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Claude-Widget-iPhone.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T13:40:14.000Z",
+      "fechaAgregada": "2026-07-22T10:24:54.371Z"
+    },
+    {
+      "id": "d9aae2f8-dbac-4c98-8769-cf94a71cfcd8",
+      "titulo": "La memoria DDR5 cuesta ahora 5 veces más que hace un año y todo apunta a que el futuro seguirá negro",
+      "resumen": "Durante los últimos meses, hemos hablado sobre la subida del coste de componentes como la memoria RAM o los SSD, sin embargo, parece que no tienen techo, y algunos modelos como los DDR5 alemanes habrían incrementado el precio en casi un 500% desde el verano pasado.\nEn el día de hoy, veremos esta not",
+      "url": "https://hardzone.es/noticias/componentes/memoria-ddr5-cuesta-5-veces-mas-hace-ano-todo-apunta-futuro-seguira-negro/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2023/06/memoria-ram.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T11:33:22.000Z",
+      "fechaAgregada": "2026-07-22T10:24:59.052Z"
+    },
+    {
+      "id": "840c70a4-6a55-49b0-a83a-508e5c535631",
+      "titulo": "Aprovecha estas ofertas en cámaras de seguridad y vigila todo lo que ocurra en tu casa",
+      "resumen": "Si quieres vigilar tu vivienda, una de las mejores opciones que puedes encontrar es contar con cámaras de seguridad. Te vamos a hablar de algunos dispositivos que están disponibles en oferta. Te mostraremos las principales características de cada uno de ellos para que puedas elegir la opción que mej",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-vigilancia-hogar-0726/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/camara-vigilancia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T11:08:53.000Z",
+      "fechaAgregada": "2026-07-22T10:24:57.996Z"
+    },
+    {
+      "id": "952ba445-ec8b-449f-8999-81fabf082e5f",
+      "titulo": "Esta nueva campaña está utilizando miles de repositorios falsos de GitHub para propagar un peligroso malware",
+      "resumen": "Un grupo de investigadores de seguridad de Island, como puedes ver en su publicación con fecha de 20 de julio, ha detectado una campaña denominada FakeGit, con unos 7600 repositorios maliciosos en GitHub. De todos ellos, según los investigadores de seguridad, unos 800 se hicieron pasar por herramien",
+      "url": "https://www.redeszone.net/noticias/seguridad/nueva-campana-repositorios-falsos-github/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/malware-lupa.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T07:25:17.000Z",
+      "fechaAgregada": "2026-07-22T10:24:57.997Z"
+    },
+    {
+      "id": "9709edbe-0c0d-4905-91e7-45d5f13f63b1",
+      "titulo": "La PS4 portátil que Sony nunca hizo: OLED, HDMI, batería extraíble y diseño V2 más pequeño",
+      "resumen": "En el mercado podemos encontrar una amplia variedad de consolas portátiles, tanto retro como capaces de ejecutar juegos de PC. Pero, además, de vez en cuando nos encontramos con un proyecto llevado a cabo por un entusiasta como el que ha llevado a cabo un usuario de Reddit convirtiendo una PS4 Slim",
+      "url": "https://hardzone.es/noticias/equipos/ps4-portatil-pantalla-oled-hdmi-bateria-extraible-nuevo-diseno/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/ps4-portatil.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T07:02:20.000Z",
+      "fechaAgregada": "2026-07-22T10:24:59.052Z"
+    },
+    {
+      "id": "0ed54d5f-2076-4b2e-ae31-f6ef2efe1557",
+      "titulo": "Cuando el conocimiento de internet ya no es suficiente: la IA les pone el ojo a las librerías de segunda mano",
+      "resumen": "Libreros de todo el mundo han detectado compras masivas de libros descatalogados por parte de empresas tecnológicas para entrenar sus modelos de inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-07-21/cuando-el-conocimiento-de-internet-ya-no-es-suficiente-la-ia-le-pone-el-ojo-a-las-librerias-de-segunda-mano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MGH5Y4IBOJEHBNRE2IUOB7Y7LE.jpg?auth=18c6051331ee4930b1caca12045e8e7e8909d1f15dfefb71fa2f73218331c83e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T03:30:00.000Z",
+      "fechaAgregada": "2026-07-22T10:24:56.644Z"
+    },
+    {
+      "id": "fe1da3f9-1fe3-4331-b860-b63d4f7620d6",
+      "titulo": "Project Indigo aprende a criticar tus fotos",
+      "resumen": "Project Indigo amplía su propuesta con AI Playground, un nuevo espacio experimental que permite editar fotografías con inteligencia artificial, eliminar distracciones, modificar su estilo y recibir recomendaciones sobre cómo mejorarlas. La novedad va más allá de incorporar otro editor generativo al",
+      "url": "https://www.muycomputer.com/2026/07/20/project-indigo-aprende-a-criticar-tus-fotos/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/Adobe-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-20T16:47:06.000Z",
+      "fechaAgregada": "2026-07-22T10:25:00.661Z"
+    },
+    {
+      "id": "c97b2688-cbce-4bad-b213-448122f9de43",
+      "titulo": "La primera generación de graduados con ChatGPT abre un dilema: “Algo se ha roto en la Universidad”",
+      "resumen": "Los que salen al mercado laboral este año son los primeros estudiantes que han completado su carrera 100% con la ayuda de la IA. Pero la herramienta también ha erosionado su forma de aprender y socializar",
+      "url": "https://elpais.com/educacion/2026-07-20/la-primera-generacion-de-graduados-con-chatgpt-abre-un-dilema-algo-se-ha-roto-en-la-universidad.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BTKC7I3GVNFD5OV5NIXTFG3ILM.JPG?auth=4423681f9835d6a184b8113b7cbf9d476953172c7af14514a84e1a8fc3472dae",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-20T03:30:00.000Z",
+      "fechaAgregada": "2026-07-22T10:24:56.644Z"
+    },
+    {
+      "id": "a05da8a3-a2b4-4d25-90b7-554d5bd245ce",
+      "titulo": "A Anthropic le sale rentable ser la IA antagonista de Donald Trump",
+      "resumen": "La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores",
+      "url": "https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7DR672DYFVPKBEQHYPDXMSJUIU.jpg?auth=75543e9e4bd8231480d02f143a8947c1bebf97fd43a3c7c66a55b6df7befa1a6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T03:30:01.000Z",
+      "fechaAgregada": "2026-07-22T10:24:56.644Z"
+    },
+    {
+      "id": "2421d728-d9d6-4939-aa2c-583712433f65",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/106/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-22T10:24:56.644Z"
+    },
+    {
+      "id": "a661bf69-f2d0-475b-85b4-c150e5ab9435",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-22T10:24:55.707Z"
+    },
+    {
+      "id": "a2ed05b8-0830-469f-96f4-ea521636d3aa",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-22T10:24:55.707Z"
+    },
+    {
+      "id": "0f4ea609-61ab-4d30-ba69-e6f566072d22",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-22T10:24:55.707Z"
+    }
+  ]
+}
