@@ -1,0 +1,216 @@
+{
+  "fecha": "2026-07-23",
+  "generado": "2026-07-23T10:22:36.533Z",
+  "total": 19,
+  "noticias": [
+    {
+      "id": "e873aa91-aa71-43ae-b226-60db1fe9649f",
+      "titulo": "La startup china de IA que lanzó el sorprendente modelo GLM-5.2 acaba de alcanzar otro hito: crear su propio centro de datos",
+      "resumen": "Z.AI ha sido protagonista de grandes titulares estas últimas semanas, sobre todo tras el lanzamiento de su potentísimo modelo de lenguaje GLM 5.2. Conocida antes como Zhipu, ahora la empresa acaba de terminar de construir un descomunal centro de datos de 1 gigavatio de potencia que, según cuentan de",
+      "url": "https://www.xataka.com/robotica-e-ia/startup-china-ia-que-lanzo-sorprendente-modelo-glm-5-2-acaba-alcanzar-otro-hito-crear-su-propio-centro-datos",
+      "imagen": "https://i.blogs.es/ff9c2c/zai-glm-centro-datos/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T17:15:15.000Z",
+      "fechaAgregada": "2026-07-23T10:22:28.305Z"
+    },
+    {
+      "id": "81e3944c-339a-4951-9b18-0ece4066782a",
+      "titulo": "China lleva años perfeccionando robots que se pegan a las paredes con un objetivo: que nadie más muera colgado de un andamio",
+      "resumen": "Durante estas semanas ha circulado un vídeo sobre un robot trepando por la superficie curva de un tanque metálico, pegado a la chapa como si fuera una lapa, mientras pule y elimina óxido sin que ningún humano tenga que colgarse de una cuerda para hacerlo. En nuestros lares es bastante sorprendente v",
+      "url": "https://www.xataka.com/robotica-e-ia/china-lleva-anos-perfeccionando-robots-que-se-pegan-a-paredes-objetivo-que-nadie-muera-colgado-andamio",
+      "imagen": "https://i.blogs.es/640b6c/v2_89983f9969f94ea29623553f12917920-5091053_oswg60552oswg1080oswg606_img_000/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T17:01:15.000Z",
+      "fechaAgregada": "2026-07-23T10:22:28.305Z"
+    },
+    {
+      "id": "cc25ab9e-5858-46b3-877d-6b137fad171d",
+      "titulo": "China está dispuesta a hacer lo inimaginable para ganar la carrera de la IA a EEUU. Incluso a herir a sus propias empresas",
+      "resumen": "El Ministerio de Comercio chino ha empezado a consultar a sus principales empresas tecnológicas sobre un paquete de restricciones a la exportación que, paradójicamente, apunta hacia dentro: hacia el propio ecosistema de inteligencia artificial (IA) que Pekín lleva años intentando blindar frente a Wa",
+      "url": "https://www.xataka.com/empresas-y-economia/china-se-plantea-vetar-tsmc-a-sus-propias-empresas-chips",
+      "imagen": "https://i.blogs.es/894584/tsmc/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T16:01:15.000Z",
+      "fechaAgregada": "2026-07-23T10:22:28.305Z"
+    },
+    {
+      "id": "9b0d0367-08e8-4adf-9c3d-96d8892bf1c8",
+      "titulo": "Ya son oficiales los nuevos Samsung Galaxy Z Flip8, Z Fold8 y Z Fold8 Ultra: dónde comprarlos al mejor precio",
+      "resumen": "Samsung ha presentado oficialmente, hace apenas un par de horas, sus nuevos smartphones plegables para este 2026. Si quieres dar el salto a este tipo de terminal o tienes uno ya antiguo y quieres renovarlo, te contamos las características de cada uno de estos nuevos Samsung Galaxy Z Flip8, Z Fold8 y",
+      "url": "https://www.xataka.com/seleccion/oficiales-nuevos-samsung-galaxy-z-flip8-z-fold8-z-fold8-ultra-donde-comprarlos-al-mejor-precio",
+      "imagen": "https://i.blogs.es/c9fb43/nuevos-samsung-galaxy-z8-series-1-/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T15:15:15.000Z",
+      "fechaAgregada": "2026-07-23T10:22:28.305Z"
+    },
+    {
+      "id": "a3d246b7-d407-4c5d-9383-c5fdca73cb25",
+      "titulo": "Samsung regala 6 meses de Google AI Pro con sus nuevos Galaxy Z Fold 8 y Z Flip 8",
+      "resumen": "Samsung ha presentado su nueva familia de plegables Galaxy Z. Tras meses de rumores y filtraciones, el fabricante reveló los nuevos Galaxy Z Fold 8, Galaxy Z Fold 8 Ultra y Galaxy Z Flip 8, cada uno enfocado a un público particular. Aunque sus funciones han acaparado los reflectores, los móviles inc",
+      "url": "https://hipertextual.com/mobile/galaxy-z-fold8-flip8-google-ai-pro-gratis/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/galaxy-z-fold-8-flip-8.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T13:05:00.000Z",
+      "fechaAgregada": "2026-07-23T10:22:28.630Z"
+    },
+    {
+      "id": "d3ffb11f-0316-4a1b-afb2-0f028fe64c1a",
+      "titulo": "Samsung y Google revelan más sobre sus gafas inteligentes, con nuevos modelos y la IA de Gemini como estrella",
+      "resumen": "Las gafas inteligentes también tuvieron su espacio en el Samsung Unpacked de este miércoles. Además de sus nuevos móviles plegables y relojes, la firma coreana aprovechó la oportunidad para entregar un nuevo vistazo a sus gafas inteligentes con Android XR y Gemini como estrella. Las mismas son parte",
+      "url": "https://hipertextual.com/tecnologia/gafas-inteligentes-samsung-unpacked-julio-2026/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Samsung-gafas-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T13:01:00.000Z",
+      "fechaAgregada": "2026-07-23T10:22:28.630Z"
+    },
+    {
+      "id": "03665e57-6b04-484d-ae03-1926adb033af",
+      "titulo": "Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial",
+      "resumen": "Los creadores de ChatGPT probaban sus nuevas creaciones en un entorno aislado. Pero la máquina supo salir por su cuenta, en un escenario propio de la ciencia ficción",
+      "url": "https://elpais.com/tecnologia/2026-07-22/un-nuevo-modelo-de-openai-provoca-un-ataque-sin-precedentes-contra-otra-plataforma-de-inteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VSL7B5G4JJHJ5CKKEKRQGMW5T4.jpg?auth=b6c8ac34ea8de8c4f1eab5c6c18f193413cb01f64d4801943b91c50c0cf1e18c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T11:50:39.000Z",
+      "fechaAgregada": "2026-07-23T10:22:29.650Z"
+    },
+    {
+      "id": "3db934f5-78b2-4324-88c5-64500350cf98",
+      "titulo": "Google lanza Gemini 3.5 Flash Cyber para encontrar y corregir vulnerabilidades críticas",
+      "resumen": "Google acaba de lanzar Gemini 3.5 Flash Cyber, como puedes ver en una publicación en su web oficial con fecha de 21 de julio. Se trata de un modelo de Inteligencia Artificial que está diseñado específicamente para encontrar, validar y corregir vulnerabilidades críticas. Esto ayuda a los equipos de s",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/google-lanza-gemini-3-5-flash-cyber/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/candado-seguridad-informatica.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T07:25:31.000Z",
+      "fechaAgregada": "2026-07-23T10:22:33.596Z"
+    },
+    {
+      "id": "2edc3b8e-103d-4965-b3e9-bd5d953284fe",
+      "titulo": "‘Captchas’: ¿Ha logrado Google que todos entrenemos a su IA sin saberlo?",
+      "resumen": "El servicio fue creado hace 15 años con doble propósito: como filtro de seguridad para el tráfico de ‘bots’ y como generador de bases de datos para entrenar inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-07-22/captchas-ha-logrado-google-que-todos-entrenemos-a-su-ia-sin-saberlo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/D7TEO5ECFFCIVP6CPLIGXNWMUQ.jpg?auth=df3f114b93ceac4adcc0ab742602bf0892d2a4a74b4798e7cd45e5a9d3900ebc",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T03:30:01.000Z",
+      "fechaAgregada": "2026-07-23T10:22:29.650Z"
+    },
+    {
+      "id": "912a4c75-9a5e-4075-bdaf-d25320d6b494",
+      "titulo": "Aprovecha estas ofertas en cámaras de seguridad y vigila todo lo que ocurra en tu casa",
+      "resumen": "Si quieres vigilar tu vivienda, una de las mejores opciones que puedes encontrar es contar con cámaras de seguridad. Te vamos a hablar de algunos dispositivos que están disponibles en oferta. Te mostraremos las principales características de cada uno de ellos para que puedas elegir la opción que mej",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-vigilancia-hogar-0726/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/camara-vigilancia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T11:08:53.000Z",
+      "fechaAgregada": "2026-07-23T10:22:33.596Z"
+    },
+    {
+      "id": "bd02ef32-33b0-41bc-802c-c820089bd264",
+      "titulo": "Esta nueva campaña está utilizando miles de repositorios falsos de GitHub para propagar un peligroso malware",
+      "resumen": "Un grupo de investigadores de seguridad de Island, como puedes ver en su publicación con fecha de 20 de julio, ha detectado una campaña denominada FakeGit, con unos 7600 repositorios maliciosos en GitHub. De todos ellos, según los investigadores de seguridad, unos 800 se hicieron pasar por herramien",
+      "url": "https://www.redeszone.net/noticias/seguridad/nueva-campana-repositorios-falsos-github/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/malware-lupa.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T07:25:17.000Z",
+      "fechaAgregada": "2026-07-23T10:22:33.596Z"
+    },
+    {
+      "id": "227145d9-e4f6-40c3-aaa0-074794bbc959",
+      "titulo": "Cuando el conocimiento de internet ya no es suficiente: la IA les pone el ojo a las librerías de segunda mano",
+      "resumen": "Libreros de todo el mundo han detectado compras masivas de libros descatalogados por parte de empresas tecnológicas para entrenar sus modelos de inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-07-21/cuando-el-conocimiento-de-internet-ya-no-es-suficiente-la-ia-le-pone-el-ojo-a-las-librerias-de-segunda-mano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MGH5Y4IBOJEHBNRE2IUOB7Y7LE.jpg?auth=18c6051331ee4930b1caca12045e8e7e8909d1f15dfefb71fa2f73218331c83e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T03:30:00.000Z",
+      "fechaAgregada": "2026-07-23T10:22:29.650Z"
+    },
+    {
+      "id": "2d80d7c5-4c6c-4249-933d-54f5b08076e6",
+      "titulo": "Project Indigo aprende a criticar tus fotos",
+      "resumen": "Project Indigo amplía su propuesta con AI Playground, un nuevo espacio experimental que permite editar fotografías con inteligencia artificial, eliminar distracciones, modificar su estilo y recibir recomendaciones sobre cómo mejorarlas. La novedad va más allá de incorporar otro editor generativo al",
+      "url": "https://www.muycomputer.com/2026/07/20/project-indigo-aprende-a-criticar-tus-fotos/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/Adobe-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-20T16:47:06.000Z",
+      "fechaAgregada": "2026-07-23T10:22:36.533Z"
+    },
+    {
+      "id": "28a407ce-fa29-4b0e-8d40-7725dfc29c0e",
+      "titulo": "La primera generación de graduados con ChatGPT abre un dilema: “Algo se ha roto en la Universidad”",
+      "resumen": "Los que salen al mercado laboral este año son los primeros estudiantes que han completado su carrera 100% con la ayuda de la IA. Pero la herramienta también ha erosionado su forma de aprender y socializar",
+      "url": "https://elpais.com/educacion/2026-07-20/la-primera-generacion-de-graduados-con-chatgpt-abre-un-dilema-algo-se-ha-roto-en-la-universidad.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BTKC7I3GVNFD5OV5NIXTFG3ILM.JPG?auth=4423681f9835d6a184b8113b7cbf9d476953172c7af14514a84e1a8fc3472dae",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-20T03:30:00.000Z",
+      "fechaAgregada": "2026-07-23T10:22:29.650Z"
+    },
+    {
+      "id": "3fb2065d-e787-4791-8ba5-b9828f3cd6ee",
+      "titulo": "A Anthropic le sale rentable ser la IA antagonista de Donald Trump",
+      "resumen": "La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores",
+      "url": "https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7DR672DYFVPKBEQHYPDXMSJUIU.jpg?auth=75543e9e4bd8231480d02f143a8947c1bebf97fd43a3c7c66a55b6df7befa1a6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T03:30:01.000Z",
+      "fechaAgregada": "2026-07-23T10:22:29.650Z"
+    },
+    {
+      "id": "778fab38-500a-45a4-ae7d-b8726618302c",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/410/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-23T10:22:29.650Z"
+    },
+    {
+      "id": "ffbb79f8-b49e-4e5f-9378-518c9ab27cd6",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-23T10:22:29.492Z"
+    },
+    {
+      "id": "a63c8946-2134-434f-b175-8906603ec0b8",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-23T10:22:29.492Z"
+    },
+    {
+      "id": "bc65f558-07c5-4399-a866-1337f16c2ad7",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-23T10:22:29.492Z"
+    }
+  ]
+}
