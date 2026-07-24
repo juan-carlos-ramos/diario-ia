@@ -1,0 +1,205 @@
+{
+  "fecha": "2026-07-24",
+  "generado": "2026-07-24T10:16:31.188Z",
+  "total": 18,
+  "noticias": [
+    {
+      "id": "22eb9586-d31e-4d09-a535-229184cc41ee",
+      "titulo": "Reddit vendió sus datos a Google y ahora teme que su IA le quite las visitas",
+      "resumen": "Reddit está reconsiderando su relación con Google. La popular plataforma debate a nivel interno si merece la pena renovar el acuerdo que permite al buscador acceder de forma estructurada a sus publicaciones para mejorar productos y entrenar modelos de IA. El contrato está valorado en 60 millones de",
+      "url": "https://www.adslzone.net/noticias/ia/reddit-google-datos-perdida-trafico/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/reddit-google.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-24T09:30:30.000Z",
+      "fechaAgregada": "2026-07-24T10:16:27.797Z"
+    },
+    {
+      "id": "fbcfe307-20d0-48c6-aa52-5f30aeb3c10e",
+      "titulo": "AMD estrena su primer procesador ZEN 6 para infraestructura IA",
+      "resumen": "AMD está celebrando en San Francisco la conferencia Advancing AI 2026. Un evento anual para desarrolladores, clientes y socios donde la firma californiana quiere ir más allá de impulsar la IA, «construyendo el futuro de las tecnologías de inteligencia artificial» con un ecosistema de infraestructura",
+      "url": "https://www.muycomputer.com/2026/07/24/amd-estrena-su-primer-procesador-zen-6/",
+      "imagen": "https://picsum.photos/seed/241/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-24T06:17:10.000Z",
+      "fechaAgregada": "2026-07-24T10:16:31.187Z"
+    },
+    {
+      "id": "88cbcf72-df77-4a6b-8f7b-ccd84b4638c6",
+      "titulo": "Es oficial: Gemini Spark llega a más suscriptores y pronto estará disponible en otros países",
+      "resumen": "Google anunció Gemini Spark el pasado 14 de mayo y, desde entonces, muchos de los usuarios de sus planes de pago se han preguntado cuándo iba a aterrizar en más planes. Desde hace unas horas, sabemos que Google ya planea su aterrizaje en más planes y prepara el terreno para que llegue a más países,",
+      "url": "https://www.adslzone.net/noticias/ia/gemini-spark-suscripciones-paises/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/gemini-spark-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-24T06:03:30.000Z",
+      "fechaAgregada": "2026-07-24T10:16:27.798Z"
+    },
+    {
+      "id": "cd34b412-008e-4d60-abe7-5bd7a5f00e06",
+      "titulo": "OpenAI actualiza ChatGPT en su versión de escritorio con ChatGPT Voice",
+      "resumen": "OpenAI ha dado una buena noticia a los usuarios en las últimas horas: la actualización de la versión de escritorio de ChatGPT. Su gran novedad es la introducción de ChatGPT Voice para que podamos trabajar con la IA de una manera mucho más versátil.\nYa hemos hablado en varias ocasiones de ChatGPT Voi",
+      "url": "https://www.adslzone.net/noticias/ia/openai-chatgpt-voice-version-escritorio/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/ChatGPT-Voice-disponible-version-escritorio.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-24T04:00:28.000Z",
+      "fechaAgregada": "2026-07-24T10:16:27.798Z"
+    },
+    {
+      "id": "53017dbf-2605-400c-9121-79a36a75f0b5",
+      "titulo": "Estados Unidos propone un botón para apagar la IA antes de que se descontrole",
+      "resumen": "Estados Unidos podría tener una forma de apagar la inteligencia artificial que se salga de control. Un proyecto de ley busca dar al gobierno la capacidad de intervenir directamente sobre los modelos más potentes del mercado. El \"botón\" para apagar la IA llega a unos días de que OpenAI confirmara que",
+      "url": "https://hipertextual.com/inteligencia-artificial/boton-apagado-ia-estados-unidos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/10/terminator-skynet-inteligencia-artificial.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-23T21:25:00.000Z",
+      "fechaAgregada": "2026-07-24T10:16:24.693Z"
+    },
+    {
+      "id": "7f0cf199-372f-4440-8869-a32a2b2ebd8c",
+      "titulo": "¿Qué ha pasado con ChatGPT? Dos fallos preocupantes",
+      "resumen": "Las últimas horas han dejado dos incidentes de seguridad diferentes, pero relacionados con una misma cuestión: qué ocurre cuando ChatGPT y otros sistemas de OpenAI dejan de limitarse a responder preguntas y reciben capacidad para actuar de manera autónoma. Por un lado, varios modelos de la compañía",
+      "url": "https://www.muycomputer.com/2026/07/23/que-ha-pasado-con-chatgpt-dos-fallos-preocupantes/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/ChatGPT-2-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-23T17:33:00.000Z",
+      "fechaAgregada": "2026-07-24T10:16:31.187Z"
+    },
+    {
+      "id": "845f40b5-5918-4f62-820a-3c00725229a5",
+      "titulo": "Galaxy Watch8, Galaxy Watch9 y Galaxy Watch Ultra y Ultra2: qué cambia (y qué no) en la nueva generación de relojes inteligentes de Samsung",
+      "resumen": "El último Unpacked de Samsung ha estado protagonizado por los tres nuevos plegables de la marca (sí, en esta generación hay tres modelos diferentes), pero no podemos olvidarnos de los smartwatch, porque hay mucho que contar. En este artículo vamos a repasar las diferencias más importantes que hay en",
+      "url": "https://www.xataka.com/seleccion/galaxy-watch8-galaxy-watch9-galaxy-watch-ultra-ultra2-que-cambia-que-no-nueva-generacion-relojes-inteligentes-samsung",
+      "imagen": "https://i.blogs.es/9466c5/samsung-galaxy-watch9-y-samsung-galaxy-watch-ultra2/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-23T15:15:15.000Z",
+      "fechaAgregada": "2026-07-24T10:16:24.408Z"
+    },
+    {
+      "id": "a9148c99-260d-4170-a838-86fc2d8f76a5",
+      "titulo": "Los genios chinos de la IA podrían ser multimillonarios en EEUU. Lo malo para EEUU es que prefieren volver a China",
+      "resumen": "Lo normal es que alguien tarde seis años en completar un doctorado en la Universidad Carnegie Mellon (CMU). Un joven llamado Yang Zhilin lo consiguió en cuatro, y acto seguido pasó lo que tenía que pasar: las grandes tecnológicas se lo rifaban. Lo querían fichar en Apple, Google o Meta, y tanto el M",
+      "url": "https://www.xataka.com/robotica-e-ia/genios-chinos-ia-podrian-ser-multimillonarios-eeuu-malo-para-eeuu-que-prefieren-volver-a-china",
+      "imagen": "https://i.blogs.es/bf02fe/ingenieros-ia-china/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-23T14:31:15.000Z",
+      "fechaAgregada": "2026-07-24T10:16:24.408Z"
+    },
+    {
+      "id": "35d26187-c5ef-4244-8560-c6845850ed2d",
+      "titulo": "Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial",
+      "resumen": "Los creadores de ChatGPT probaban sus nuevas creaciones en un entorno aislado. Pero la máquina supo salir por su cuenta, en un escenario propio de la ciencia ficción",
+      "url": "https://elpais.com/tecnologia/2026-07-22/un-nuevo-modelo-de-openai-provoca-un-ataque-sin-precedentes-contra-otra-plataforma-de-inteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VSL7B5G4JJHJ5CKKEKRQGMW5T4.jpg?auth=b6c8ac34ea8de8c4f1eab5c6c18f193413cb01f64d4801943b91c50c0cf1e18c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T11:50:39.000Z",
+      "fechaAgregada": "2026-07-24T10:16:25.663Z"
+    },
+    {
+      "id": "06bb7f43-e76d-412b-b784-eeb9371da47f",
+      "titulo": "Google lanza Gemini 3.5 Flash Cyber para encontrar y corregir vulnerabilidades críticas",
+      "resumen": "Google acaba de lanzar Gemini 3.5 Flash Cyber, como puedes ver en una publicación en su web oficial con fecha de 21 de julio. Se trata de un modelo de Inteligencia Artificial que está diseñado específicamente para encontrar, validar y corregir vulnerabilidades críticas. Esto ayuda a los equipos de s",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/google-lanza-gemini-3-5-flash-cyber/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/candado-seguridad-informatica.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T07:25:31.000Z",
+      "fechaAgregada": "2026-07-24T10:16:28.666Z"
+    },
+    {
+      "id": "e5e88d5a-a782-4cab-b575-c3689781456b",
+      "titulo": "‘Captchas’: ¿Ha logrado Google que todos entrenemos a su IA sin saberlo?",
+      "resumen": "El servicio fue creado hace 15 años con doble propósito: como filtro de seguridad para el tráfico de ‘bots’ y como generador de bases de datos para entrenar inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-07-22/captchas-ha-logrado-google-que-todos-entrenemos-a-su-ia-sin-saberlo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/D7TEO5ECFFCIVP6CPLIGXNWMUQ.jpg?auth=df3f114b93ceac4adcc0ab742602bf0892d2a4a74b4798e7cd45e5a9d3900ebc",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T03:30:01.000Z",
+      "fechaAgregada": "2026-07-24T10:16:25.663Z"
+    },
+    {
+      "id": "96c099fe-277f-4aa2-b750-3f12e8702022",
+      "titulo": "Cuando el conocimiento de internet ya no es suficiente: la IA les pone el ojo a las librerías de segunda mano",
+      "resumen": "Libreros de todo el mundo han detectado compras masivas de libros descatalogados por parte de empresas tecnológicas para entrenar sus modelos de inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-07-21/cuando-el-conocimiento-de-internet-ya-no-es-suficiente-la-ia-le-pone-el-ojo-a-las-librerias-de-segunda-mano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MGH5Y4IBOJEHBNRE2IUOB7Y7LE.jpg?auth=18c6051331ee4930b1caca12045e8e7e8909d1f15dfefb71fa2f73218331c83e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T03:30:00.000Z",
+      "fechaAgregada": "2026-07-24T10:16:25.663Z"
+    },
+    {
+      "id": "29cfb9a3-1be2-44b7-824a-23cbf1c30f84",
+      "titulo": "La primera generación de graduados con ChatGPT abre un dilema: “Algo se ha roto en la Universidad”",
+      "resumen": "Los que salen al mercado laboral este año son los primeros estudiantes que han completado su carrera 100% con la ayuda de la IA. Pero la herramienta también ha erosionado su forma de aprender y socializar",
+      "url": "https://elpais.com/educacion/2026-07-20/la-primera-generacion-de-graduados-con-chatgpt-abre-un-dilema-algo-se-ha-roto-en-la-universidad.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BTKC7I3GVNFD5OV5NIXTFG3ILM.JPG?auth=4423681f9835d6a184b8113b7cbf9d476953172c7af14514a84e1a8fc3472dae",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-20T03:30:00.000Z",
+      "fechaAgregada": "2026-07-24T10:16:25.663Z"
+    },
+    {
+      "id": "b3ece87f-ef70-4f65-be99-7360325ec969",
+      "titulo": "A Anthropic le sale rentable ser la IA antagonista de Donald Trump",
+      "resumen": "La empresa intenta marcar la diferencia con el resto de la industria justo antes de su salida a Bolsa, aunque los expertos advierten de que sus prácticas no son distintas de las de sus competidores",
+      "url": "https://elpais.com/tecnologia/2026-07-09/a-anthropic-le-sale-rentable-ser-la-ia-antagonista-de-donald-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7DR672DYFVPKBEQHYPDXMSJUIU.jpg?auth=75543e9e4bd8231480d02f143a8947c1bebf97fd43a3c7c66a55b6df7befa1a6",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-09T03:30:01.000Z",
+      "fechaAgregada": "2026-07-24T10:16:25.663Z"
+    },
+    {
+      "id": "b1822664-bc7e-43cf-babb-0075c0e93ee6",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/444/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-24T10:16:25.663Z"
+    },
+    {
+      "id": "9e559f22-5263-4d67-8ea6-d5a8296c036c",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-24T10:16:25.539Z"
+    },
+    {
+      "id": "36e12590-6cc7-437c-816f-8182e53d00ae",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-24T10:16:25.540Z"
+    },
+    {
+      "id": "0cc6503e-7d1c-4971-b626-26afaaa31b92",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-24T10:16:25.540Z"
+    }
+  ]
+}
