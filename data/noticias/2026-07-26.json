@@ -1,0 +1,249 @@
+{
+  "fecha": "2026-07-26",
+  "generado": "2026-07-26T09:59:25.950Z",
+  "total": 22,
+  "noticias": [
+    {
+      "id": "45996dc3-6d16-497e-b996-50a0e12138eb",
+      "titulo": "\"El mundo no se da cuenta de cuánto depende la industria de la IA de los científicos de China\" Jensen Huang, CEO de Nvidia",
+      "resumen": "Cuando alguien tan importante para la tecnología como Jensen Huang habla, sube el pan. El CEO de Nvidia es una persona que, si bien no es conocida por dar titulares tan polémicos como su colega Elon Musk, sí que dice cosas interesantes e importantes para entender el sector. A principios de año se se",
+      "url": "https://www.xataka.com/empresas-y-economia/mundo-no-se-da-cuenta-cuanto-depende-industria-ia-cientificos-china-jensen-huang-ceo-nvidia",
+      "imagen": "https://i.blogs.es/2707a3/china/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-26T09:30:27.000Z",
+      "fechaAgregada": "2026-07-26T09:59:20.628Z"
+    },
+    {
+      "id": "30f47eed-ebae-4d91-b6ab-d5875e54c8bc",
+      "titulo": "Samsung Galaxy Watch Ultra2 vs Apple Watch Ultra 3: en qué se parecen (y en qué no) más allá de compartir apellido",
+      "resumen": "Ahora que Samsung ha presentado la nueva generación de sus smartwatch, viene bien que nos paremos un momento para compararlos con sus iguales en la competencia. En este artículo vamos a comenzar con el mejor modelo de la marca, el Samsung Galaxy Watch Ultra2, para compararlo con el Apple Watch Ultra",
+      "url": "https://www.xataka.com/seleccion/samsung-galaxy-watch-ultra2-vs-apple-watch-ultra-3-que-se-parecen-que-no-alla-compartir-apellido",
+      "imagen": "https://i.blogs.es/08c418/samsung-galaxy-watch-ultra2-vs-apple-watch-ultra-3/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-26T08:30:27.000Z",
+      "fechaAgregada": "2026-07-26T09:59:20.628Z"
+    },
+    {
+      "id": "817c0c6d-2250-4f51-b846-ff01b7046a56",
+      "titulo": "Cuando el león de la IA se escapa de la jaula",
+      "resumen": "Podríamos decir que la inteligencia artificial decidió que la manera más eficaz de aprobar el examen era… robar y copiar",
+      "url": "https://elpais.com/tecnologia/2026-07-26/cuando-el-leon-de-la-ia-se-escapa-de-la-jaula.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VSL7B5G4JJHJ5CKKEKRQGMW5T4.jpg?auth=b6c8ac34ea8de8c4f1eab5c6c18f193413cb01f64d4801943b91c50c0cf1e18c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-26T03:30:01.000Z",
+      "fechaAgregada": "2026-07-26T09:59:21.940Z"
+    },
+    {
+      "id": "39e21050-98ab-4093-a0ae-1e894406ea21",
+      "titulo": "Claude Code estrena una función que te ayuda a desarrollar mejores apps para iPhone",
+      "resumen": "Claude Code ha sumado una función que acerca la inteligencia artificial al desarrollo real de aplicaciones para el iPhone. La herramienta de programación de Anthropic ahora puede probar y ejecutar apps de iOS directamente dentro del simulador de Apple. Si tienes una Mac y una suscripción de pago de",
+      "url": "https://hipertextual.com/inteligencia-artificial/claude-code-simulador-ios-apps/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/claude-code.ios_-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-25T18:00:00.000Z",
+      "fechaAgregada": "2026-07-26T09:59:20.785Z"
+    },
+    {
+      "id": "0de603c7-8489-41ff-a0eb-cc8d613be2e4",
+      "titulo": "PCIe 6.0 está a la vuelta de la esquina: por qué tu placa base actual quedará obsoleta antes de lo que crees",
+      "resumen": "Si hablamos de PCIe 6.0, pese a que actualmente nos pueda sonar raro, en poco tiempo será el estándar habitual, tanto a nivel profesional como doméstico, lo que hace pensar a mucha gente si la placa base de su actual ordenador se quedará obsoleta con su implementación.\nEn el día de hoy, hablaremos s",
+      "url": "https://hardzone.es/noticias/componentes/pcie-6-0-vuelta-esquina-placa-base-actual-quedara-obsoleta-antes-crees/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2019/12/placa-pc-1.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-25T14:32:23.000Z",
+      "fechaAgregada": "2026-07-26T09:59:24.463Z"
+    },
+    {
+      "id": "3f480c3c-029a-4fa0-a987-9166d3ab7943",
+      "titulo": "LG xboom Rock, análisis: pequeño, matón y sorprendentemente resistente a las inclemencias del verano",
+      "resumen": "En casa, ya he comentado en alguna ocasión que tengo bastantes altavoces inteligentes distribuidos por distintas habitaciones. Por eso, cuando me preguntaron si quería probar un altavoz Bluetooth clásico, no lo dudé. Al fin y al cabo, utilizo mis altavoces principalmente para escuchar música, y este",
+      "url": "https://www.xataka.com/analisis/lg-xboom-rock-analisis-caracteristicas-precio-especificaciones",
+      "imagen": "https://i.blogs.es/48ffd8/20260724_120716/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-25T13:30:27.000Z",
+      "fechaAgregada": "2026-07-26T09:59:20.630Z"
+    },
+    {
+      "id": "0a87a597-2edf-440b-a9e1-1b8430cf6269",
+      "titulo": "OpenAI afronta una fractura por la regulación",
+      "resumen": "La discusión sobre cómo debe regularse la inteligencia artificial está generando una división cada vez más visible dentro de OpenAI. Siete empleados actuales y un antiguo trabajador de la compañía han aportado conjuntamente más de 215.000 dólares a Guardrails Alliance, un super PAC que reclama mayor",
+      "url": "https://www.muycomputer.com/2026/07/25/openai-afronta-una-fractura-por-la-regulacion/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/OpenAI-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-25T10:31:48.000Z",
+      "fechaAgregada": "2026-07-26T09:59:25.949Z"
+    },
+    {
+      "id": "c8e54dd3-3cb7-4993-9bce-cbf03dc69bee",
+      "titulo": "España quiere tener su propia IA \"soberana\". El primer paso se llama Sherpa.ai, y el Estado ya es accionista",
+      "resumen": "La compañía vasca Sherpa.ai, especializada en IA y en privacidad de datos, cerró a principios de julio una ronda de financiación de 18 millones de dólares. Esto tiene cierta relevancia, ya que la ronda participó el propio Estado a través del fondo estadounidense Forgepoint Capital, siendo la primera",
+      "url": "https://www.xataka.com/empresas-y-economia/espana-quiere-tener-su-propia-ia-soberana-primer-paso-se-llama-sherpa-ai-estado-accionista",
+      "imagen": "https://i.blogs.es/d33514/sherpa/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-25T08:30:27.000Z",
+      "fechaAgregada": "2026-07-26T09:59:20.632Z"
+    },
+    {
+      "id": "75313c27-754d-4f2b-86a7-148eefac18a9",
+      "titulo": "La nueva IA Claude Opus 5 de Anthropic ya está disponible: más eficiente sin aumentar el precio",
+      "resumen": "Anthropic acaba de poner en circulación, en las últimas horas, el nuevo Claude Opus 5, su nuevo modelo de IA que llega con fuerza. Tal y como detalla la compañía, se trata de una propuesta que destaca por ser más efectiva tanto en coste como en rendimiento.\nAunque OpenAI ha reducido el ritmo recient",
+      "url": "https://www.adslzone.net/noticias/ia/claude-opus-5-anthropic-modelo/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/Claude-Opus-5-presentacion.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-25T06:03:54.000Z",
+      "fechaAgregada": "2026-07-26T09:59:23.709Z"
+    },
+    {
+      "id": "b43e550e-9cf8-4d4e-bf84-b93c56997f9e",
+      "titulo": "Cuando la inteligencia artificial pone a prueba el Pacto Verde Europeo",
+      "resumen": "Bruselas defiende la reducción de emisiones, pero se muestra dispuesta a impulsar la expansión de infraestructuras con un elevado consumo eléctrico y dependientes de combustibles fósiles",
+      "url": "https://elpais.com/tecnologia/2026-07-25/cuando-la-inteligencia-artificial-pone-a-prueba-el-pacto-verde-europeo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RYDELIKOVNADNFA33BTMJQAMXI.jpg?auth=64903ddcd362582e01f383fe10c0de592b66d71f5b44e7e94540f23b3a1d3c53",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-25T03:30:01.000Z",
+      "fechaAgregada": "2026-07-26T09:59:21.940Z"
+    },
+    {
+      "id": "781a8b51-fce4-4314-8119-548926d86c5c",
+      "titulo": "La inteligencia artificial desafía sus propias restricciones",
+      "resumen": "Los modelos más avanzados de inteligencia artificial son cada vez más capaces de resolver tareas complejas, pero esa capacidad también está revelando comportamientos difíciles de controlar. El AI Security Institute (AISI) británico ha comprobado que todos los modelos de frontera analizados en una se",
+      "url": "https://www.muycomputer.com/2026/07/24/la-inteligencia-artificial-desafia-sus-propias-restricciones/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/IA-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-24T17:36:19.000Z",
+      "fechaAgregada": "2026-07-26T09:59:25.949Z"
+    },
+    {
+      "id": "cfc3d699-cb55-47b8-888e-4feb7e4f534b",
+      "titulo": "No, no necesitan tus claves para proteger tu cuenta: el mensaje de alerta que ha mandado un banco a sus clientes",
+      "resumen": "Pibank ha alertado, con fecha de 23 de julio, a sus clientes de una estafa que está llegando en relación a una supuesta solicitud de contraseñas o códigos para hacer o frenar operaciones, así como supuestos problemas de seguridad. Han indicado que ellos nunca van a realizar llamadas, ni enviar mensa",
+      "url": "https://www.redeszone.net/noticias/seguridad/mensaje-alerta-banco-clientes-estafas/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/seguridad-online.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-24T17:10:09.000Z",
+      "fechaAgregada": "2026-07-26T09:59:23.963Z"
+    },
+    {
+      "id": "76ea2e36-81ac-4aab-b0c6-e174a212b9a0",
+      "titulo": "AMD estrena su primer procesador ZEN 6 para infraestructura IA",
+      "resumen": "AMD está celebrando en San Francisco la conferencia Advancing AI 2026. Un evento anual para desarrolladores, clientes y socios donde la firma californiana quiere ir más allá de impulsar la IA, «construyendo el futuro de las tecnologías de inteligencia artificial» con un ecosistema de infraestructura",
+      "url": "https://www.muycomputer.com/2026/07/24/amd-estrena-su-primer-procesador-zen-6/",
+      "imagen": "https://picsum.photos/seed/474/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-24T06:17:10.000Z",
+      "fechaAgregada": "2026-07-26T09:59:25.949Z"
+    },
+    {
+      "id": "5f5cf38d-11e5-47d2-a96d-3ad8658c7235",
+      "titulo": "¿Qué ha pasado con ChatGPT? Dos fallos preocupantes",
+      "resumen": "Las últimas horas han dejado dos incidentes de seguridad diferentes, pero relacionados con una misma cuestión: qué ocurre cuando ChatGPT y otros sistemas de OpenAI dejan de limitarse a responder preguntas y reciben capacidad para actuar de manera autónoma. Por un lado, varios modelos de la compañía",
+      "url": "https://www.muycomputer.com/2026/07/23/que-ha-pasado-con-chatgpt-dos-fallos-preocupantes/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/ChatGPT-2-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-23T17:33:00.000Z",
+      "fechaAgregada": "2026-07-26T09:59:25.949Z"
+    },
+    {
+      "id": "75f50038-90dc-4a61-9903-daf998968d5e",
+      "titulo": "Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial",
+      "resumen": "Los creadores de ChatGPT probaban sus nuevas creaciones en un entorno aislado. Pero la máquina supo salir por su cuenta, en un escenario propio de la ciencia ficción",
+      "url": "https://elpais.com/tecnologia/2026-07-22/un-nuevo-modelo-de-openai-provoca-un-ataque-sin-precedentes-contra-otra-plataforma-de-inteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VSL7B5G4JJHJ5CKKEKRQGMW5T4.jpg?auth=b6c8ac34ea8de8c4f1eab5c6c18f193413cb01f64d4801943b91c50c0cf1e18c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T11:50:39.000Z",
+      "fechaAgregada": "2026-07-26T09:59:21.940Z"
+    },
+    {
+      "id": "704d48b5-12ec-4cb3-b7c3-75aa1aaa5bed",
+      "titulo": "‘Captchas’: ¿Ha logrado Google que todos entrenemos a su IA sin saberlo?",
+      "resumen": "El servicio fue creado hace 15 años con doble propósito: como filtro de seguridad para el tráfico de ‘bots’ y como generador de bases de datos para entrenar inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-07-22/captchas-ha-logrado-google-que-todos-entrenemos-a-su-ia-sin-saberlo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/D7TEO5ECFFCIVP6CPLIGXNWMUQ.jpg?auth=df3f114b93ceac4adcc0ab742602bf0892d2a4a74b4798e7cd45e5a9d3900ebc",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T03:30:01.000Z",
+      "fechaAgregada": "2026-07-26T09:59:21.940Z"
+    },
+    {
+      "id": "c7ac3012-8ecc-4230-9f88-9823a1e293cf",
+      "titulo": "Cuando el conocimiento de internet ya no es suficiente: la IA les pone el ojo a las librerías de segunda mano",
+      "resumen": "Libreros de todo el mundo han detectado compras masivas de libros descatalogados por parte de empresas tecnológicas para entrenar sus modelos de inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-07-21/cuando-el-conocimiento-de-internet-ya-no-es-suficiente-la-ia-le-pone-el-ojo-a-las-librerias-de-segunda-mano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MGH5Y4IBOJEHBNRE2IUOB7Y7LE.jpg?auth=18c6051331ee4930b1caca12045e8e7e8909d1f15dfefb71fa2f73218331c83e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T03:30:00.000Z",
+      "fechaAgregada": "2026-07-26T09:59:21.940Z"
+    },
+    {
+      "id": "01ab4339-7958-4559-b984-095caca07f7b",
+      "titulo": "La primera generación de graduados con ChatGPT abre un dilema: “Algo se ha roto en la Universidad”",
+      "resumen": "Los que salen al mercado laboral este año son los primeros estudiantes que han completado su carrera 100% con la ayuda de la IA. Pero la herramienta también ha erosionado su forma de aprender y socializar",
+      "url": "https://elpais.com/educacion/2026-07-20/la-primera-generacion-de-graduados-con-chatgpt-abre-un-dilema-algo-se-ha-roto-en-la-universidad.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BTKC7I3GVNFD5OV5NIXTFG3ILM.JPG?auth=4423681f9835d6a184b8113b7cbf9d476953172c7af14514a84e1a8fc3472dae",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-20T03:30:00.000Z",
+      "fechaAgregada": "2026-07-26T09:59:21.940Z"
+    },
+    {
+      "id": "4216397e-3312-4367-8ef1-b8612da020fd",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/377/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-26T09:59:21.940Z"
+    },
+    {
+      "id": "e9899cb8-ea0e-4eb9-8b7b-0087172502bd",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-26T09:59:21.855Z"
+    },
+    {
+      "id": "d7a845ee-2266-4b77-bc06-742b51042821",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-26T09:59:21.855Z"
+    },
+    {
+      "id": "6fa772be-c2fc-4fe1-a6a1-52f9eef55ff0",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-26T09:59:21.855Z"
+    }
+  ]
+}
