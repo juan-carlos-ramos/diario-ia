@@ -1,0 +1,260 @@
+{
+  "fecha": "2026-07-28",
+  "generado": "2026-07-28T10:34:35.992Z",
+  "total": 23,
+  "noticias": [
+    {
+      "id": "2fddf0da-c934-4881-9f4f-0b30a0a2c0fa",
+      "titulo": "“Si tu iPhone se calienta mucho y agota la carga muy rápido desde junio, no es tu batería”: Así se soluciona sin esperar a Apple.",
+      "resumen": "Un hilo que acumula millones de visualizaciones asegura que iOS 26.5.2 está provocando sobrecalentamiento y un consumo excesivo de batería en el iPhone. A raíz de este supuesto problema, su creador propone una serie de pasos para evitarlo de forma sencilla. Básicamente, tenemos que desactivar la act",
+      "url": "https://www.adslzone.net/noticias/moviles/iphone-calentamiento-bateria-ios-solucion/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/ios-26.5.2-problemas-bateria.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-28T09:45:26.000Z",
+      "fechaAgregada": "2026-07-28T10:34:32.927Z"
+    },
+    {
+      "id": "51fa1248-db1f-4bf6-b479-21abbfce3164",
+      "titulo": "Anthropic, Google y OpenAI no quieren modelos de IA de peso abierto",
+      "resumen": "25 importantes empresas tecnológicas, organizaciones industriales y firmas de capital riesgo, han publicado una carta abierta instando a los responsables políticos a apoyar los modelos de IA de peso abierto. La misiva (aquí disponible completa en PDF) de casi mil palabras se puede resumir como: «por",
+      "url": "https://www.muycomputer.com/2026/07/28/anthropic-google-y-openai-no-quieren-modelos-de-ia-de-peso-abierto/",
+      "imagen": "https://picsum.photos/seed/283/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-28T08:04:08.000Z",
+      "fechaAgregada": "2026-07-28T10:34:35.991Z"
+    },
+    {
+      "id": "94003ed4-2591-4d16-b635-48cf563e9ede",
+      "titulo": "Gemini cambia en móviles para que puedas obtener mejores respuestas de forma más sencilla",
+      "resumen": "Pocos días después de que supiéramos que Gemini Spark iba a llegar muy pronto a muchos más suscriptores, desde Google no han querido esperar más y han hecho una serie de cambios en la app de Gemini para móviles. El objetivo es ofrecer respuestas de mayor calidad con unos pocos ajustes.\nLas empresas",
+      "url": "https://www.adslzone.net/noticias/ia/gemini-cambia-app-moviles-mejores-respuestas/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/gemini-cambios-pcpal-1212-z.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-28T07:57:27.000Z",
+      "fechaAgregada": "2026-07-28T10:34:32.927Z"
+    },
+    {
+      "id": "3c7eb5e9-699d-4741-a245-858feb35f714",
+      "titulo": "Amigos digitales con IA, la nueva amenaza para la salud mental de los adolescentes",
+      "resumen": "Los psicólogos alertan de que los jóvenes recurren cada vez más a herramientas como ChatGPT en busca de apoyo emocional, una práctica que consideran altamente peligrosa",
+      "url": "https://elpais.com/tecnologia/2026-07-28/amigos-digitales-con-ia-la-nueva-amenaza-para-la-salud-mental-de-los-adolescentes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EYH5I2VEQFC7RCXYOLLTP7BBDY.jpg?auth=ffa7376ee53b6aa282c293092329ba18e889974a939098301230e47de7f1b3ca",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-28T03:30:01.000Z",
+      "fechaAgregada": "2026-07-28T10:34:31.153Z"
+    },
+    {
+      "id": "3a95f52e-ccd7-4933-b383-5a332b1ea3f4",
+      "titulo": "\"Es como tener una aspiradora encendida en el salón\": un centro de datos convirtió la vida de un vecindario en una pesadilla",
+      "resumen": "Durante años, los centros de datos permanecieron fuera de nuestra vista, aunque buena parte de lo que hacemos en internet depende de ellos. En Dowagiac, una ciudad del suroeste de Michigan, esa infraestructura se ha vuelto imposible de ignorar: varios vecinos aseguran que una instalación dedicada a",
+      "url": "https://www.xataka.com/empresas-y-economia/como-tener-aspiradora-encendida-salon-centro-datos-convirtio-vida-vecindario-pesadilla",
+      "imagen": "https://i.blogs.es/f944ec/centro-de-datos/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-27T21:57:35.000Z",
+      "fechaAgregada": "2026-07-28T10:34:30.138Z"
+    },
+    {
+      "id": "1f3833fc-8bde-4b14-980b-9d08e3e1d887",
+      "titulo": "NVIDIA, Microsoft y SpaceX se unen para frenar los ciberataques de la inteligencia artificial",
+      "resumen": "NVIDIA, Microsoft, SpaceX y un grupo importante de empresas tecnológicas han formado una coalición que busca frenar los ciberataques vinculados a la IA. A unos días de que ocurriera el hackeo a Hugging Face por parte de los modelos de OpenAI, las empresas abrieron un frente de defensa que apostará p",
+      "url": "https://hipertextual.com/seguridad/open-secure-ai-alliance-nvidia-microsoft-spacex/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/hackeo-ia.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-27T17:45:56.000Z",
+      "fechaAgregada": "2026-07-28T10:34:30.322Z"
+    },
+    {
+      "id": "6f6da031-bb6e-4f97-89d4-df2ba674b003",
+      "titulo": "Google trabaja en un widget para traducir conversaciones en tiempo real desde los teléfonos Android",
+      "resumen": "Las conversaciones traducidas en tiempo real van a mejorar próximamente con el widget que prepara Google. En los últimos tiempos, la compañía ya comenzó a usar Gemini 3.5 Live Translate para mejorar la traducción en tiempo real de su app Traductor de Google. Sin embargo, no es lo único en lo que par",
+      "url": "https://www.adslzone.net/noticias/moviles/google-widget-traducir-conversaciones-tiempo-real/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/traductor-google.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-27T17:38:20.000Z",
+      "fechaAgregada": "2026-07-28T10:34:32.928Z"
+    },
+    {
+      "id": "88de3b50-25ca-4579-a370-76bc19f028e3",
+      "titulo": "Saber si una cuenta de Facebook es real, es ahora más sencillo con esta nueva función que evita bots",
+      "resumen": "Los bots en Internet son un problema bastante presente. Aunque no siempre suponen un riesgo para la seguridad, sí que hay ocasiones en las que están diseñados para recopilar datos personales, robar contraseñas o infectar con malware. Las redes sociales no son una excepción y en Facebook los podemos",
+      "url": "https://www.redeszone.net/noticias/seguridad/saber-cuenta-facebook-real-evitar-bots/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/logo-de-facebook-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-27T17:03:51.000Z",
+      "fechaAgregada": "2026-07-28T10:34:34.226Z"
+    },
+    {
+      "id": "8adfe038-bcfb-4600-9205-5252c318abfa",
+      "titulo": "\"Temperatura\" y \"longitud de respuesta\": dos parámetros muy poco conocidos que lo cambian todo con la IA",
+      "resumen": "ChatGPT, Gemini, Claude, DeepSeek y otras inteligencias artificiales (IA) parecen simples: escribimos, les entregamos nuestra petición o pregunta y recibimos una respuesta. No obstante, detrás de esta sencillez de uso hay dos parámetros que condicionan en gran medida la calidad de la respuesta que o",
+      "url": "https://www.xataka.com/robotica-e-ia/temperatura-longitud-respuesta-dos-parametros-muy-poco-conocidos-que-cambian-todo-ia",
+      "imagen": "https://i.blogs.es/acb262/temperaturadeia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-27T15:31:36.000Z",
+      "fechaAgregada": "2026-07-28T10:34:30.139Z"
+    },
+    {
+      "id": "bdb8a1a6-3c8d-4c11-8359-69e4cdd2992b",
+      "titulo": "Mucho ojo con Claude si hiciste esto: tus chats con la IA se pueden haber filtrado",
+      "resumen": "Si usas Claude a diario, presta atención porque es posible que tus chats con la IA se hayan filtrado y sean visibles para todo el mundo. Usuarios del chatbot de Anthropic han descubierto un truco que permite acceder a miles de conversaciones de forma simple, siempre y cuando se cumpla un requisito e",
+      "url": "https://hipertextual.com/inteligencia-artificial/claude-chats-filtracion-buscador-google/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-laptop-1.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-27T15:10:37.000Z",
+      "fechaAgregada": "2026-07-28T10:34:30.322Z"
+    },
+    {
+      "id": "ad48208c-ed29-4877-bcb8-5179474e19db",
+      "titulo": "\"Cuatro chips de Huawei por uno de Nvidia\": el CEO de DeepSeek explica cómo ha transformado la escasez de chips en su coartada estratégica",
+      "resumen": "Una de las muchas batallas que China y Estados Unidos están librando es la tecnológica, concretamente una relacionada con la inteligencia artificial. El gasto de las empresas estadounidenses en la IA es astronómico, pero en China la ambición no es menor y el Gobierno quiere que sea uno de los puntal",
+      "url": "https://www.xataka.com/robotica-e-ia/cuatro-chips-huawei-uno-nvidia-ceo-deepseek-explica-como-ha-transformado-escasez-chips-su-coartada-estrategica",
+      "imagen": "https://i.blogs.es/6df73c/587c68dd-061c-4e1e-88ad-497454294f81/1024_2000.png",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-27T14:31:36.000Z",
+      "fechaAgregada": "2026-07-28T10:34:30.140Z"
+    },
+    {
+      "id": "abab5bfd-4ad9-44f4-b20b-4967ac2df6d1",
+      "titulo": "ChatGPT quiere que vincules tus datos de salud a su IA, ¿te fiarías?",
+      "resumen": "OpenAI ha comenzado a desplegar lo que ha denominado Health in ChatGPT o Salud en ChatGPT. Es una característica que permite vincular Apple Health y registros médicos compatibles para que ChatGPT tenga más información durante tus conversaciones. Básicamente, permites que este chatbot pueda acceder a",
+      "url": "https://www.redeszone.net/noticias/seguridad/chatgpt-datos-salud-ia/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/imagen-inteligencia-artificial.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-27T09:19:50.000Z",
+      "fechaAgregada": "2026-07-28T10:34:34.226Z"
+    },
+    {
+      "id": "b089f980-2544-4b1e-8b9a-9d9b37181867",
+      "titulo": "Cuando el león de la IA se escapa de la jaula",
+      "resumen": "Podríamos decir que la inteligencia artificial decidió que la manera más eficaz de aprobar el examen era… robar y copiar",
+      "url": "https://elpais.com/tecnologia/2026-07-26/cuando-el-leon-de-la-ia-se-escapa-de-la-jaula.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VSL7B5G4JJHJ5CKKEKRQGMW5T4.jpg?auth=b6c8ac34ea8de8c4f1eab5c6c18f193413cb01f64d4801943b91c50c0cf1e18c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-26T03:30:01.000Z",
+      "fechaAgregada": "2026-07-28T10:34:31.153Z"
+    },
+    {
+      "id": "dd555f80-70f3-46c2-bdcd-fcfa501fe33b",
+      "titulo": "OpenAI afronta una fractura por la regulación",
+      "resumen": "La discusión sobre cómo debe regularse la inteligencia artificial está generando una división cada vez más visible dentro de OpenAI. Siete empleados actuales y un antiguo trabajador de la compañía han aportado conjuntamente más de 215.000 dólares a Guardrails Alliance, un super PAC que reclama mayor",
+      "url": "https://www.muycomputer.com/2026/07/25/openai-afronta-una-fractura-por-la-regulacion/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/OpenAI-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-25T10:31:48.000Z",
+      "fechaAgregada": "2026-07-28T10:34:35.991Z"
+    },
+    {
+      "id": "fdcc0a5d-e37e-4a8a-b959-b7888c5095d0",
+      "titulo": "Cuando la inteligencia artificial pone a prueba el Pacto Verde Europeo",
+      "resumen": "Bruselas defiende la reducción de emisiones, pero se muestra dispuesta a impulsar la expansión de infraestructuras con un elevado consumo eléctrico y dependientes de combustibles fósiles",
+      "url": "https://elpais.com/tecnologia/2026-07-25/cuando-la-inteligencia-artificial-pone-a-prueba-el-pacto-verde-europeo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RYDELIKOVNADNFA33BTMJQAMXI.jpg?auth=64903ddcd362582e01f383fe10c0de592b66d71f5b44e7e94540f23b3a1d3c53",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-25T03:30:01.000Z",
+      "fechaAgregada": "2026-07-28T10:34:31.153Z"
+    },
+    {
+      "id": "e78b3961-d7e4-41d8-9e29-e6d5e8518f0e",
+      "titulo": "Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial",
+      "resumen": "Los creadores de ChatGPT probaban sus nuevas creaciones en un entorno aislado. Pero la máquina supo salir por su cuenta, en un escenario propio de la ciencia ficción",
+      "url": "https://elpais.com/tecnologia/2026-07-22/un-nuevo-modelo-de-openai-provoca-un-ataque-sin-precedentes-contra-otra-plataforma-de-inteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VSL7B5G4JJHJ5CKKEKRQGMW5T4.jpg?auth=b6c8ac34ea8de8c4f1eab5c6c18f193413cb01f64d4801943b91c50c0cf1e18c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T11:50:39.000Z",
+      "fechaAgregada": "2026-07-28T10:34:31.153Z"
+    },
+    {
+      "id": "7c962223-924b-4d8f-8677-f812f0f8d839",
+      "titulo": "‘Captchas’: ¿Ha logrado Google que todos entrenemos a su IA sin saberlo?",
+      "resumen": "El servicio fue creado hace 15 años con doble propósito: como filtro de seguridad para el tráfico de ‘bots’ y como generador de bases de datos para entrenar inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-07-22/captchas-ha-logrado-google-que-todos-entrenemos-a-su-ia-sin-saberlo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/D7TEO5ECFFCIVP6CPLIGXNWMUQ.jpg?auth=df3f114b93ceac4adcc0ab742602bf0892d2a4a74b4798e7cd45e5a9d3900ebc",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T03:30:01.000Z",
+      "fechaAgregada": "2026-07-28T10:34:31.153Z"
+    },
+    {
+      "id": "6c851649-cc0e-4f36-9804-65d1a068cbbb",
+      "titulo": "Cuando el conocimiento de internet ya no es suficiente: la IA les pone el ojo a las librerías de segunda mano",
+      "resumen": "Libreros de todo el mundo han detectado compras masivas de libros descatalogados por parte de empresas tecnológicas para entrenar sus modelos de inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-07-21/cuando-el-conocimiento-de-internet-ya-no-es-suficiente-la-ia-le-pone-el-ojo-a-las-librerias-de-segunda-mano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MGH5Y4IBOJEHBNRE2IUOB7Y7LE.jpg?auth=18c6051331ee4930b1caca12045e8e7e8909d1f15dfefb71fa2f73218331c83e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-21T03:30:00.000Z",
+      "fechaAgregada": "2026-07-28T10:34:31.153Z"
+    },
+    {
+      "id": "c2dfc076-f318-4346-859a-4ab6c2dacbd5",
+      "titulo": "La primera generación de graduados con ChatGPT abre un dilema: “Algo se ha roto en la Universidad”",
+      "resumen": "Los que salen al mercado laboral este año son los primeros estudiantes que han completado su carrera 100% con la ayuda de la IA. Pero la herramienta también ha erosionado su forma de aprender y socializar",
+      "url": "https://elpais.com/educacion/2026-07-20/la-primera-generacion-de-graduados-con-chatgpt-abre-un-dilema-algo-se-ha-roto-en-la-universidad.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BTKC7I3GVNFD5OV5NIXTFG3ILM.JPG?auth=4423681f9835d6a184b8113b7cbf9d476953172c7af14514a84e1a8fc3472dae",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-20T03:30:00.000Z",
+      "fechaAgregada": "2026-07-28T10:34:31.153Z"
+    },
+    {
+      "id": "da03bdae-a4b3-464a-97a4-1d282f674ba0",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/408/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-28T10:34:31.153Z"
+    },
+    {
+      "id": "9bca8b27-44fe-45fb-8131-0be308345bc8",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-28T10:34:31.059Z"
+    },
+    {
+      "id": "3325fe69-3543-47aa-b995-e6a955b16035",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-28T10:34:31.059Z"
+    },
+    {
+      "id": "795120bd-dd7c-4b66-8586-31ee965be92e",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-28T10:34:31.059Z"
+    }
+  ]
+}
