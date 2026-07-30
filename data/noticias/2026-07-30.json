@@ -1,0 +1,293 @@
+{
+  "fecha": "2026-07-30",
+  "generado": "2026-07-30T10:24:15.656Z",
+  "total": 26,
+  "noticias": [
+    {
+      "id": "d7beffb8-188b-4eca-a7e3-a09938a31e24",
+      "titulo": "Samsung ha puesto fecha al momento en el que volveremos a pagar \"lo normal\" por la memoria de nuestros PC",
+      "resumen": "Samsung ha reconocido, sin rodeos, que la escasez de chips de memoria no solo no va a remitir a corto plazo, sino que va a agravarse. Lo ha hecho en su conferencia de resultados del segundo trimestre, después de que su división de semiconductores multiplicara por más de 250 veces sus beneficios resp",
+      "url": "https://www.xataka.com/empresas-y-economia/samsung-ha-puesto-fecha-al-momento-que-volveremos-a-pagar-normal-memoria-nuestros-pc",
+      "imagen": "https://i.blogs.es/79045f/samsungdram/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-30T10:01:52.000Z",
+      "fechaAgregada": "2026-07-30T10:24:10.251Z"
+    },
+    {
+      "id": "2932d794-1b89-423f-bad1-8a27cecd8767",
+      "titulo": "Si eres cliente de Revolut, puedes conseguir hasta un año gratis de ChatGPT Go: estas son las condiciones",
+      "resumen": "Revolut es el neobanco más usado en España y uno de los que más crece en todo el mundo. La compañía acaba de anunciar que suma una nueva suscripción a su lista de beneficios, y no es una suscripción cualquiera, sino que es para ChatGPT Go. \n\rLo ha anunciado la propia compañía en su cuenta de X. Desd",
+      "url": "https://www.xataka.com/empresas-y-economia/eres-cliente-revolut-puedes-conseguir-ano-gratis-chatgpt-go-estas-condiciones",
+      "imagen": "https://i.blogs.es/6e83cf/hodahluwwaa5wzg/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-30T09:31:51.000Z",
+      "fechaAgregada": "2026-07-30T10:24:10.251Z"
+    },
+    {
+      "id": "d35d078e-e8bb-4600-b550-d74fcbc88e9b",
+      "titulo": "Revolut da un gran paso con OpenAI: ChatGPT Go gratis para millones de clientes",
+      "resumen": "Los clientes de Revolut están de suerte con esta nueva alianza del neobanco con OpenAI. Más que nada porque podrán disfrutar de hasta 12 meses gratuitos de la Inteligencia Artificial de esta compañía. Un beneficio al que van a tener acceso millones de usuarios que forman parte de la cartera de clien",
+      "url": "https://www.adslzone.net/noticias/fintech/revolut-openai-chatgpt-go-gratis-clientes/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/revolut-chatgpt-go-gratis.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-30T08:40:47.000Z",
+      "fechaAgregada": "2026-07-30T10:24:12.374Z"
+    },
+    {
+      "id": "bcbe63fe-421a-49be-acf2-798b2da60f1b",
+      "titulo": "Google actualiza Gemini con un nuevo control por voz para tu ordenador: esto es todo lo que cambia",
+      "resumen": "Google continúa haciendo cambios en su IA con el objetivo de hacerla cada vez más atractiva frente a sus rivales. Hace unos pocos días, te contábamos de uno de los últimos cambios dedicado en exclusiva a los móviles, ahora la firma tecnológica hace lo propio, pero centrándose exclusivamente en los o",
+      "url": "https://www.adslzone.net/noticias/ia/google-actualiza-gemini-control-voz-ordenadores/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/gemini-mac-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-30T06:06:23.000Z",
+      "fechaAgregada": "2026-07-30T10:24:12.375Z"
+    },
+    {
+      "id": "6cfe499e-293b-454d-ac41-4b7b525cf4d7",
+      "titulo": "Una IA gestionó un negocio sin supervisión humana y eligió mentir, amenazar y traicionar",
+      "resumen": "Dejar a una inteligencia artificial al frente de un negocio puede dar resultados sorprendentes. Al menos eso parece con Claude Opus 5, que demostró ser el mejor capitalista a la hora de gestionar una máquina expendedora de bebidas. Un estudio arrojó que la IA de Anthropic no solo obtuvo los mejores",
+      "url": "https://hipertextual.com/inteligencia-artificial/claude-opus-5-ia-capitalista-vending-bench/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/robots-ia.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T21:52:00.000Z",
+      "fechaAgregada": "2026-07-30T10:24:10.424Z"
+    },
+    {
+      "id": "6e5c6954-40fb-4977-8e82-c9708cbe86b9",
+      "titulo": "1Password pone límites a los agentes de IA",
+      "resumen": "Los agentes de inteligencia artificial empiezan a hacer mucho más que responder preguntas o generar código. También consultan bases de datos, ejecutan procesos, modifican infraestructuras y utilizan herramientas internas en nombre de sus usuarios. Esa autonomía resulta imprescindible para que sean r",
+      "url": "https://www.muycomputer.com/2026/07/29/1password-pone-limites-a-los-agentes-de-ia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/1password-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T18:15:20.000Z",
+      "fechaAgregada": "2026-07-30T10:24:15.655Z"
+    },
+    {
+      "id": "85fa0072-a786-4b0e-8bf7-28f246de58c0",
+      "titulo": "Gemini para Mac se transforma y añade una función que vas a querer usar todo el tiempo",
+      "resumen": "Gemini para Mac ahora entiende tu voz y puede actuar sobre lo que ves en la pantalla. Google ha lanzado una actualización para su aplicación nativa de macOS que integra controles por voz que funcionan en cualquier ventana de tu escritorio. El objetivo es que puedas mantenerte enfocado en tu trabajo",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-mac-controles-voz-pantalla/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/gemini-macos.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T17:40:47.000Z",
+      "fechaAgregada": "2026-07-30T10:24:10.424Z"
+    },
+    {
+      "id": "9ea4a9f5-1664-4b31-9cb1-e8ef4455e483",
+      "titulo": "«Seguimos perdiendo dinero con cada Xbox que vendemos», Microsoft reconoce su mayor problema",
+      "resumen": "Pese a que la mayoría de productos que compramos no se venden en pérdidas, hay cierto tipo de ellos que, como la Xbox, pueden salirle rentables a su vendedor, debido a que la mayoría de ingresos no vienen tras esta compra, sino por todo lo que hay detrás.\nEn el día de hoy, veremos cómo Microsoft sig",
+      "url": "https://hardzone.es/noticias/equipos/seguimos-perdiendo-dinero-cada-xbox-vendemos-microsoft-tiene-problema/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/02/xbox-mando-letras.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T17:24:36.000Z",
+      "fechaAgregada": "2026-07-30T10:24:14.919Z"
+    },
+    {
+      "id": "0d4a652e-0347-4ded-bf88-3ec8eff888ab",
+      "titulo": "Vigila todo lo que ocurra en tu casa o negocio con estas cámaras IP en oferta",
+      "resumen": "Si quieres vigilar tu vivienda o negocio y ver todo lo que ocurra, contar con cámaras de seguridad puede ser una buena solución. Vamos a mostrarte algunos modelos que puedes encontrar en oferta. Te hablaremos de las principales características de cada uno de ellos, para que puedas elegir la cámara q",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-seguridad-casa-0726/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/camara-tp-link-tapo-panel-solar.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T14:08:01.000Z",
+      "fechaAgregada": "2026-07-30T10:24:13.725Z"
+    },
+    {
+      "id": "e91407f8-ae14-4934-9537-83992d8104e6",
+      "titulo": "Diario del ataque inaudito de la IA que escapó al control de OpenAI: “Su resiliencia no era la típica de un humano”",
+      "resumen": "Nuevos detalles de la compañía y de la plataforma agredida, Hugging Face, muestran que la operación duró cinco días y afectó al menos a otros cuatro servicios en internet",
+      "url": "https://elpais.com/tecnologia/2026-07-29/diario-del-ataque-inaudito-de-la-ia-que-escapo-al-control-de-openai-su-resiliencia-no-era-la-tipica-de-un-humano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/K5SU2277WBGWPJRAHLO2NPIKQ4.jpg?auth=76f9cda2c1a4bf03de747ae4a0f5d9a271cebdcb0ff7e65e7bc45a33e0a83b31",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T12:02:57.000Z",
+      "fechaAgregada": "2026-07-30T10:24:11.353Z"
+    },
+    {
+      "id": "70a0960f-bd0c-4edd-b09f-78aebc9d7738",
+      "titulo": "AMD presenta oficialmente la Radeon RX 9050: 8 GB, RDNA 4, menos de 300 euros y no llegará a Europa",
+      "resumen": "Tras la filtración de ASRock en el día de ayer, ya sabíamos que la salida de la Radeon RX 9050 era cuestión de horas o días, y AMD nos la ha presentado ya oficialmente, con todas las características que esperábamos, y a un precio asequible, al menos en ciertos países.\nY es que no está disponible, po",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/amd-presenta-oficialmente-radeon-rx-9050-8-gb-rdna-4-precio-279-dolares/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/Radeon-RX-9050.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T10:00:27.000Z",
+      "fechaAgregada": "2026-07-30T10:24:14.919Z"
+    },
+    {
+      "id": "8afa8377-c764-4e7b-9087-d56993f68db2",
+      "titulo": "La ciberseguridad del futuro acaba de empezar: así se defendió Hugging Face del ataque de OpenAI",
+      "resumen": "La ciberseguridad está cambiando a causa de la Inteligencia Artificial. Aunque puede ofrecer un amplio abanico de opciones para mejorar la protección de los dispositivos y sistemas, además de poder detectar fallos que pasaban desapercibidos, también es un arma que pueden utilizar los cibercriminales",
+      "url": "https://www.redeszone.net/noticias/seguridad/ciberseguridad-futuro-hugging-face-ataque-openai/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/alerta-ciberseguridad.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T09:22:34.000Z",
+      "fechaAgregada": "2026-07-30T10:24:13.725Z"
+    },
+    {
+      "id": "d3adfeff-b370-4b76-945a-63c06b124031",
+      "titulo": "OpenAI prepara su gran salto al hardware",
+      "resumen": "OpenAI lleva varios años dejando claro que no quiere limitarse a desarrollar modelos y servicios que funcionen dentro de los dispositivos de otras compañías. Las conversaciones entre Sam Altman y Jony Ive sobre una nueva categoría de hardware comenzaron a conocerse en 2023 y, desde entonces, el proy",
+      "url": "https://www.muycomputer.com/2026/07/29/openai-prepara-su-gran-salto-al-hardware/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/OpenAI-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T07:45:18.000Z",
+      "fechaAgregada": "2026-07-30T10:24:15.655Z"
+    },
+    {
+      "id": "cab81321-6f27-4d45-b1cd-3af1676201eb",
+      "titulo": "Esta extensión de Chrome está espiando cualquier conversación que tengas en ChatGPT o Gemini",
+      "resumen": "Un grupo de investigadores de seguridad de MalExt Sentry ha detectado una extensión para Chrome que espía las conversaciones con ChatGPT, Claude o Gemini. Puedes ver la publicación con fecha de 27 de julio que está disponible en su web oficial. Se trata de una extensión que tiene unas 100.000 instal",
+      "url": "https://www.redeszone.net/noticias/seguridad/extension-chrome-espiar-conversaciones-chatgpt-gemini/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/pirata-informatico-inteligencia-artificial.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T07:21:36.000Z",
+      "fechaAgregada": "2026-07-30T10:24:13.726Z"
+    },
+    {
+      "id": "89c7bd47-2027-4b5b-b82c-d80c72e0ca02",
+      "titulo": "IA y tecnología contra incendios forestales",
+      "resumen": "El drama de los incendios en España nos invita a reflexionar sobre el papel que la tecnología en general y la Inteligencia Artificial en particular debería desempeñar en la prevención y la extinción. En lo que respecta a la IA no podemos permitir que uno de los avances tecnológicos más significativo",
+      "url": "https://www.muycomputer.com/2026/07/29/ia-y-tecnologia-contra-incendios-forestales/",
+      "imagen": "https://picsum.photos/seed/95/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T06:55:31.000Z",
+      "fechaAgregada": "2026-07-30T10:24:15.655Z"
+    },
+    {
+      "id": "e7a17c31-787b-45d7-b829-b6d7576b6cb8",
+      "titulo": "Apple AI glasses: menos Vision Pro, más IA, 2027",
+      "resumen": "Las gafas inteligentes se están convirtiendo rápidamente en uno de los grandes campos de batalla de la inteligencia artificial, y Apple no quiere quedarse fuera. Meta lleva tiempo avanzando en esta dirección, Samsung también ha mostrado sus cartas y ahora las Apple AI glasses empiezan a perfilarse c",
+      "url": "https://www.muycomputer.com/2026/07/28/apple-ai-glasses-menos-vision-pro-mas-ia-2027/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/07/Apple-2-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-28T15:01:03.000Z",
+      "fechaAgregada": "2026-07-30T10:24:15.656Z"
+    },
+    {
+      "id": "c115495f-a317-4b11-ab83-8c5aab56b089",
+      "titulo": "Amigos digitales con IA, la nueva amenaza para la salud mental de los adolescentes",
+      "resumen": "Los psicólogos alertan de que los jóvenes recurren cada vez más a herramientas como ChatGPT en busca de apoyo emocional, una práctica que consideran altamente peligrosa",
+      "url": "https://elpais.com/tecnologia/2026-07-28/amigos-digitales-con-ia-la-nueva-amenaza-para-la-salud-mental-de-los-adolescentes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EYH5I2VEQFC7RCXYOLLTP7BBDY.jpg?auth=ffa7376ee53b6aa282c293092329ba18e889974a939098301230e47de7f1b3ca",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-28T03:30:01.000Z",
+      "fechaAgregada": "2026-07-30T10:24:11.353Z"
+    },
+    {
+      "id": "9a19461f-76ca-45e9-ab02-c0cf6a7f5233",
+      "titulo": "Saber si una cuenta de Facebook es real, es ahora más sencillo con esta nueva función que evita bots",
+      "resumen": "Los bots en Internet son un problema bastante presente. Aunque no siempre suponen un riesgo para la seguridad, sí que hay ocasiones en las que están diseñados para recopilar datos personales, robar contraseñas o infectar con malware. Las redes sociales no son una excepción y en Facebook los podemos",
+      "url": "https://www.redeszone.net/noticias/seguridad/saber-cuenta-facebook-real-evitar-bots/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/logo-de-facebook-movil.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-27T17:03:51.000Z",
+      "fechaAgregada": "2026-07-30T10:24:13.726Z"
+    },
+    {
+      "id": "c339a123-3aca-49ac-bbf3-2066cd74dae3",
+      "titulo": "Cuando el león de la IA se escapa de la jaula",
+      "resumen": "Podríamos decir que la inteligencia artificial decidió que la manera más eficaz de aprobar el examen era… robar y copiar",
+      "url": "https://elpais.com/tecnologia/2026-07-26/cuando-el-leon-de-la-ia-se-escapa-de-la-jaula.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VSL7B5G4JJHJ5CKKEKRQGMW5T4.jpg?auth=b6c8ac34ea8de8c4f1eab5c6c18f193413cb01f64d4801943b91c50c0cf1e18c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-26T03:30:01.000Z",
+      "fechaAgregada": "2026-07-30T10:24:11.353Z"
+    },
+    {
+      "id": "31eb067a-ed10-45ca-b481-b2a37b25b1eb",
+      "titulo": "Cuando la inteligencia artificial pone a prueba el Pacto Verde Europeo",
+      "resumen": "Bruselas defiende la reducción de emisiones, pero se muestra dispuesta a impulsar la expansión de infraestructuras con un elevado consumo eléctrico y dependientes de combustibles fósiles",
+      "url": "https://elpais.com/tecnologia/2026-07-25/cuando-la-inteligencia-artificial-pone-a-prueba-el-pacto-verde-europeo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RYDELIKOVNADNFA33BTMJQAMXI.jpg?auth=64903ddcd362582e01f383fe10c0de592b66d71f5b44e7e94540f23b3a1d3c53",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-25T03:30:01.000Z",
+      "fechaAgregada": "2026-07-30T10:24:11.353Z"
+    },
+    {
+      "id": "7f6e7c73-87eb-4a09-b820-4453c92c6b7a",
+      "titulo": "Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial",
+      "resumen": "Los creadores de ChatGPT probaban sus nuevas creaciones en un entorno aislado. Pero la máquina supo salir por su cuenta, en un escenario propio de la ciencia ficción",
+      "url": "https://elpais.com/tecnologia/2026-07-22/un-nuevo-modelo-de-openai-provoca-un-ataque-sin-precedentes-contra-otra-plataforma-de-inteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VSL7B5G4JJHJ5CKKEKRQGMW5T4.jpg?auth=b6c8ac34ea8de8c4f1eab5c6c18f193413cb01f64d4801943b91c50c0cf1e18c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T11:50:39.000Z",
+      "fechaAgregada": "2026-07-30T10:24:11.353Z"
+    },
+    {
+      "id": "bc04727c-cef3-4baf-8e5b-936179dc9b3a",
+      "titulo": "‘Captchas’: ¿Ha logrado Google que todos entrenemos a su IA sin saberlo?",
+      "resumen": "El servicio fue creado hace 15 años con doble propósito: como filtro de seguridad para el tráfico de ‘bots’ y como generador de bases de datos para entrenar inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-07-22/captchas-ha-logrado-google-que-todos-entrenemos-a-su-ia-sin-saberlo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/D7TEO5ECFFCIVP6CPLIGXNWMUQ.jpg?auth=df3f114b93ceac4adcc0ab742602bf0892d2a4a74b4798e7cd45e5a9d3900ebc",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T03:30:01.000Z",
+      "fechaAgregada": "2026-07-30T10:24:11.353Z"
+    },
+    {
+      "id": "9592e1eb-de30-4b00-a378-297a1c42aa42",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/382/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-30T10:24:11.353Z"
+    },
+    {
+      "id": "fe27da0b-5be1-4352-a937-7f396f3fd357",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-30T10:24:11.281Z"
+    },
+    {
+      "id": "92142c91-8d93-4bac-9e78-7d7229bcb770",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-30T10:24:11.282Z"
+    },
+    {
+      "id": "272e4651-206f-4ac6-b3f0-c2c6492e8741",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-30T10:24:11.282Z"
+    }
+  ]
+}
