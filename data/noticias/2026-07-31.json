@@ -1,0 +1,216 @@
+{
+  "fecha": "2026-07-31",
+  "generado": "2026-07-31T10:38:46.221Z",
+  "total": 19,
+  "noticias": [
+    {
+      "id": "60de7d11-4432-43a5-94ed-fab2b8f196d4",
+      "titulo": "Anthropic anuncia que sus programas de IA también hackearon por su cuenta tres empresas tras el incidente de OpenAI",
+      "resumen": "La compañía creadora de Claude ha revisado más de 140.000 sesiones y ha descubierto que se escaparon de un entorno de pruebas como ChatGPT",
+      "url": "https://elpais.com/tecnologia/2026-07-31/anthropic-anuncia-que-sus-programas-de-ia-tambien-hackearon-por-su-cuenta-tres-empresas-tras-el-incidente-de-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AQ5QIHDZC5H6BJMTZ55NYR5PLU.jpg?auth=e6351416a1ff4275d500da98877769addff666dd480fbbc4332c9b1a525516e7",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-31T09:52:33.000Z",
+      "fechaAgregada": "2026-07-31T10:38:28.546Z"
+    },
+    {
+      "id": "6df68186-e981-4222-a69d-3eb466244bdd",
+      "titulo": "Un modelo de OpenAI escapó del entorno de pruebas y hackeó una empresa. La respuesta de Anthropic: sujétame el cubata",
+      "resumen": "La semana pasada OpenAI publicó un artículo en el que contaba como, mientras ponía a prueba su modelo GPT 5.6 Sol, éste logró escapar del entorno de pruebas supuestamente aislado y hackeó los sistemas de la plataforma Hugging Face. Este incidente ha alimentado la preocupación y ha hecho que el presi",
+      "url": "https://www.xataka.com/robotica-e-ia/modelo-openai-escapo-entorno-pruebas-hackeo-empresa-respuesta-anthropic-sujetame-cubata",
+      "imagen": "https://i.blogs.es/cab1c7/anthropic-openai/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-31T09:01:43.000Z",
+      "fechaAgregada": "2026-07-31T10:38:27.482Z"
+    },
+    {
+      "id": "4ed3390d-da64-4b04-8300-966652d720d0",
+      "titulo": "Google lo confirma: «la IA es clave para corregir fallos» y que sea más seguro Chrome",
+      "resumen": "La Inteligencia Artificial puede ser un arma de doble filo en ciberseguridad. Los piratas informáticos la utilizan para lanzar ataques más complejos y obtener ciertas mejoras, como puede ser escribir correos de phishing más realistas, pero también es algo que puede ayudar para mejorar la seguridad.",
+      "url": "https://www.redeszone.net/noticias/seguridad/google-confirma-ia-clave-corregir-fallos/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/inteligencia-artificial.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-31T07:17:21.000Z",
+      "fechaAgregada": "2026-07-31T10:38:30.891Z"
+    },
+    {
+      "id": "aed34d0a-414c-4b04-8644-b365dcacf00d",
+      "titulo": "OpenAI toma la decisión que los usuarios de ChatGPT estaban esperando: “Hemos reducido los precios”",
+      "resumen": "En las últimas horas se comentaba que OpenAI estaba preparando cambios que harían que ChatGPT disfrutara de un buen impulso. Ahora ya se ha confirmado y se puede decir que es justo lo que estaban esperando todos los usuarios: una bajada en los precios.\nOpenAI quiere seguir teniendo una de las posici",
+      "url": "https://www.adslzone.net/noticias/ia/openai-reduce-precios-chatgpt-gpt-luna-terra/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/Robot-OpenAI-rompiendo-los-precios.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-31T04:00:04.000Z",
+      "fechaAgregada": "2026-07-31T10:38:29.309Z"
+    },
+    {
+      "id": "ef6f4760-8bc4-4fcd-8787-bed175cb606b",
+      "titulo": "Google lanza una inteligencia artificial que permite a los robots pensar y actuar al mismo tiempo",
+      "resumen": "Google ha lanzado Gemini Robotics ER 2, su modelo de inteligencia artificial más avanzado para robótica. La nueva versión ayuda a que los robots puedan interactuar con humanos, coordinar tareas complejas y colaborar entre sí. La compañía confía en que su nuevo modelo servirá para liberar el verdader",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-robotics-er-2-google-ia-robots/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/gemini-robotics.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-30T18:30:00.000Z",
+      "fechaAgregada": "2026-07-31T10:38:27.703Z"
+    },
+    {
+      "id": "ae7ac715-c789-4a96-9981-253bbc2e1b99",
+      "titulo": "Microsoft confirma una súper app de Copilot, y llegará muy pronto",
+      "resumen": "Microsoft no se rinde con Copilot y ha confirmado que muy pronto va a lanzar una súper app basada en su IA. La idea de los de Redmond es agrupar todas sus herramientas de inteligencia artificial bajo un mismo techo, con el fin de darle nuevo impulso y simplificar su estrategia. Si bien Microsoft tod",
+      "url": "https://hipertextual.com/inteligencia-artificial/microsoft-confirma-super-app-copilot/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/08/copilot-logo.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-30T15:19:23.000Z",
+      "fechaAgregada": "2026-07-31T10:38:27.703Z"
+    },
+    {
+      "id": "3b779a92-8122-42d2-b470-829e8298e6fb",
+      "titulo": "Millones de rusos buscaban pareja en el mismo bot. Ahora el dueño de Telegram está en busca y captura",
+      "resumen": "El desarrollador de Telegram es una figura polémica, millonaria y perseguida en varios países. Mantiene una relación tensa con Rusia, país que le vio nacer y del que conserva una de sus nacionalidades (también es francés y emiratí). Tras una época en la que Pavel se presentó como exiliado, Rusia ha",
+      "url": "https://www.xataka.com/aplicaciones/rusia-quiere-detener-al-creador-telegram-motivo-bot-citas",
+      "imagen": "https://i.blogs.es/09d3c6/ov/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-30T13:31:52.000Z",
+      "fechaAgregada": "2026-07-31T10:38:27.485Z"
+    },
+    {
+      "id": "12492f9f-84e3-46ea-a7b6-1679c5f6a4c6",
+      "titulo": "Vigila todo lo que ocurra en tu casa o negocio con estas cámaras IP en oferta",
+      "resumen": "Si quieres vigilar tu vivienda o negocio y ver todo lo que ocurra, contar con cámaras de seguridad puede ser una buena solución. Vamos a mostrarte algunos modelos que puedes encontrar en oferta. Te hablaremos de las principales características de cada uno de ellos, para que puedas elegir la cámara q",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-seguridad-casa-0726/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/camara-tp-link-tapo-panel-solar.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T14:08:01.000Z",
+      "fechaAgregada": "2026-07-31T10:38:30.891Z"
+    },
+    {
+      "id": "eccdb3af-bf47-46f9-b3bd-b47d30030863",
+      "titulo": "Diario del ataque inaudito de la IA que escapó al control de OpenAI: “Su resiliencia no era la típica de un humano”",
+      "resumen": "Nuevos detalles de la compañía y de la plataforma agredida, Hugging Face, muestran que la operación duró cinco días y afectó al menos a otros cuatro servicios en internet",
+      "url": "https://elpais.com/tecnologia/2026-07-29/diario-del-ataque-inaudito-de-la-ia-que-escapo-al-control-de-openai-su-resiliencia-no-era-la-tipica-de-un-humano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/K5SU2277WBGWPJRAHLO2NPIKQ4.jpg?auth=76f9cda2c1a4bf03de747ae4a0f5d9a271cebdcb0ff7e65e7bc45a33e0a83b31",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T12:02:57.000Z",
+      "fechaAgregada": "2026-07-31T10:38:28.546Z"
+    },
+    {
+      "id": "9d4408ea-c983-4546-9489-c28ee37278a8",
+      "titulo": "La ciberseguridad del futuro acaba de empezar: así se defendió Hugging Face del ataque de OpenAI",
+      "resumen": "La ciberseguridad está cambiando a causa de la Inteligencia Artificial. Aunque puede ofrecer un amplio abanico de opciones para mejorar la protección de los dispositivos y sistemas, además de poder detectar fallos que pasaban desapercibidos, también es un arma que pueden utilizar los cibercriminales",
+      "url": "https://www.redeszone.net/noticias/seguridad/ciberseguridad-futuro-hugging-face-ataque-openai/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/alerta-ciberseguridad.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T09:22:34.000Z",
+      "fechaAgregada": "2026-07-31T10:38:30.892Z"
+    },
+    {
+      "id": "ba9e8853-460e-42cb-82b8-3d68a11de064",
+      "titulo": "Esta extensión de Chrome está espiando cualquier conversación que tengas en ChatGPT o Gemini",
+      "resumen": "Un grupo de investigadores de seguridad de MalExt Sentry ha detectado una extensión para Chrome que espía las conversaciones con ChatGPT, Claude o Gemini. Puedes ver la publicación con fecha de 27 de julio que está disponible en su web oficial. Se trata de una extensión que tiene unas 100.000 instal",
+      "url": "https://www.redeszone.net/noticias/seguridad/extension-chrome-espiar-conversaciones-chatgpt-gemini/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/pirata-informatico-inteligencia-artificial.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T07:21:36.000Z",
+      "fechaAgregada": "2026-07-31T10:38:30.892Z"
+    },
+    {
+      "id": "d515de14-0935-4306-9b0a-a71998566705",
+      "titulo": "Amigos digitales con IA, la nueva amenaza para la salud mental de los adolescentes",
+      "resumen": "Los psicólogos alertan de que los jóvenes recurren cada vez más a herramientas como ChatGPT en busca de apoyo emocional, una práctica que consideran altamente peligrosa",
+      "url": "https://elpais.com/tecnologia/2026-07-28/amigos-digitales-con-ia-la-nueva-amenaza-para-la-salud-mental-de-los-adolescentes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EYH5I2VEQFC7RCXYOLLTP7BBDY.jpg?auth=ffa7376ee53b6aa282c293092329ba18e889974a939098301230e47de7f1b3ca",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-28T03:30:01.000Z",
+      "fechaAgregada": "2026-07-31T10:38:28.546Z"
+    },
+    {
+      "id": "37cfd827-ab0e-4c72-a8e2-4bf88a3c958d",
+      "titulo": "Cuando el león de la IA se escapa de la jaula",
+      "resumen": "Podríamos decir que la inteligencia artificial decidió que la manera más eficaz de aprobar el examen era… robar y copiar",
+      "url": "https://elpais.com/tecnologia/2026-07-26/cuando-el-leon-de-la-ia-se-escapa-de-la-jaula.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VSL7B5G4JJHJ5CKKEKRQGMW5T4.jpg?auth=b6c8ac34ea8de8c4f1eab5c6c18f193413cb01f64d4801943b91c50c0cf1e18c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-26T03:30:01.000Z",
+      "fechaAgregada": "2026-07-31T10:38:28.547Z"
+    },
+    {
+      "id": "7a356b59-0f22-4246-a260-2f019ac89809",
+      "titulo": "Cuando la inteligencia artificial pone a prueba el Pacto Verde Europeo",
+      "resumen": "Bruselas defiende la reducción de emisiones, pero se muestra dispuesta a impulsar la expansión de infraestructuras con un elevado consumo eléctrico y dependientes de combustibles fósiles",
+      "url": "https://elpais.com/tecnologia/2026-07-25/cuando-la-inteligencia-artificial-pone-a-prueba-el-pacto-verde-europeo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RYDELIKOVNADNFA33BTMJQAMXI.jpg?auth=64903ddcd362582e01f383fe10c0de592b66d71f5b44e7e94540f23b3a1d3c53",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-25T03:30:01.000Z",
+      "fechaAgregada": "2026-07-31T10:38:28.547Z"
+    },
+    {
+      "id": "ef739746-d20a-4f3c-bf55-f85776d0e80b",
+      "titulo": "Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial",
+      "resumen": "Los creadores de ChatGPT probaban sus nuevas creaciones en un entorno aislado. Pero la máquina supo salir por su cuenta, en un escenario propio de la ciencia ficción",
+      "url": "https://elpais.com/tecnologia/2026-07-22/un-nuevo-modelo-de-openai-provoca-un-ataque-sin-precedentes-contra-otra-plataforma-de-inteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VSL7B5G4JJHJ5CKKEKRQGMW5T4.jpg?auth=b6c8ac34ea8de8c4f1eab5c6c18f193413cb01f64d4801943b91c50c0cf1e18c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-22T11:50:39.000Z",
+      "fechaAgregada": "2026-07-31T10:38:28.547Z"
+    },
+    {
+      "id": "5f006a94-e00f-4d47-a5a4-9601148a54cd",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/445/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-07-31T10:38:28.547Z"
+    },
+    {
+      "id": "ded33160-3de1-49c4-951a-d83e3a39b767",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-07-31T10:38:28.470Z"
+    },
+    {
+      "id": "223bc1b6-e9bd-4790-bc73-921fa491cf9b",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-07-31T10:38:28.470Z"
+    },
+    {
+      "id": "0664b931-6d9a-4f47-bab8-02da311f53f8",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-07-31T10:38:28.470Z"
+    }
+  ]
+}
