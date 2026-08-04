@@ -1,0 +1,150 @@
+{
+  "fecha": "2026-08-04",
+  "generado": "2026-08-04T10:38:50.024Z",
+  "total": 13,
+  "noticias": [
+    {
+      "id": "3260e407-d4ae-465d-b94d-992c1a233405",
+      "titulo": "Esta IA china puede programar sola durante 16 días, es gratis y ya dejó en ridículo a Claude",
+      "resumen": "Alibaba ha lanzado uno de los modelos de inteligencia artificial más ambiciosos del 2026. La compañía china presentó Qwen 3.8-Max, una IA de 2,4 billones de parámetros que prometer rivalizar con Claude Fable 5 y GPT-5.6. A diferencia de lo que ofrecen Anthropic y OpenAI, el gigante asiático prometió",
+      "url": "https://hipertextual.com/inteligencia-artificial/qwen-3-8-max-alibaba-nueva-ia-caracteristicas/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/qwen-3.8.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-04T00:11:25.000Z",
+      "fechaAgregada": "2026-08-04T10:38:43.726Z"
+    },
+    {
+      "id": "a2867c2a-3204-4dc9-969b-16bca2834f51",
+      "titulo": "El próximo ChatGPT es una bestia: ya resolvió diez problemas matemáticos imposibles",
+      "resumen": "OpenAI ha decidido mostrar sus cartas antes de tiempo con Astra, su próximo gran modelo de inteligencia artificial. La compañía reveló que una versión interna de este sistema logró avances en diez problemas matemáticos que llevaban años sin resolverse. Según los reportes, la compañía llevó a cabo un",
+      "url": "https://hipertextual.com/inteligencia-artificial/astra-nuevo-modelo-openai-gpt-6/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/openai-astra.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-03T21:41:00.000Z",
+      "fechaAgregada": "2026-08-04T10:38:43.726Z"
+    },
+    {
+      "id": "2c24b4c6-b462-44a4-8e70-0c208d58da9e",
+      "titulo": "Ya tenemos ganadores del sorteo de los 10 ratones gaming be quiet! Dark Perk",
+      "resumen": "Hace un par de semanas, en HardZone pusimos en marcha un sorteo muy especial gracias a la colaboración de be quiet!, en el que regalábamos un total de 10 ratones Dark Perk, repartidos entre cinco unidades del modelo Sym y cinco del modelo Ergo. La posibilidad de participar en el sorteo finalizó anoc",
+      "url": "https://hardzone.es/noticias/perifericos/ganadores-sorteo-be-quiet-dark-perk/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/08/Ganadores-sorteo-be-quiet.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-03T08:30:15.000Z",
+      "fechaAgregada": "2026-08-04T10:38:49.220Z"
+    },
+    {
+      "id": "1292d1ef-11a3-46dd-943a-e7f8461517fd",
+      "titulo": "Por qué cada vez más usuarios buscan alternativas a Google",
+      "resumen": "A la hora de buscar por Internet, son muchas las opciones disponibles más allá de Google. Aunque sigue siendo el buscador más utilizado, lo cierto es que existen alternativas que pueden ofrecer mayor privacidad, menos publicidad en los resultados o no estar tan expuestas al auge de la IA y cambios e",
+      "url": "https://www.redeszone.net/noticias/redes/por-que-usuarios-buscan-alternativas-google/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/imagen-google.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-02T11:07:43.000Z",
+      "fechaAgregada": "2026-08-04T10:38:47.430Z"
+    },
+    {
+      "id": "b0fd90ae-e9d2-497a-889d-1b01b4098da7",
+      "titulo": "Anthropic anuncia que sus programas de IA también hackearon por su cuenta tres empresas tras el incidente de OpenAI",
+      "resumen": "La compañía creadora de Claude ha revisado más de 140.000 sesiones y ha descubierto que se escaparon de un entorno de pruebas como ChatGPT",
+      "url": "https://elpais.com/tecnologia/2026-07-31/anthropic-anuncia-que-sus-programas-de-ia-tambien-hackearon-por-su-cuenta-tres-empresas-tras-el-incidente-de-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AQ5QIHDZC5H6BJMTZ55NYR5PLU.jpg?auth=e6351416a1ff4275d500da98877769addff666dd480fbbc4332c9b1a525516e7",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-31T09:52:33.000Z",
+      "fechaAgregada": "2026-08-04T10:38:44.701Z"
+    },
+    {
+      "id": "5ca60c68-f228-4157-bde2-758a686f09dd",
+      "titulo": "Diario del ataque inaudito de la IA que escapó al control de OpenAI: “Su resiliencia no era la típica de un humano”",
+      "resumen": "Nuevos detalles de la compañía y de la plataforma agredida, Hugging Face, muestran que la operación duró cinco días y afectó al menos a otros cuatro servicios en internet",
+      "url": "https://elpais.com/tecnologia/2026-07-29/diario-del-ataque-inaudito-de-la-ia-que-escapo-al-control-de-openai-su-resiliencia-no-era-la-tipica-de-un-humano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/K5SU2277WBGWPJRAHLO2NPIKQ4.jpg?auth=76f9cda2c1a4bf03de747ae4a0f5d9a271cebdcb0ff7e65e7bc45a33e0a83b31",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T12:02:57.000Z",
+      "fechaAgregada": "2026-08-04T10:38:44.701Z"
+    },
+    {
+      "id": "9db6f1a5-96fa-4ad7-80c3-9d8412249772",
+      "titulo": "Amigos digitales con IA, la nueva amenaza para la salud mental de los adolescentes",
+      "resumen": "Los psicólogos alertan de que los jóvenes recurren cada vez más a herramientas como ChatGPT en busca de apoyo emocional, una práctica que consideran altamente peligrosa",
+      "url": "https://elpais.com/tecnologia/2026-07-28/amigos-digitales-con-ia-la-nueva-amenaza-para-la-salud-mental-de-los-adolescentes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EYH5I2VEQFC7RCXYOLLTP7BBDY.jpg?auth=ffa7376ee53b6aa282c293092329ba18e889974a939098301230e47de7f1b3ca",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-28T03:30:01.000Z",
+      "fechaAgregada": "2026-08-04T10:38:44.701Z"
+    },
+    {
+      "id": "8d7450de-d4fa-4219-bfa3-85d7ffdec37b",
+      "titulo": "Cuando el león de la IA se escapa de la jaula",
+      "resumen": "Podríamos decir que la inteligencia artificial decidió que la manera más eficaz de aprobar el examen era… robar y copiar",
+      "url": "https://elpais.com/tecnologia/2026-07-26/cuando-el-leon-de-la-ia-se-escapa-de-la-jaula.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VSL7B5G4JJHJ5CKKEKRQGMW5T4.jpg?auth=b6c8ac34ea8de8c4f1eab5c6c18f193413cb01f64d4801943b91c50c0cf1e18c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-26T03:30:01.000Z",
+      "fechaAgregada": "2026-08-04T10:38:44.701Z"
+    },
+    {
+      "id": "ddfa1982-230b-4021-a98a-ffa6714e5a77",
+      "titulo": "Cuando la inteligencia artificial pone a prueba el Pacto Verde Europeo",
+      "resumen": "Bruselas defiende la reducción de emisiones, pero se muestra dispuesta a impulsar la expansión de infraestructuras con un elevado consumo eléctrico y dependientes de combustibles fósiles",
+      "url": "https://elpais.com/tecnologia/2026-07-25/cuando-la-inteligencia-artificial-pone-a-prueba-el-pacto-verde-europeo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RYDELIKOVNADNFA33BTMJQAMXI.jpg?auth=64903ddcd362582e01f383fe10c0de592b66d71f5b44e7e94540f23b3a1d3c53",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-25T03:30:01.000Z",
+      "fechaAgregada": "2026-08-04T10:38:44.701Z"
+    },
+    {
+      "id": "bd83a458-7b35-4ab7-bf17-7b9c10767e6e",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/438/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-08-04T10:38:44.701Z"
+    },
+    {
+      "id": "cc4bc070-8e00-45f8-9edc-f28f9302ede7",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-08-04T10:38:44.499Z"
+    },
+    {
+      "id": "b7804047-59a3-4e75-83ee-d3eb01e6f7fa",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-08-04T10:38:44.499Z"
+    },
+    {
+      "id": "328de846-008f-40c7-a9a8-5c527a919ac2",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-08-04T10:38:44.499Z"
+    }
+  ]
+}
