@@ -1,0 +1,161 @@
+{
+  "fecha": "2026-08-05",
+  "generado": "2026-08-05T10:34:19.975Z",
+  "total": 14,
+  "noticias": [
+    {
+      "id": "507a80bc-9e9d-4273-a608-707575cda2b0",
+      "titulo": "Reino Unido eleva la alerta tras descubrir conductas peligrosas en la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real”",
+      "resumen": "El británico Instituto de Seguridad de IA advierte de que los agentes más avanzados perpetraron actividades prohibidas “potencialmente dañinas dirigidas hacia personas y organizaciones reales” para lograr sus objetivos",
+      "url": "https://elpais.com/tecnologia/2026-08-05/reino-unido-eleva-la-alerta-tras-descubrir-conductas-peligrosas-en-la-ia-de-anthropic-y-openai-es-el-primer-engano-dirigido-a-una-persona-real.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NTPYZINRG5FUBG2IR6RDJGKNTY.jpg?auth=2b5a150755fccc4e2b4393887694233fd23b1422fafb4b476a41bccbe537320b",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-05T10:15:42.000Z",
+      "fechaAgregada": "2026-08-05T10:34:14.804Z"
+    },
+    {
+      "id": "1e6de74c-7a18-4285-9ff3-1f982ed48504",
+      "titulo": "Gemini gana la batalla: Google confirma que Google Assistant dejará de funcionar en tu smartphone el mes que viene",
+      "resumen": "La firma tecnológica ha mandado un correo electrónico a gran parte de sus usuarios alertando del cambio inmediato que sus dispositivos están a punto de experimentar. A partir del 4 de septiembre, Android y Wear OS dejarán de tener acceso a Google Assistant, siendo compatibles únicamente con Gemini.",
+      "url": "https://www.adslzone.net/noticias/ia/google-confirma-fin-google-assistant/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/08/correo-google-pcpal-121-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-05T05:57:19.000Z",
+      "fechaAgregada": "2026-08-05T10:34:16.068Z"
+    },
+    {
+      "id": "4d25124c-b95e-4643-bd15-7b1ddb359228",
+      "titulo": "Apple pide a un tribunal que frene el dispositivo de IA de OpenAI",
+      "resumen": "Apple ha acusado a más extrabajadores de filtrar información confidencial a OpenAI. El gigante tecnológico ha pedido a un tribunal que ponga un freno al desarrollo de dispositivos en OpenAI hasta que se resuelva la demanda. Como era de esperarse, la empresa dirigida por Sam Altman ya respondió y neg",
+      "url": "https://hipertextual.com/economia-empresas/apple-acusa-exempleados-secretos-openai/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/apple-store.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-04T19:02:49.000Z",
+      "fechaAgregada": "2026-08-05T10:34:13.602Z"
+    },
+    {
+      "id": "7405c28a-6656-4c5e-9ff7-a89272518daf",
+      "titulo": "«Evie está creada por artistas»: el creador de Stellar Blade: Blood Rain se defiende ante las acusaciones de usar IA",
+      "resumen": "Shift Up mostró al mundo hace unos días un nuevo vídeo de Stellar Blade: Blood Rain, algo que sorprendió a todos, pero no por ser un musical y no un simple tráiler, sino por el hecho de que estaba creado con inteligencia artificial, algo que no gustó a la mayoría.\nSin embargo, su creador ha salido a",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/evie-creada-artistas-creador-stellar-blade-blood-rain-defiende-acusaciones-ia/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/08/Stellar-Blade-Blood-Rain.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-04T13:02:58.000Z",
+      "fechaAgregada": "2026-08-05T10:34:18.814Z"
+    },
+    {
+      "id": "f9139c47-80f9-4607-ba98-2a7dd243bd75",
+      "titulo": "OpenAI da las claves de cómo han usado ChatGPT para atacar: podrías encontrarte con estas estafas",
+      "resumen": "La Inteligencia Artificial puede ser muy útil para detectar amenazas de seguridad, pero también es un arma para los piratas informáticos. En este caso, nos hacemos eco de la revelación que ha hecho OpenAI sobre cómo los ciberdelincuentes han utilizado ChatGPT para estafar. Es importante reconocer de",
+      "url": "https://www.redeszone.net/noticias/seguridad/openai-claves-chatgpt-estafas/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/logo-chatgpt.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-04T11:16:24.000Z",
+      "fechaAgregada": "2026-08-05T10:34:17.816Z"
+    },
+    {
+      "id": "93151742-7cc5-4e4e-90bb-6d116ae1b30d",
+      "titulo": "Anthropic anuncia que sus programas de IA también hackearon por su cuenta tres empresas tras el incidente de OpenAI",
+      "resumen": "La compañía creadora de Claude ha revisado más de 140.000 sesiones y ha descubierto que se escaparon de un entorno de pruebas como ChatGPT",
+      "url": "https://elpais.com/tecnologia/2026-07-31/anthropic-anuncia-que-sus-programas-de-ia-tambien-hackearon-por-su-cuenta-tres-empresas-tras-el-incidente-de-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AQ5QIHDZC5H6BJMTZ55NYR5PLU.jpg?auth=e6351416a1ff4275d500da98877769addff666dd480fbbc4332c9b1a525516e7",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-31T09:52:33.000Z",
+      "fechaAgregada": "2026-08-05T10:34:14.804Z"
+    },
+    {
+      "id": "39d1e884-6431-4768-adc8-439163766f00",
+      "titulo": "Diario del ataque inaudito de la IA que escapó al control de OpenAI: “Su resiliencia no era la típica de un humano”",
+      "resumen": "Nuevos detalles de la compañía y de la plataforma agredida, Hugging Face, muestran que la operación duró cinco días y afectó al menos a otros cuatro servicios en internet",
+      "url": "https://elpais.com/tecnologia/2026-07-29/diario-del-ataque-inaudito-de-la-ia-que-escapo-al-control-de-openai-su-resiliencia-no-era-la-tipica-de-un-humano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/K5SU2277WBGWPJRAHLO2NPIKQ4.jpg?auth=76f9cda2c1a4bf03de747ae4a0f5d9a271cebdcb0ff7e65e7bc45a33e0a83b31",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T12:02:57.000Z",
+      "fechaAgregada": "2026-08-05T10:34:14.804Z"
+    },
+    {
+      "id": "a7201305-20f0-4394-90aa-239bfd52c741",
+      "titulo": "Amigos digitales con IA, la nueva amenaza para la salud mental de los adolescentes",
+      "resumen": "Los psicólogos alertan de que los jóvenes recurren cada vez más a herramientas como ChatGPT en busca de apoyo emocional, una práctica que consideran altamente peligrosa",
+      "url": "https://elpais.com/tecnologia/2026-07-28/amigos-digitales-con-ia-la-nueva-amenaza-para-la-salud-mental-de-los-adolescentes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EYH5I2VEQFC7RCXYOLLTP7BBDY.jpg?auth=ffa7376ee53b6aa282c293092329ba18e889974a939098301230e47de7f1b3ca",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-28T03:30:01.000Z",
+      "fechaAgregada": "2026-08-05T10:34:14.804Z"
+    },
+    {
+      "id": "0ab74cf6-dd03-42bc-8428-c5cb5899baa7",
+      "titulo": "Cuando el león de la IA se escapa de la jaula",
+      "resumen": "Podríamos decir que la inteligencia artificial decidió que la manera más eficaz de aprobar el examen era… robar y copiar",
+      "url": "https://elpais.com/tecnologia/2026-07-26/cuando-el-leon-de-la-ia-se-escapa-de-la-jaula.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VSL7B5G4JJHJ5CKKEKRQGMW5T4.jpg?auth=b6c8ac34ea8de8c4f1eab5c6c18f193413cb01f64d4801943b91c50c0cf1e18c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-26T03:30:01.000Z",
+      "fechaAgregada": "2026-08-05T10:34:14.804Z"
+    },
+    {
+      "id": "56ad6ce3-9f18-4b3a-91ab-5b1b399eeb45",
+      "titulo": "Cuando la inteligencia artificial pone a prueba el Pacto Verde Europeo",
+      "resumen": "Bruselas defiende la reducción de emisiones, pero se muestra dispuesta a impulsar la expansión de infraestructuras con un elevado consumo eléctrico y dependientes de combustibles fósiles",
+      "url": "https://elpais.com/tecnologia/2026-07-25/cuando-la-inteligencia-artificial-pone-a-prueba-el-pacto-verde-europeo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RYDELIKOVNADNFA33BTMJQAMXI.jpg?auth=64903ddcd362582e01f383fe10c0de592b66d71f5b44e7e94540f23b3a1d3c53",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-25T03:30:01.000Z",
+      "fechaAgregada": "2026-08-05T10:34:14.804Z"
+    },
+    {
+      "id": "4f855bf5-f4f9-40b4-8543-0122bafcc27d",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/437/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-08-05T10:34:14.804Z"
+    },
+    {
+      "id": "e052ab43-81db-4507-b920-b87737add1ba",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-08-05T10:34:14.663Z"
+    },
+    {
+      "id": "8e78aeec-ade3-4263-8c2b-40f5d7088f68",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-08-05T10:34:14.663Z"
+    },
+    {
+      "id": "046383a1-9edc-409a-91f6-979ae6d459fa",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-08-05T10:34:14.663Z"
+    }
+  ]
+}
