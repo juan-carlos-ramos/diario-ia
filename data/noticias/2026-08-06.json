@@ -1,0 +1,183 @@
+{
+  "fecha": "2026-08-06",
+  "generado": "2026-08-06T10:38:22.306Z",
+  "total": 16,
+  "noticias": [
+    {
+      "id": "ee32c11d-9f3c-4f6f-8922-0c914dd6f5c1",
+      "titulo": "Meta presenta Muse Code: así funciona la nueva IA que acompañará a Gemini con Muse Spark 1.2",
+      "resumen": "La carrera por dominar la inteligencia artificial aplicada al desarrollo de software acaba de sumar un nuevo competidor. Meta ha anunciado oficialmente Muse Code, un agente de programación basado en IA que llega acompañado de Muse Spark 1.2, un modelo diseñado específicamente para comprender grandes",
+      "url": "https://www.adslzone.net/noticias/ia/meta-muse-code-ia-codificacion-gemini/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/08/Meta-Gemini-Code.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T10:33:42.000Z",
+      "fechaAgregada": "2026-08-06T10:38:18.215Z"
+    },
+    {
+      "id": "cb05015a-e31f-4201-856c-8c672d0b2dda",
+      "titulo": "Nvidia gastó 4.000 millones para cambiar el paradigma de la IA. Acaba de activar su plan para seguir liderando el sector",
+      "resumen": "Nvidia tiene varias cosas en el horno en estos momentos relacionadas, evidentemente, con la inteligencia artificial. Por un lado, Vera Rubin, su nueva plataforma de IA que está compuesta por una CPU y GPU de nueva generación con la idea de que sea una herramienta tanto para entrenar la IA como para",
+      "url": "https://www.xataka.com/componentes/nvidia-gasto-4-000-millones-para-cambiar-paradigma-ia-acaba-activar-su-plan-para-seguir-liderando-sector",
+      "imagen": "https://i.blogs.es/8085ff/laura-ockel-qox9ksvpqcm-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T10:30:51.000Z",
+      "fechaAgregada": "2026-08-06T10:38:15.022Z"
+    },
+    {
+      "id": "9c8cd3e4-55ba-4f88-9fcc-9410e5d3f637",
+      "titulo": "Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic",
+      "resumen": "Google ha anunciado una reestructuración de su división de inteligencia artificial con miras a recuperar el terreno perdido frente a Anthropic y OpenAI. Jeff Dean, uno de los ingenieros más influyentes en la historia de la compañía, dejará Google para fundar su propia empresa. Por si fuera poco, Dem",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-cambia-jefes-inteligencia-artificial/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/google-movil.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-05T19:25:00.000Z",
+      "fechaAgregada": "2026-08-06T10:38:15.179Z"
+    },
+    {
+      "id": "b332eaba-328e-4fbe-b047-adbf554e5493",
+      "titulo": "Detecta intrusos y vigila tu casa con estas cámaras de seguridad en oferta",
+      "resumen": "Si quieres proteger tu casa o negocio y poder detectar intrusos, contar con cámaras de seguridad es una buena opción. Vamos a hablarte de algunas ofertas que tienes disponibles. Te mostraremos las principales características de cada una de ellas, para que puedas elegir la que mejor se adapte a lo qu",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-seguridad-0826/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/camaras-seguridad-oferta.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-05T15:27:50.000Z",
+      "fechaAgregada": "2026-08-06T10:38:19.861Z"
+    },
+    {
+      "id": "4be6bafe-a1c6-414b-9659-c2869649f6ac",
+      "titulo": "Anthropic confirma que planea crear sus propios chips de IA para Claude",
+      "resumen": "El próximo gran proyecto de Anthropic es crear sus propios chips de inteligencia artificial optimizados para entrenar y ejecutar Claude. Según reporta Business Insider, la empresa ha confirmado que se encuentra conformando un equipo cuya tarea será diseñar el hardware en cuestión. Esta es la primera",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-confirma-que-planea-crear-sus-propios-chips-de-ia-para-claude/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/claude.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-05T15:00:00.000Z",
+      "fechaAgregada": "2026-08-06T10:38:15.179Z"
+    },
+    {
+      "id": "52041505-448b-41bd-87c1-4fc90782da32",
+      "titulo": "Elon Musk: SpaceX usará exclusivamente GPUs de NVIDIA porque «son las mejores»",
+      "resumen": "Las palabras de Elon Musk no sorprenden a nadie, y es que habría explicado que SpaceX, su empresa de fabricación aeroespacial y de servicios de transporte espacial, elegirá las GPUs de NVIDIA para sus proyectos, debido a que, actualmente, son las mejores del mercado.\nY es que no busca algo económico",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/elon-musk-spacex-usara-exclusivamente-gpus-nvidia-mejores/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/04/nvidia.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-05T14:33:34.000Z",
+      "fechaAgregada": "2026-08-06T10:38:20.937Z"
+    },
+    {
+      "id": "ff8f7b0d-cea6-4020-8443-f78852e4d1b0",
+      "titulo": "Adiós al Asistente de Google en Android: desde cuándo lo reemplazará Gemini en tu móvil",
+      "resumen": "No es un secreto que Gemini va a reemplazar al viejo Asistente de Google en dispositivos Android. Se habla de este cambio desde principios del año pasado, pero ahora los de Mountain View le han puesto fecha puntual a su concreción. Y será muy pronto. Google ha comenzado a notificar a los usuarios qu",
+      "url": "https://hipertextual.com/inteligencia-artificial/cambio-asistente-de-google-gemini-android-fecha-confirmada/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/asistente-de-google-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-05T13:30:00.000Z",
+      "fechaAgregada": "2026-08-06T10:38:15.179Z"
+    },
+    {
+      "id": "95394fe1-2125-486b-a6c7-70a361155b60",
+      "titulo": "Reino Unido eleva la alerta tras descubrir conductas peligrosas de la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real”",
+      "resumen": "El británico Instituto de Seguridad de la IA advierte de que los agentes más avanzados perpetraron actividades prohibidas “potencialmente dañinas dirigidas hacia personas y organizaciones reales” para lograr sus objetivos",
+      "url": "https://elpais.com/tecnologia/2026-08-05/reino-unido-eleva-la-alerta-tras-descubrir-conductas-peligrosas-en-la-ia-de-anthropic-y-openai-es-el-primer-engano-dirigido-a-una-persona-real.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NTPYZINRG5FUBG2IR6RDJGKNTY.jpg?auth=2b5a150755fccc4e2b4393887694233fd23b1422fafb4b476a41bccbe537320b",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-05T10:50:27.000Z",
+      "fechaAgregada": "2026-08-06T10:38:16.022Z"
+    },
+    {
+      "id": "1f35ff5e-7c2d-4bd9-8878-9f9bc6717b02",
+      "titulo": "OpenAI da las claves de cómo han usado ChatGPT para atacar: podrías encontrarte con estas estafas",
+      "resumen": "La Inteligencia Artificial puede ser muy útil para detectar amenazas de seguridad, pero también es un arma para los piratas informáticos. En este caso, nos hacemos eco de la revelación que ha hecho OpenAI sobre cómo los ciberdelincuentes han utilizado ChatGPT para estafar. Es importante reconocer de",
+      "url": "https://www.redeszone.net/noticias/seguridad/openai-claves-chatgpt-estafas/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/logo-chatgpt.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-04T11:16:24.000Z",
+      "fechaAgregada": "2026-08-06T10:38:19.863Z"
+    },
+    {
+      "id": "cf245a4e-2193-4445-b243-b99b31e2af5d",
+      "titulo": "Anthropic anuncia que sus programas de IA también hackearon por su cuenta tres empresas tras el incidente de OpenAI",
+      "resumen": "La compañía creadora de Claude ha revisado más de 140.000 sesiones y ha descubierto que se escaparon de un entorno de pruebas como ChatGPT",
+      "url": "https://elpais.com/tecnologia/2026-07-31/anthropic-anuncia-que-sus-programas-de-ia-tambien-hackearon-por-su-cuenta-tres-empresas-tras-el-incidente-de-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AQ5QIHDZC5H6BJMTZ55NYR5PLU.jpg?auth=e6351416a1ff4275d500da98877769addff666dd480fbbc4332c9b1a525516e7",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-31T09:52:33.000Z",
+      "fechaAgregada": "2026-08-06T10:38:16.022Z"
+    },
+    {
+      "id": "4a02cc12-6389-4ba8-9ba8-e53cbd468ad9",
+      "titulo": "Diario del ataque inaudito de la IA que escapó al control de OpenAI: “Su resiliencia no era la típica de un humano”",
+      "resumen": "Nuevos detalles de la compañía y de la plataforma agredida, Hugging Face, muestran que la operación duró cinco días y afectó al menos a otros cuatro servicios en internet",
+      "url": "https://elpais.com/tecnologia/2026-07-29/diario-del-ataque-inaudito-de-la-ia-que-escapo-al-control-de-openai-su-resiliencia-no-era-la-tipica-de-un-humano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/K5SU2277WBGWPJRAHLO2NPIKQ4.jpg?auth=76f9cda2c1a4bf03de747ae4a0f5d9a271cebdcb0ff7e65e7bc45a33e0a83b31",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T12:02:57.000Z",
+      "fechaAgregada": "2026-08-06T10:38:16.023Z"
+    },
+    {
+      "id": "874cb5f4-9d0d-4bef-80a7-92c9a7ae7c6c",
+      "titulo": "Amigos digitales con IA, la nueva amenaza para la salud mental de los adolescentes",
+      "resumen": "Los psicólogos alertan de que los jóvenes recurren cada vez más a herramientas como ChatGPT en busca de apoyo emocional, una práctica que consideran altamente peligrosa",
+      "url": "https://elpais.com/tecnologia/2026-07-28/amigos-digitales-con-ia-la-nueva-amenaza-para-la-salud-mental-de-los-adolescentes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EYH5I2VEQFC7RCXYOLLTP7BBDY.jpg?auth=ffa7376ee53b6aa282c293092329ba18e889974a939098301230e47de7f1b3ca",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-28T03:30:01.000Z",
+      "fechaAgregada": "2026-08-06T10:38:16.023Z"
+    },
+    {
+      "id": "dda42d4a-bac7-46a0-bf15-3b9d98ef5023",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/253/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-08-06T10:38:16.023Z"
+    },
+    {
+      "id": "2f1afc54-116e-411e-98f1-d7acfaa16d48",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-08-06T10:38:15.971Z"
+    },
+    {
+      "id": "a0bed97e-1ab8-4469-8d01-2060476af540",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-08-06T10:38:15.971Z"
+    },
+    {
+      "id": "3e4249a4-f1b0-42b5-8f8d-bb0ebcb0cad3",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-08-06T10:38:15.971Z"
+    }
+  ]
+}
