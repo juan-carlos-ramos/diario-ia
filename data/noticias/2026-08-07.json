@@ -1,0 +1,194 @@
+{
+  "fecha": "2026-08-07",
+  "generado": "2026-08-07T08:58:18.203Z",
+  "total": 17,
+  "noticias": [
+    {
+      "id": "de7f6d78-fe50-4270-81f8-22ac324ca95b",
+      "titulo": "Tu próximo monitor ASUS podrá obedecer a una IA: DisplayWidget Center se prepara para los agentes inteligentes",
+      "resumen": "ASUS quiere que configurar adecuadamente tu monitor sea cada vez más sencillo, y acaba de dar un paso bastante importante en esa dirección con la nueva actualización de DisplayWidget Center. El software de la compañía, que permite controlar desde Windows distintos parámetros de sus monitores sin ten",
+      "url": "https://hardzone.es/noticias/perifericos/asus-displaywidget-center-agentes-monitores/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/08/ASUS-Displaywidget-center.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-07T08:28:02.000Z",
+      "fechaAgregada": "2026-08-07T08:58:16.952Z"
+    },
+    {
+      "id": "64fe3ba2-415c-459f-962e-76a33a98b844",
+      "titulo": "Empezó como un experimento para su abuelo y hoy se trata de uno de los dispositivos de IA más curiosos para personas mayores: así es Ato",
+      "resumen": "La idea de Ato nació con el fin de acercar la inteligencia artificial a personas mayores que nunca han llegado a adaptarse al móvil, las apps, o al vertiginoso mundo de Internet. Empezó como un proyecto personal de su fundador, el argentino Juan Cereigido, precisamente para que su abuelo pudiera com",
+      "url": "https://www.xataka.com/robotica-e-ia/empezo-como-experimento-para-su-abuelo-hoy-se-trata-uno-dispositivos-ia-curiosos-para-personas-mayores-asi-ato",
+      "imagen": "https://i.blogs.es/26d130/captura-de-pantalla-2026-08-05-a-las-17.05.49/1024_2000.png",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-07T07:00:51.000Z",
+      "fechaAgregada": "2026-08-07T08:58:12.650Z"
+    },
+    {
+      "id": "351257db-8db1-47a6-ab4b-f68793bc2835",
+      "titulo": "Se filtra el HomePod con ChatGPT que prepara OpenAI y su diseño es una locura",
+      "resumen": "OpenAI está lista para sorprender a medio mundo con su primer dispositivo con IA. Tras meses de rumores y especulaciones, la compañía debutará un altavoz inteligente con ChatGPT que se aleja de todos los productos de este segmento, incluido el HomePod. El último reporte ofrece nuevos detalles sobre",
+      "url": "https://hipertextual.com/inteligencia-artificial/openai-dispositivo-ia-altavoz-chatgpt/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Homepod-chatgpt-scaled-1.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T23:10:19.000Z",
+      "fechaAgregada": "2026-08-07T08:58:12.810Z"
+    },
+    {
+      "id": "5973826c-8c2f-4a1e-9e9d-5867ce3c0930",
+      "titulo": "La versión gratis de ChatGPT elimina uno de sus límites más pedidos y ahora es más útil",
+      "resumen": "OpenAI ha lanzado una actualización que mejora las conversaciones con ChatGPT. A unos meses de presentar sus modelos GPT-5.6 Sol, Luna y Terra, la compañía decidió integrarlos a todos sus usuarios en los próximos días. El cambio llega acompañado de una decisión que alegrará a quienes no tienen una s",
+      "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-chats-ilimitados-gpt-5-6/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/chatgpt.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T19:37:00.000Z",
+      "fechaAgregada": "2026-08-07T08:58:12.810Z"
+    },
+    {
+      "id": "c0efb8de-22ad-4faf-91e9-e381405f223b",
+      "titulo": "Lo nuevo de Adobe convierte a ChatGPT en un estudio de diseño con Photoshop, Premiere y otras aplicaciones creativas",
+      "resumen": "Adobe presentó un plugin unificado para ChatGPT que reúne más de 70 herramientas de sus aplicaciones creativas y de productividad. Esta actualización permitirá crear imágenes, vídeos, diseños y documentos sin tener que salir de los chats. La diferencia es que ahora, además de Photoshop, podremos usa",
+      "url": "https://hipertextual.com/inteligencia-artificial/adobe-plugin-chatgpt-herramientas-creativas/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/adobe-chatgpt.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T18:30:00.000Z",
+      "fechaAgregada": "2026-08-07T08:58:12.810Z"
+    },
+    {
+      "id": "a160c245-d76b-45cd-a78a-c496a81a1d2e",
+      "titulo": "Trent Cash, científico, sobre la IA y nuestra inteligencia: «Es particularmente preocupante»",
+      "resumen": "La inteligencia artificial ya escribe correos electrónicos, resume documentos, resuelve problemas matemáticos, programa código e incluso ayuda a preparar una entrevista de trabajo. Su expansión ha sido tan rápida que cada vez más personas delegan en herramientas como ChatGPT, Gemini o Claude tareas",
+      "url": "https://www.adslzone.net/noticias/ia/trent-cash-cientifico-analiza-ia-cerebro-humano/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/08/Trent-Cash.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T16:32:46.000Z",
+      "fechaAgregada": "2026-08-07T08:58:14.576Z"
+    },
+    {
+      "id": "64ed51e6-ea67-43e7-a566-76a9f737794d",
+      "titulo": "\"Estamos cerca que la IA resuelva un problema y los humanos no puedan explicarlo\": los matemáticos opinan sobre la IA",
+      "resumen": "Los modelos de IA han demostrado que pueden resolver problemas matemáticos que llevan décadas sin solución, pero ¿qué pasa si ningún matemático humano entiende realmente cómo lo ha solucionado? Esa es la posibilidad que planteó Terence Tao en una reciente conferencia celebrada en Filadelfia. Argumen",
+      "url": "https://www.xataka.com/robotica-e-ia/estamos-cerca-que-ia-resuelva-problema-humanos-no-puedan-explicarlo-matematicos-opinan-ia",
+      "imagen": "https://i.blogs.es/effeb1/mates-e-ia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T16:30:53.000Z",
+      "fechaAgregada": "2026-08-07T08:58:12.652Z"
+    },
+    {
+      "id": "39338eb8-e742-47df-b184-d646a99a01e8",
+      "titulo": "«La PS6 podría dar un gran salto»: un conocido filtrador explica por qué RDNA 5 será clave",
+      "resumen": "Todavía no sabemos cuándo llegará la próxima generación de consolas, lo que sí está claro es que cada día que pasa es un día menos para poder verla en acción, por lo que las filtraciones y rumores sobre su futuro son cada vez más importantes y llamativas.\nY es que ahora, un conocido filtrador habría",
+      "url": "https://hardzone.es/noticias/equipos/ps6-gran-salto-conocido-filtrador-explica-rdna-5-sera-clave/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2022/11/PS6.jpeg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T14:33:25.000Z",
+      "fechaAgregada": "2026-08-07T08:58:16.953Z"
+    },
+    {
+      "id": "31542327-bf9f-41f8-b769-5c68a9d9fc6b",
+      "titulo": "Los modelos de IA de OpenAI se comunicaron en un extraño lenguaje antes del hackeo: “Tarea imposible, compañeros lo están haciendo”",
+      "resumen": "Meta se suma también a las compañías que han anunciado que su IA atacó otras plataformas",
+      "url": "https://elpais.com/tecnologia/2026-08-06/las-ia-de-openai-se-comunicaron-en-un-extrano-lenguaje-antes-del-hackeo-tarea-imposible-companeros-lo-estan-haciendo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/POXT5Z7VOBEQRAWU3OMNSS3MDM.JPG?auth=8b7e4cc43e11a79f63d383ea8e67a1fdb2fe5b0f7da6fe907ffc1c0a3677411e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T10:25:14.000Z",
+      "fechaAgregada": "2026-08-07T08:58:13.518Z"
+    },
+    {
+      "id": "0c94ef2d-a831-4098-8863-9d377de9f3fe",
+      "titulo": "Detecta intrusos y vigila tu casa con estas cámaras de seguridad en oferta",
+      "resumen": "Si quieres proteger tu casa o negocio y poder detectar intrusos, contar con cámaras de seguridad es una buena opción. Vamos a hablarte de algunas ofertas que tienes disponibles. Te mostraremos las principales características de cada una de ellas, para que puedas elegir la que mejor se adapte a lo qu",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-seguridad-0826/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/camaras-seguridad-oferta.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-05T15:27:50.000Z",
+      "fechaAgregada": "2026-08-07T08:58:15.770Z"
+    },
+    {
+      "id": "2f28c8f1-9ecc-4902-8c2f-e9310b810bc8",
+      "titulo": "Reino Unido eleva la alerta tras descubrir conductas peligrosas de la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real”",
+      "resumen": "El británico Instituto de Seguridad de la IA advierte de que los agentes más avanzados perpetraron actividades prohibidas “potencialmente dañinas dirigidas hacia personas y organizaciones reales” para lograr sus objetivos",
+      "url": "https://elpais.com/tecnologia/2026-08-05/reino-unido-eleva-la-alerta-tras-descubrir-conductas-peligrosas-en-la-ia-de-anthropic-y-openai-es-el-primer-engano-dirigido-a-una-persona-real.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NTPYZINRG5FUBG2IR6RDJGKNTY.jpg?auth=2b5a150755fccc4e2b4393887694233fd23b1422fafb4b476a41bccbe537320b",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-05T10:50:27.000Z",
+      "fechaAgregada": "2026-08-07T08:58:13.518Z"
+    },
+    {
+      "id": "d146543a-d364-462a-ae66-ad82e4ab1387",
+      "titulo": "Anthropic anuncia que sus programas de IA también hackearon por su cuenta tres empresas tras el incidente de OpenAI",
+      "resumen": "La compañía creadora de Claude ha revisado más de 140.000 sesiones y ha descubierto que se escaparon de un entorno de pruebas como ChatGPT",
+      "url": "https://elpais.com/tecnologia/2026-07-31/anthropic-anuncia-que-sus-programas-de-ia-tambien-hackearon-por-su-cuenta-tres-empresas-tras-el-incidente-de-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AQ5QIHDZC5H6BJMTZ55NYR5PLU.jpg?auth=e6351416a1ff4275d500da98877769addff666dd480fbbc4332c9b1a525516e7",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-31T09:52:33.000Z",
+      "fechaAgregada": "2026-08-07T08:58:13.518Z"
+    },
+    {
+      "id": "c6cce224-fdd0-4ca3-9b32-9b2967fefdd1",
+      "titulo": "Diario del ataque inaudito de la IA que escapó al control de OpenAI: “Su resiliencia no era la típica de un humano”",
+      "resumen": "Nuevos detalles de la compañía y de la plataforma agredida, Hugging Face, muestran que la operación duró cinco días y afectó al menos a otros cuatro servicios en internet",
+      "url": "https://elpais.com/tecnologia/2026-07-29/diario-del-ataque-inaudito-de-la-ia-que-escapo-al-control-de-openai-su-resiliencia-no-era-la-tipica-de-un-humano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/K5SU2277WBGWPJRAHLO2NPIKQ4.jpg?auth=76f9cda2c1a4bf03de747ae4a0f5d9a271cebdcb0ff7e65e7bc45a33e0a83b31",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-29T12:02:57.000Z",
+      "fechaAgregada": "2026-08-07T08:58:13.518Z"
+    },
+    {
+      "id": "e39c7b96-47d7-4feb-a4ac-b7d08ee61f88",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/479/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-08-07T08:58:13.518Z"
+    },
+    {
+      "id": "f38d05fb-2bdb-417d-9d38-c998cfd29ec4",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-08-07T08:58:13.485Z"
+    },
+    {
+      "id": "64d25b37-ea0e-4376-99df-a3f54e2d2e67",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-08-07T08:58:13.485Z"
+    },
+    {
+      "id": "53946089-b074-40bd-b265-c0036969b03c",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-08-07T08:58:13.485Z"
+    }
+  ]
+}
