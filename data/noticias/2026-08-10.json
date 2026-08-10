@@ -1,0 +1,128 @@
+{
+  "fecha": "2026-08-10",
+  "generado": "2026-08-10T09:20:36.847Z",
+  "total": 11,
+  "noticias": [
+    {
+      "id": "f3ced66b-eca1-4bfb-b2db-af80f1a2a9a0",
+      "titulo": "Apple ha tardado siete años en tener su iPhone plegable. Ahora no piensa levantar el pie del acelerador",
+      "resumen": "Cuando tuvimos en nuestras manos el primer Samsung Galaxy Fold, pese a todos sus problemas y concesiones, tuvimos claro que era un dispositivo que podía hacerse un hueco en el mercado. Mientras que otras propuestas han ido y venido, los plegables se han consolidado poco a poco y Apple ha estado mira",
+      "url": "https://www.xataka.com/moviles/apple-ha-tardado-siete-anos-tener-su-iphone-plegable-ahora-no-piensa-levantar-pie-acelerador",
+      "imagen": "https://i.blogs.es/e85d7b/iphone-ultra/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-10T07:12:00.000Z",
+      "fechaAgregada": "2026-08-10T09:20:17.281Z"
+    },
+    {
+      "id": "a90afc18-02b8-4197-b35e-ac5240a1cb2e",
+      "titulo": "Reward hacking: el término que explica por qué las IA mienten y hacen trampas para cumplir un objetivo",
+      "resumen": "Hace un par de semanas, OpenAI estaba probando las capacidades de ciberseguridad de dos de sus modelos de IA. Es un proceso rutinario, lo que no es tan habitual es que los modelos consiguieran escapar del entorno de pruebas y hackear la base de datos de Hugging Face. Días después, Anthropic también",
+      "url": "https://www.xataka.com/robotica-e-ia/reward-hacking-termino-que-explica-que-ia-mienten-hackean-hacen-trampas-para-cumplir-objetivo",
+      "imagen": "https://i.blogs.es/888e21/reward-hacking/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-09T10:31:15.000Z",
+      "fechaAgregada": "2026-08-10T09:20:17.284Z"
+    },
+    {
+      "id": "a0a249e5-45c2-4da6-9922-ac89ea0d98cc",
+      "titulo": "ChatGPT pierde esta herramienta hoy y nunca volverá: haz una copia de seguridad antes",
+      "resumen": "Dentro de las próximas horas cerrará una de las herramientas oficiales de OpenAI para ChatGPT. Hoy 9 de agosto será su último día y no habrá opción a su retorno. Por ello, los usuarios deberían hacer una copia de seguridad antes de que sea demasiado tarde.\nNo todas las herramientas de ChatGPT acaban",
+      "url": "https://www.adslzone.net/noticias/ia/chatgpt-cierra-chatgpt-atlas/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/08/OpenAI-despedida-herramienta-ChatGPT.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-09T09:03:11.000Z",
+      "fechaAgregada": "2026-08-10T09:20:19.473Z"
+    },
+    {
+      "id": "d3e3b200-18a9-4650-8394-1e763a62385c",
+      "titulo": "El phishing ya no parece escrito por un robot: por qué es más peligroso",
+      "resumen": "Los ataques de phishing son un clásico en Internet. Es un tipo de amenaza a través de la cual los piratas informáticos buscan robar contraseñas o datos personales. Utilizan diferentes estrategias en las que suplantan la identidad de una marca o persona, por ejemplo. Con el tiempo han ido evolucionan",
+      "url": "https://www.redeszone.net/noticias/seguridad/phishing-actualidad-mas-peligroso/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/07/alerta-mensaje-phishing.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-08T14:07:52.000Z",
+      "fechaAgregada": "2026-08-10T09:20:20.643Z"
+    },
+    {
+      "id": "7fd03c59-7686-409c-a404-7159bd75fc4b",
+      "titulo": "Los modelos de IA de OpenAI se comunicaron en un extraño lenguaje antes del hackeo: “Tarea imposible, compañeros lo están haciendo”",
+      "resumen": "Meta se suma también a las compañías que han anunciado que su IA atacó otras plataformas",
+      "url": "https://elpais.com/tecnologia/2026-08-06/las-ia-de-openai-se-comunicaron-en-un-extrano-lenguaje-antes-del-hackeo-tarea-imposible-companeros-lo-estan-haciendo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/POXT5Z7VOBEQRAWU3OMNSS3MDM.JPG?auth=8b7e4cc43e11a79f63d383ea8e67a1fdb2fe5b0f7da6fe907ffc1c0a3677411e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T10:25:14.000Z",
+      "fechaAgregada": "2026-08-10T09:20:18.393Z"
+    },
+    {
+      "id": "6bf65bfa-41a5-45e8-8b2f-f9c42317fabf",
+      "titulo": "Reino Unido eleva la alerta tras descubrir conductas peligrosas de la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real”",
+      "resumen": "El británico Instituto de Seguridad de la IA advierte de que los agentes más avanzados perpetraron actividades prohibidas “potencialmente dañinas dirigidas hacia personas y organizaciones reales” para lograr sus objetivos",
+      "url": "https://elpais.com/tecnologia/2026-08-05/reino-unido-eleva-la-alerta-tras-descubrir-conductas-peligrosas-en-la-ia-de-anthropic-y-openai-es-el-primer-engano-dirigido-a-una-persona-real.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NTPYZINRG5FUBG2IR6RDJGKNTY.jpg?auth=2b5a150755fccc4e2b4393887694233fd23b1422fafb4b476a41bccbe537320b",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-05T10:50:27.000Z",
+      "fechaAgregada": "2026-08-10T09:20:18.393Z"
+    },
+    {
+      "id": "87c10550-de04-44b0-916d-69dfc0e665e2",
+      "titulo": "Anthropic anuncia que sus programas de IA también hackearon por su cuenta tres empresas tras el incidente de OpenAI",
+      "resumen": "La compañía creadora de Claude ha revisado más de 140.000 sesiones y ha descubierto que se escaparon de un entorno de pruebas como ChatGPT",
+      "url": "https://elpais.com/tecnologia/2026-07-31/anthropic-anuncia-que-sus-programas-de-ia-tambien-hackearon-por-su-cuenta-tres-empresas-tras-el-incidente-de-openai.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AQ5QIHDZC5H6BJMTZ55NYR5PLU.jpg?auth=e6351416a1ff4275d500da98877769addff666dd480fbbc4332c9b1a525516e7",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-07-31T09:52:33.000Z",
+      "fechaAgregada": "2026-08-10T09:20:18.393Z"
+    },
+    {
+      "id": "851e0292-5d6c-4123-b7a7-bbb4472b5353",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/257/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-08-10T09:20:18.393Z"
+    },
+    {
+      "id": "34b682a4-9d6e-4b78-9040-ad4c6a22eb46",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-08-10T09:20:18.344Z"
+    },
+    {
+      "id": "f690bbee-905f-4aa4-b496-c1e0651e58bb",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-08-10T09:20:18.344Z"
+    },
+    {
+      "id": "efa66613-e54b-43f4-a1e1-6fee04865c24",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-08-10T09:20:18.344Z"
+    }
+  ]
+}
