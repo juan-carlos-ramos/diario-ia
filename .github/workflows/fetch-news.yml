@@ -37,6 +37,12 @@ jobs:
         run: |
           git config --local user.email "diarioia-bot@noreply.github.com"
           git config --local user.name "DiarioIA Bot"
-          git add data/noticias/
-          git diff --staged --quiet || git commit -m "chore: actualización automática de noticias $(date +'%Y-%m-%d')"
-          git push
+          git add data/
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: actualización automática de noticias $(date +'%Y-%m-%d')"
+            git pull --rebase origin main || true
+            git push
+          else
+            echo "Sin cambios para guardar."
+          fi
+

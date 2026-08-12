@@ -7,6 +7,20 @@ import fs from "fs";
 import path from "path";
 
 const parser = new Parser({
+  headers: {
+    "User-Agent":
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Accept":
+      "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+  },
+  requestOptions: {
+    headers: {
+      "User-Agent":
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+      "Accept":
+        "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    },
+  },
   customFields: {
     item: [
       ["media:content", "mediaContent"],
@@ -207,7 +221,7 @@ async function obtenerNoticias() {
       // Límite de 15 segundos por fuente RSS
       const feed = await promiseTimeout(parser.parseURL(fuente.url), 15000, `Lectura de ${fuente.nombre}`);
 
-      for (const item of feed.items) {
+      for (const item of feed.items || []) {
         const titulo = item.title || "";
         const resumen = item.contentSnippet || item.summary || "";
 
@@ -271,9 +285,14 @@ const ARCHIVO_ENVIADOS = path.join(process.cwd(), "data", "telegram-enviados.jso
 // Carga los IDs de noticias ya enviadas a Telegram
 function cargarEnviados() {
   if (!fs.existsSync(ARCHIVO_ENVIADOS)) return new Set();
-  const contenido = fs.readFileSync(ARCHIVO_ENVIADOS, "utf-8");
-  const datos = JSON.parse(contenido);
-  return new Set(datos.ids);
+  try {
+    const contenido = fs.readFileSync(ARCHIVO_ENVIADOS, "utf-8");
+    const datos = JSON.parse(contenido);
+    return new Set(datos.ids || []);
+  } catch (err) {
+    console.error("Error al cargar telegram-enviados.json:", err.message);
+    return new Set();
+  }
 }
 
 // Guarda los IDs enviados actualizados
@@ -285,14 +304,28 @@ function guardarEnviados(ids) {
   fs.writeFileSync(ARCHIVO_ENVIADOS, JSON.stringify(datos, null, 2), "utf-8");
 }
 
+// Escapa texto para HTML de Telegram para evitar que rompa la API
+function escaparHTML(texto) {
+  if (!texto) return "";
+  return texto
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
 // Publica solo las noticias nuevas en el canal de Telegram
 async function publicarEnTelegram(noticias) {
   const token = process.env.TELEGRAM_BOT_TOKEN;
-  const canal = process.env.TELEGRAM_CHANNEL;
+  let canal = process.env.TELEGRAM_CHANNEL;
 
   if (!token || !canal) {
     console.log("⚠️ Variables de Telegram no configuradas, omitiendo publicación.");
     return;
+  }
+
+  // Asegurar formato correcto de chatId (debe empezar con @ si es un canal público, o ser ID numérico)
+  if (!canal.startsWith("@") && !canal.startsWith("-")) {
+    canal = `@${canal}`;
   }
 
   const enviados = cargarEnviados();
@@ -308,29 +341,41 @@ async function publicarEnTelegram(noticias) {
   const paraPublicar = nuevas.slice(0, 10);
 
   for (const noticia of paraPublicar) {
-    const texto = `*${escaparMarkdown(noticia.titulo)}*\n\n${escaparMarkdown(noticia.resumen)}\n\n🔗 [Leer en DiarioIA](https://diario-ia.vercel.app/noticia/${noticia.id})\n📌 _${escaparMarkdown(noticia.fuente)}_`;
+    const tituloEscapado = escaparHTML(noticia.titulo);
+    const resumenEscapado = escaparHTML(noticia.resumen);
+    const fuenteEscapada = escaparHTML(noticia.fuente);
+
+    const texto = `<b>${tituloEscapado}</b>\n\n${resumenEscapado}\n\n📌 <i>${fuenteEscapada}</i>`;
+
+    const replyMarkup = {
+      inline_keyboard: [
+        [
+          { text: "🚀 Leer en DiarioIA", url: `https://diario-ia.vercel.app/noticia/${noticia.id}` }
+        ]
+      ]
+    };
 
     try {
       let url;
       let body;
 
       if (noticia.imagen) {
-        // Enviar con imagen usando sendPhoto
         url = `https://api.telegram.org/bot${token}/sendPhoto`;
         body = JSON.stringify({
-          chat_id: `@${canal}`,
+          chat_id: canal,
           photo: noticia.imagen,
           caption: texto,
-          parse_mode: "MarkdownV2",
+          parse_mode: "HTML",
+          reply_markup: replyMarkup,
         });
       } else {
-        // Sin imagen usar sendMessage normal
         url = `https://api.telegram.org/bot${token}/sendMessage`;
         body = JSON.stringify({
-          chat_id: `@${canal}`,
+          chat_id: canal,
           text: texto,
-          parse_mode: "MarkdownV2",
+          parse_mode: "HTML",
           disable_web_page_preview: false,
+          reply_markup: replyMarkup,
         });
       }
 
@@ -338,35 +383,41 @@ async function publicarEnTelegram(noticias) {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body,
-        timeout: 10000 // 10 segundos
+        timeout: 10000
       });
 
-      const data = await res.json();
+      let data = {};
+      try {
+        data = await res.json();
+      } catch (jsonErr) {
+        console.error("Respuesta no válida de Telegram:", jsonErr.message);
+      }
 
       if (!data.ok) {
-        // Si la imagen falla (URL inválida, expirada, etc.) reintenta sin imagen
+        // Si la imagen falla, reintenta sin imagen
         if (noticia.imagen) {
-          console.log(`⚠️ Imagen falló para "${noticia.titulo.slice(0, 40)}...", reintentando sin imagen`);
+          console.log(`⚠️ Envió con imagen falló para "${noticia.titulo.slice(0, 40)}...", reintentando sin imagen: ${data.description || res.statusText}`);
           const res2 = await fetchWithTimeout(`https://api.telegram.org/bot${token}/sendMessage`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
-              chat_id: `@${canal}`,
+              chat_id: canal,
               text: texto,
-              parse_mode: "MarkdownV2",
+              parse_mode: "HTML",
               disable_web_page_preview: false,
+              reply_markup: replyMarkup,
             }),
-            timeout: 10000 // 10 segundos
+            timeout: 10000
           });
-          const data2 = await res2.json();
+          const data2 = await res2.json().catch(() => ({}));
           if (data2.ok) {
             enviados.add(noticia.id);
             console.log(`✅ Publicado sin imagen: ${noticia.titulo.slice(0, 50)}...`);
           } else {
-            console.error(`Error publicando: ${data2.description}`);
+            console.error(`Error publicando: ${data2.description || res2.statusText}`);
           }
         } else {
-          console.error(`Error publicando en Telegram: ${data.description}`);
+          console.error(`Error publicando en Telegram: ${data.description || res.statusText}`);
         }
       } else {
         enviados.add(noticia.id);
@@ -384,11 +435,6 @@ async function publicarEnTelegram(noticias) {
   console.log(`💾 Registro de enviados actualizado: ${enviados.size} noticias en total.`);
 }
 
-// Escapa caracteres especiales requeridos por MarkdownV2 de Telegram
-function escaparMarkdown(texto) {
-  return texto.replace(/[_*[\]()~`>#+\-=|{}.!]/g, "\\$&");
-}
-
 // Ejecutar
 async function main() {
   const noticias = await obtenerNoticias();
@@ -399,6 +445,7 @@ async function main() {
 }
 
 main().catch((err) => {
-  console.error("Error fatal:", err);
+  console.error("Error fatal en script de noticias:", err);
   process.exit(1);
 });
+
