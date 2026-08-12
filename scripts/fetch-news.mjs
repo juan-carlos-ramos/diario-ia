@@ -360,16 +360,12 @@ async function publicarEnTelegram(noticias) {
 
     const texto = `<b>${badge}</b> · <i>DiarioIA</i>\n\n📰 <b>${tituloEscapado}</b>\n\n<blockquote>${resumenEscapado}</blockquote>\n\n🌐 <b>Fuente:</b> ${fuenteEscapada}`;
 
-    const botones = [
-      { text: "🚀 Leer en DiarioIA", url: `https://diario-ia.vercel.app/noticia/${noticia.id}` }
-    ];
-
-    if (noticia.url && noticia.url.startsWith("http")) {
-      botones.push({ text: "🔗 Fuente original", url: noticia.url });
-    }
-
     const replyMarkup = {
-      inline_keyboard: [botones]
+      inline_keyboard: [
+        [
+          { text: "🚀 Leer noticia completa en DiarioIA", url: `https://diario-ia.vercel.app/noticia/${noticia.id}` }
+        ]
+      ]
     };
 
     try {
