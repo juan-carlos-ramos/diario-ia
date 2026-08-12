@@ -313,6 +313,18 @@ function escaparHTML(texto) {
     .replace(/>/g, "&gt;");
 }
 
+function obtenerBadgeCategoria(categoria) {
+  switch (categoria?.toLowerCase()) {
+    case "productividad":
+      return "⚡ PRODUCTIVIDAD & VIBE CODING";
+    case "investigacion":
+      return "🔬 INVESTIGACIÓN & MODELOS";
+    case "tecnologia":
+    default:
+      return "🤖 INTELIGENCIA ARTIFICIAL";
+  }
+}
+
 // Publica solo las noticias nuevas en el canal de Telegram
 async function publicarEnTelegram(noticias) {
   const token = process.env.TELEGRAM_BOT_TOKEN;
@@ -341,18 +353,23 @@ async function publicarEnTelegram(noticias) {
   const paraPublicar = nuevas.slice(0, 10);
 
   for (const noticia of paraPublicar) {
+    const badge = obtenerBadgeCategoria(noticia.categoria);
     const tituloEscapado = escaparHTML(noticia.titulo);
     const resumenEscapado = escaparHTML(noticia.resumen);
     const fuenteEscapada = escaparHTML(noticia.fuente);
 
-    const texto = `<b>${tituloEscapado}</b>\n\n${resumenEscapado}\n\n📌 <i>${fuenteEscapada}</i>`;
+    const texto = `<b>${badge}</b> · <i>DiarioIA</i>\n\n📰 <b>${tituloEscapado}</b>\n\n<blockquote>${resumenEscapado}</blockquote>\n\n🌐 <b>Fuente:</b> ${fuenteEscapada}`;
+
+    const botones = [
+      { text: "🚀 Leer en DiarioIA", url: `https://diario-ia.vercel.app/noticia/${noticia.id}` }
+    ];
+
+    if (noticia.url && noticia.url.startsWith("http")) {
+      botones.push({ text: "🔗 Fuente original", url: noticia.url });
+    }
 
     const replyMarkup = {
-      inline_keyboard: [
-        [
-          { text: "🚀 Leer en DiarioIA", url: `https://diario-ia.vercel.app/noticia/${noticia.id}` }
-        ]
-      ]
+      inline_keyboard: [botones]
     };
 
     try {
@@ -434,6 +451,7 @@ async function publicarEnTelegram(noticias) {
   guardarEnviados(enviados);
   console.log(`💾 Registro de enviados actualizado: ${enviados.size} noticias en total.`);
 }
+
 
 // Ejecutar
 async function main() {
