@@ -1,0 +1,161 @@
+{
+  "fecha": "2026-08-14",
+  "generado": "2026-08-14T09:05:57.180Z",
+  "total": 14,
+  "noticias": [
+    {
+      "id": "edb707e1-5699-4ed8-8d38-912bb3fca876",
+      "titulo": "OpenAI aumenta la velocidad de GPT‑5.6 Sol con el nuevo modo Ultrafast",
+      "resumen": "OpenAI quiere que su IA sea más rápida y, para ello, ha realizado la presentación del nuevo modo Ultrafast que llega a su modelo GPT-5.6 Sol. Con su uso será posible beneficiarse de un rendimiento que destacará por ser más instantáneo, alcanzando una velocidad 14 veces más rápida.\nUltrafast es el no",
+      "url": "https://www.adslzone.net/noticias/ia/openai-gpt-5-6-sol-nuevo-modo-ultrafast/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/08/Modo-ultrafast-GPT-OpenAI.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-14T04:00:25.000Z",
+      "fechaAgregada": "2026-08-14T09:05:53.173Z"
+    },
+    {
+      "id": "5202f02b-018f-4d39-922d-07045d99cc52",
+      "titulo": "OpenAI acelera ChatGPT como nunca: su IA más potente ya responde en segundos gracias a esta función",
+      "resumen": "OpenAI ha lanzado una versión de ChatGPT que ejecuta su modelo más potente a una velocidad nunca antes vista. Conocido como Ultrafast, este modo permite correr GPT-5.6 Sol hasta 14 veces más rápido que el procesamiento estándar. La nueva función evitaría sacrificar el razonamiento a cambio de respue",
+      "url": "https://hipertextual.com/inteligencia-artificial/gpt-5-6-sol-ultrafast-openai/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/chatgpt-sol.jpg?fit=1024%2C567&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-13T19:35:31.000Z",
+      "fechaAgregada": "2026-08-14T09:05:49.553Z"
+    },
+    {
+      "id": "6cf927a6-40c0-442e-9787-efb905cef423",
+      "titulo": "Cómo saber si un juego usa Denuvo antes de comprarlo",
+      "resumen": "Denuvo es un sistema de protección antipiratería (DRM) que algunos videojuegos usan para dificultar que se copien o ejecuten sin autorización, por lo que podemos averiguar, antes de comprarlo, si un título usa este sistema, o no, aunque no cambie mucho el hecho de que lo queramos comprar (si somos l",
+      "url": "https://hardzone.es/noticias/juegos/como-saber-juego-usa-denuvo-antes-comprarlo/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/03/Denuvo-CD.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-13T18:52:22.000Z",
+      "fechaAgregada": "2026-08-14T09:05:55.705Z"
+    },
+    {
+      "id": "1a00bf3c-4891-4aea-a099-215b621429f9",
+      "titulo": "Pixel Watch 5 vs Pixel Watch 4: la nueva apuesta de Google pasa por ofrecer más funciones de salud",
+      "resumen": "Google ha presentado un buen surtido de dispositivos que van desde los Google Pixel 11 hasta la nueva generación de su smartwatch. El Google Pixel Watch 5 llega con una ficha técnica similar a la del Google Pixel Watch 4, pero con buenas diferencias en lo que ofrece a nivel de software, sobre todo d",
+      "url": "https://www.xataka.com/seleccion/pixel-watch-5-vs-pixel-watch-4-nueva-apuesta-google-pasa-ofrecer-funciones-salud",
+      "imagen": "https://i.blogs.es/e55f37/google-pixel-watch-4-y-google-pixel-watch-5/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-13T15:45:15.000Z",
+      "fechaAgregada": "2026-08-14T09:05:49.403Z"
+    },
+    {
+      "id": "0ccf322e-d9f8-4246-aba1-b4573f34741b",
+      "titulo": "Hasta ahora, toda la industria IA se ha financiado a sí misma de forma circular. Nvidia acaba de romper con esa dinámica",
+      "resumen": "En los últimos dos años, Nvidia se ha dedicado tanto a vender los picos y las palas del boom de la IA como, cada vez más, a prestar el dinero para comprarlos. Esta semana ha intentado algo diferente. Y es que en lugar de firmar los cheques ella misma, ha convencido a seis de los grandes nombres de W",
+      "url": "https://www.xataka.com/empresas-y-economia/ahora-toda-industria-ia-se-ha-financiado-a-forma-circular-nvidia-acaba-romper-esa-dinamica",
+      "imagen": "https://i.blogs.es/cb2b24/jensen/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-13T15:15:15.000Z",
+      "fechaAgregada": "2026-08-14T09:05:49.403Z"
+    },
+    {
+      "id": "4c3f37c4-d9de-4dae-8986-e1f70427a7e8",
+      "titulo": "Grok 4.6 necesita la mitad de pasos que Claude Opus 5 para hacer el mismo trabajo. Y eso es más importante que el benchmark",
+      "resumen": "Ejecutar un agente de IA durante horas tiene una factura no siempre evidente: cada vuelta que da el modelo para pensar, comprobar o corregirse, se paga. Y ahí es donde Grok 4.6, el modelo que acaba de lanzar SpaceXAI (el nuevo nombre de la empresa desde el mes pasado), dice tener su gran ventaja.\nEn",
+      "url": "https://www.xataka.com/robotica-e-ia/grok-4-6-necesita-mitad-pasos-que-claude-opus-5-para-hacer-trabajo-eso-importante-que-benchmark",
+      "imagen": "https://i.blogs.es/4bc4f8/grok/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-13T14:45:15.000Z",
+      "fechaAgregada": "2026-08-14T09:05:49.404Z"
+    },
+    {
+      "id": "a3339d6c-a99e-4fa2-9a1c-64866c3e2253",
+      "titulo": "Twitch se sincera y revela por qué el uso de tus contenidos para entrenar la IA de Amazon está activado por defecto",
+      "resumen": "Twitch quedó en el centro de una nueva polémica tras comenzar a usar los contenidos de sus usuarios para entrenar los modelos de IA generativa de Amazon. Una característica que se encuentra activada por defecto y que los creadores tienen que desactivar de forma manual para impedir que sus streams, v",
+      "url": "https://hipertextual.com/inteligencia-artificial/twitch-uso-contenidos-por-defecto-entrenar-ia-amazon/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/10/twitch.jpeg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-13T13:48:39.000Z",
+      "fechaAgregada": "2026-08-14T09:05:49.553Z"
+    },
+    {
+      "id": "6a853e8c-eeb7-4282-8dc7-661e2eb66694",
+      "titulo": "Claude se las prometía felices con sus marcas de agua: menos de 24 horas después ya hay una app para borrarlas",
+      "resumen": "Las constantes políticas que han surgido sobre el contenido creado por Inteligencia Artificial ha llevado a Claude a tomar una drástica decisión: incluir marcas de agua invisibles para que cualquier persona pueda identificarlas. Apenas ha pasado un día desde esta decisión y ya han encontrado cómo el",
+      "url": "https://www.adslzone.net/noticias/ia/nueva-aplicacion-eliminar-marcas-agua-claude/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/08/creacion-gemini-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-13T12:57:32.000Z",
+      "fechaAgregada": "2026-08-14T09:05:53.174Z"
+    },
+    {
+      "id": "9f3684af-d276-4443-a1a4-a1803a444c7b",
+      "titulo": "Los modelos de IA de OpenAI se comunicaron en un extraño lenguaje antes del hackeo: “Tarea imposible, compañeros lo están haciendo”",
+      "resumen": "Meta se suma también a las compañías que han anunciado que su IA atacó otras plataformas",
+      "url": "https://elpais.com/tecnologia/2026-08-06/las-ia-de-openai-se-comunicaron-en-un-extrano-lenguaje-antes-del-hackeo-tarea-imposible-companeros-lo-estan-haciendo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/POXT5Z7VOBEQRAWU3OMNSS3MDM.JPG?auth=8b7e4cc43e11a79f63d383ea8e67a1fdb2fe5b0f7da6fe907ffc1c0a3677411e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T10:25:14.000Z",
+      "fechaAgregada": "2026-08-14T09:05:50.581Z"
+    },
+    {
+      "id": "4faeeb69-d1de-41b0-8b64-7730518f19b6",
+      "titulo": "Reino Unido eleva la alerta tras descubrir conductas peligrosas de la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real”",
+      "resumen": "El británico Instituto de Seguridad de la IA advierte de que los agentes más avanzados perpetraron actividades prohibidas “potencialmente dañinas dirigidas hacia personas y organizaciones reales” para lograr sus objetivos",
+      "url": "https://elpais.com/tecnologia/2026-08-05/reino-unido-eleva-la-alerta-tras-descubrir-conductas-peligrosas-en-la-ia-de-anthropic-y-openai-es-el-primer-engano-dirigido-a-una-persona-real.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NTPYZINRG5FUBG2IR6RDJGKNTY.jpg?auth=2b5a150755fccc4e2b4393887694233fd23b1422fafb4b476a41bccbe537320b",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-05T10:50:27.000Z",
+      "fechaAgregada": "2026-08-14T09:05:50.581Z"
+    },
+    {
+      "id": "9288693a-0199-4038-8008-82cbd0361dd8",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/349/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-08-14T09:05:50.581Z"
+    },
+    {
+      "id": "b0c644b2-0127-4c12-aff8-a66977c8f652",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-08-14T09:05:50.549Z"
+    },
+    {
+      "id": "3f64c5f4-770f-4da4-9649-bc8726831246",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-08-14T09:05:50.549Z"
+    },
+    {
+      "id": "3fee61b6-bde5-4d16-8dc5-2616949f24f7",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-08-14T09:05:50.549Z"
+    }
+  ]
+}
