@@ -1,0 +1,106 @@
+{
+  "fecha": "2026-08-15",
+  "generado": "2026-08-15T08:27:51.768Z",
+  "total": 9,
+  "noticias": [
+    {
+      "id": "b1599446-b388-4683-8605-8d63442f5f24",
+      "titulo": "Z.ai entrenó GLM-5.3 para programar mejor. El modelo aprendió de paso a ser mucho mejor en ciberseguridad",
+      "resumen": "Mejorar un modelo de inteligencia artificial para programar ya no significa únicamente conseguir que escriba código con menos errores. Cuando lo entrenamos para desenvolverse durante horas en entornos complejos, utilizar herramientas, revisar resultados y resolver problemas de principio a fin, tambi",
+      "url": "https://www.xataka.com/robotica-e-ia/z-ai-entreno-glm-5-3-para-programar-mejor-modelo-aprendio-paso-a-ser-mucho-mejor-ciberseguridad",
+      "imagen": "https://i.blogs.es/c2f737/glm-5/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-14T21:43:49.000Z",
+      "fechaAgregada": "2026-08-15T08:27:47.261Z"
+    },
+    {
+      "id": "a5cab2cd-e922-4724-9c56-1912bc3f3a31",
+      "titulo": "¿Es el Google Pixel 11 el mejor móvil compacto de 2026? Lo ponemos frente a frente contra sus rivales de Samsung, Oppo, Xiaomi y Vivo",
+      "resumen": "El nuevo Pixel 11 ha llegado para ser uno de los mejores móviles compactos que podemos comprar en 2026. Pero, ¿cómo queda frente a sus principales rivales? Vamos a ver todas las diferencias que hay entre el nuevo teléfono de Google y otros móviles Android de gama alta con formato compacto, como son",
+      "url": "https://www.xataka.com/seleccion/google-pixel-11-mejor-movil-compacto-2026-ponemos-frente-a-frente-sus-rivales-samsung-oppo-xiaomi-vivo",
+      "imagen": "https://i.blogs.es/2d5ceb/pixel-11-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-14T16:45:15.000Z",
+      "fechaAgregada": "2026-08-15T08:27:47.262Z"
+    },
+    {
+      "id": "2c318610-0d01-4710-8f5f-fc566f76adb7",
+      "titulo": "Fundadora de una empresa de porno para mujeres y contacto de Epstein: sale a la luz la historia de la misteriosa mujer de Dario Amodei",
+      "resumen": "El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude",
+      "url": "https://elpais.com/tecnologia/2026-08-14/fundadora-de-una-empresa-de-porno-para-mujeres-y-contacto-de-epstein-sale-a-la-luz-la-historia-de-la-misteriosa-mujer-de-dario-amodei.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4SS4CINYTFGBHC2S3Z6WUOBCQ4.jpg?auth=e27138c69c77c8961ec400d67049448b6496530878372db4cfd5eb707706778a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-14T13:39:29.000Z",
+      "fechaAgregada": "2026-08-15T08:27:48.429Z"
+    },
+    {
+      "id": "08f140e6-dc12-421c-b4f7-8e6f005be738",
+      "titulo": "Cómo saber si un juego usa Denuvo antes de comprarlo",
+      "resumen": "Denuvo es un sistema de protección antipiratería (DRM) que algunos videojuegos usan para dificultar que se copien o ejecuten sin autorización, por lo que podemos averiguar, antes de comprarlo, si un título usa este sistema, o no, aunque no cambie mucho el hecho de que lo queramos comprar (si somos l",
+      "url": "https://hardzone.es/noticias/juegos/como-saber-juego-usa-denuvo-antes-comprarlo/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/03/Denuvo-CD.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-13T18:52:22.000Z",
+      "fechaAgregada": "2026-08-15T08:27:51.199Z"
+    },
+    {
+      "id": "651459ab-b864-41b0-90e6-a985c2165d90",
+      "titulo": "Los modelos de IA de OpenAI se comunicaron en un extraño lenguaje antes del hackeo: “Tarea imposible, compañeros lo están haciendo”",
+      "resumen": "Meta se suma también a las compañías que han anunciado que su IA atacó otras plataformas",
+      "url": "https://elpais.com/tecnologia/2026-08-06/las-ia-de-openai-se-comunicaron-en-un-extrano-lenguaje-antes-del-hackeo-tarea-imposible-companeros-lo-estan-haciendo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/POXT5Z7VOBEQRAWU3OMNSS3MDM.JPG?auth=8b7e4cc43e11a79f63d383ea8e67a1fdb2fe5b0f7da6fe907ffc1c0a3677411e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T10:25:14.000Z",
+      "fechaAgregada": "2026-08-15T08:27:48.430Z"
+    },
+    {
+      "id": "84320cf2-fdcd-47b1-9e31-92a68294e13c",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/143/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-08-15T08:27:48.430Z"
+    },
+    {
+      "id": "4a40c8df-1b42-45de-8c39-c1bd44e5093e",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-08-15T08:27:48.300Z"
+    },
+    {
+      "id": "4621d16d-cab1-473d-b8f0-8d0f852e1f2d",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-08-15T08:27:48.300Z"
+    },
+    {
+      "id": "ef02ff6e-3214-41e6-8194-88d09f02da82",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-08-15T08:27:48.300Z"
+    }
+  ]
+}
