@@ -1,0 +1,117 @@
+{
+  "fecha": "2026-08-16",
+  "generado": "2026-08-16T08:28:31.116Z",
+  "total": 10,
+  "noticias": [
+    {
+      "id": "468c96e0-35b2-4945-a7d2-92b2f8c876f4",
+      "titulo": "El invento del verano lo acaba de presentar Xiaomi: fabrica cubitos de hielo con diseño de bala en 6 minutos, ocupa poco y cuesta menos aún",
+      "resumen": "¿Cuántos dispositivos tiene Xiaomi? Lo cierto es que el catálogo, sobre todo en China, es enorme y la marca cada cierto tiempo nos sorprende con algún nuevo aparato. Esta vez lo ha hecho con la presentación de su máquina para fabricar cubitos de hielo con forma de bala.\n\rDe momento no hay planes par",
+      "url": "https://www.xataka.com/seleccion/invento-verano-acaba-presentar-xiaomi-fabrica-cubitos-hielo-diseno-bala-6-minutos-ocupa-poco-cuesta",
+      "imagen": "https://i.blogs.es/8984fd/maquina-de-hielo-xiaomi/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-16T08:16:47.000Z",
+      "fechaAgregada": "2026-08-16T08:28:24.855Z"
+    },
+    {
+      "id": "ab131ade-95f2-4565-b6bd-0e55f9ffa080",
+      "titulo": "Cómo empezar de cero con Gemini Notebook (NotebookLM) aunque no tengas fuentes propias a las que preguntar",
+      "resumen": "NotebookLM, ahora Gemini Notebook, es de gran ayuda si necesitas procesar documentos, textos, videos y, en general, grandes cantidades de conocimiento. Si no entiendes algo, no tienes tiempo para leerlo todo o, simplemente, quieres ordenar tus propias notas, la IA de Google hace un buen trabajo con",
+      "url": "https://hipertextual.com/guias/empezar-con-gemini-notebook-notebooklm-buscar-fuentes/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Robot-Leyendo-Libros-Biblioteca.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-16T08:00:00.000Z",
+      "fechaAgregada": "2026-08-16T08:28:25.031Z"
+    },
+    {
+      "id": "ada51840-505c-46cb-aeb9-ed82d5785b71",
+      "titulo": "China se hizo famosa por sus jornadas laborales eternas. La solución ha sido echar a la calle a los empleados a su hora",
+      "resumen": "La reducción de la jornada laboral parece ser un camino de no retorno que muchos países se han propuesto transitar. Algunos, como Grecia, no lo hacen con paso decidido. En cambio, otros cuya abnegación con el trabajo parecía inamovible, están sorprendiendo al mundo con medidas de reducción de jornad",
+      "url": "https://www.xataka.com/empresas-y-economia/china-se-hizo-famosa-sus-jornadas-laborales-eternas-solucion-ha-sido-echar-a-calle-a-empleados-a-su-hora-1",
+      "imagen": "https://i.blogs.es/6e8862/blue-sky-qn1sz74hvjg-unsplash-1-/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-16T07:30:48.000Z",
+      "fechaAgregada": "2026-08-16T08:28:24.856Z"
+    },
+    {
+      "id": "f31e01f6-8dfc-407a-970a-90d69c19e715",
+      "titulo": "El mercado de las GPUs de segunda mano en 2026: Qué modelos evitar tras el último «boom» de minería de IA",
+      "resumen": "Durante los últimos años, las GPUs han ido aumentando de precio, en primer lugar debido a la llegada de los mineros de criptomonedas (hace unos 5 años), y actualmente por los centros de IA, los cuales también requieren una potencia importante en cuanto a este componente.\nEs por ello que, debido a lo",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/mercado-gpus-segunda-mano-2026-que-evitar/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2022/03/egpu.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-15T12:01:42.000Z",
+      "fechaAgregada": "2026-08-16T08:28:29.696Z"
+    },
+    {
+      "id": "2c652f9f-00f1-4ffd-8bb8-4d15bc86e8f8",
+      "titulo": "Fundadora de una empresa de porno para mujeres y contacto de Epstein: sale a la luz la historia de la misteriosa mujer de Dario Amodei",
+      "resumen": "El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude",
+      "url": "https://elpais.com/tecnologia/2026-08-14/fundadora-de-una-empresa-de-porno-para-mujeres-y-contacto-de-epstein-sale-a-la-luz-la-historia-de-la-misteriosa-mujer-de-dario-amodei.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4SS4CINYTFGBHC2S3Z6WUOBCQ4.jpg?auth=e27138c69c77c8961ec400d67049448b6496530878372db4cfd5eb707706778a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-14T13:39:29.000Z",
+      "fechaAgregada": "2026-08-16T08:28:25.957Z"
+    },
+    {
+      "id": "ba292eb6-d23b-465e-9242-0145d96f6b72",
+      "titulo": "Los modelos de IA de OpenAI se comunicaron en un extraño lenguaje antes del hackeo: “Tarea imposible, compañeros lo están haciendo”",
+      "resumen": "Meta se suma también a las compañías que han anunciado que su IA atacó otras plataformas",
+      "url": "https://elpais.com/tecnologia/2026-08-06/las-ia-de-openai-se-comunicaron-en-un-extrano-lenguaje-antes-del-hackeo-tarea-imposible-companeros-lo-estan-haciendo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/POXT5Z7VOBEQRAWU3OMNSS3MDM.JPG?auth=8b7e4cc43e11a79f63d383ea8e67a1fdb2fe5b0f7da6fe907ffc1c0a3677411e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T10:25:14.000Z",
+      "fechaAgregada": "2026-08-16T08:28:25.957Z"
+    },
+    {
+      "id": "0091f186-839d-4d25-bd05-c7816f8da9e6",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/27/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-08-16T08:28:25.957Z"
+    },
+    {
+      "id": "745667f5-c5bd-47a8-8921-4bbb93401e1b",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-08-16T08:28:25.933Z"
+    },
+    {
+      "id": "cbfb95ea-cf61-4196-bc6a-cfa592d35b5f",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-08-16T08:28:25.934Z"
+    },
+    {
+      "id": "20a436cd-6372-40a4-b3ac-00c7e56a61ce",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-08-16T08:28:25.934Z"
+    }
+  ]
+}
