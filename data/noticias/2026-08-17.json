@@ -1,0 +1,161 @@
+{
+  "fecha": "2026-08-17",
+  "generado": "2026-08-17T08:42:18.429Z",
+  "total": 14,
+  "noticias": [
+    {
+      "id": "6972580e-bd9c-49e2-8efd-e16d613a7d38",
+      "titulo": "El CEO de Phison lo tiene claro: «el precio de los SSD seguirá subiendo durante los próximos 4 años»",
+      "resumen": "Desde mediados de 2025, los componentes de PC han pasado de sufrir ligeras variaciones de precio en base a la demanda del mercado a convertirse en un producto de lujo al alcance de muy pocos debido a la elevada demanda de los centros datos de Inteligencia Artificial y según afirma el CEO de Phison,",
+      "url": "https://hardzone.es/noticias/componentes/precio-ssd-subira-proximos-anos-ceo-phison/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/08/ssd-pny-phison.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T06:59:35.000Z",
+      "fechaAgregada": "2026-08-17T08:42:16.898Z"
+    },
+    {
+      "id": "c88a6fa8-ac2b-46aa-be6f-fa0af4d8fcd3",
+      "titulo": "Las adolescentes parten con desventaja en el aprendizaje de la inteligencia artificial",
+      "resumen": "Un estudio revela que los alumnos varones reportan mayor confianza y rendimiento que sus compañeras debido a cuestiones culturales",
+      "url": "https://elpais.com/educacion/2026-08-17/las-adolescentes-parten-con-desventaja-en-el-aprendizaje-de-la-inteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AJUSC6YXOVFQZNRYVWAQNURK4A.jpg?auth=0e06c451566207d72103577edad4b9f1d7cf24d230230be9e9008e93d9ae997c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T03:30:01.000Z",
+      "fechaAgregada": "2026-08-17T08:42:12.698Z"
+    },
+    {
+      "id": "096e0d64-c26c-4f93-9a2a-87a0313c92cf",
+      "titulo": "TikTok eliminó una función de seguridad a millones de usuarios para hacer una prueba. Uno de ellos acabó suicidándose",
+      "resumen": "El A/B testing es una práctica habitual en cualquier producto digital. Consiste en dividir a los usuarios en dos grupos para comparar una versión nueva frente a la anterior y medir su impacto. Es lo que hizo en TikTok cuando modificó su algoritmo con el objetivo de reducir el contenido dañino que se",
+      "url": "https://www.xataka.com/aplicaciones/tiktok-elimino-funcion-seguridad-a-millones-usuarios-para-hacer-prueba-uno-ellos-acabo-suicidandose",
+      "imagen": "https://i.blogs.es/777c0e/tech-insider-rajljcjzugq-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-16T17:30:48.000Z",
+      "fechaAgregada": "2026-08-17T08:42:11.420Z"
+    },
+    {
+      "id": "733f688c-3dda-43a2-8332-0af9865b8f11",
+      "titulo": "Llevo años probando decenas de robots aspiradores y lo tengo claro: mis favoritos de 2026 no son ni Xiaomi ni Roomba",
+      "resumen": "Ya hemos pasado el ecuador de 2026, por lo que comienza a ser buen momento para echar la vista atrás y hacer balance de todos los robots aspiradores que he probado últimamente. Desde enero han pasado por mis suelos seis robots aspiradores diferentes que he analizado para Xataka (si vamos a enero de",
+      "url": "https://www.xataka.com/domotica-1/he-probado-decenas-robots-aspiradores-ultimos-anos-mis-dos-favoritos-2026-no-xiaomi-roomba",
+      "imagen": "https://i.blogs.es/82d6b1/chatgpt-image-11-ago-2026-18_26_37/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-16T12:30:47.000Z",
+      "fechaAgregada": "2026-08-17T08:42:11.421Z"
+    },
+    {
+      "id": "3df8a776-cab1-4326-bb22-cee597776d11",
+      "titulo": "Se acabó el chollo de generar texto con la IA e intentar engañar a tu jefe o profesor: pronto sabrá (al 100%) que ha sido ChatGPT",
+      "resumen": "Claude acaba de abrir una veda que probablemente empiece a contagiar al resto de IAs. Desde hace unos días, el modelo de Anthropic ha empezado a implementar una marca de agua invisible en todos los textos que genera. El objetivo no es otro que impedir a los usuarios engañar a jefes, profesores y bus",
+      "url": "https://hipertextual.com/inteligencia-artificial/se-acabo-el-chollo-de-generar-texto-con-la-ia-e-intentar-enganar-a-tu-jefe-o-profesor-pronto-sabra-al-100-que-ha-sido-chatgpt/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/textos-ia.jpg?fit=1024%2C682&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-16T10:00:00.000Z",
+      "fechaAgregada": "2026-08-17T08:42:11.649Z"
+    },
+    {
+      "id": "6d2ce839-0a6c-4211-b92b-0cfeca60f2ff",
+      "titulo": "Daniel Púa, jefe de seguridad en Magnific: \"Si Claude Opus 4.8 podía ser una navaja, Mythos es un machete\"",
+      "resumen": "Desde que Anthropic dio a conocer a Claude Mythos hace unos meses, la ciberseguridad se ha convertido en el principal argumento con el que los laboratorios de IA destacan la potencia de sus nuevos modelos. Hay motivos: Mythos en concreto fue capaz de encontrar vulnerabilidades zero-day (desconocidas",
+      "url": "https://www.xataka.com/seguridad/daniel-pua-jefe-seguridad-magnific-claude-opus-4-8-podia-ser-navaja-mythos-machete",
+      "imagen": "https://i.blogs.es/2af93a/flyd-mt7lxzpjk7u-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-16T09:30:48.000Z",
+      "fechaAgregada": "2026-08-17T08:42:11.422Z"
+    },
+    {
+      "id": "2b3408c8-37f1-4ed2-87ae-3ad88cba2dab",
+      "titulo": "Cómo empezar de cero con Gemini Notebook (NotebookLM) aunque no tengas fuentes propias a las que preguntar",
+      "resumen": "NotebookLM, ahora Gemini Notebook, es de gran ayuda si necesitas procesar documentos, textos, videos y, en general, grandes cantidades de conocimiento. Si no entiendes algo, no tienes tiempo para leerlo todo o, simplemente, quieres ordenar tus propias notas, la IA de Google hace un buen trabajo con",
+      "url": "https://hipertextual.com/guias/empezar-con-gemini-notebook-notebooklm-buscar-fuentes/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Robot-Leyendo-Libros-Biblioteca.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-16T08:00:00.000Z",
+      "fechaAgregada": "2026-08-17T08:42:11.649Z"
+    },
+    {
+      "id": "8a740f74-3f61-4493-b564-48b945394538",
+      "titulo": "El mercado de las GPUs de segunda mano en 2026: Qué modelos evitar tras el último «boom» de minería de IA",
+      "resumen": "Durante los últimos años, las GPUs han ido aumentando de precio, en primer lugar debido a la llegada de los mineros de criptomonedas (hace unos 5 años), y actualmente por los centros de IA, los cuales también requieren una potencia importante en cuanto a este componente.\nEs por ello que, debido a lo",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/mercado-gpus-segunda-mano-2026-que-evitar/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2022/03/egpu.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-15T12:01:42.000Z",
+      "fechaAgregada": "2026-08-17T08:42:16.898Z"
+    },
+    {
+      "id": "b669bfdd-9ac6-4a88-a14c-a5f473c20619",
+      "titulo": "Fundadora de una empresa de porno para mujeres y contacto de Epstein: sale a la luz la historia de la misteriosa mujer de Dario Amodei",
+      "resumen": "El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude",
+      "url": "https://elpais.com/tecnologia/2026-08-14/fundadora-de-una-empresa-de-porno-para-mujeres-y-contacto-de-epstein-sale-a-la-luz-la-historia-de-la-misteriosa-mujer-de-dario-amodei.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4SS4CINYTFGBHC2S3Z6WUOBCQ4.jpg?auth=e27138c69c77c8961ec400d67049448b6496530878372db4cfd5eb707706778a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-14T13:39:29.000Z",
+      "fechaAgregada": "2026-08-17T08:42:12.698Z"
+    },
+    {
+      "id": "abb9614f-c9f7-41a4-b44d-687be058a4c0",
+      "titulo": "Los modelos de IA de OpenAI se comunicaron en un extraño lenguaje antes del hackeo: “Tarea imposible, compañeros lo están haciendo”",
+      "resumen": "Meta se suma también a las compañías que han anunciado que su IA atacó otras plataformas",
+      "url": "https://elpais.com/tecnologia/2026-08-06/las-ia-de-openai-se-comunicaron-en-un-extrano-lenguaje-antes-del-hackeo-tarea-imposible-companeros-lo-estan-haciendo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/POXT5Z7VOBEQRAWU3OMNSS3MDM.JPG?auth=8b7e4cc43e11a79f63d383ea8e67a1fdb2fe5b0f7da6fe907ffc1c0a3677411e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T10:25:14.000Z",
+      "fechaAgregada": "2026-08-17T08:42:12.699Z"
+    },
+    {
+      "id": "6fcbb946-6024-4902-8cd6-42be88db8786",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/74/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-08-17T08:42:12.699Z"
+    },
+    {
+      "id": "b0fb6f92-b22c-4229-9e8a-e8f0e0f596af",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-08-17T08:42:12.577Z"
+    },
+    {
+      "id": "0c50cdd0-9914-4ef6-b34a-f8797d0ada35",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-08-17T08:42:12.578Z"
+    },
+    {
+      "id": "748c315b-f87d-41fc-bc93-e79992a763e8",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-08-17T08:42:12.578Z"
+    }
+  ]
+}
