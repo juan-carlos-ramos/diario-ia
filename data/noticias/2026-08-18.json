@@ -1,0 +1,227 @@
+{
+  "fecha": "2026-08-18",
+  "generado": "2026-08-18T08:35:42.370Z",
+  "total": 20,
+  "noticias": [
+    {
+      "id": "1183c9dc-dd98-4eb9-8c88-331111bb464a",
+      "titulo": "Demuestran cómo Claude Code ha ayudado a un operador de ransomware a potenciar sus ataques gracias a la IA",
+      "resumen": "La Inteligencia Artificial puede ser de gran ayuda para los piratas informáticos y en una investigación realizada por parte de Gambit Security han demostrado cómo Claude Code ha ayudado a un operador de ransomware en sus ataques. Se considera uno de los mejores ejemplos documentados del uso de la IA",
+      "url": "https://www.redeszone.net/noticias/seguridad/claude-code-ayudado-operador-ransomware/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/codigo-pantalla-ordenador.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-18T07:26:02.000Z",
+      "fechaAgregada": "2026-08-18T08:35:41.189Z"
+    },
+    {
+      "id": "0a7bbbe9-ad77-4d3e-a48e-b16862b44aee",
+      "titulo": "Refrigeración centralizada: la poderosa alternativa al aire acondicionado que ya están probando muchas ciudades",
+      "resumen": "Una sequía sin precedentes en el Reino Unido, temperaturas que superan los 40 grados en gran parte del continente, un Danubio seco que paraliza el suministro de energía nuclear… Europa se está calentando a una velocidad desorbitada, mucho más rápido que el resto del mundo, y necesita repensar con ur",
+      "url": "https://www.xataka.com/energia/refrigeracion-centralizada-poderosa-alternativa-al-aire-acondicionado-que-estan-probando-muchas-ciudades",
+      "imagen": "https://i.blogs.es/24675d/ashkan-forouzani-juavcumy008-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-18T07:00:22.000Z",
+      "fechaAgregada": "2026-08-18T08:35:37.247Z"
+    },
+    {
+      "id": "f36e7475-016b-4436-a0c7-2c43872448d9",
+      "titulo": "Sony fabrica más de la mitad de los sensores de móvil del mundo. Ha firmado con TSMC para dejar de hacerlo sola",
+      "resumen": "Sony es la empresa líder en la creación de sensores para las cámaras de los móviles. Sin embargo, parece ser que se ha cansado de hacerlo sola, y ha creado junto a la taiwanesa TSMC una empresa conjunta para desarrollar y fabricar los sensores de nueva generación. La empresa se llamará Advanced Visi",
+      "url": "https://www.xataka.com/empresas-y-economia/sony-fabrica-mitad-sensores-movil-mundo-ha-firmado-tsmc-para-dejar-hacerlo-sola",
+      "imagen": "https://i.blogs.es/565580/sony_building_japan_2006_-_tokyo_-_ginza/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-18T06:00:22.000Z",
+      "fechaAgregada": "2026-08-18T08:35:37.247Z"
+    },
+    {
+      "id": "3d5afd1c-5f3b-4acb-9716-12e1580f3b2f",
+      "titulo": "Meta patenta un sistema para que tus Ray-Ban sepan quién eres y qué estás haciendo",
+      "resumen": "A unas semanas de borrar la evidencia de que sus gafas Ray-Ban utilizarían reconocimiento facial, Meta vuelve al centro de la polémica. La compañía ha registrado una patente que combina cámaras con reconocimiento facial e inteligencia artificial para identificar a las personas en una escena. El docu",
+      "url": "https://hipertextual.com/tecnologia/meta-patente-reconocimiento-facial-gafas/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/09/Meta-Ray-Ban-Display-Sand.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-18T00:05:12.000Z",
+      "fechaAgregada": "2026-08-18T08:35:37.386Z"
+    },
+    {
+      "id": "8d06305d-de0a-4105-bc94-edcd78b9b2e1",
+      "titulo": "Amazon está destruyendo miles de libros para entrenar sus modelos de IA",
+      "resumen": "Amazon está comprando miles de libros raros para escanearlos y entrenar a su inteligencia artificial. Una investigación descubrió que el gigante tecnológico está aplicando una técnica anteriormente usada por Anthropic, la cual consiste en escanear libros página por página para nutrir a sus modelos d",
+      "url": "https://hipertextual.com/inteligencia-artificial/amazon-destruye-libros-raros-entrenar-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/quemar-libros.jpg?fit=1024%2C569&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T19:06:33.000Z",
+      "fechaAgregada": "2026-08-18T08:35:37.386Z"
+    },
+    {
+      "id": "cc989f7c-8947-4fc5-ae90-a4e50e825d4b",
+      "titulo": "En 1696, el rey de Inglaterra puso un impuesto a las ventanas. Lo que pasó acto seguido no sorprendió a nadie",
+      "resumen": "Por todos es sabido que los impuestos tienen efectos distorsionadores en la sociedad. El alza de precios del tabaco hace que algunas personas lo dejen y regiones administrativas con tributaciones más beneficiosas atraen la inversión, arrebatándosela a las regiones vecinas. Estos posibles efectos sec",
+      "url": "https://www.xataka.com/magnet/1696-rey-inglaterra-puso-impuesto-a-ventanas-que-paso-acto-seguido-no-sorprendio-a-nadie",
+      "imagen": "https://i.blogs.es/c0ccd6/daylight-robbery-andy-billman-photography-london-festival-architecture_dezeen_1704_hero/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T18:16:21.000Z",
+      "fechaAgregada": "2026-08-18T08:35:37.248Z"
+    },
+    {
+      "id": "89932068-6422-4814-b632-4561b7068121",
+      "titulo": "OpenAI disuelve al equipo que evaluaba los riesgos catastróficos de su IA",
+      "resumen": "OpenAI habría disuelto una de sus divisiones encargadas de evaluar los riesgos catastróficos de sus modelos de inteligencia artificial. Un reporte menciona que la empresa realizó ajustes internos de cara a su salida a bolsa y eliminó a uno de sus equipos más importantes. La decisión llega apenas sem",
+      "url": "https://hipertextual.com/inteligencia-artificial/openai-disuelve-equipo-preparacion-riesgos-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/chatgpt-fondo-pantalla-01.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T17:33:04.000Z",
+      "fechaAgregada": "2026-08-18T08:35:37.386Z"
+    },
+    {
+      "id": "69629ae6-3514-4c78-9665-74e1b8f27006",
+      "titulo": "Anthropic ha construido un modelo mejor que Mythos. También ha decidido que el mundo no pueda usarlo",
+      "resumen": "Anthropic tiene disponible un modelo de IA que no podemos probar. Se llama simplemente \"Model 2\", es aún más potente que Mythos 5 y, según la propia compañía, ofrece una \"mejora apreciable\" en muchas de las tareas que realizan internamente. No es un salto tan grande como el que hubo al lanzar Mythos",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-construido-modelo-mejor-que-mythos-tambien-ha-decidido-que-mundo-no-pueda-usarlo",
+      "imagen": "https://i.blogs.es/ecb3a4/anthropic/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T17:30:22.000Z",
+      "fechaAgregada": "2026-08-18T08:35:37.248Z"
+    },
+    {
+      "id": "692edd68-c559-4cc9-a897-cd8a3475ec3d",
+      "titulo": "Le pidió a la IA «arreglar el Wi-Fi del hotel» y así lo logró",
+      "resumen": "La Inteligencia Artificial ofrece un amplio abanico de opciones en ámbitos muy variados, lo que incluye también ciberseguridad, análisis de datos o incluso detectar posibles problemas de funcionamiento. En este artículo nos hacemos eco de cómo un usuario ha utilizado la IA para detectar problemas en",
+      "url": "https://www.redeszone.net/noticias/wifi/ia-arreglar-wifi-hotel-solucion/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/wifi-habitacion-hotel.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T17:11:56.000Z",
+      "fechaAgregada": "2026-08-18T08:35:41.189Z"
+    },
+    {
+      "id": "b8bfda17-ce33-4182-a666-8cce925ca963",
+      "titulo": "Stripe acaba de apostar 7.000 millones a una idea: nunca habrá un único modelo de IA que sirva para todo",
+      "resumen": "Stripe ha llegado a un acuerdo para adquirir OpenRouter Inc. por 7.000 millones de dólares, según indican fuentes cercanas a las negociaciones que citan en Bloomberg. La cifra es especialmente llamativa porque la startup de IA tenía una valoración de 1.300 millones de dólares en mayo. En menos de tr",
+      "url": "https://www.xataka.com/robotica-e-ia/stripe-acaba-apostar-7-000-millones-a-idea-nunca-habra-unico-modelo-ia-que-sirva-para-todo",
+      "imagen": "https://i.blogs.es/49031f/stripe-openrouter-adquisicon/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T12:46:21.000Z",
+      "fechaAgregada": "2026-08-18T08:35:37.250Z"
+    },
+    {
+      "id": "136ab2fd-dcd9-453f-9d51-63cd1031247e",
+      "titulo": "Están usando un modelo de IA sin restricciones para crear ataques informáticos muy peligrosos",
+      "resumen": "La Inteligencia Artificial puede ser un arma de doble filo cuando hablamos de ciberseguridad. Sirve para detectar amenazas y mejorar así la seguridad, pero también es algo que pueden utilizar los cibercriminales para lanzar campañas maliciosas y atacar. Por ello, es clave conocer los riesgos. Vamos",
+      "url": "https://www.redeszone.net/noticias/seguridad/modelo-ia-crear-ataques-informaticos-peligrosos/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/malware-ciberdelincuente-ia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T11:16:07.000Z",
+      "fechaAgregada": "2026-08-18T08:35:41.189Z"
+    },
+    {
+      "id": "edfc565d-037f-479c-89c8-edd04977e976",
+      "titulo": "DeepSeek V4 Pro, la IA china sigue avanzando",
+      "resumen": "DeepSeek V4 Pro es la última versión de la startup china que sacudió los cimientos de la industria tecnológica al demostrar que se podían entrenar y usar modelos de inteligencia artificial de manera más eficiente y económica. El nuevo modelo de DeepSeek llega en versión completa mediante interfaz we",
+      "url": "https://www.muycomputer.com/2026/08/17/deepseek-v4-pro-la-ia-china-sigue-avanzando/",
+      "imagen": "https://picsum.photos/seed/373/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T10:29:39.000Z",
+      "fechaAgregada": "2026-08-18T08:35:42.369Z"
+    },
+    {
+      "id": "732156b6-fc8b-4f50-b7dc-1c02e4e077a0",
+      "titulo": "El CEO de Phison lo tiene claro: «el precio de los SSD seguirá subiendo durante los próximos 4 años»",
+      "resumen": "Desde mediados de 2025, los componentes de PC han pasado de sufrir ligeras variaciones de precio en base a la demanda del mercado a convertirse en un producto de lujo al alcance de muy pocos debido a la elevada demanda de los centros datos de Inteligencia Artificial y según afirma el CEO de Phison,",
+      "url": "https://hardzone.es/noticias/componentes/precio-ssd-subira-proximos-anos-ceo-phison/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/08/ssd-pny-phison.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T06:59:35.000Z",
+      "fechaAgregada": "2026-08-18T08:35:41.445Z"
+    },
+    {
+      "id": "e642e541-84eb-4bad-a7bf-02879ac0425f",
+      "titulo": "Las adolescentes parten con desventaja en el aprendizaje de la inteligencia artificial",
+      "resumen": "Un estudio revela que los alumnos varones reportan mayor confianza y rendimiento que sus compañeras debido a cuestiones culturales",
+      "url": "https://elpais.com/educacion/2026-08-17/las-adolescentes-parten-con-desventaja-en-el-aprendizaje-de-la-inteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AJUSC6YXOVFQZNRYVWAQNURK4A.jpg?auth=0e06c451566207d72103577edad4b9f1d7cf24d230230be9e9008e93d9ae997c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T03:30:01.000Z",
+      "fechaAgregada": "2026-08-18T08:35:38.706Z"
+    },
+    {
+      "id": "f92050a5-8f9f-416d-8177-8952cfd2f2de",
+      "titulo": "Fundadora de una empresa de porno para mujeres y contacto de Epstein: sale a la luz la historia de la misteriosa mujer de Dario Amodei",
+      "resumen": "El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude",
+      "url": "https://elpais.com/tecnologia/2026-08-14/fundadora-de-una-empresa-de-porno-para-mujeres-y-contacto-de-epstein-sale-a-la-luz-la-historia-de-la-misteriosa-mujer-de-dario-amodei.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4SS4CINYTFGBHC2S3Z6WUOBCQ4.jpg?auth=e27138c69c77c8961ec400d67049448b6496530878372db4cfd5eb707706778a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-14T13:39:29.000Z",
+      "fechaAgregada": "2026-08-18T08:35:38.706Z"
+    },
+    {
+      "id": "d156be77-2ffb-448b-b39b-91d00bb65645",
+      "titulo": "Los modelos de IA de OpenAI se comunicaron en un extraño lenguaje antes del hackeo: “Tarea imposible, compañeros lo están haciendo”",
+      "resumen": "Meta se suma también a las compañías que han anunciado que su IA atacó otras plataformas",
+      "url": "https://elpais.com/tecnologia/2026-08-06/las-ia-de-openai-se-comunicaron-en-un-extrano-lenguaje-antes-del-hackeo-tarea-imposible-companeros-lo-estan-haciendo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/POXT5Z7VOBEQRAWU3OMNSS3MDM.JPG?auth=8b7e4cc43e11a79f63d383ea8e67a1fdb2fe5b0f7da6fe907ffc1c0a3677411e",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-06T10:25:14.000Z",
+      "fechaAgregada": "2026-08-18T08:35:38.707Z"
+    },
+    {
+      "id": "14862f1f-437b-4de5-988a-c21b1fcf2e64",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/162/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-08-18T08:35:38.707Z"
+    },
+    {
+      "id": "4d657667-0593-40c0-b09a-8558a91a8248",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-08-18T08:35:38.198Z"
+    },
+    {
+      "id": "60a8bc0f-2c64-4c76-acb8-819c96abc9d8",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-08-18T08:35:38.198Z"
+    },
+    {
+      "id": "47d9f69e-6f60-4009-a676-f7d460f86660",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-08-18T08:35:38.198Z"
+    }
+  ]
+}
