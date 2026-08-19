@@ -1,0 +1,205 @@
+{
+  "fecha": "2026-08-19",
+  "generado": "2026-08-19T08:36:26.186Z",
+  "total": 18,
+  "noticias": [
+    {
+      "id": "cb32eced-08be-4db5-aa7a-f06e9a388562",
+      "titulo": "El CEO de Qualcomm alerta de lo que llegará con el 6G: “Creará una nueva categoría de dispositivos…”",
+      "resumen": "Cuando las operadoras todavía están expandiendo sus redes 5G y asentando su funcionamiento, las empresas del sector ya miran con entusiasmo el aterrizaje de las redes 6G y todas las posibilidades que nos va a ofrecer. Así lo afirma Cristiano Amon, CEO de Qualcomm.\nEl futuro de la conectividad está c",
+      "url": "https://www.adslzone.net/noticias/internet/nuevos-productos-llegaran-redes-6g/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/08/persona-gafas-conectadas-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-19T08:05:58.000Z",
+      "fechaAgregada": "2026-08-19T08:36:23.181Z"
+    },
+    {
+      "id": "97b16204-c72f-4f0a-bc45-d91216f0c389",
+      "titulo": "Tu banco empieza a vigilar cómo usas la app para «delatar estafas con tu comportamiento»",
+      "resumen": "Las estafas cibernéticas que apuntan a bancos son un problema muy presente hoy en día. Los piratas informáticos buscan estrategias para robar las claves de acceso, hacer transferencias fraudulentas y, en definitiva, robar dinero. También han mejorado las técnicas defensivas y en este artículo hablam",
+      "url": "https://www.redeszone.net/noticias/seguridad/banco-vigilar-app-delatar-estafas/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/tarjeta-bancaria-ordenador.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-19T07:25:17.000Z",
+      "fechaAgregada": "2026-08-19T08:36:23.916Z"
+    },
+    {
+      "id": "468c5821-d6a0-4bf2-be5a-d95c75caf30e",
+      "titulo": "Claude acaba de anunciar una sorpresa: más tokens gratis hasta final de mes",
+      "resumen": "Pese a que la compañía mantiene la intención de hacer que este incremento de tokens sea permanente, también confirma que se está encontrando con problemas para satisfacer la alta demanda que está teniendo, lo que podría dificultar que la empresa cumpla con su objetivo. De momento, se han ampliado lo",
+      "url": "https://www.adslzone.net/noticias/ia/claude-mas-tokens-tiempo-limitado/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/08/claude-ia-limites-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-19T05:57:01.000Z",
+      "fechaAgregada": "2026-08-19T08:36:23.181Z"
+    },
+    {
+      "id": "ce2c3c24-e5ec-473a-8e0e-6bbfad7dbca0",
+      "titulo": "Ni la memoria DDR4 se salva de la crisis: aumentará su precio en un 50% en el próximo trimestre",
+      "resumen": "Cuando todo parecía indicar que la memoria DDR4 se había convertido en un refugio seguro para aquellos usuarios que tenían previsto dar el salto a DDR5 (en el último año apenas ha modificado su precio mientras que la DDR5 ha subido casi un 500%), desde Morgan Stanley tienen muy malas noticias.\nSi ha",
+      "url": "https://hardzone.es/noticias/componentes/memoria-ram-ddr4-subida-preco-2026/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/01/memoria-ram-ddr4.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-19T05:55:23.000Z",
+      "fechaAgregada": "2026-08-19T08:36:25.295Z"
+    },
+    {
+      "id": "d4a560f6-274e-4171-9562-4e918c95c8a8",
+      "titulo": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "resumen": "Claude ya puede enviar correos desde tu cuenta de Gmail sin pedirte confirmación previa. La IA de Anthropic implementó una función en los conectores de Google Workspace que la dotan de nuevas habilidades. A partir de hoy, el asistente puede redactar y despachar respuestas de forma autónoma, siempre",
+      "url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Claude-Widget-iPhone.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-18T23:33:05.000Z",
+      "fechaAgregada": "2026-08-19T08:36:20.756Z"
+    },
+    {
+      "id": "04b1542e-b259-4cbe-901b-cae94aec7a25",
+      "titulo": "OpenAI lanza un ChatGPT diseñado solo para adolescentes",
+      "resumen": "OpenAI ha lanzado ChatGPT para Adolescentes, una versión diseñada para menores de edad. En lugar de desarrollar una aplicación adicional, la compañía ha decidido integrar un nuevo modo que se activa automáticamente cuando detecta a un adolescente al teclado. OpenAI menciona que esta versión está enf",
+      "url": "https://hipertextual.com/inteligencia-artificial/openai-lanza-un-chatgpt-disenado-solo-para-adolescentes/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/09/omar-ramadan-N5Fe9U60EYw-unsplash-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-18T19:30:00.000Z",
+      "fechaAgregada": "2026-08-19T08:36:20.756Z"
+    },
+    {
+      "id": "a3bd78aa-234b-493b-b063-00c4c327a463",
+      "titulo": "Claude consigue lo que HP nunca hizo: hacer funcionar una impresora Windows en macOS",
+      "resumen": "Las IA no dejan de sorprendernos, consiguiendo ejecutar acciones que el ser humano nunca hizo, debido, sobre todo, a falta de tiempo, más que de conocimientos, como es el caso que veremos hoy, donde Claude consigue que una impresora HP funcione en macOS, algo que ni la propia empresa lanzó.\nY es que",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/claude-consigue-hp-funcionar-impresora-windows-macos/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/08/impresora-claude.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-18T17:25:31.000Z",
+      "fechaAgregada": "2026-08-19T08:36:25.295Z"
+    },
+    {
+      "id": "67786316-2aa2-4b3b-99d3-f7c77b40d053",
+      "titulo": "5 cámaras con gran resolución para vigilar el interior y exterior de tu vivienda",
+      "resumen": "Si quieres mantener la seguridad de tu vivienda, contar con una buena cámara de vigilancia es importante. Vamos a mostrarte algunos modelos que puedes encontrar y que disponen de una gran resolución. Te mostraremos sus principales características, para que puedas elegir la que mejor se adapte a lo q",
+      "url": "https://www.redeszone.net/noticias/seguridad/camaras-gran-resolucion-grabar-vivienda/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/camara-seguridad.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-18T15:24:32.000Z",
+      "fechaAgregada": "2026-08-19T08:36:23.916Z"
+    },
+    {
+      "id": "63943dcf-c92b-4593-b710-38022d08b37e",
+      "titulo": "Demuestran cómo Claude Code ha ayudado a un operador de ransomware a potenciar sus ataques gracias a la IA",
+      "resumen": "La Inteligencia Artificial puede ser de gran ayuda para los piratas informáticos y en una investigación realizada por parte de Gambit Security han demostrado cómo Claude Code ha ayudado a un operador de ransomware en sus ataques. Se considera uno de los mejores ejemplos documentados del uso de la IA",
+      "url": "https://www.redeszone.net/noticias/seguridad/claude-code-ayudado-operador-ransomware/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/codigo-pantalla-ordenador.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-18T07:26:02.000Z",
+      "fechaAgregada": "2026-08-19T08:36:23.917Z"
+    },
+    {
+      "id": "c1fec16d-d328-4b30-aefb-d6ec152677e0",
+      "titulo": "Le pidió a la IA «arreglar el Wi-Fi del hotel» y así lo logró",
+      "resumen": "La Inteligencia Artificial ofrece un amplio abanico de opciones en ámbitos muy variados, lo que incluye también ciberseguridad, análisis de datos o incluso detectar posibles problemas de funcionamiento. En este artículo nos hacemos eco de cómo un usuario ha utilizado la IA para detectar problemas en",
+      "url": "https://www.redeszone.net/noticias/wifi/ia-arreglar-wifi-hotel-solucion/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/wifi-habitacion-hotel.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T17:11:56.000Z",
+      "fechaAgregada": "2026-08-19T08:36:23.917Z"
+    },
+    {
+      "id": "83b8927d-207e-4107-bcc1-124ac232e396",
+      "titulo": "Están usando un modelo de IA sin restricciones para crear ataques informáticos muy peligrosos",
+      "resumen": "La Inteligencia Artificial puede ser un arma de doble filo cuando hablamos de ciberseguridad. Sirve para detectar amenazas y mejorar así la seguridad, pero también es algo que pueden utilizar los cibercriminales para lanzar campañas maliciosas y atacar. Por ello, es clave conocer los riesgos. Vamos",
+      "url": "https://www.redeszone.net/noticias/seguridad/modelo-ia-crear-ataques-informaticos-peligrosos/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/malware-ciberdelincuente-ia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T11:16:07.000Z",
+      "fechaAgregada": "2026-08-19T08:36:23.917Z"
+    },
+    {
+      "id": "c50833e4-d0d8-464e-ab2f-b3bbecb1cb43",
+      "titulo": "DeepSeek V4 Pro, la IA china sigue avanzando",
+      "resumen": "DeepSeek V4 Pro es la última versión de la startup china que sacudió los cimientos de la industria tecnológica al demostrar que se podían entrenar y usar modelos de inteligencia artificial de manera más eficiente y económica. El nuevo modelo de DeepSeek llega en versión completa mediante interfaz we",
+      "url": "https://www.muycomputer.com/2026/08/17/deepseek-v4-pro-la-ia-china-sigue-avanzando/",
+      "imagen": "https://picsum.photos/seed/229/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T10:29:39.000Z",
+      "fechaAgregada": "2026-08-19T08:36:26.185Z"
+    },
+    {
+      "id": "35f72513-29f3-4ed9-84d1-ee0862e7ca14",
+      "titulo": "Las adolescentes parten con desventaja en el aprendizaje de la inteligencia artificial",
+      "resumen": "Un estudio revela que los alumnos varones reportan mayor confianza y rendimiento que sus compañeras debido a cuestiones culturales",
+      "url": "https://elpais.com/educacion/2026-08-17/las-adolescentes-parten-con-desventaja-en-el-aprendizaje-de-la-inteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AJUSC6YXOVFQZNRYVWAQNURK4A.jpg?auth=0e06c451566207d72103577edad4b9f1d7cf24d230230be9e9008e93d9ae997c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-17T03:30:01.000Z",
+      "fechaAgregada": "2026-08-19T08:36:21.735Z"
+    },
+    {
+      "id": "78c5dff2-370a-44aa-b25b-1f5a53bd2227",
+      "titulo": "Fundadora de una empresa de porno para mujeres y contacto de Epstein: sale a la luz la historia de la misteriosa mujer de Dario Amodei",
+      "resumen": "El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude",
+      "url": "https://elpais.com/tecnologia/2026-08-14/fundadora-de-una-empresa-de-porno-para-mujeres-y-contacto-de-epstein-sale-a-la-luz-la-historia-de-la-misteriosa-mujer-de-dario-amodei.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4SS4CINYTFGBHC2S3Z6WUOBCQ4.jpg?auth=e27138c69c77c8961ec400d67049448b6496530878372db4cfd5eb707706778a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-14T13:39:29.000Z",
+      "fechaAgregada": "2026-08-19T08:36:21.735Z"
+    },
+    {
+      "id": "8396a5cd-5875-4cac-a33a-4e1f16da6c92",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/432/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-08-19T08:36:21.735Z"
+    },
+    {
+      "id": "3b95243c-da85-4067-ae3f-e71595db1796",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-08-19T08:36:21.651Z"
+    },
+    {
+      "id": "010ba093-c966-42bc-86f8-46b3f4827e58",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-08-19T08:36:21.651Z"
+    },
+    {
+      "id": "2f4425e4-fd49-4c54-843a-ba8b49e4c7cd",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-08-19T08:36:21.651Z"
+    }
+  ]
+}
