@@ -5,8 +5,8 @@ import { useFavoritos } from "@/lib/favoritos";
 
 const ITEMS = [
   { href: "/", icono: "⊞", etiqueta: "Inicio" },
-  { href: "/?categoria=tecnologia", icono: "◈", etiqueta: "Tecnología" },
-  { href: "/?categoria=productividad", icono: "◎", etiqueta: "Trabajo" },
+  { href: "/herramientas", icono: "🛠️", etiqueta: "Tools" },
+  { href: "#buscar", icono: "🔍", etiqueta: "Buscar", accion: "buscar" },
   { href: "/guardados", icono: "🔖", etiqueta: "Guardados" },
   { href: "https://t.me/diariodeia", icono: "✈", etiqueta: "Telegram", externo: true },
 ];
@@ -24,20 +24,29 @@ export default function BottomNav() {
     >
       <div className="flex items-center justify-around max-w-md mx-auto">
         {ITEMS.map((item) => {
-          // Determinar estado activo de forma precisa
           let activo = false;
-          if (!item.externo) {
+          if (!item.externo && !item.accion) {
             if (item.href === "/guardados") {
               activo = pathname === "/guardados";
+            } else if (item.href === "/herramientas") {
+              activo = pathname === "/herramientas";
             } else if (pathname === "/") {
-              if (item.href === "/") {
-                activo = categoriaActual === "";
-              } else if (item.href.includes("categoria=tecnologia")) {
-                activo = categoriaActual === "tecnologia";
-              } else if (item.href.includes("categoria=productividad")) {
-                activo = categoriaActual === "productividad";
-              }
+              activo = item.href === "/" && categoriaActual === "";
             }
+          }
+
+          if (item.accion === "buscar") {
+            return (
+              <button
+                key={item.etiqueta}
+                onClick={() => window.dispatchEvent(new Event("diarioia_abrir_buscador"))}
+                className="relative flex flex-col items-center gap-1.5 px-2.5 py-1.5 rounded-2xl text-[var(--color-muted)] active:text-[var(--color-accent)] transition-colors duration-150 focus:outline-none interactive-tap"
+                aria-label="Abrir buscador"
+              >
+                <span className="text-base leading-none">{item.icono}</span>
+                <span className="text-[10px] font-bold tracking-wide">{item.etiqueta}</span>
+              </button>
+            );
           }
 
           if (item.externo) {

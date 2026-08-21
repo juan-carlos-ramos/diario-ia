@@ -1,0 +1,162 @@
+[
+  {
+    "id": "cursor",
+    "nombre": "Cursor",
+    "descripcion": "El editor de código impulsado por IA más popular para desarrollo rápido y Vibe Coding con modelos Claude y GPT.",
+    "url": "https://cursor.com",
+    "categoria": "vibe-coding",
+    "icono": "💻",
+    "precio": "Freemium",
+    "destacado": true
+  },
+  {
+    "id": "bolt-new",
+    "nombre": "Bolt.new",
+    "descripcion": "Entorno de desarrollo en el navegador con WebContainers para crear y desplegar aplicaciones completas con prompts.",
+    "url": "https://bolt.new",
+    "categoria": "vibe-coding",
+    "icono": "⚡",
+    "precio": "Freemium",
+    "destacado": true
+  },
+  {
+    "id": "v0-dev",
+    "nombre": "v0 by Vercel",
+    "descripcion": "Generador de interfaces de usuario y componentes React/Tailwind con diseño moderno mediante IA generativa.",
+    "url": "https://v0.dev",
+    "categoria": "vibe-coding",
+    "icono": "▲",
+    "precio": "Freemium",
+    "destacado": true
+  },
+  {
+    "id": "lovable",
+    "nombre": "Lovable",
+    "descripcion": "Plataforma de generación de software fullstack para construir aplicaciones web interactivas desde cero en minutos.",
+    "url": "https://lovable.dev",
+    "categoria": "vibe-coding",
+    "icono": "💖",
+    "precio": "Freemium",
+    "destacado": false
+  },
+  {
+    "id": "claude",
+    "nombre": "Claude 3.7 Sonnet",
+    "descripcion": "El modelo insignia de Anthropic líder en razonamiento complejo, programación avanzada y análisis de código.",
+    "url": "https://claude.ai",
+    "categoria": "llms",
+    "icono": "🧠",
+    "precio": "Freemium",
+    "destacado": true
+  },
+  {
+    "id": "chatgpt",
+    "nombre": "ChatGPT & GPT-4o",
+    "descripcion": "El asistente conversacional multimodal de OpenAI para redacción, análisis de datos, visión y tareas cotidianas.",
+    "url": "https://chatgpt.com",
+    "categoria": "llms",
+    "icono": "🤖",
+    "precio": "Freemium",
+    "destacado": true
+  },
+  {
+    "id": "gemini",
+    "nombre": "Google Gemini",
+    "descripcion": "El ecosistema multimodal de Google con ventana de contexto de 1 millón de tokens e integración con Google Workspace.",
+    "url": "https://gemini.google.com",
+    "categoria": "llms",
+    "icono": "✨",
+    "precio": "Freemium",
+    "destacado": true
+  },
+  {
+    "id": "deepseek",
+    "nombre": "DeepSeek R1",
+    "descripcion": "Modelo de razonamiento de código abierto de alto rendimiento con arquitectura de mezcla de expertos ultra eficiente.",
+    "url": "https://deepseek.com",
+    "categoria": "llms",
+    "icono": "🐋",
+    "precio": "Gratis",
+    "destacado": true
+  },
+  {
+    "id": "perplexity",
+    "nombre": "Perplexity AI",
+    "descripcion": "Motor de respuestas y búsqueda con IA con fuentes en tiempo real, citas verificables e investigación guiada.",
+    "url": "https://perplexity.ai",
+    "categoria": "productividad",
+    "icono": "🔍",
+    "precio": "Freemium",
+    "destacado": true
+  },
+  {
+    "id": "notion-ai",
+    "nombre": "Notion AI",
+    "descripcion": "Asistente inteligente integrado en tu espacio de trabajo para sintetizar notas, redactar documentos y automatizar flujos.",
+    "url": "https://notion.so",
+    "categoria": "productividad",
+    "icono": "📝",
+    "precio": "Pago",
+    "destacado": false
+  },
+  {
+    "id": "gamma",
+    "nombre": "Gamma App",
+    "descripcion": "Crea presentaciones, documentos y páginas web impresionantes en segundos a partir de una simple idea o texto.",
+    "url": "https://gamma.app",
+    "categoria": "productividad",
+    "icono": "📊",
+    "precio": "Freemium",
+    "destacado": false
+  },
+  {
+    "id": "midjourney",
+    "nombre": "Midjourney v6",
+    "descripcion": "El generador de imágenes artísticas y fotorrealistas con mayor fidelidad estética y control de composición.",
+    "url": "https://midjourney.com",
+    "categoria": "imagen-video",
+    "icono": "🎨",
+    "precio": "Pago",
+    "destacado": true
+  },
+  {
+    "id": "elevenlabs",
+    "nombre": "ElevenLabs",
+    "descripcion": "Plataforma líder en síntesis de voz, clonación de voz hiperrealista y doblaje automático en decenas de idiomas.",
+    "url": "https://elevenlabs.io",
+    "categoria": "imagen-video",
+    "icono": "🎙️",
+    "precio": "Freemium",
+    "destacado": true
+  },
+  {
+    "id": "runway",
+    "nombre": "Runway Gen-3",
+    "descripcion": "Generación y edición de video con IA cinemática para creadores de contenido, cineastas y diseñadores.",
+    "url": "https://runwayml.com",
+    "categoria": "imagen-video",
+    "icono": "🎬",
+    "precio": "Freemium",
+    "destacado": false
+  },
+  {
+    "id": "ollama",
+    "nombre": "Ollama",
+    "descripcion": "Ejecuta modelos de lenguaje grandes (Llama 3, DeepSeek, Mistral) localmente en tu computadora en un comando.",
+    "url": "https://ollama.com",
+    "categoria": "open-source",
+    "icono": "🦙",
+    "precio": "Open Source",
+    "destacado": true
+  },
+  {
+    "id": "hugging-face",
+    "nombre": "Hugging Face",
+    "descripcion": "El repositorio global y comunidad de modelos de código abierto, datasets y demos interactivas de IA.",
+    "url": "https://huggingface.co",
+    "categoria": "open-source",
+    "icono": "🤗",
+    "precio": "Open Source",
+    "destacado": true
+  }
+]

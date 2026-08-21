@@ -26,7 +26,34 @@ export default function Header() {
             Diario<span className="text-[#00E5FF]">IA</span>
           </span>
         </Link>
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2 sm:gap-3">
+          {/* Botón Buscador Cmd+K */}
+          <button
+            onClick={() => window.dispatchEvent(new Event("diarioia_abrir_buscador"))}
+            className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[oklch(15%_0.008_200)] hover:bg-[oklch(20%_0.015_200)] text-[var(--color-muted)] hover:text-white border border-[var(--color-border)] text-xs font-semibold transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] interactive-tap"
+            aria-label="Abrir buscador global"
+          >
+            <span>🔍</span>
+            <span className="hidden md:inline">Buscar</span>
+            <kbd className="hidden md:inline-block text-[10px] font-bold px-1.5 py-0.5 bg-[oklch(22%_0.015_200)] rounded text-[var(--color-muted)]">
+              ⌘K
+            </kbd>
+          </button>
+
+          {/* Enlace a Herramientas */}
+          <Link
+            href="/herramientas"
+            className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-bold tracking-wide transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] interactive-tap ${
+              pathname === "/herramientas"
+                ? "bg-[oklch(76%_0.19_200_/_20%)] text-[#00E5FF] border border-[#00E5FF]"
+                : "bg-[oklch(15%_0.008_200)] text-[var(--color-muted)] hover:text-white border border-[var(--color-border)]"
+            }`}
+            aria-label="Ver directorio de herramientas de IA"
+          >
+            <span>🛠️</span>
+            <span className="hidden sm:inline">Herramientas</span>
+          </Link>
+
           {/* Enlace a Guardados en Desktop */}
           <Link
             href="/guardados"
@@ -59,7 +86,7 @@ export default function Header() {
             href="https://t.me/diariodeia"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-2 px-4 py-2 border border-[#00E5FF] text-[#00E5FF] text-sm font-medium rounded-full hover:bg-[#00E5FF] hover:text-black transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] focus:ring-offset-2 focus:ring-offset-black interactive-tap"
+            className="flex items-center gap-2 px-3 sm:px-4 py-1.5 sm:py-2 border border-[#00E5FF] text-[#00E5FF] text-xs sm:text-sm font-medium rounded-full hover:bg-[#00E5FF] hover:text-black transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] focus:ring-offset-2 focus:ring-offset-black interactive-tap"
             aria-label="Unirse al canal de Telegram de DiarioIA"
           >
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">

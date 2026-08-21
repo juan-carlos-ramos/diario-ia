@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 import BottomNav from "@/components/BottomNav";
+import BuscadorModal from "@/components/BuscadorModal";
 import { Suspense } from "react";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -59,6 +60,7 @@ export default function RootLayout({
   return (
     <html lang="es" suppressHydrationWarning>
       <body className={inter.className}>
+        <BuscadorModal />
         {children}
         <Suspense fallback={null}>
           <BottomNav />

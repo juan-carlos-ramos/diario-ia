@@ -1,7 +1,9 @@
 import { obtenerNoticiasDeHoy, leerArchivoPorFecha, listarFechasDisponibles } from "@/lib/noticias";
+import { obtenerHerramientaDelDia } from "@/lib/herramientas";
 import Header from "@/components/Header";
 import NoticiaCard from "@/components/NoticiaCard";
 import NoticiaHero from "@/components/NoticiaHero";
+import HerramientaDelDia from "@/components/HerramientaDelDia";
 import EstadoVacio from "@/components/EstadoVacio";
 import SelectorFecha from "@/components/SelectorFecha";
 import Buscador from "@/components/Buscador";
@@ -16,6 +18,7 @@ export default async function Home({ searchParams }: Props) {
   const params = await searchParams;
   const fechas = listarFechasDisponibles();
   const fechaSeleccionada = params.fecha ?? fechas[0] ?? "";
+  const herramientaDelDia = obtenerHerramientaDelDia(fechaSeleccionada);
 
   const archivo = fechaSeleccionada
     ? leerArchivoPorFecha(fechaSeleccionada)
@@ -57,6 +60,11 @@ export default async function Home({ searchParams }: Props) {
             </div>
           )}
         </section>
+
+        {/* Herramienta del Día */}
+        {!params.q && !params.categoria && (
+          <HerramientaDelDia herramienta={herramientaDelDia} />
+        )}
 
         {/* Búsqueda */}
         <section className="mb-4" aria-label="Búsqueda">
