@@ -30,14 +30,14 @@ export default function NoticiaHero({ noticia }: Props) {
             <div className="w-full h-full bg-[var(--color-card)]" />
           )}
           {/* Degradado sobre la imagen optimizado para legibilidad móvil */}
-          <div className="absolute inset-0 bg-gradient-to-t from-[oklch(10%_0.008_200_/_95%)] via-[oklch(10%_0.008_200_/_60%)] to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t from-[oklch(13.5%_0.012_55_/_96%)] via-[oklch(13.5%_0.012_55_/_60%)] to-transparent" />
         </div>
 
         {/* Contenido sobre la imagen */}
         <div className="absolute bottom-0 left-0 right-0 p-5 sm:p-8 md:p-10 flex flex-col justify-end h-full">
           {/* Etiqueta y Tags */}
           <div className="flex flex-wrap items-center gap-2 mb-3">
-            <span className="text-[10px] font-bold tracking-[0.1em] uppercase text-[var(--color-accent)]">
+            <span className="text-[10px] font-extrabold tracking-[0.12em] uppercase text-[var(--color-accent)]">
               {noticia.fuente}
             </span>
             <span className="text-[var(--color-muted)]">·</span>
@@ -45,7 +45,7 @@ export default function NoticiaHero({ noticia }: Props) {
               {formatearFecha(noticia.fechaPublicacion)}
             </span>
             <span className="text-[var(--color-muted)]">·</span>
-            <span className="text-[11px] font-medium text-[oklch(75%_0.02_200)]">
+            <span className="text-[11px] font-medium text-[var(--color-text)]">
               ⏱️ {noticia.tiempoLecturaMin || 1} min
             </span>
             {Array.isArray(noticia.tags) && (
@@ -53,7 +53,7 @@ export default function NoticiaHero({ noticia }: Props) {
                 {noticia.tags.slice(0, 3).map((tag) => (
                   <span
                     key={tag}
-                    className="px-2 py-0.5 rounded-full bg-[oklch(15%_0.008_200_/_90%)] text-[oklch(85%_0.02_200)] text-[10px] font-bold tracking-wide border border-[var(--color-border)]"
+                    className="px-2 py-0.5 rounded-full bg-[var(--color-surface)] text-[var(--color-text)] text-[10px] font-bold tracking-wide border border-[var(--color-border)]"
                   >
                     #{tag}
                   </span>
@@ -62,13 +62,13 @@ export default function NoticiaHero({ noticia }: Props) {
             )}
           </div>
 
-          {/* Título */}
-          <h2 className="text-xl sm:text-3xl md:text-4xl font-black tracking-tight text-white leading-tight mb-3 sm:mb-4 pc-hover-hero-title transition-colors duration-200 line-clamp-3">
+          {/* Título Serif Editorial */}
+          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight text-[var(--color-text)] font-serif leading-[1.18] mb-3 sm:mb-4 pc-hover-hero-title transition-colors duration-200 line-clamp-3">
             {noticia.titulo}
           </h2>
 
           {/* Resumen */}
-          <p className="text-xs sm:text-sm md:text-base text-[var(--color-muted)] line-clamp-2 max-w-2xl font-medium">
+          <p className="text-xs sm:text-sm md:text-base text-[var(--color-muted)] line-clamp-2 max-w-2xl font-normal leading-relaxed">
             {noticia.resumen}
           </p>
         </div>

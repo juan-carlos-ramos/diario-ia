@@ -19,7 +19,7 @@ export default function BottomNav() {
 
   return (
     <nav
-      className="sm:hidden fixed bottom-0 left-0 right-0 z-50 bg-[oklch(10%_0.008_200_/_90%)] backdrop-blur-lg border-t border-[var(--color-border)] px-3 py-2 pb-5"
+      className="sm:hidden fixed bottom-0 left-0 right-0 z-50 bg-[var(--color-bg)]/92 backdrop-blur-xl border-t border-[var(--color-border)] px-3 py-2 pb-[max(14px,env(safe-area-inset-bottom))]"
       aria-label="Navegación principal móvil"
     >
       <div className="flex items-center justify-around max-w-md mx-auto">

@@ -154,28 +154,28 @@ export default async function PaginaDetalle({ params }: Props) {
             </span>
           </div>
 
-          {/* Título */}
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight text-white leading-tight mb-8">
+          {/* Título Serif Editorial */}
+          <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold tracking-tight text-[var(--color-text)] font-serif leading-[1.12] mb-8">
             {noticia.titulo}
           </h1>
 
           {/* Resumen General */}
-          <p className="text-base sm:text-lg text-[oklch(85%_0.01_200)] leading-relaxed mb-8">
+          <p className="text-base sm:text-xl text-[var(--color-text)] leading-relaxed mb-8 font-normal">
             {noticia.resumen}
           </p>
 
-          {/* Bloque En 3 Puntos Clave (IA) - Solo si son puntos sintetizados distintos al resumen */}
+          {/* Bloque En 3 Puntos Clave (IA) */}
           {Array.isArray(noticia.puntosClave) &&
             noticia.puntosClave.length > 0 &&
             !(noticia.puntosClave.length === 1 && noticia.puntosClave[0] === noticia.resumen) && (
-              <div className="mb-8 p-5 sm:p-6 rounded-[20px] bg-[oklch(12%_0.01_200)] border border-[oklch(22%_0.015_200)] shadow-[0_8px_24px_rgba(0,0,0,0.3)]">
-                <h2 className="text-xs font-bold uppercase tracking-[0.12em] text-[var(--color-accent)] mb-4 flex items-center gap-2">
-                  <span>📌</span> Puntos Clave de la Noticia
+              <div className="mb-8 p-6 sm:p-7 rounded-[22px] bg-[var(--color-card)] border border-[var(--color-border)] shadow-[0_8px_24px_rgba(0,0,0,0.3)]">
+                <h2 className="text-xs font-black uppercase tracking-[0.14em] text-[var(--color-accent)] mb-4 flex items-center gap-2">
+                  <span>📌</span> En 3 Puntos Clave
                 </h2>
-                <ul className="space-y-3">
+                <ul className="space-y-3.5">
                   {noticia.puntosClave.map((punto, idx) => (
-                    <li key={idx} className="flex items-start gap-3 text-sm sm:text-base text-[oklch(90%_0.005_200)] leading-relaxed">
-                      <span className="text-[var(--color-accent)] font-bold text-base leading-none mt-1">
+                    <li key={idx} className="flex items-start gap-3.5 text-sm sm:text-base text-[var(--color-text)] leading-relaxed">
+                      <span className="text-[var(--color-accent)] font-serif font-black text-lg leading-none mt-0.5">
                         ◈
                       </span>
                       <span>{punto}</span>
@@ -185,15 +185,15 @@ export default async function PaginaDetalle({ params }: Props) {
               </div>
             )}
 
-          {/* Bloque ¿Por qué importa? (IA) - Solo si es análisis editorial específico */}
+          {/* Bloque ¿Por qué importa? (IA) */}
           {noticia.porQueImporta &&
             !noticia.porQueImporta.startsWith("Novedad relevante en el sector") &&
             !noticia.porQueImporta.startsWith("Novedad relevante reportada") && (
-              <div className="mb-8 p-5 sm:p-6 rounded-[20px] bg-gradient-to-br from-[oklch(14%_0.02_200)] to-[oklch(10%_0.01_200)] border-l-4 border-l-[var(--color-accent)] border border-[oklch(20%_0.01_200)]">
-                <h2 className="text-xs font-bold uppercase tracking-[0.12em] text-[var(--color-accent)] mb-2 flex items-center gap-2">
+              <div className="mb-8 p-6 sm:p-7 rounded-[22px] bg-[oklch(76%_0.165_72_/_7%)] border-l-4 border-l-[var(--color-accent)] border border-[oklch(76%_0.165_72_/_22%)]">
+                <h2 className="text-xs font-black uppercase tracking-[0.14em] text-[var(--color-accent)] mb-2 flex items-center gap-2">
                   <span>💡</span> ¿Por qué importa?
                 </h2>
-                <p className="text-sm sm:text-base text-[oklch(88%_0.01_200)] leading-relaxed font-medium">
+                <p className="text-sm sm:text-base text-[var(--color-text)] leading-relaxed font-normal">
                   {noticia.porQueImporta}
                 </p>
               </div>
@@ -207,7 +207,7 @@ export default async function PaginaDetalle({ params }: Props) {
                 <Link
                   key={tag}
                   href={`/?q=${encodeURIComponent(tag)}`}
-                  className="px-3 py-1 rounded-full bg-[oklch(15%_0.008_200)] hover:bg-[oklch(22%_0.015_200)] text-[var(--color-muted)] hover:text-[var(--color-accent)] border border-[var(--color-border)] text-xs font-semibold tracking-wide transition-colors interactive-tap"
+                  className="px-3 py-1 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-card-hover)] text-[var(--color-muted)] hover:text-[var(--color-accent)] border border-[var(--color-border)] text-xs font-semibold tracking-wide transition-colors interactive-tap"
                 >
                   #{tag}
                 </Link>
@@ -221,7 +221,7 @@ export default async function PaginaDetalle({ params }: Props) {
               href={noticia.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-2.5 px-7 py-3.5 bg-[var(--color-accent)] text-black text-sm font-bold rounded-full transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] focus:ring-offset-2 focus:ring-offset-black interactive-tap shadow-[0_4px_16px_oklch(76%_0.19_200_/_20%)] hover:scale-[1.02]"
+              className="inline-flex items-center justify-center gap-2.5 px-7 py-3.5 bg-[var(--color-accent)] text-black text-sm font-black rounded-full transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] focus:ring-offset-2 focus:ring-offset-black interactive-tap shadow-[0_4px_16px_oklch(76%_0.165_72_/_20%)] hover:scale-[1.02]"
               aria-label={`Leer artículo completo en ${noticia.fuente}`}
             >
               Leer artículo completo en {noticia.fuente} →
@@ -234,7 +234,7 @@ export default async function PaginaDetalle({ params }: Props) {
         {/* Lectura Recomendada */}
         {recomendadas.length > 0 && (
           <section className="border-t border-[var(--color-border)] pt-12 mt-8">
-            <h3 className="text-lg font-extrabold tracking-tight text-white mb-6 border-b border-[var(--color-border)] pb-3">
+            <h3 className="text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-text)] font-serif mb-6 border-b border-[var(--color-border)] pb-3">
               Lectura recomendada
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">

@@ -22,15 +22,15 @@ export default function PaginaGuardados() {
                 ← Inicio
               </Link>
             </div>
-            <h1 className="text-2xl sm:text-3xl font-black tracking-tight text-white flex items-center gap-3">
+            <h1 className="text-2xl sm:text-4xl font-bold font-serif tracking-tight text-[var(--color-text)] flex items-center gap-3">
               Noticias Guardadas
               {montado && totalFavoritos > 0 && (
-                <span className="text-xs px-2.5 py-1 rounded-full bg-[oklch(76%_0.19_200_/_20%)] text-[var(--color-accent)] border border-[var(--color-accent)] font-bold">
+                <span className="text-xs px-2.5 py-1 rounded-full bg-[var(--color-accent)] text-black font-extrabold shadow-[0_2px_12px_oklch(76%_0.165_72_/_20%)]">
                   {totalFavoritos}
                 </span>
               )}
             </h1>
-            <p className="text-xs sm:text-sm text-[var(--color-muted)] mt-1 font-medium">
+            <p className="text-xs sm:text-sm text-[var(--color-muted)] mt-1 font-normal">
               Tu colección personal de artículos guardados en este dispositivo.
             </p>
           </div>

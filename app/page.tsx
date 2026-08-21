@@ -49,9 +49,14 @@ export default async function Home({ searchParams }: Props) {
 
         {/* Hero */}
         <section className="mb-6">
-          <h1 className="text-xs font-semibold tracking-[0.12em] uppercase text-[#00E5FF] mb-6">
-            Noticias de Inteligencia Artificial
-          </h1>
+          <div className="flex items-center justify-between gap-4 mb-4 pb-2 border-b border-[var(--color-border)]">
+            <h1 className="text-xs font-black tracking-[0.16em] uppercase text-[var(--color-accent)]">
+              Edición Diaria · Inteligencia Artificial
+            </h1>
+            <span className="text-[11px] font-semibold text-[var(--color-muted)]">
+              {fechaSeleccionada}
+            </span>
+          </div>
 
           {/* Noticia principal grande */}
           {noticiaHero && !params.q && !params.categoria && (

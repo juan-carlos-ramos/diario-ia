@@ -1,25 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap');
 @import "tailwindcss";
 @config "../tailwind.config.ts";
 
 :root {
-  /* Paleta de Colores OKLCH Premium - Tintados en Cian (Hue 200) */
-  --color-bg: oklch(10% 0.008 200);        /* Negro Profundo Orgánico y Tintado */
-  --color-surface: oklch(13% 0.01 200);   /* Superficies Elevadas */
-  --color-card: oklch(15% 0.012 200);      /* Fondos de Tarjetas */
-  --color-border: oklch(19% 0.015 200);    /* Bordes Sutiles y Contrastados */
-  --color-accent: oklch(76% 0.19 200);     /* Cian Brillante Luminoso */
-  --color-accent-dim: oklch(66% 0.16 200); /* Cian Atenuado */
-  --color-text: oklch(93% 0.008 200);      /* Texto Principal Súper Nítido */
-  --color-muted: oklch(58% 0.012 200);     /* Gris-Cian Atenuado */
-  --color-subtle: oklch(32% 0.012 200);    /* Detalles muy sutiles */
+  /* 📰 Paleta "The Modern Broadsheet" OKLCH — Warm Obsidian & Editorial Amber */
+  --color-bg: oklch(13.5% 0.012 55);        /* Carbón Obsidiana Cálido (No negro plástico) */
+  --color-surface: oklch(16.5% 0.014 55);   /* Superficies Elevadas */
+  --color-card: oklch(18% 0.015 55);        /* Fondos de Tarjetas de Prensa */
+  --color-card-hover: oklch(21.5% 0.02 55); /* Hover Sutil */
+  --color-border: oklch(23.5% 0.018 55);    /* Líneas Finas de Imprenta */
+  --color-border-hover: oklch(34% 0.035 68);/* Hover de Bordes */
+  --color-accent: oklch(76% 0.165 72);      /* Ámbar Dorado Editorial (Cero Neón) */
+  --color-accent-dim: oklch(62% 0.14 72);   /* Ámbar Atenuado */
+  --color-text: oklch(94% 0.008 60);        /* Blanco Marfil / Pergamino */
+  --color-muted: oklch(65% 0.012 55);       /* Ceniza Cálido para Metadatos */
+  --color-subtle: oklch(38% 0.012 55);      /* Separadores y Guías de Lectura */
   
-  --border-radius-card: 16px;
+  --border-radius-card: 18px;
 
-  /* Curvas de Movimiento y Easing Personalizadas (Emil Kowalski Directives) */
-  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);    /* Movimiento ultra-responsivo */
-  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);/* Morphs */
-  --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);  /* Estilo iOS */
+  /* Curvas de Movimiento y Easing */
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
 }
 
 * {
@@ -34,12 +35,18 @@ html {
 body {
   background-color: var(--color-bg);
   color: var(--color-text);
-  font-family: 'Inter', sans-serif;
+  font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Scrollbar premium personalizado */
+/* Tipografía de Periódico Editorial para Titulares */
+h1, h2, h3, .font-serif {
+  font-family: var(--font-serif), 'Newsreader', Georgia, serif;
+  letter-spacing: -0.015em;
+}
+
+/* Scrollbar editorial sutil */
 ::-webkit-scrollbar {
   width: 6px;
   height: 6px;
@@ -64,39 +71,38 @@ body {
   display: none;
 }
 
-/* 🎯 Utilidad de Tap Físico en Móvil (Cero hovers molestos) */
+/* 🎯 Utilidad de Tap Físico en Móvil */
 .interactive-tap {
   transition: transform 120ms var(--ease-out), background-color 160ms ease, border-color 160ms ease;
   will-change: transform;
 }
 
-/* Solo aplicar el click escala si no hay preferencia de animación reducida */
 @media (prefers-reduced-motion: no-preference) {
   .interactive-tap:active {
-    transform: scale(0.96) !important;
+    transform: scale(0.97) !important;
   }
 }
 
-/* ✨ Animación de Entrada en Cascada (Staggered fade-slide-up) */
+/* ✨ Animación de Entrada Editorial */
 @keyframes fadeSlideUp {
   from {
     opacity: 0;
-    transform: translateY(16px) scale(0.98);
+    transform: translateY(12px);
   }
   to {
     opacity: 1;
-    transform: translateY(0) scale(1);
+    transform: translateY(0);
   }
 }
 
 .stagger-item {
   opacity: 0;
-  animation: fadeSlideUp 500ms var(--ease-out) forwards;
+  animation: fadeSlideUp 400ms var(--ease-out) forwards;
   will-change: transform, opacity;
 }
 
-/* Selección de texto premium */
+/* Selección de texto en ámbar pergamino */
 ::selection {
-  background-color: oklch(76% 0.19 200 / 18%);
+  background-color: oklch(76% 0.165 72 / 22%);
   color: var(--color-accent);
 }

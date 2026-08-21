@@ -9,33 +9,33 @@ export default function Header() {
   const { totalFavoritos, montado } = useFavoritos();
 
   return (
-    <header className="sticky top-0 z-50 bg-[#0A0A0A] border-b border-[#222222]">
+    <header className="sticky top-0 z-50 bg-[var(--color-bg)]/90 backdrop-blur-lg border-b border-[var(--color-border)]">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
         <Link
           href="/"
-          className="flex items-center gap-2 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] rounded-lg interactive-tap"
+          className="flex items-center gap-2.5 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] rounded-lg interactive-tap group"
         >
           <Image
             src="/logo.png"
             alt="DiarioIA logo"
-            width={32}
-            height={32}
-            className="rounded-full"
+            width={30}
+            height={30}
+            className="rounded-full border border-[var(--color-border)]"
           />
-          <span className="text-lg font-bold tracking-tight text-white">
-            Diario<span className="text-[#00E5FF]">IA</span>
+          <span className="text-xl font-black tracking-tight text-[var(--color-text)] font-serif">
+            Diario<span className="text-[var(--color-accent)] italic font-serif ml-0.5 font-black">IA</span>
           </span>
         </Link>
         <div className="flex items-center gap-2 sm:gap-3">
           {/* Botón Buscador Cmd+K */}
           <button
             onClick={() => window.dispatchEvent(new Event("diarioia_abrir_buscador"))}
-            className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[oklch(15%_0.008_200)] hover:bg-[oklch(20%_0.015_200)] text-[var(--color-muted)] hover:text-white border border-[var(--color-border)] text-xs font-semibold transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] interactive-tap"
+            className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-card-hover)] text-[var(--color-muted)] hover:text-white border border-[var(--color-border)] text-xs font-semibold transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap"
             aria-label="Abrir buscador global"
           >
-            <span>🔍</span>
+            <span className="text-xs">🔍</span>
             <span className="hidden md:inline">Buscar</span>
-            <kbd className="hidden md:inline-block text-[10px] font-bold px-1.5 py-0.5 bg-[oklch(22%_0.015_200)] rounded text-[var(--color-muted)]">
+            <kbd className="hidden md:inline-block text-[10px] font-bold px-1.5 py-0.5 bg-[var(--color-card)] border border-[var(--color-border)] rounded text-[var(--color-muted)]">
               ⌘K
             </kbd>
           </button>
@@ -43,10 +43,10 @@ export default function Header() {
           {/* Enlace a Herramientas */}
           <Link
             href="/herramientas"
-            className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-bold tracking-wide transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] interactive-tap ${
+            className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-bold tracking-wide transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap ${
               pathname === "/herramientas"
-                ? "bg-[oklch(76%_0.19_200_/_20%)] text-[#00E5FF] border border-[#00E5FF]"
-                : "bg-[oklch(15%_0.008_200)] text-[var(--color-muted)] hover:text-white border border-[var(--color-border)]"
+                ? "bg-[var(--color-accent)] text-black font-extrabold shadow-[0_2px_12px_oklch(76%_0.165_72_/_20%)]"
+                : "bg-[var(--color-surface)] text-[var(--color-muted)] hover:text-white border border-[var(--color-border)]"
             }`}
             aria-label="Ver directorio de herramientas de IA"
           >
@@ -57,10 +57,10 @@ export default function Header() {
           {/* Enlace a Guardados en Desktop */}
           <Link
             href="/guardados"
-            className={`hidden sm:inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full text-xs font-bold tracking-wide transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] interactive-tap ${
+            className={`hidden sm:inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full text-xs font-bold tracking-wide transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap ${
               pathname === "/guardados"
-                ? "bg-[oklch(76%_0.19_200_/_20%)] text-[#00E5FF] border border-[#00E5FF]"
-                : "bg-[oklch(15%_0.008_200)] text-[var(--color-muted)] hover:text-white border border-[var(--color-border)]"
+                ? "bg-[var(--color-accent)] text-black font-extrabold shadow-[0_2px_12px_oklch(76%_0.165_72_/_20%)]"
+                : "bg-[var(--color-surface)] text-[var(--color-muted)] hover:text-white border border-[var(--color-border)]"
             }`}
             aria-label="Ver noticias guardadas"
           >
@@ -75,7 +75,7 @@ export default function Header() {
             </svg>
             <span>Guardados</span>
             {montado && totalFavoritos > 0 && (
-              <span className="ml-0.5 px-1.5 py-0.2 text-[10px] rounded-full bg-[#00E5FF] text-black font-extrabold">
+              <span className="ml-0.5 px-1.5 py-0.2 text-[10px] rounded-full bg-[var(--color-accent)] text-black font-extrabold">
                 {totalFavoritos}
               </span>
             )}
@@ -86,7 +86,7 @@ export default function Header() {
             href="https://t.me/diariodeia"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-2 px-3 sm:px-4 py-1.5 sm:py-2 border border-[#00E5FF] text-[#00E5FF] text-xs sm:text-sm font-medium rounded-full hover:bg-[#00E5FF] hover:text-black transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[#00E5FF] focus:ring-offset-2 focus:ring-offset-black interactive-tap"
+            className="flex items-center gap-2 px-3 sm:px-4 py-1.5 sm:py-2 border border-[var(--color-accent)] text-[var(--color-accent)] text-xs sm:text-sm font-semibold rounded-full hover:bg-[var(--color-accent)] hover:text-black transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap"
             aria-label="Unirse al canal de Telegram de DiarioIA"
           >
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">

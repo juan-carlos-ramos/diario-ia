@@ -23,13 +23,13 @@ export default function PaginaHerramientas() {
       <main className="max-w-6xl mx-auto px-5 py-8 pb-32 sm:pb-16 stagger-entry">
         {/* Cabecera */}
         <div className="text-center max-w-2xl mx-auto mb-10">
-          <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-[oklch(15%_0.008_200)] border border-[oklch(22%_0.015_200)] text-xs font-bold text-[var(--color-accent)] uppercase tracking-wider mb-4">
+          <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-[var(--color-surface)] border border-[var(--color-border)] text-xs font-bold text-[var(--color-accent)] uppercase tracking-wider mb-4">
             🛠️ Directorio Curado
           </div>
-          <h1 className="text-3xl sm:text-5xl font-black text-white tracking-tight leading-tight mb-4">
+          <h1 className="text-3xl sm:text-5xl font-bold font-serif text-[var(--color-text)] tracking-tight leading-tight mb-4">
             Herramientas de IA
           </h1>
-          <p className="text-sm sm:text-base text-[var(--color-muted)] leading-relaxed">
+          <p className="text-sm sm:text-base text-[var(--color-muted)] leading-relaxed font-normal">
             Explora las aplicaciones, modelos y plataformas de inteligencia artificial más potentes para desarrollo, automatización y creación de contenido.
           </p>
         </div>

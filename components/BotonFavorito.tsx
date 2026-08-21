@@ -44,8 +44,8 @@ export default function BotonFavorito({
       title={guardado ? "Eliminar de favoritos" : "Guardar en favoritos"}
       className={`relative inline-flex items-center justify-center gap-1.5 rounded-full transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] active:scale-90 interactive-tap ${paddingBoton} ${
         guardado
-          ? "bg-[oklch(76%_0.19_200_/_15%)] text-[var(--color-accent)] border border-[var(--color-accent)] shadow-[0_0_12px_oklch(76%_0.19_200_/_25%)]"
-          : "bg-[oklch(10%_0.008_200_/_80%)] text-[var(--color-muted)] hover:text-white border border-[var(--color-border)] hover:border-[var(--color-border-hover)]"
+          ? "bg-[oklch(76%_0.165_72_/_15%)] text-[var(--color-accent)] border border-[var(--color-accent)] shadow-[0_2px_12px_oklch(76%_0.165_72_/_20%)]"
+          : "bg-[var(--color-bg)]/80 text-[var(--color-muted)] hover:text-white border border-[var(--color-border)] hover:border-[var(--color-border-hover)]"
       } ${className}`}
     >
       {guardado ? (

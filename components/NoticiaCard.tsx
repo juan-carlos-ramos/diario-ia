@@ -60,19 +60,19 @@ export default function NoticiaCard({ noticia, index }: Props) {
           )}
         </div>
 
-        {/* Título */}
-        <h2 className="text-sm font-bold tracking-tight text-[var(--color-text)] leading-snug mb-auto line-clamp-3 pc-hover-title transition-colors duration-200">
+        {/* Título Serif Editorial */}
+        <h2 className="text-[15px] sm:text-base font-bold tracking-tight text-[var(--color-text)] font-serif leading-[1.3] mb-auto line-clamp-3 pc-hover-title transition-colors duration-200">
           {noticia.titulo}
         </h2>
 
         {/* Fecha y Tiempo de Lectura */}
-        <div className="flex items-center justify-between mt-4 pt-3 border-t border-[oklch(15%_0.008_200)]">
+        <div className="flex items-center justify-between mt-4 pt-3 border-t border-[var(--color-border)]">
           <div className="flex items-center gap-1.5 text-[11px] text-[var(--color-muted)] font-medium tracking-wide">
             <span>{formatearFecha(noticia.fechaPublicacion)}</span>
             <span className="text-[var(--color-subtle)]">·</span>
             <span>⏱️ {noticia.tiempoLecturaMin || 1}m</span>
           </div>
-          <span className="text-[10px] font-bold text-[var(--color-accent)] opacity-0 group-hover:opacity-100 transition-opacity">
+          <span className="text-[11px] font-bold text-[var(--color-accent)] opacity-0 group-hover:opacity-100 transition-opacity">
             Leer →
           </span>
         </div>

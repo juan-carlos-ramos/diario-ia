@@ -26,7 +26,7 @@ export default function BarraProgresoLectura() {
       aria-hidden="true"
     >
       <div
-        className="h-full bg-gradient-to-r from-[#00E5FF] to-[oklch(80%_0.18_180)] transition-all duration-75 ease-out shadow-[0_0_8px_#00E5FF]"
+        className="h-full bg-gradient-to-r from-[var(--color-accent)] to-[oklch(85%_0.14_85)] transition-all duration-75 ease-out shadow-[0_0_6px_var(--color-accent)]"
         style={{ width: `${progreso}%` }}
       />
     </div>

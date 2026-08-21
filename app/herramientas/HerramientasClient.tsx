@@ -45,10 +45,10 @@ export default function HerramientasClient({ herramientasIniciales, categorias }
             <button
               key={cat.id}
               onClick={() => setCategoriaActiva(cat.id)}
-              className={`inline-flex items-center gap-1.5 px-4 py-2 rounded-full text-xs font-bold whitespace-nowrap transition-all interactive-tap ${
+              className={`inline-flex items-center gap-1.5 px-4 py-2 rounded-full text-xs font-extrabold whitespace-nowrap transition-all interactive-tap ${
                 categoriaActiva === cat.id
-                  ? "bg-[var(--color-accent)] text-black shadow-[0_2px_12px_oklch(76%_0.19_200_/_25%)]"
-                  : "bg-[var(--color-card)] text-[var(--color-muted)] hover:text-white border border-[var(--color-border)]"
+                  ? "bg-[var(--color-accent)] text-black shadow-[0_2px_12px_oklch(76%_0.165_72_/_20%)]"
+                  : "bg-[var(--color-surface)] text-[var(--color-muted)] hover:text-white border border-[var(--color-border)]"
               }`}
             >
               <span>{cat.icono}</span>
@@ -64,7 +64,7 @@ export default function HerramientasClient({ herramientasIniciales, categorias }
             placeholder="Buscar herramienta..."
             value={busqueda}
             onChange={(e) => setBusqueda(e.target.value)}
-            className="w-full px-4 py-2 pl-9 bg-[var(--color-card)] border border-[var(--color-border)] rounded-full text-xs text-white placeholder-[var(--color-muted)] focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] transition-all"
+            className="w-full px-4 py-2 pl-9 bg-[var(--color-surface)] border border-[var(--color-border)] rounded-full text-xs text-[var(--color-text)] placeholder-[var(--color-muted)] focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] transition-all"
           />
           <span className="absolute left-3 top-2.5 text-xs text-[var(--color-muted)]">🔍</span>
           {busqueda && (
@@ -82,7 +82,7 @@ export default function HerramientasClient({ herramientasIniciales, categorias }
       {herramientasFiltradas.length === 0 ? (
         <div className="text-center py-20 bg-[var(--color-card)] rounded-[24px] border border-[var(--color-border)]">
           <span className="text-4xl">🔍</span>
-          <h3 className="text-lg font-bold text-white mt-3">No se encontraron herramientas</h3>
+          <h3 className="text-lg font-bold font-serif text-white mt-3">No se encontraron herramientas</h3>
           <p className="text-xs text-[var(--color-muted)] mt-1">Prueba cambiando los términos de búsqueda o de categoría.</p>
         </div>
       ) : (
@@ -95,7 +95,7 @@ export default function HerramientasClient({ herramientasIniciales, categorias }
               <div>
                 {/* Cabecera de la tarjeta */}
                 <div className="flex items-start justify-between gap-3 mb-4">
-                  <div className="w-12 h-12 rounded-xl bg-[oklch(16%_0.015_200)] border border-[oklch(24%_0.02_200)] flex items-center justify-center text-2xl shadow-inner">
+                  <div className="w-12 h-12 rounded-xl bg-[var(--color-surface)] border border-[var(--color-border)] flex items-center justify-center text-2xl shadow-inner">
                     {herramienta.icono}
                   </div>
                   <span className={`text-[10px] font-bold px-2.5 py-0.5 rounded-full border ${badgeColor(herramienta.precio)}`}>
@@ -104,7 +104,7 @@ export default function HerramientasClient({ herramientasIniciales, categorias }
                 </div>
 
                 {/* Nombre y descripción */}
-                <h3 className="text-base font-extrabold text-white tracking-tight group-hover:text-[var(--color-accent)] transition-colors">
+                <h3 className="text-lg font-bold font-serif text-[var(--color-text)] tracking-tight group-hover:text-[var(--color-accent)] transition-colors">
                   {herramienta.nombre}
                 </h3>
                 <p className="text-xs text-[var(--color-muted)] mt-2 leading-relaxed">
@@ -113,7 +113,7 @@ export default function HerramientasClient({ herramientasIniciales, categorias }
               </div>
 
               {/* Botón enlace externo */}
-              <div className="mt-6 pt-4 border-t border-[oklch(15%_0.008_200)] flex items-center justify-between">
+              <div className="mt-6 pt-4 border-t border-[var(--color-border)] flex items-center justify-between">
                 <span className="text-[10px] uppercase font-bold tracking-wider text-[var(--color-muted)]">
                   {herramienta.categoria.replace("-", " ")}
                 </span>
@@ -121,7 +121,7 @@ export default function HerramientasClient({ herramientasIniciales, categorias }
                   href={herramienta.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full bg-[oklch(18%_0.015_200)] hover:bg-[var(--color-accent)] text-[var(--color-text)] hover:text-black text-xs font-bold transition-all interactive-tap"
+                  className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-accent)] text-[var(--color-text)] hover:text-black text-xs font-bold transition-all interactive-tap"
                   aria-label={`Abrir sitio de ${herramienta.nombre}`}
                 >
                   Probar ↗

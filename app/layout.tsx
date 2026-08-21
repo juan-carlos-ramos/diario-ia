@@ -1,15 +1,26 @@
 import type { Metadata, Viewport } from "next";
-import { Inter } from "next/font/google";
+import { Newsreader, Plus_Jakarta_Sans } from "next/font/google";
 import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 import BottomNav from "@/components/BottomNav";
 import BuscadorModal from "@/components/BuscadorModal";
 import { Suspense } from "react";
 
-const inter = Inter({ subsets: ["latin"] });
+const serifFont = Newsreader({
+  subsets: ["latin"],
+  style: ["normal", "italic"],
+  variable: "--font-serif",
+  display: "swap",
+});
+
+const sansFont = Plus_Jakarta_Sans({
+  subsets: ["latin"],
+  variable: "--font-sans",
+  display: "swap",
+});
 
 export const viewport: Viewport = {
-  themeColor: "#0A0A0A",
+  themeColor: "#1A1715",
   width: "device-width",
   initialScale: 1,
   maximumScale: 5,
@@ -58,8 +69,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="es" suppressHydrationWarning>
-      <body className={inter.className}>
+    <html lang="es" className={`${serifFont.variable} ${sansFont.variable}`} suppressHydrationWarning>
+      <body className="font-sans antialiased">
         <BuscadorModal />
         {children}
         <Suspense fallback={null}>
