@@ -398,8 +398,14 @@ function enriquecerFallback(noticia) {
   };
 }
 
+// Modelos de Gemini a intentar en orden de preferencia
+const MODELOS_GEMINI = ["gemini-1.5-flash", "gemini-2.5-flash", "gemini-2.0-flash"];
+
 // Enriquecer una noticia individual con Google Gemini Flash
-async function enriquecerConGemini(noticia, apiKey) {
+async function enriquecerConGemini(noticia, rawApiKey) {
+  const apiKey = (rawApiKey || "").trim();
+  if (!apiKey) return enriquecerFallback(noticia);
+
   const prompt = `Eres un periodista tecnológico y redactor jefe para el portal de noticias de Inteligencia Artificial "DiarioIA".
 Analiza la siguiente noticia y genera un micro-análisis exclusivo, inteligente y original.
 
@@ -424,70 +430,75 @@ Responde ÚNICAMENTE con este JSON:
   "tags": ["Tag1", "Tag2"]
 }`;
 
-  try {
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
-    const res = await fetchWithTimeout(url, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "x-goog-api-key": apiKey,
-      },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: {
-          temperature: 0.3,
+  for (const modelo of MODELOS_GEMINI) {
+    try {
+      const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelo}:generateContent?key=${apiKey}`;
+      const res = await fetchWithTimeout(url, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "x-goog-api-key": apiKey,
         },
-      }),
-      timeout: 15000,
-    });
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: {
+            temperature: 0.3,
+          },
+        }),
+        timeout: 15000,
+      });
 
-    if (!res.ok) {
-      const errBody = await res.text().catch(() => "");
-      console.warn(`⚠️ Gemini API error (${res.status}): ${errBody.slice(0, 150)}`);
-      return enriquecerFallback(noticia);
+      if (!res.ok) {
+        const errBody = await res.text().catch(() => "");
+        console.warn(`⚠️ Modelo ${modelo} retornó error (${res.status}): ${errBody.slice(0, 120)}`);
+        continue;
+      }
+
+      const data = await res.json();
+      const candidateText = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+      if (!candidateText) {
+        console.warn(`⚠️ Modelo ${modelo} no devolvió texto de candidato.`);
+        continue;
+      }
+
+      const parsed = extraerJSONValido(candidateText);
+      if (!parsed) {
+        console.warn(`⚠️ JSON inválido devuelto por ${modelo}.`);
+        continue;
+      }
+
+      const palabras = (noticia.resumen || "").split(/\s+/).length;
+
+      return {
+        ...noticia,
+        puntosClave: Array.isArray(parsed.puntosClave) && parsed.puntosClave.length > 0
+          ? parsed.puntosClave
+          : [noticia.resumen],
+        porQueImporta: parsed.porQueImporta || `Novedad relevante reportada por ${noticia.fuente}.`,
+        tags: Array.isArray(parsed.tags) && parsed.tags.length > 0
+          ? parsed.tags
+          : generarTagsLocales(noticia.titulo, noticia.resumen),
+        tiempoLecturaMin: Math.max(1, Math.ceil(palabras / 200)),
+      };
+    } catch (err) {
+      console.warn(`⚠️ Error de red con ${modelo}:`, err.message);
     }
-
-    const data = await res.json();
-    const candidateText = data?.candidates?.[0]?.content?.parts?.[0]?.text;
-    if (!candidateText) {
-      console.warn(`⚠️ Gemini no devolvió texto de candidato para: ${noticia.titulo.slice(0, 30)}`);
-      return enriquecerFallback(noticia);
-    }
-
-    const parsed = extraerJSONValido(candidateText);
-    if (!parsed) {
-      console.warn(`⚠️ JSON inválido devuelto por Gemini. Usando fallback.`);
-      return enriquecerFallback(noticia);
-    }
-
-    const palabras = (noticia.resumen || "").split(/\s+/).length;
-
-    return {
-      ...noticia,
-      puntosClave: Array.isArray(parsed.puntosClave) && parsed.puntosClave.length > 0
-        ? parsed.puntosClave
-        : [noticia.resumen],
-      porQueImporta: parsed.porQueImporta || `Novedad relevante reportada por ${noticia.fuente}.`,
-      tags: Array.isArray(parsed.tags) && parsed.tags.length > 0
-        ? parsed.tags
-        : generarTagsLocales(noticia.titulo, noticia.resumen),
-      tiempoLecturaMin: Math.max(1, Math.ceil(palabras / 200)),
-    };
-  } catch (err) {
-    console.warn(`⚠️ Error al procesar con Gemini para "${noticia.titulo.slice(0, 30)}...":`, err.message);
-    return enriquecerFallback(noticia);
   }
+
+  return enriquecerFallback(noticia);
 }
 
 // Procesa la lista completa de noticias con IA
 async function enriquecerNoticias(noticias) {
-  const apiKey = process.env.GEMINI_API_KEY;
+  const rawKey = process.env.GEMINI_API_KEY;
+  const apiKey = (rawKey || "").trim();
+
   if (!apiKey) {
     console.log("ℹ️ GEMINI_API_KEY no configurada. Aplicando enriquecimiento algorítmico local.");
     return noticias.map(enriquecerFallback);
   }
 
-  console.log(`🧠 Enriqueciendo ${noticias.length} noticias con Google Gemini Flash...`);
+  console.log(`🧠 GEMINI_API_KEY detectada (${apiKey.length} caracteres). Enriqueciendo ${noticias.length} noticias...`);
   const enriquecidas = [];
 
   for (const noticia of noticias) {
@@ -497,7 +508,7 @@ async function enriquecerNoticias(noticias) {
     await new Promise((r) => setTimeout(r, 600));
   }
 
-  console.log(`✅ ${enriquecidas.length} noticias enriquecidas con IA con éxito.`);
+  console.log(`✅ ${enriquecidas.length} noticias procesadas.`);
   return enriquecidas;
 }
 
