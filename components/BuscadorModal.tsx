@@ -152,23 +152,26 @@ export default function BuscadorModal() {
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-start justify-center pt-16 sm:pt-24 px-4 bg-black/70 backdrop-blur-md transition-opacity"
+      className="fixed inset-0 z-50 flex items-end sm:items-start justify-center sm:pt-24 p-0 sm:p-4 bg-black/75 backdrop-blur-md transition-opacity"
       onClick={() => setAbierto(false)}
       role="dialog"
       aria-modal="true"
       aria-label="Buscador global"
     >
       <div
-        className="w-full max-w-2xl bg-[var(--color-card)] border border-[oklch(26%_0.02_200)] rounded-[24px] shadow-[0_20px_60px_rgba(0,0,0,0.8)] overflow-hidden flex flex-col max-h-[80vh] animate-in fade-in zoom-in-95 duration-150"
+        className="w-full max-w-2xl bg-[var(--color-card)] border-t sm:border border-[oklch(26%_0.02_200)] rounded-t-[28px] sm:rounded-[24px] shadow-[0_20px_60px_rgba(0,0,0,0.8)] overflow-hidden flex flex-col max-h-[85vh] sm:max-h-[80vh] animate-in slide-in-from-bottom-5 sm:slide-in-from-bottom-0 sm:fade-in sm:zoom-in-95 duration-200 pb-[env(safe-area-inset-bottom)]"
         onClick={(e) => e.stopPropagation()}
       >
+        {/* Barra superior de arrastre en móvil */}
+        <div className="sm:hidden w-12 h-1.5 bg-[oklch(25%_0.01_200)] rounded-full mx-auto mt-3 mb-1" />
+
         {/* Barra de entrada de búsqueda */}
-        <div className="flex items-center gap-3 px-5 py-4 border-b border-[var(--color-border)]">
-          <span className="text-lg text-[var(--color-accent)]">🔍</span>
+        <div className="flex items-center gap-3 px-4 sm:px-5 py-3 sm:py-4 border-b border-[var(--color-border)]">
+          <span className="text-lg text-[var(--color-accent)] flex-shrink-0">🔍</span>
           <input
             ref={inputRef}
             type="text"
-            placeholder="Buscar noticias, temas (#OpenAI, #Robótica) o herramientas..."
+            placeholder="Buscar noticias, temas (#OpenAI) o herramientas..."
             value={query}
             onChange={(e) => {
               setQuery(e.target.value);
@@ -177,6 +180,14 @@ export default function BuscadorModal() {
             onKeyDown={handleInputKeyDown}
             className="w-full bg-transparent text-sm sm:text-base text-white placeholder-[var(--color-muted)] focus:outline-none"
           />
+          {/* Botón Cerrar táctil en móvil */}
+          <button
+            onClick={() => setAbierto(false)}
+            className="sm:hidden flex-shrink-0 w-8 h-8 rounded-full bg-[oklch(18%_0.01_200)] flex items-center justify-center text-xs text-[var(--color-muted)] active:text-white"
+            aria-label="Cerrar buscador"
+          >
+            ✕
+          </button>
           <kbd className="hidden sm:inline-block text-[10px] font-bold px-2 py-1 bg-[oklch(16%_0.01_200)] border border-[var(--color-border)] rounded-md text-[var(--color-muted)]">
             ESC
           </kbd>

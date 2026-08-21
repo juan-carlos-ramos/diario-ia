@@ -7,6 +7,8 @@ import Header from "@/components/Header";
 import NoticiaCard from "@/components/NoticiaCard";
 import BotonFavorito from "@/components/BotonFavorito";
 import BotonCompartir from "@/components/BotonCompartir";
+import BarraProgresoLectura from "@/components/BarraProgresoLectura";
+import BarraAccionesMovil from "@/components/BarraAccionesMovil";
 import Link from "next/link";
 
 interface Props {
@@ -95,6 +97,9 @@ export default async function PaginaDetalle({ params }: Props) {
 
   return (
     <>
+      {/* Barra de progreso de lectura para móviles y desktop */}
+      <BarraProgresoLectura />
+
       {/* Inyección de JSON-LD estructurado */}
       <script
         type="application/ld+json"
@@ -103,6 +108,9 @@ export default async function PaginaDetalle({ params }: Props) {
 
       <Header />
       <main className="max-w-3xl mx-auto px-5 py-8 pb-32 sm:pb-16 stagger-entry">
+        {/* Barra móvil flotante inferior para pulgar */}
+        <BarraAccionesMovil noticia={noticia} />
+
         {/* Barra Superior con Volver y Botones de Acción */}
         <div className="flex items-center justify-between mb-8">
           <Link
