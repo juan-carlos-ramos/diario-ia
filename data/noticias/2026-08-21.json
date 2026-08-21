@@ -1,10 +1,10 @@
 {
   "fecha": "2026-08-21",
-  "generado": "2026-08-21T17:32:40.462Z",
+  "generado": "2026-08-21T17:43:55.772Z",
   "total": 17,
   "noticias": [
     {
-      "id": "d2ff6e7e-1feb-4cc5-a12f-1a4a6cbe42d5",
+      "id": "43f473b1-8550-4675-9aed-6f683354aa91",
       "titulo": "Hasta ahora había que entrenar a un robot para cada tarea nueva. La nueva idea es mucho más simple: que te mire unos segundos",
       "resumen": "La firma de robótica e inteligencia artificial Generalist AI ha presentado un modelo llamado GEN-1.5 capaz de intentar una nueva tarea tras observar una única demostración de entre tres y 12 segundos. Lo llaman \"physical prompting\": hacer con los robots algo parecido a lo que hacemos con los LLM cua",
       "url": "https://www.xataka.com/robotica-e-ia/ahora-habia-que-entrenar-a-robot-para-cada-tarea-nueva-nueva-idea-mucho-simple-que-te-mire-unos-segundos",
@@ -12,7 +12,7 @@
       "fuente": "Xataka",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-08-21T16:31:33.000Z",
-      "fechaAgregada": "2026-08-21T17:32:24.141Z",
+      "fechaAgregada": "2026-08-21T17:43:37.057Z",
       "puntosClave": [
         "La firma de robótica e inteligencia artificial Generalist AI ha presentado un modelo llamado GEN-1.5 capaz de intentar una nueva tarea tras observar una única demostración de entre tres y 12 segundos. Lo llaman \"physical prompting\": hacer con los robots algo parecido a lo que hacemos con los LLM cua"
       ],
@@ -24,7 +24,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "bf68828d-32f1-48d2-b8fd-ef83edede7c5",
+      "id": "f70498bd-d738-4f80-b925-33ca177bbe9c",
       "titulo": "HyperOS 4 de Xiaomi: fecha de salida, version de Android, modelos compatibles, novedades y todo que sabemos y creemos saber",
       "resumen": "Vamos a darte toda la información que tenemos sobre HyperOS 4, la capa de personalización de Xiaomi para Android. HyperOS es el sucesor de MIUI, que ya está presente en muchos móviles con un buen repertorio de cambios estéticos y nuevas características. E HyperOS 4 es la versión que llega en 2026.\nV",
       "url": "https://www.xataka.com/nuevo/hyperos-4-fecha-salida-version-android-novedades-modelos-compatibles-todo-que-sabemos-creemos-saber",
@@ -32,7 +32,7 @@
       "fuente": "Xataka",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-08-21T13:01:34.000Z",
-      "fechaAgregada": "2026-08-21T17:32:24.143Z",
+      "fechaAgregada": "2026-08-21T17:43:37.058Z",
       "puntosClave": [
         "Vamos a darte toda la información que tenemos sobre HyperOS 4, la capa de personalización de Xiaomi para Android. HyperOS es el sucesor de MIUI, que ya está presente en muchos móviles con un buen repertorio de cambios estéticos y nuevas características. E HyperOS 4 es la versión que llega en 2026.\nV"
       ],
@@ -43,7 +43,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "805d396c-c8c1-4b1b-a9c9-d0da50cdb5d5",
+      "id": "14ed21e3-66fc-4e61-a95a-aa9251436900",
       "titulo": "Todos los modelos de IA hacen trampas si les das ocasión. Decirles “no hagas trampas” no basta",
       "resumen": "FelonyBench no es un benchmark de verdad. Es un sitio web irónico que se burla de una sola cosa: lo peligrosos que son los modelos de IA en materia de ciberseguridad. Ha surgido como respuesta a lo que ha pasado en las últimas semanas en este ámbito: modelos de Anthropic, OpenAI y Meta han sido noti",
       "url": "https://www.xataka.com/robotica-e-ia/todos-modelos-ia-hacen-trampas-les-das-ocasion-decirles-no-hagas-trampas-no-basta",
@@ -51,7 +51,7 @@
       "fuente": "Xataka",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-08-21T12:31:33.000Z",
-      "fechaAgregada": "2026-08-21T17:32:24.143Z",
+      "fechaAgregada": "2026-08-21T17:43:37.058Z",
       "puntosClave": [
         "FelonyBench no es un benchmark de verdad. Es un sitio web irónico que se burla de una sola cosa: lo peligrosos que son los modelos de IA en materia de ciberseguridad. Ha surgido como respuesta a lo que ha pasado en las últimas semanas en este ámbito: modelos de Anthropic, OpenAI y Meta han sido noti"
       ],
@@ -64,7 +64,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "05e183ec-b5fb-4824-888f-e4189cf604a1",
+      "id": "04a86064-ae93-41cc-a07d-b65bb12686e2",
       "titulo": "Samsung Galaxy Watch Ultra2, análisis: quería un reloj Android para todo y he acabado encontrando uno casi perfecto para hacer deporte",
       "resumen": "Le tenía ganas al Samsung Galaxy Watch Ultra2. El primer modelo me gustó mucho, aunque necesitaba ciertas mejoras. Creo que la revisión le ha sentado bien: da el tipo hasta en los registros exigentes. Me lo he llevado con la bici, de running y se ha ido conmigo a la cama. No es el reloj más cómodo,",
       "url": "https://www.xataka.com/analisis/samsung-galaxy-watch-ultra2-analisis-caracteristicas-precio-especificaciones",
@@ -72,7 +72,7 @@
       "fuente": "Xataka",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-08-21T11:31:33.000Z",
-      "fechaAgregada": "2026-08-21T17:32:24.143Z",
+      "fechaAgregada": "2026-08-21T17:43:37.059Z",
       "puntosClave": [
         "Le tenía ganas al Samsung Galaxy Watch Ultra2. El primer modelo me gustó mucho, aunque necesitaba ciertas mejoras. Creo que la revisión le ha sentado bien: da el tipo hasta en los registros exigentes. Me lo he llevado con la bici, de running y se ha ido conmigo a la cama. No es el reloj más cómodo,"
       ],
@@ -83,7 +83,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "043765c8-c765-4f13-afa7-6c69d7169836",
+      "id": "88c980f7-9486-4aba-95c6-ff4b498a2f95",
       "titulo": "Slack lanza una nueva función que te permite programar software junto a Claude Code",
       "resumen": "Slack se ha subido al tren de la programación con inteligencia artificial y anunció una nueva herramienta para trabajar con agentes en un mismo lugar. Conocida como Slack Code, esta función intenta llevar nuestra interacción habitual con Claude Code y otros agentes de IA a la interfaz de la aplicaci",
       "url": "https://hipertextual.com/inteligencia-artificial/slack-code-canales-programacion-ia-equipo/",
@@ -91,7 +91,7 @@
       "fuente": "Hipertextual",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-08-20T17:41:55.000Z",
-      "fechaAgregada": "2026-08-21T17:32:24.411Z",
+      "fechaAgregada": "2026-08-21T17:43:37.302Z",
       "puntosClave": [
         "Slack se ha subido al tren de la programación con inteligencia artificial y anunció una nueva herramienta para trabajar con agentes en un mismo lugar. Conocida como Slack Code, esta función intenta llevar nuestra interacción habitual con Claude Code y otros agentes de IA a la interfaz de la aplicaci"
       ],
@@ -102,7 +102,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "3fb67f9a-61f2-46ae-afed-40b5cdc18b23",
+      "id": "0e66016c-ab4e-4ee1-9259-9e7865e2caf3",
       "titulo": "Con estas cámaras en oferta podrás ver todo lo que ocurre en tu casa en todo momento",
       "resumen": "Para poder vigilar tu vivienda o negocio estés donde estés, contar con una cámara de seguridad es muy útil. Vamos a mostrarte algunos modelos que puedes encontrar a precio reducido. Te hablaremos de las principales características de cada uno de ellos, para que puedas elegir el que mejor se adapte a",
       "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-vigilancia-0826/",
@@ -110,7 +110,7 @@
       "fuente": "RedesZone",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-08-20T14:06:09.000Z",
-      "fechaAgregada": "2026-08-21T17:32:28.837Z",
+      "fechaAgregada": "2026-08-21T17:43:41.464Z",
       "puntosClave": [
         "Para poder vigilar tu vivienda o negocio estés donde estés, contar con una cámara de seguridad es muy útil. Vamos a mostrarte algunos modelos que puedes encontrar a precio reducido. Te hablaremos de las principales características de cada uno de ellos, para que puedas elegir el que mejor se adapte a"
       ],
@@ -121,7 +121,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "30b4d0d0-ab64-4876-a831-7ad1c99497aa",
+      "id": "cd79be64-04f2-4f01-b131-ce0bb7a8b874",
       "titulo": "Phishing 3.0: así funcionan ahora estos temidos ataques con los que roban tus contraseñas",
       "resumen": "Los ataques de phishing han sido un problema importante en Internet durante décadas. Los piratas informáticos utilizan técnicas para robar datos y contraseñas al suplantar la identidad de una marca, empresa o persona. Con el paso del tiempo, estos ataques han ido mejorando y son más difíciles de det",
       "url": "https://www.redeszone.net/noticias/seguridad/phishing-3-0-ataques-robo-contrasenas/",
@@ -129,7 +129,7 @@
       "fuente": "RedesZone",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-08-20T11:06:32.000Z",
-      "fechaAgregada": "2026-08-21T17:32:28.837Z",
+      "fechaAgregada": "2026-08-21T17:43:41.464Z",
       "puntosClave": [
         "Los ataques de phishing han sido un problema importante en Internet durante décadas. Los piratas informáticos utilizan técnicas para robar datos y contraseñas al suplantar la identidad de una marca, empresa o persona. Con el paso del tiempo, estos ataques han ido mejorando y son más difíciles de det"
       ],
@@ -140,7 +140,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "827be6ca-3b30-4459-afd0-ce8bafe6d286",
+      "id": "d75f1b43-4851-4276-bf8e-2b430efcee70",
       "titulo": "Este informe demuestra que «la IA ha cambiado las reglas del fraude»",
       "resumen": "No hay dudas de que la Inteligencia Artificial puede ser un arma para los ciberdelincuentes. Pueden usarla para generar ataques más sofisticados y llegar también a más posibles víctimas. Un informe elaborado este mes por parte de Experian alerta de cómo la IA también dificulta la detección del fraud",
       "url": "https://www.redeszone.net/noticias/seguridad/informe-ia-cambio-fraude-internet/",
@@ -148,7 +148,7 @@
       "fuente": "RedesZone",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-08-20T09:28:45.000Z",
-      "fechaAgregada": "2026-08-21T17:32:28.837Z",
+      "fechaAgregada": "2026-08-21T17:43:41.464Z",
       "puntosClave": [
         "No hay dudas de que la Inteligencia Artificial puede ser un arma para los ciberdelincuentes. Pueden usarla para generar ataques más sofisticados y llegar también a más posibles víctimas. Un informe elaborado este mes por parte de Experian alerta de cómo la IA también dificulta la detección del fraud"
       ],
@@ -159,7 +159,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "e9717dd0-b4c7-4de6-92ca-f1fa113a0eb2",
+      "id": "9fe4343a-45c7-486d-a828-fb22ea20cfbd",
       "titulo": "Crea copias de seguridad de garantías con estos SSD y HDD en oferta",
       "resumen": "Para poder crear copias de seguridad de garantías, disponer de unidades SSD y HDD de marcas reconocidas y fiables es importante. Vamos a mostrarte algunas opciones que puedes encontrar en oferta. Te hablaremos de las principales características de cada una de ellas, para que puedas elegir la que mej",
       "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-copias-seguridad-0826/",
@@ -167,7 +167,7 @@
       "fuente": "RedesZone",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-08-19T15:22:20.000Z",
-      "fechaAgregada": "2026-08-21T17:32:28.837Z",
+      "fechaAgregada": "2026-08-21T17:43:41.464Z",
       "puntosClave": [
         "Para poder crear copias de seguridad de garantías, disponer de unidades SSD y HDD de marcas reconocidas y fiables es importante. Vamos a mostrarte algunas opciones que puedes encontrar en oferta. Te hablaremos de las principales características de cada una de ellas, para que puedas elegir la que mej"
       ],
@@ -178,7 +178,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "0c6b7224-8ebf-4baf-a89b-4fe83d8dbfb6",
+      "id": "54604512-dd46-4fc0-9b45-b0133f63c2bd",
       "titulo": "ChatGPT empieza a registrar qué haces en tu equipo y eso es oro para los ciberdelincuentes",
       "resumen": "OpenAI, a través de una nueva función de ChatGPT, quiere saber más de lo que haces en tu equipo. El objetivo es tener un historial del uso diario del ordenador Mac, agrupando la actividad en resúmenes y observando qué aplicaciones y sitios web aportan a dicho historial. Es lo que se conoce como Comp",
       "url": "https://www.redeszone.net/noticias/seguridad/chatgpt-registrar-que-haces-equipo/",
@@ -186,7 +186,7 @@
       "fuente": "RedesZone",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-08-19T14:12:12.000Z",
-      "fechaAgregada": "2026-08-21T17:32:28.837Z",
+      "fechaAgregada": "2026-08-21T17:43:41.465Z",
       "puntosClave": [
         "OpenAI, a través de una nueva función de ChatGPT, quiere saber más de lo que haces en tu equipo. El objetivo es tener un historial del uso diario del ordenador Mac, agrupando la actividad en resúmenes y observando qué aplicaciones y sitios web aportan a dicho historial. Es lo que se conoce como Comp"
       ],
@@ -198,7 +198,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "5ac6b571-508a-4f1a-9de0-a9744d5fd3d5",
+      "id": "ab91ed58-a024-41bf-8aca-44964385e549",
       "titulo": "OpenAI paraliza el entrenamiento de su IA más avanzada tras la ‘rebelión’ de sus agentes este verano",
       "resumen": "Una oleada de incidentes de seguridad ha llevado a la compañía de Sam Altman a ralentizar “temporalmente” el ritmo de desarrollo de su inteligencia artificial",
       "url": "https://elpais.com/tecnologia/2026-08-19/openai-paraliza-el-entrenamiento-de-su-ia-mas-avanzada-tras-la-rebelion-de-sus-agentes-este-verano.html",
@@ -206,7 +206,7 @@
       "fuente": "El País Tecnología",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-08-19T13:15:02.000Z",
-      "fechaAgregada": "2026-08-21T17:32:25.946Z",
+      "fechaAgregada": "2026-08-21T17:43:38.887Z",
       "puntosClave": [
         "Una oleada de incidentes de seguridad ha llevado a la compañía de Sam Altman a ralentizar “temporalmente” el ritmo de desarrollo de su inteligencia artificial"
       ],
@@ -217,7 +217,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "96cb071d-2acc-45e4-92b6-6e571a3f4aed",
+      "id": "ee15ee0b-fcef-4452-8a79-0673e4983233",
       "titulo": "Las adolescentes parten con desventaja en el aprendizaje de la inteligencia artificial",
       "resumen": "Un estudio revela que los alumnos varones reportan mayor confianza y rendimiento que sus compañeras debido a cuestiones culturales",
       "url": "https://elpais.com/educacion/2026-08-17/las-adolescentes-parten-con-desventaja-en-el-aprendizaje-de-la-inteligencia-artificial.html",
@@ -225,7 +225,7 @@
       "fuente": "El País Tecnología",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-08-17T03:30:01.000Z",
-      "fechaAgregada": "2026-08-21T17:32:25.946Z",
+      "fechaAgregada": "2026-08-21T17:43:38.887Z",
       "puntosClave": [
         "Un estudio revela que los alumnos varones reportan mayor confianza y rendimiento que sus compañeras debido a cuestiones culturales"
       ],
@@ -236,7 +236,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "be0fe740-f55e-433b-aef1-a378fae14798",
+      "id": "87de8022-4604-4acc-9d77-821be7f107fd",
       "titulo": "Fundadora de una empresa de porno para mujeres y contacto de Epstein: sale a la luz la historia de la misteriosa mujer de Dario Amodei",
       "resumen": "El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude",
       "url": "https://elpais.com/tecnologia/2026-08-14/fundadora-de-una-empresa-de-porno-para-mujeres-y-contacto-de-epstein-sale-a-la-luz-la-historia-de-la-misteriosa-mujer-de-dario-amodei.html",
@@ -244,7 +244,7 @@
       "fuente": "El País Tecnología",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-08-14T13:39:29.000Z",
-      "fechaAgregada": "2026-08-21T17:32:25.946Z",
+      "fechaAgregada": "2026-08-21T17:43:38.887Z",
       "puntosClave": [
         "El cofundador de Anthropic mantiene tan discreta su vida privada que no se sabía que estaba casado. Su esposa, Cami Clark, tiene una historia tan desconocida que no conoce ni Claude"
       ],
@@ -256,15 +256,15 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "580149e8-5e0c-42ea-bade-941ef29dd1c2",
+      "id": "9b0015b7-5212-42ba-bc23-aa367dda2e8d",
       "titulo": "Cómo aprender a jugar en el patio de internet",
       "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
       "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
-      "imagen": "https://picsum.photos/seed/355/800/450",
+      "imagen": "https://picsum.photos/seed/473/800/450",
       "fuente": "El País Tecnología",
       "categoria": "tecnologia",
       "fechaPublicacion": "2026-06-17T15:46:51.000Z",
-      "fechaAgregada": "2026-08-21T17:32:25.946Z",
+      "fechaAgregada": "2026-08-21T17:43:38.887Z",
       "puntosClave": [
         "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología"
       ],
@@ -275,7 +275,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "dd57a504-3862-4844-990c-7612fb214d6d",
+      "id": "1268ea2f-4302-433b-8728-bda5ab1a486c",
       "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
       "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
       "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
@@ -283,7 +283,7 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-30T10:59:31.000Z",
-      "fechaAgregada": "2026-08-21T17:32:25.871Z",
+      "fechaAgregada": "2026-08-21T17:43:38.753Z",
       "puntosClave": [
         "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct"
       ],
@@ -294,7 +294,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "06fe0aef-76ee-46a3-a31f-8913c8bceade",
+      "id": "edd57b53-c675-4658-a8c3-54544424d3b2",
       "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
       "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
       "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
@@ -302,7 +302,7 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-29T18:39:38.000Z",
-      "fechaAgregada": "2026-08-21T17:32:25.871Z",
+      "fechaAgregada": "2026-08-21T17:43:38.754Z",
       "puntosClave": [
         "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo"
       ],
@@ -313,7 +313,7 @@
       "tiempoLecturaMin": 1
     },
     {
-      "id": "db04a98f-1aa3-40d1-930c-31f9e2f1355b",
+      "id": "e4388af5-0835-4afb-91cc-782090213c32",
       "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
       "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
       "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
@@ -321,7 +321,7 @@
       "fuente": "Genbeta",
       "categoria": "productividad",
       "fechaPublicacion": "2025-12-29T14:58:02.000Z",
-      "fechaAgregada": "2026-08-21T17:32:25.871Z",
+      "fechaAgregada": "2026-08-21T17:43:38.754Z",
       "puntosClave": [
         "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun"
       ],
