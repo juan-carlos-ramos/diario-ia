@@ -2,6 +2,8 @@
 import { Noticia } from "@/lib/noticias";
 import { formatearFecha } from "@/lib/utils";
 import Link from "next/link";
+import BotonFavorito from "./BotonFavorito";
+import BotonCompartir from "./BotonCompartir";
 
 interface Props {
   noticia: Noticia;
@@ -13,7 +15,7 @@ export default function NoticiaCard({ noticia, index }: Props) {
     <Link
       href={`/noticia/${noticia.id}`}
       style={index !== undefined ? { animationDelay: `${index * 35}ms` } : undefined}
-      className="group flex flex-col bg-[var(--color-card)] border border-[var(--color-border)] rounded-[16px] overflow-hidden focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] focus:ring-offset-2 focus:ring-offset-black interactive-tap pc-hover-card stagger-item"
+      className="group flex flex-col bg-[var(--color-card)] border border-[var(--color-border)] rounded-[16px] overflow-hidden focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] focus:ring-offset-2 focus:ring-offset-black interactive-tap pc-hover-card stagger-item relative"
       aria-label={`Leer noticia: ${noticia.titulo}`}
     >
       {/* Imagen */}
@@ -33,6 +35,12 @@ export default function NoticiaCard({ noticia, index }: Props) {
             <span className="text-3xl text-[var(--color-accent)] opacity-20">◈</span>
           </div>
         )}
+
+        {/* Acciones flotantes superiores */}
+        <div className="absolute top-2.5 right-2.5 flex items-center gap-1.5 z-10">
+          <BotonCompartir noticia={noticia} size="sm" />
+          <BotonFavorito noticia={noticia} size="sm" />
+        </div>
       </div>
 
       {/* Contenido */}
@@ -48,11 +56,17 @@ export default function NoticiaCard({ noticia, index }: Props) {
         </h2>
 
         {/* Fecha */}
-        <p className="text-[11px] text-[var(--color-muted)] mt-4 font-medium tracking-wide">
-          {formatearFecha(noticia.fechaPublicacion)}
-        </p>
+        <div className="flex items-center justify-between mt-4 pt-3 border-t border-[oklch(15%_0.008_200)]">
+          <p className="text-[11px] text-[var(--color-muted)] font-medium tracking-wide">
+            {formatearFecha(noticia.fechaPublicacion)}
+          </p>
+          <span className="text-[10px] font-bold text-[var(--color-accent)] opacity-0 group-hover:opacity-100 transition-opacity">
+            Leer →
+          </span>
+        </div>
       </div>
     </Link>
   );
 }
+
 
