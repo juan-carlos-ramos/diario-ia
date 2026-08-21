@@ -131,14 +131,18 @@ export default async function PaginaDetalle({ params }: Props) {
         )}
 
         <div className="max-w-[68ch] mx-auto">
-          {/* Fuente y fecha */}
-          <div className="flex items-center gap-2 mb-4">
+          {/* Fuente, fecha y tiempo de lectura */}
+          <div className="flex flex-wrap items-center gap-2 mb-4">
             <span className="text-xs font-bold tracking-[0.1em] uppercase text-[var(--color-accent)]">
               {noticia.fuente}
             </span>
             <span className="text-[var(--color-subtle)]">·</span>
             <span className="text-xs font-medium text-[var(--color-muted)]">
               {formatearFecha(noticia.fechaPublicacion)}
+            </span>
+            <span className="text-[var(--color-subtle)]">·</span>
+            <span className="text-xs font-medium text-[oklch(75%_0.02_200)] flex items-center gap-1">
+              <span>⏱️</span> {noticia.tiempoLecturaMin || 1} min de lectura
             </span>
           </div>
 
@@ -147,10 +151,57 @@ export default async function PaginaDetalle({ params }: Props) {
             {noticia.titulo}
           </h1>
 
-          {/* Resumen */}
-          <p className="text-base sm:text-lg md:text-xl text-[oklch(80%_0.01_200)] leading-relaxed italic border-l-2 border-[var(--color-accent)] pl-5 sm:pl-7 mb-10">
+          {/* Resumen General */}
+          <p className="text-base sm:text-lg text-[oklch(85%_0.01_200)] leading-relaxed mb-8">
             {noticia.resumen}
           </p>
+
+          {/* Bloque En 3 Puntos Clave (IA) */}
+          {Array.isArray(noticia.puntosClave) && noticia.puntosClave.length > 0 && (
+            <div className="mb-8 p-5 sm:p-6 rounded-[20px] bg-[oklch(12%_0.01_200)] border border-[oklch(22%_0.015_200)] shadow-[0_8px_24px_rgba(0,0,0,0.3)]">
+              <h2 className="text-xs font-bold uppercase tracking-[0.12em] text-[var(--color-accent)] mb-4 flex items-center gap-2">
+                <span>📌</span> Puntos Clave de la Noticia
+              </h2>
+              <ul className="space-y-3">
+                {noticia.puntosClave.map((punto, idx) => (
+                  <li key={idx} className="flex items-start gap-3 text-sm sm:text-base text-[oklch(90%_0.005_200)] leading-relaxed">
+                    <span className="text-[var(--color-accent)] font-bold text-base leading-none mt-1">
+                      ◈
+                    </span>
+                    <span>{punto}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {/* Bloque ¿Por qué importa? (IA) */}
+          {noticia.porQueImporta && (
+            <div className="mb-8 p-5 sm:p-6 rounded-[20px] bg-gradient-to-br from-[oklch(14%_0.02_200)] to-[oklch(10%_0.01_200)] border-l-4 border-l-[var(--color-accent)] border border-[oklch(20%_0.01_200)]">
+              <h2 className="text-xs font-bold uppercase tracking-[0.12em] text-[var(--color-accent)] mb-2 flex items-center gap-2">
+                <span>💡</span> ¿Por qué importa?
+              </h2>
+              <p className="text-sm sm:text-base text-[oklch(88%_0.01_200)] leading-relaxed font-medium">
+                {noticia.porQueImporta}
+              </p>
+            </div>
+          )}
+
+          {/* Tags Temáticos */}
+          {Array.isArray(noticia.tags) && noticia.tags.length > 0 && (
+            <div className="mb-10 flex flex-wrap items-center gap-2">
+              <span className="text-xs text-[var(--color-muted)] font-medium mr-1">Temas:</span>
+              {noticia.tags.map((tag) => (
+                <Link
+                  key={tag}
+                  href={`/?q=${encodeURIComponent(tag)}`}
+                  className="px-3 py-1 rounded-full bg-[oklch(15%_0.008_200)] hover:bg-[oklch(22%_0.015_200)] text-[var(--color-muted)] hover:text-[var(--color-accent)] border border-[var(--color-border)] text-xs font-semibold tracking-wide transition-colors interactive-tap"
+                >
+                  #{tag}
+                </Link>
+              ))}
+            </div>
+          )}
 
           {/* Botones de acción al final del artículo */}
           <div className="flex flex-wrap items-center gap-4 mb-16 pt-6 border-t border-[var(--color-border)]">

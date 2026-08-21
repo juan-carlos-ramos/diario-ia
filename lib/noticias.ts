@@ -12,6 +12,21 @@ export interface Noticia {
   categoria: string;
   fechaPublicacion: string;
   fechaAgregada: string;
+  // Campos enriquecidos con IA (Fase 2)
+  puntosClave?: string[];
+  porQueImporta?: string;
+  tags?: string[];
+  tiempoLecturaMin?: number;
+}
+
+/**
+ * Calcula el tiempo estimado de lectura en minutos a partir de un texto
+ */
+export function calcularTiempoLectura(texto: string, palabrasPorMinuto = 200): number {
+  if (!texto) return 1;
+  const palabras = texto.trim().split(/\s+/).length;
+  const minutos = Math.ceil(palabras / palabrasPorMinuto);
+  return Math.max(1, minutos);
 }
 
 export interface ArchivoNoticias {

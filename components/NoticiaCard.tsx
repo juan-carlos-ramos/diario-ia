@@ -45,21 +45,33 @@ export default function NoticiaCard({ noticia, index }: Props) {
 
       {/* Contenido */}
       <div className="flex flex-col flex-1 p-5">
-        {/* Fuente */}
-        <span className="text-[10px] font-bold tracking-[0.1em] uppercase text-[var(--color-accent)] mb-2">
-          {noticia.fuente}
-        </span>
+        {/* Fuente y Tag */}
+        <div className="flex items-center gap-2 mb-2">
+          <span className="text-[10px] font-bold tracking-[0.1em] uppercase text-[var(--color-accent)]">
+            {noticia.fuente}
+          </span>
+          {Array.isArray(noticia.tags) && noticia.tags[0] && (
+            <>
+              <span className="text-[var(--color-subtle)] text-[10px]">·</span>
+              <span className="text-[10px] font-semibold text-[oklch(75%_0.02_200)]">
+                #{noticia.tags[0]}
+              </span>
+            </>
+          )}
+        </div>
 
         {/* Título */}
         <h2 className="text-sm font-bold tracking-tight text-[var(--color-text)] leading-snug mb-auto line-clamp-3 pc-hover-title transition-colors duration-200">
           {noticia.titulo}
         </h2>
 
-        {/* Fecha */}
+        {/* Fecha y Tiempo de Lectura */}
         <div className="flex items-center justify-between mt-4 pt-3 border-t border-[oklch(15%_0.008_200)]">
-          <p className="text-[11px] text-[var(--color-muted)] font-medium tracking-wide">
-            {formatearFecha(noticia.fechaPublicacion)}
-          </p>
+          <div className="flex items-center gap-1.5 text-[11px] text-[var(--color-muted)] font-medium tracking-wide">
+            <span>{formatearFecha(noticia.fechaPublicacion)}</span>
+            <span className="text-[var(--color-subtle)]">·</span>
+            <span>⏱️ {noticia.tiempoLecturaMin || 1}m</span>
+          </div>
           <span className="text-[10px] font-bold text-[var(--color-accent)] opacity-0 group-hover:opacity-100 transition-opacity">
             Leer →
           </span>

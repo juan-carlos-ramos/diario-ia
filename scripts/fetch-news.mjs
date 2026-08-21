@@ -325,6 +325,143 @@ function obtenerBadgeCategoria(categoria) {
   }
 }
 
+// Genera tags locales básicos a partir del texto cuando no hay IA
+function generarTagsLocales(titulo, resumen) {
+  const texto = `${titulo} ${resumen}`.toLowerCase();
+  const tags = new Set();
+
+  const mapa = {
+    "openai": "OpenAI",
+    "chatgpt": "ChatGPT",
+    "gpt-4": "GPT-4",
+    "gpt-5": "GPT-5",
+    "claude": "Claude",
+    "anthropic": "Anthropic",
+    "gemini": "Gemini",
+    "google": "Google AI",
+    "microsoft": "Microsoft",
+    "copilot": "Copilot",
+    "nvidia": "NVIDIA",
+    "meta": "Meta IA",
+    "vibe coding": "Vibe Coding",
+    "llm": "LLMs",
+    "robot": "Robótica",
+    "apple": "Apple IA",
+    "deepseek": "DeepSeek",
+    "open source": "Open Source",
+  };
+
+  for (const [clave, tag] of Object.entries(mapa)) {
+    if (texto.includes(clave)) {
+      tags.add(tag);
+    }
+  }
+
+  if (tags.size === 0) tags.add("Inteligencia Artificial");
+  return Array.from(tags).slice(0, 4);
+}
+
+// Fallback de enriquecimiento local sin llamada a API
+function enriquecerFallback(noticia) {
+  const palabras = (noticia.resumen || "").split(/\s+/).length;
+  const tiempoLecturaMin = Math.max(1, Math.ceil(palabras / 200));
+  const tags = generarTagsLocales(noticia.titulo, noticia.resumen);
+
+  return {
+    ...noticia,
+    puntosClave: [noticia.resumen],
+    porQueImporta: `Novedad relevante en el sector de la inteligencia artificial reportada por ${noticia.fuente}.`,
+    tags,
+    tiempoLecturaMin,
+  };
+}
+
+// Enriquecer una noticia individual con Google Gemini Flash
+async function enriquecerConGemini(noticia, apiKey) {
+  const prompt = `Eres un editor jefe especializado en Inteligencia Artificial y tecnología para el portal "DiarioIA".
+Tu objetivo es analizar la siguiente noticia de IA y sintetizarla con máxima calidad para lectores y programadores.
+
+Noticia:
+- Título: ${noticia.titulo}
+- Fuente: ${noticia.fuente}
+- Contenido: ${noticia.resumen}
+
+Responde ÚNICAMENTE un objeto JSON válido con este esquema exacto (sin texto adicional ni bloques markdown):
+{
+  "puntosClave": [
+    "Frase 1 clara y directa con el hecho principal.",
+    "Frase 2 con un detalle técnico o dato relevante.",
+    "Frase 3 con el resultado o impacto."
+  ],
+  "porQueImporta": "Un párrafo breve (2 a 3 líneas) explicando por qué esta noticia es importante para desarrolladores, empresas o el futuro de la IA.",
+  "tags": ["Tag1", "Tag2", "Tag3"]
+}`;
+
+  try {
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
+    const res = await fetchWithTimeout(url, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: {
+          temperature: 0.2,
+          responseMimeType: "application/json",
+        },
+      }),
+      timeout: 12000,
+    });
+
+    if (!res.ok) {
+      console.warn(`⚠️ Gemini API retornó estado ${res.status}: ${res.statusText}`);
+      return enriquecerFallback(noticia);
+    }
+
+    const data = await res.json();
+    const candidateText = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+    if (!candidateText) return enriquecerFallback(noticia);
+
+    const parsed = JSON.parse(candidateText);
+    const palabras = (noticia.resumen || "").split(/\s+/).length;
+
+    return {
+      ...noticia,
+      puntosClave: Array.isArray(parsed.puntosClave) && parsed.puntosClave.length > 0
+        ? parsed.puntosClave
+        : [noticia.resumen],
+      porQueImporta: parsed.porQueImporta || `Impacto en el sector tecnológico reportado por ${noticia.fuente}.`,
+      tags: Array.isArray(parsed.tags) && parsed.tags.length > 0
+        ? parsed.tags
+        : generarTagsLocales(noticia.titulo, noticia.resumen),
+      tiempoLecturaMin: Math.max(1, Math.ceil(palabras / 200)),
+    };
+  } catch (err) {
+    console.warn(`⚠️ Error al procesar con Gemini para "${noticia.titulo.slice(0, 30)}...":`, err.message);
+    return enriquecerFallback(noticia);
+  }
+}
+
+// Procesa la lista completa de noticias con IA
+async function enriquecerNoticias(noticias) {
+  const apiKey = process.env.GEMINI_API_KEY;
+  if (!apiKey) {
+    console.log("ℹ️ GEMINI_API_KEY no configurada. Aplicando enriquecimiento algorítmico local.");
+    return noticias.map(enriquecerFallback);
+  }
+
+  console.log(`🧠 Enriqueciendo ${noticias.length} noticias con Google Gemini Flash...`);
+  const enriquecidas = [];
+
+  for (const noticia of noticias) {
+    const enriquecida = await enriquecerConGemini(noticia, apiKey);
+    enriquecidas.push(enriquecida);
+    await new Promise((r) => setTimeout(r, 400));
+  }
+
+  console.log(`✅ ${enriquecidas.length} noticias enriquecidas con IA.`);
+  return enriquecidas;
+}
+
 // Publica solo las noticias nuevas en el canal de Telegram
 async function publicarEnTelegram(noticias) {
   const token = process.env.TELEGRAM_BOT_TOKEN;
@@ -355,10 +492,28 @@ async function publicarEnTelegram(noticias) {
   for (const noticia of paraPublicar) {
     const badge = obtenerBadgeCategoria(noticia.categoria);
     const tituloEscapado = escaparHTML(noticia.titulo);
-    const resumenEscapado = escaparHTML(noticia.resumen);
     const fuenteEscapada = escaparHTML(noticia.fuente);
 
-    const texto = `<b>${badge}</b> · <i>DiarioIA</i>\n\n📰 <b>${tituloEscapado}</b>\n\n<blockquote>${resumenEscapado}</blockquote>\n\n🌐 <b>Fuente:</b> ${fuenteEscapada}`;
+    const puntos = Array.isArray(noticia.puntosClave) && noticia.puntosClave.length > 0
+      ? noticia.puntosClave
+      : [noticia.resumen];
+
+    const puntosTexto = puntos.map((p) => `• ${escaparHTML(p)}`).join("\n");
+
+    let texto = `<b>${badge}</b> · <i>DiarioIA</i>\n\n📰 <b>${tituloEscapado}</b>\n\n<blockquote>${puntosTexto}</blockquote>`;
+
+    if (noticia.porQueImporta) {
+      texto += `\n\n💡 <b>Por qué importa:</b>\n<i>${escaparHTML(noticia.porQueImporta)}</i>`;
+    }
+
+    texto += `\n\n🌐 <b>Fuente:</b> ${fuenteEscapada}`;
+
+    if (Array.isArray(noticia.tags) && noticia.tags.length > 0) {
+      const tagsTexto = noticia.tags
+        .map((t) => `#${escaparHTML(t.replace(/[\s-]/g, ""))}`)
+        .join(" ");
+      texto += `\n🏷️ ${tagsTexto}`;
+    }
 
     const replyMarkup = {
       inline_keyboard: [
@@ -448,12 +603,12 @@ async function publicarEnTelegram(noticias) {
   console.log(`💾 Registro de enviados actualizado: ${enviados.size} noticias en total.`);
 }
 
-
 // Ejecutar
 async function main() {
-  const noticias = await obtenerNoticias();
-  await guardarNoticias(noticias);
-  await publicarEnTelegram(noticias);
+  const noticiasCrudas = await obtenerNoticias();
+  const noticiasEnriquecidas = await enriquecerNoticias(noticiasCrudas);
+  await guardarNoticias(noticiasEnriquecidas);
+  await publicarEnTelegram(noticiasEnriquecidas);
   console.log("🎉 Proceso de noticias finalizado con éxito.");
   process.exit(0);
 }
@@ -462,4 +617,5 @@ main().catch((err) => {
   console.error("Error fatal en script de noticias:", err);
   process.exit(1);
 });
+
 

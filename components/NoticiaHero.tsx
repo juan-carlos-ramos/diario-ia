@@ -35,8 +35,8 @@ export default function NoticiaHero({ noticia }: Props) {
 
         {/* Contenido sobre la imagen */}
         <div className="absolute bottom-0 left-0 right-0 p-5 sm:p-8 md:p-10 flex flex-col justify-end h-full">
-          {/* Etiqueta */}
-          <div className="flex items-center gap-2 mb-3">
+          {/* Etiqueta y Tags */}
+          <div className="flex flex-wrap items-center gap-2 mb-3">
             <span className="text-[10px] font-bold tracking-[0.1em] uppercase text-[var(--color-accent)]">
               {noticia.fuente}
             </span>
@@ -44,6 +44,22 @@ export default function NoticiaHero({ noticia }: Props) {
             <span className="text-[11px] font-medium text-[var(--color-muted)]">
               {formatearFecha(noticia.fechaPublicacion)}
             </span>
+            <span className="text-[var(--color-muted)]">·</span>
+            <span className="text-[11px] font-medium text-[oklch(75%_0.02_200)]">
+              ⏱️ {noticia.tiempoLecturaMin || 1} min
+            </span>
+            {Array.isArray(noticia.tags) && (
+              <div className="hidden sm:flex items-center gap-1.5 ml-2">
+                {noticia.tags.slice(0, 3).map((tag) => (
+                  <span
+                    key={tag}
+                    className="px-2 py-0.5 rounded-full bg-[oklch(15%_0.008_200_/_90%)] text-[oklch(85%_0.02_200)] text-[10px] font-bold tracking-wide border border-[var(--color-border)]"
+                  >
+                    #{tag}
+                  </span>
+                ))}
+              </div>
+            )}
           </div>
 
           {/* Título */}
