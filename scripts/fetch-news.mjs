@@ -398,11 +398,10 @@ function enriquecerFallback(noticia) {
   };
 }
 
-// Modelos activos de Gemini (priorizando gemini-3.5-flash por estabilidad y velocidad)
+// Modelos activos y rápidos de Gemini
 const MODELOS_GEMINI = [
   "gemini-3.5-flash",
   "gemini-3.6-flash",
-  "gemini-3.7-flash",
 ];
 
 // Enriquecer una noticia individual con Google Gemini Flash
@@ -435,65 +434,68 @@ Responde ÚNICAMENTE con este JSON:
 }`;
 
   for (const modelo of MODELOS_GEMINI) {
-    try {
-      const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelo}:generateContent?key=${apiKey}`;
-      const res = await fetchWithTimeout(url, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: {
-            thinkingConfig: {
-              thinkingLevel: "MINIMAL",
-            },
+    for (let intento = 1; intento <= 2; intento++) {
+      try {
+        const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelo}:generateContent?key=${apiKey}`;
+        const res = await fetchWithTimeout(url, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
           },
-        }),
-        timeout: 30000,
-      });
+          body: JSON.stringify({
+            contents: [{ parts: [{ text: prompt }] }],
+            generationConfig: {
+              thinkingConfig: {
+                thinkingLevel: "LOW",
+              },
+            },
+          }),
+          timeout: 25000,
+        });
 
-      if (!res.ok) {
-        const errBody = await res.text().catch(() => "");
-        console.warn(`⚠️ Modelo ${modelo} retornó error (${res.status}): ${errBody.slice(0, 120)}`);
-        continue;
+        if (res.status === 429) {
+          console.warn(`⏳ Rate limit en ${modelo} (intento ${intento}). Esperando 6s para reintentar...`);
+          await new Promise((r) => setTimeout(r, 6000));
+          continue;
+        }
+
+        if (!res.ok) {
+          const errBody = await res.text().catch(() => "");
+          console.warn(`⚠️ Modelo ${modelo} retornó error (${res.status}): ${errBody.slice(0, 100)}`);
+          break;
+        }
+
+        const data = await res.json();
+        const candidateText = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+        if (!candidateText) break;
+
+        const parsed = extraerJSONValido(candidateText);
+        if (!parsed) break;
+
+        const palabras = (noticia.resumen || "").split(/\s+/).length;
+
+        return {
+          ...noticia,
+          puntosClave: Array.isArray(parsed.puntosClave) && parsed.puntosClave.length > 0
+            ? parsed.puntosClave
+            : [noticia.resumen],
+          porQueImporta: parsed.porQueImporta || `Novedad relevante reportada por ${noticia.fuente}.`,
+          tags: Array.isArray(parsed.tags) && parsed.tags.length > 0
+            ? parsed.tags
+            : generarTagsLocales(noticia.titulo, noticia.resumen),
+          tiempoLecturaMin: Math.max(1, Math.ceil(palabras / 200)),
+        };
+      } catch (err) {
+        console.warn(`⚠️ Error conectando a ${modelo}:`, err.message);
+        break;
       }
-
-      const data = await res.json();
-      const candidateText = data?.candidates?.[0]?.content?.parts?.[0]?.text;
-      if (!candidateText) {
-        console.warn(`⚠️ Modelo ${modelo} no devolvió texto de candidato.`);
-        continue;
-      }
-
-      const parsed = extraerJSONValido(candidateText);
-      if (!parsed) {
-        console.warn(`⚠️ JSON inválido devuelto por ${modelo}.`);
-        continue;
-      }
-
-      const palabras = (noticia.resumen || "").split(/\s+/).length;
-
-      return {
-        ...noticia,
-        puntosClave: Array.isArray(parsed.puntosClave) && parsed.puntosClave.length > 0
-          ? parsed.puntosClave
-          : [noticia.resumen],
-        porQueImporta: parsed.porQueImporta || `Novedad relevante reportada por ${noticia.fuente}.`,
-        tags: Array.isArray(parsed.tags) && parsed.tags.length > 0
-          ? parsed.tags
-          : generarTagsLocales(noticia.titulo, noticia.resumen),
-        tiempoLecturaMin: Math.max(1, Math.ceil(palabras / 200)),
-      };
-    } catch (err) {
-      console.warn(`⚠️ Error de red con ${modelo}:`, err.message);
     }
   }
 
   return enriquecerFallback(noticia);
 }
 
-// Procesa la lista completa de noticias con IA
+// Procesa la lista completa de noticias con IA respetando cuotas de 15 RPM
 async function enriquecerNoticias(noticias) {
   const rawKey = process.env.GEMINI_API_KEY;
   const apiKey = (rawKey || "").trim();
@@ -503,17 +505,21 @@ async function enriquecerNoticias(noticias) {
     return noticias.map(enriquecerFallback);
   }
 
-  console.log(`🧠 GEMINI_API_KEY detectada (${apiKey.length} caracteres). Enriqueciendo ${noticias.length} noticias...`);
+  console.log(`🧠 GEMINI_API_KEY detectada. Enriqueciendo ${noticias.length} noticias con espaciado de 4.5s...`);
   const enriquecidas = [];
 
-  for (const noticia of noticias) {
-    console.log(`✨ Procesando con IA: ${noticia.titulo.slice(0, 45)}...`);
+  for (let i = 0; i < noticias.length; i++) {
+    const noticia = noticias[i];
+    console.log(`✨ [${i + 1}/${noticias.length}] Procesando con IA: ${noticia.titulo.slice(0, 45)}...`);
     const enriquecida = await enriquecerConGemini(noticia, apiKey);
     enriquecidas.push(enriquecida);
-    await new Promise((r) => setTimeout(r, 600));
+    // Pausa de 4.5 segundos entre llamadas para mantenerse dentro del límite gratuito de 15 RPM
+    if (i < noticias.length - 1) {
+      await new Promise((r) => setTimeout(r, 4500));
+    }
   }
 
-  console.log(`✅ ${enriquecidas.length} noticias procesadas.`);
+  console.log(`✅ ${enriquecidas.length} noticias procesadas con éxito.`);
   return enriquecidas;
 }
 
@@ -570,6 +576,20 @@ async function publicarEnTelegram(noticias) {
       texto += `\n🏷️ ${tagsTexto}`;
     }
 
+    let captionTexto = texto;
+    if (captionTexto.length > 950) {
+      captionTexto = `<b>${badge}</b> · <i>DiarioIA</i>\n\n📰 <b>${tituloEscapado}</b>\n\n<blockquote>${puntosTexto}</blockquote>\n\n🌐 <b>Fuente:</b> ${fuenteEscapada}`;
+      if (Array.isArray(noticia.tags) && noticia.tags.length > 0) {
+        const tagsTexto = noticia.tags
+          .map((t) => `#${escaparHTML(t.replace(/[\s-]/g, ""))}`)
+          .join(" ");
+        captionTexto += `\n🏷️ ${tagsTexto}`;
+      }
+      if (captionTexto.length > 950) {
+        captionTexto = captionTexto.slice(0, 940) + "...";
+      }
+    }
+
     const replyMarkup = {
       inline_keyboard: [
         [
@@ -587,7 +607,7 @@ async function publicarEnTelegram(noticias) {
         body = JSON.stringify({
           chat_id: canal,
           photo: noticia.imagen,
-          caption: texto,
+          caption: captionTexto,
           parse_mode: "HTML",
           reply_markup: replyMarkup,
         });
