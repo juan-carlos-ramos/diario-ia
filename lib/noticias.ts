@@ -48,6 +48,10 @@ export function obtenerNoticiasDeHoy(): ArchivoNoticias | null {
  * Obtiene las noticias de una fecha específica (formato YYYY-MM-DD)
  */
 export function leerArchivoPorFecha(fecha: string): ArchivoNoticias | null {
+  // Validación estricta de formato YYYY-MM-DD para prevenir Path Traversal
+  if (!fecha || !/^\d{4}-\d{2}-\d{2}$/.test(fecha)) {
+    return null;
+  }
   const archivo = path.join(process.cwd(), "data", "noticias", `${fecha}.json`);
   if (!fs.existsSync(archivo)) return null;
   try {
