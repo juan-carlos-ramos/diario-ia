@@ -1,17 +1,27 @@
 "use client";
 import { useState, useEffect, useRef, useMemo } from "react";
-import { useRouter } from "next/navigation";
+import { useRouter, usePathname } from "next/navigation";
 import Link from "next/link";
-import { formatearFecha } from "@/lib/utils";
 
 interface ResultadoBusqueda {
   id: string;
   tipo: "noticia" | "herramienta";
   titulo: string;
-  descripcion: string;
   url: string;
-  extra?: string;
+  badge?: string;
+  categoria?: string;
 }
+
+const TEMAS_POPULARES = [
+  "OpenAI",
+  "Claude",
+  "Gemini",
+  "DeepSeek",
+  "Vibe Coding",
+  "Robótica",
+  "Cursor",
+  "Lovable",
+];
 
 export default function BuscadorModal() {
   const [abierto, setAbierto] = useState(false);
@@ -21,6 +31,12 @@ export default function BuscadorModal() {
   const [herramientas, setHerramientas] = useState<any[]>([]);
   const inputRef = useRef<HTMLInputElement>(null);
   const router = useRouter();
+  const pathname = usePathname();
+
+  // Cerrar el modal automáticamente al cambiar de pestaña o ruta
+  useEffect(() => {
+    setAbierto(false);
+  }, [pathname]);
 
   // Cargar datos de búsqueda una vez
   useEffect(() => {
@@ -68,61 +84,52 @@ export default function BuscadorModal() {
     if (abierto) {
       setTimeout(() => {
         inputRef.current?.focus();
-      }, 50);
+      }, 60);
       setQuery("");
       setIndiceSeleccionado(0);
     }
   }, [abierto]);
 
-  // Filtrar resultados
+  // Filtrar resultados de forma minimalista solo cuando el usuario escribe
   const resultados: ResultadoBusqueda[] = useMemo(() => {
     if (!query.trim()) {
-      // Sugerencias por defecto: herramientas destacadas + últimas noticias
-      const sugerenciasHerramientas: ResultadoBusqueda[] = herramientas.slice(0, 3).map((h) => ({
-        id: `h-${h.id}`,
-        tipo: "herramienta",
-        titulo: h.nombre,
-        descripcion: h.descripcion,
-        url: "/herramientas",
-        extra: h.precio,
-      }));
-
-      const sugerenciasNoticias: ResultadoBusqueda[] = noticias.slice(0, 4).map((n) => ({
-        id: `n-${n.id}`,
-        tipo: "noticia",
-        titulo: n.titulo,
-        descripcion: n.resumen,
-        url: `/noticia/${n.id}`,
-        extra: n.fuente,
-      }));
-
-      return [...sugerenciasHerramientas, ...sugerenciasNoticias];
+      return [];
     }
 
     const q = query.toLowerCase();
 
     const notMatch: ResultadoBusqueda[] = noticias
-      .filter((n) => n.titulo?.toLowerCase().includes(q) || n.resumen?.toLowerCase().includes(q) || n.tags?.some((t: string) => t.toLowerCase().includes(q)))
+      .filter(
+        (n) =>
+          n.titulo?.toLowerCase().includes(q) ||
+          n.resumen?.toLowerCase().includes(q) ||
+          n.tags?.some((t: string) => t.toLowerCase().includes(q))
+      )
       .slice(0, 6)
       .map((n) => ({
         id: `n-${n.id}`,
         tipo: "noticia",
         titulo: n.titulo,
-        descripcion: n.resumen,
         url: `/noticia/${n.id}`,
-        extra: `${n.fuente} · ${formatearFecha(n.fechaPublicacion)}`,
+        badge: n.fuente,
+        categoria: n.categoria,
       }));
 
     const herMatch: ResultadoBusqueda[] = herramientas
-      .filter((h) => h.nombre?.toLowerCase().includes(q) || h.descripcion?.toLowerCase().includes(q) || h.categoria?.toLowerCase().includes(q))
+      .filter(
+        (h) =>
+          h.nombre?.toLowerCase().includes(q) ||
+          h.descripcion?.toLowerCase().includes(q) ||
+          h.categoria?.toLowerCase().includes(q)
+      )
       .slice(0, 4)
       .map((h) => ({
         id: `h-${h.id}`,
         tipo: "herramienta",
         titulo: h.nombre,
-        descripcion: h.descripcion,
         url: "/herramientas",
-        extra: h.precio,
+        badge: h.precio,
+        categoria: "Herramienta",
       }));
 
     return [...herMatch, ...notMatch];
@@ -152,26 +159,26 @@ export default function BuscadorModal() {
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-end sm:items-start justify-center sm:pt-24 p-0 sm:p-4 bg-black/75 backdrop-blur-md transition-opacity"
+      className="fixed inset-0 z-50 flex items-end sm:items-start justify-center sm:pt-24 p-0 sm:p-4 bg-black/80 backdrop-blur-md transition-opacity"
       onClick={() => setAbierto(false)}
       role="dialog"
       aria-modal="true"
       aria-label="Buscador global"
     >
       <div
-        className="w-full max-w-2xl bg-[var(--color-card)] border-t sm:border border-[oklch(26%_0.02_200)] rounded-t-[28px] sm:rounded-[24px] shadow-[0_20px_60px_rgba(0,0,0,0.8)] overflow-hidden flex flex-col max-h-[85vh] sm:max-h-[80vh] animate-in slide-in-from-bottom-5 sm:slide-in-from-bottom-0 sm:fade-in sm:zoom-in-95 duration-200 pb-[env(safe-area-inset-bottom)]"
+        className="w-full max-w-xl bg-[var(--color-card)] border-t sm:border border-[oklch(26%_0.02_200)] rounded-t-[28px] sm:rounded-[24px] shadow-[0_20px_60px_rgba(0,0,0,0.9)] overflow-hidden flex flex-col max-h-[80vh] animate-in slide-in-from-bottom-6 sm:slide-in-from-bottom-0 sm:fade-in sm:zoom-in-95 duration-200 pb-[max(12px,env(safe-area-inset-bottom))]"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Barra superior de arrastre en móvil */}
-        <div className="sm:hidden w-12 h-1.5 bg-[oklch(25%_0.01_200)] rounded-full mx-auto mt-3 mb-1" />
+        <div className="sm:hidden w-10 h-1 bg-[oklch(25%_0.01_200)] rounded-full mx-auto mt-3 mb-1" />
 
-        {/* Barra de entrada de búsqueda */}
+        {/* Input de Búsqueda Minimalista */}
         <div className="flex items-center gap-3 px-4 sm:px-5 py-3 sm:py-4 border-b border-[var(--color-border)]">
-          <span className="text-lg text-[var(--color-accent)] flex-shrink-0">🔍</span>
+          <span className="text-base text-[var(--color-accent)] flex-shrink-0">🔍</span>
           <input
             ref={inputRef}
             type="text"
-            placeholder="Buscar noticias, temas (#OpenAI) o herramientas..."
+            placeholder="Escribe para buscar noticias o herramientas..."
             value={query}
             onChange={(e) => {
               setQuery(e.target.value);
@@ -180,70 +187,87 @@ export default function BuscadorModal() {
             onKeyDown={handleInputKeyDown}
             className="w-full bg-transparent text-sm sm:text-base text-white placeholder-[var(--color-muted)] focus:outline-none"
           />
-          {/* Botón Cerrar táctil en móvil */}
+          {query && (
+            <button
+              onClick={() => setQuery("")}
+              className="text-xs text-[var(--color-muted)] hover:text-white px-1.5 py-0.5 rounded-full"
+            >
+              ✕
+            </button>
+          )}
           <button
             onClick={() => setAbierto(false)}
-            className="sm:hidden flex-shrink-0 w-8 h-8 rounded-full bg-[oklch(18%_0.01_200)] flex items-center justify-center text-xs text-[var(--color-muted)] active:text-white"
+            className="w-8 h-8 rounded-full bg-[oklch(18%_0.01_200)] flex items-center justify-center text-xs text-[var(--color-muted)] active:text-white interactive-tap"
             aria-label="Cerrar buscador"
           >
             ✕
           </button>
-          <kbd className="hidden sm:inline-block text-[10px] font-bold px-2 py-1 bg-[oklch(16%_0.01_200)] border border-[var(--color-border)] rounded-md text-[var(--color-muted)]">
-            ESC
-          </kbd>
         </div>
 
-        {/* Lista de resultados */}
-        <div className="overflow-y-auto p-3 space-y-1 flex-1">
-          {resultados.length === 0 ? (
-            <div className="py-12 text-center text-xs text-[var(--color-muted)]">
+        {/* Contenido: Si está vacío muestra sugerencias rápidas en chips; si escribe muestra resultados limpios */}
+        <div className="overflow-y-auto p-4 flex-1">
+          {!query.trim() ? (
+            <div className="py-4">
+              <span className="text-[11px] font-bold text-[var(--color-muted)] uppercase tracking-wider block mb-3">
+                Temas y herramientas populares:
+              </span>
+              <div className="flex flex-wrap gap-2">
+                {TEMAS_POPULARES.map((tema) => (
+                  <button
+                    key={tema}
+                    onClick={() => {
+                      setQuery(tema);
+                      setIndiceSeleccionado(0);
+                    }}
+                    className="px-3 py-1.5 rounded-full bg-[oklch(16%_0.01_200)] hover:bg-[var(--color-accent)] hover:text-black text-[oklch(80%_0.015_200)] border border-[var(--color-border)] text-xs font-semibold tracking-wide transition-all interactive-tap"
+                  >
+                    #{tema}
+                  </button>
+                ))}
+              </div>
+            </div>
+          ) : resultados.length === 0 ? (
+            <div className="py-10 text-center text-xs text-[var(--color-muted)]">
               No se encontraron resultados para &quot;{query}&quot;
             </div>
           ) : (
-            resultados.map((item, idx) => (
-              <Link
-                key={item.id}
-                href={item.url}
-                onClick={() => setAbierto(false)}
-                onMouseEnter={() => setIndiceSeleccionado(idx)}
-                className={`flex items-start gap-3 p-3 rounded-xl transition-all ${
-                  indiceSeleccionado === idx
-                    ? "bg-[oklch(18%_0.02_200)] border border-[oklch(28%_0.03_200)]"
-                    : "hover:bg-[oklch(14%_0.01_200)] border border-transparent"
-                }`}
-              >
-                <span className="text-base mt-0.5">
-                  {item.tipo === "herramienta" ? "🛠️" : "📰"}
-                </span>
-
-                <div className="flex-1 min-w-0">
-                  <div className="flex items-center justify-between gap-2">
-                    <h4 className="text-xs sm:text-sm font-bold text-white truncate">
+            <div className="space-y-1">
+              {resultados.map((item, idx) => (
+                <Link
+                  key={item.id}
+                  href={item.url}
+                  onClick={() => setAbierto(false)}
+                  onMouseEnter={() => setIndiceSeleccionado(idx)}
+                  className={`flex items-center justify-between gap-3 p-3 rounded-xl transition-all interactive-tap ${
+                    indiceSeleccionado === idx
+                      ? "bg-[oklch(18%_0.02_200)] border border-[oklch(28%_0.03_200)] text-white"
+                      : "hover:bg-[oklch(14%_0.01_200)] border border-transparent text-[oklch(85%_0.01_200)]"
+                  }`}
+                >
+                  <div className="flex items-center gap-2.5 min-w-0">
+                    <span className="text-sm flex-shrink-0">
+                      {item.tipo === "herramienta" ? "🛠️" : "📰"}
+                    </span>
+                    <h4 className="text-xs sm:text-sm font-bold truncate">
                       {item.titulo}
                     </h4>
-                    {item.extra && (
-                      <span className="text-[10px] font-medium text-[var(--color-accent)] flex-shrink-0">
-                        {item.extra}
-                      </span>
-                    )}
                   </div>
-                  <p className="text-[11px] text-[var(--color-muted)] line-clamp-1 mt-0.5">
-                    {item.descripcion}
-                  </p>
-                </div>
-              </Link>
-            ))
+
+                  {item.badge && (
+                    <span className="text-[10px] font-bold px-2 py-0.5 rounded-md bg-[oklch(18%_0.01_200)] text-[var(--color-accent)] border border-[oklch(26%_0.02_200)] flex-shrink-0">
+                      {item.badge}
+                    </span>
+                  )}
+                </Link>
+              ))}
+            </div>
           )}
         </div>
 
-        {/* Footer del modal con atajos */}
-        <div className="px-5 py-3 border-t border-[var(--color-border)] bg-[oklch(10%_0.008_200)] flex items-center justify-between text-[11px] text-[var(--color-muted)]">
-          <div className="flex items-center gap-3">
-            <span>↑↓ Navegar</span>
-            <span>↵ Abrir</span>
-            <span>ESC Cerrar</span>
-          </div>
-          <span className="text-[10px] text-[oklch(75%_0.02_200)]">DiarioIA Search</span>
+        {/* Footer Minimalista */}
+        <div className="px-5 py-2.5 border-t border-[var(--color-border)] bg-[oklch(10%_0.008_200)] flex items-center justify-between text-[11px] text-[var(--color-muted)]">
+          <span className="hidden sm:inline">Usa ↑↓ para navegar y Enter para abrir</span>
+          <span className="text-[10px] text-[var(--color-muted)] sm:ml-auto">DiarioIA Search</span>
         </div>
       </div>
     </div>
