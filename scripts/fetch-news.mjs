@@ -162,23 +162,33 @@ function esRelevante(titulo, resumen) {
   return !tieneExcluida;
 }
 
+function esUrlHttpValida(urlStr) {
+  if (!urlStr || typeof urlStr !== "string") return false;
+  try {
+    const parsed = new URL(urlStr.trim());
+    return parsed.protocol === "https:" || parsed.protocol === "http:";
+  } catch {
+    return false;
+  }
+}
+
 function extraerImagen(item) {
   // Intento 1: campos media estándar
-  if (item.mediaContent?.$.url) return item.mediaContent.$.url;
-  if (item.mediaThumbnail?.$.url) return item.mediaThumbnail.$.url;
+  if (esUrlHttpValida(item.mediaContent?.$.url)) return item.mediaContent.$.url;
+  if (esUrlHttpValida(item.mediaThumbnail?.$.url)) return item.mediaThumbnail.$.url;
   if (
-    item.enclosure?.url &&
+    esUrlHttpValida(item.enclosure?.url) &&
     item.enclosure.type?.startsWith("image/")
   )
     return item.enclosure.url;
-  if (item.itunes?.image) return item.itunes.image;
+  if (esUrlHttpValida(item.itunes?.image)) return item.itunes.image;
 
   // Intento 2: buscar <img> en el contenido HTML del artículo
   const contenidoHTML =
     item["content:encoded"] || item.content || item.summary || "";
   if (contenidoHTML) {
     const match = contenidoHTML.match(/<img[^>]+src=["']([^"']+)["']/i);
-    if (match?.[1] && match[1].startsWith("http")) return match[1];
+    if (match?.[1] && esUrlHttpValida(match[1])) return match[1];
   }
 
   // Intento 3: imagen genérica por categoría desde Picsum (siempre disponible, gratis)
@@ -231,7 +241,7 @@ async function obtenerNoticias() {
           id: uuidv4(),
           titulo: titulo.trim(),
           resumen: resumen.slice(0, 300).trim(),
-          url: item.link || "",
+          url: esUrlHttpValida(item.link) ? item.link.trim() : "https://diario-ia.vercel.app",
           imagen: extraerImagen(item),
           fuente: fuente.nombre,
           categoria: fuente.categoria,

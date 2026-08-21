@@ -100,10 +100,12 @@ export default async function PaginaDetalle({ params }: Props) {
       {/* Barra de progreso de lectura para móviles y desktop */}
       <BarraProgresoLectura />
 
-      {/* Inyección de JSON-LD estructurado */}
+      {/* Inyección de JSON-LD estructurado seguro */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c"),
+        }}
       />
 
       <Header />
