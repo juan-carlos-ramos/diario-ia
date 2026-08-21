@@ -2,7 +2,7 @@
   {
     "id": "cursor",
     "nombre": "Cursor",
-    "descripcion": "El editor de código impulsado por IA más popular para desarrollo rápido y Vibe Coding con modelos Claude y GPT.",
+    "descripcion": "El editor de código impulsado por IA líder para desarrollo y Vibe Coding con Claude Sonnet 5, GPT-5.6 Sol y modo Agent multi-archivo.",
     "url": "https://cursor.com",
     "categoria": "vibe-coding",
     "icono": "💻",
@@ -10,9 +10,19 @@
     "destacado": true
   },
   {
+    "id": "lovable",
+    "nombre": "Lovable",
+    "descripcion": "Plataforma de desarrollo agéntico fullstack para construir aplicaciones web completas con frontend React, backend Supabase y sincronización con GitHub.",
+    "url": "https://lovable.dev",
+    "categoria": "vibe-coding",
+    "icono": "💖",
+    "precio": "Freemium",
+    "destacado": true
+  },
+  {
     "id": "bolt-new",
     "nombre": "Bolt.new",
-    "descripcion": "Entorno de desarrollo en el navegador con WebContainers para crear y desplegar aplicaciones completas con prompts.",
+    "descripcion": "Entorno de desarrollo en el navegador con WebContainers para crear, probar y desplegar apps fullstack (Next.js, Vite) directamente con prompts.",
     "url": "https://bolt.new",
     "categoria": "vibe-coding",
     "icono": "⚡",
@@ -22,7 +32,7 @@
   {
     "id": "v0-dev",
     "nombre": "v0 by Vercel",
-    "descripcion": "Generador de interfaces de usuario y componentes React/Tailwind con diseño moderno mediante IA generativa.",
+    "descripcion": "Generador agéntico de interfaces y componentes React/Tailwind/shadcn con arquitectura de rutas y esquemas optimizados para Next.js.",
     "url": "https://v0.dev",
     "categoria": "vibe-coding",
     "icono": "▲",
@@ -30,19 +40,9 @@
     "destacado": true
   },
   {
-    "id": "lovable",
-    "nombre": "Lovable",
-    "descripcion": "Plataforma de generación de software fullstack para construir aplicaciones web interactivas desde cero en minutos.",
-    "url": "https://lovable.dev",
-    "categoria": "vibe-coding",
-    "icono": "💖",
-    "precio": "Freemium",
-    "destacado": false
-  },
-  {
     "id": "claude",
-    "nombre": "Claude 3.7 Sonnet",
-    "descripcion": "El modelo insignia de Anthropic líder en razonamiento complejo, programación avanzada y análisis de código.",
+    "nombre": "Claude 5 (Opus / Sonnet)",
+    "descripcion": "La suite de frontera de Anthropic con Claude Opus 5 y Sonnet 5, líder en razonamiento adaptativo, programación agéntica y contexto de 1M de tokens.",
     "url": "https://claude.ai",
     "categoria": "llms",
     "icono": "🧠",
@@ -51,8 +51,8 @@
   },
   {
     "id": "chatgpt",
-    "nombre": "ChatGPT & GPT-4o",
-    "descripcion": "El asistente conversacional multimodal de OpenAI para redacción, análisis de datos, visión y tareas cotidianas.",
+    "nombre": "ChatGPT & GPT-5.6",
+    "descripcion": "El ecosistema insignia de OpenAI con la familia GPT-5.6 (Sol/Terra) y modelos de razonamiento deliberado o3-pro para ciencia, código y análisis.",
     "url": "https://chatgpt.com",
     "categoria": "llms",
     "icono": "🤖",
@@ -61,8 +61,8 @@
   },
   {
     "id": "gemini",
-    "nombre": "Google Gemini",
-    "descripcion": "El ecosistema multimodal de Google con ventana de contexto de 1 millón de tokens e integración con Google Workspace.",
+    "nombre": "Google Gemini (3.7 / 3.6)",
+    "descripcion": "Ecosistema multimodal de Google con Gemini 3.7 Flash y 3.1 Pro, razonamiento híbrido en tiempo real y ventana de contexto de 1 millón de tokens.",
     "url": "https://gemini.google.com",
     "categoria": "llms",
     "icono": "✨",
@@ -71,8 +71,8 @@
   },
   {
     "id": "deepseek",
-    "nombre": "DeepSeek R1",
-    "descripcion": "Modelo de razonamiento de código abierto de alto rendimiento con arquitectura de mezcla de expertos ultra eficiente.",
+    "nombre": "DeepSeek-V4 Pro",
+    "descripcion": "Modelo de 1.6T de parámetros y APIs ultra-eficientes con arquitectura de atención híbrida, soporte de 1M de tokens y framework agéntico Harness.",
     "url": "https://deepseek.com",
     "categoria": "llms",
     "icono": "🐋",
@@ -82,7 +82,7 @@
   {
     "id": "perplexity",
     "nombre": "Perplexity AI",
-    "descripcion": "Motor de respuestas y búsqueda con IA con fuentes en tiempo real, citas verificables e investigación guiada.",
+    "descripcion": "Motor de investigación y Deep Research con fuentes verificables en tiempo real, integración Model Council y acceso a GPT-5.6 y Claude Opus 5.",
     "url": "https://perplexity.ai",
     "categoria": "productividad",
     "icono": "🔍",
@@ -92,7 +92,7 @@
   {
     "id": "notion-ai",
     "nombre": "Notion AI",
-    "descripcion": "Asistente inteligente integrado en tu espacio de trabajo para sintetizar notas, redactar documentos y automatizar flujos.",
+    "descripcion": "Asistente conectado a tus bases de conocimiento de trabajo para sintetizar documentos, buscar en tiempo real y automatizar flujos corporativos.",
     "url": "https://notion.so",
     "categoria": "productividad",
     "icono": "📝",
@@ -102,7 +102,7 @@
   {
     "id": "gamma",
     "nombre": "Gamma App",
-    "descripcion": "Crea presentaciones, documentos y páginas web impresionantes en segundos a partir de una simple idea o texto.",
+    "descripcion": "Genera presentaciones interactivas, documentos ejecutivos y páginas web dinámicas en segundos a partir de esquemas o ideas breves.",
     "url": "https://gamma.app",
     "categoria": "productividad",
     "icono": "📊",
@@ -111,8 +111,8 @@
   },
   {
     "id": "midjourney",
-    "nombre": "Midjourney v6",
-    "descripcion": "El generador de imágenes artísticas y fotorrealistas con mayor fidelidad estética y control de composición.",
+    "nombre": "Midjourney v8.2",
+    "descripcion": "Generación artística y fotorrealista de máxima fidelidad con el modelo v8.2, perfiles de personalización visual y control de composición avanzado.",
     "url": "https://midjourney.com",
     "categoria": "imagen-video",
     "icono": "🎨",
@@ -122,7 +122,7 @@
   {
     "id": "elevenlabs",
     "nombre": "ElevenLabs",
-    "descripcion": "Plataforma líder en síntesis de voz, clonación de voz hiperrealista y doblaje automático en decenas de idiomas.",
+    "descripcion": "Plataforma de voz con el modelo Eleven v3, clonación hiperrealista, flujos asíncronos y agentes de voz en tiempo real con baja latencia.",
     "url": "https://elevenlabs.io",
     "categoria": "imagen-video",
     "icono": "🎙️",
@@ -131,8 +131,8 @@
   },
   {
     "id": "runway",
-    "nombre": "Runway Gen-3",
-    "descripcion": "Generación y edición de video con IA cinemática para creadores de contenido, cineastas y diseñadores.",
+    "nombre": "Runway Gen-4.5",
+    "descripcion": "Generación y edición de video cinemático con Gen-4.5, edición interactiva Seedream 5.0 Pro y automatización de campañas con Agent Skills.",
     "url": "https://runwayml.com",
     "categoria": "imagen-video",
     "icono": "🎬",
@@ -142,7 +142,7 @@
   {
     "id": "ollama",
     "nombre": "Ollama",
-    "descripcion": "Ejecuta modelos de lenguaje grandes (Llama 3, DeepSeek, Mistral) localmente en tu computadora en un comando.",
+    "descripcion": "Ejecuta los últimos modelos de código abierto (Llama 4, Qwen 3.8-27B, Mistral Small 4, DeepSeek-V4) de forma privada y local en tu máquina.",
     "url": "https://ollama.com",
     "categoria": "open-source",
     "icono": "🦙",
@@ -152,7 +152,7 @@
   {
     "id": "hugging-face",
     "nombre": "Hugging Face",
-    "descripcion": "El repositorio global y comunidad de modelos de código abierto, datasets y demos interactivas de IA.",
+    "descripcion": "El hub global de inteligencia artificial abierta con miles de modelos (Qwen 3.8, Llama 4), Spaces interactivos y benchmarks de evaluación en vivo.",
     "url": "https://huggingface.co",
     "categoria": "open-source",
     "icono": "🤗",
