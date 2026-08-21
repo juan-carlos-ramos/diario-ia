@@ -398,8 +398,12 @@ function enriquecerFallback(noticia) {
   };
 }
 
-// Modelos de Gemini a intentar en orden de preferencia
-const MODELOS_GEMINI = ["gemini-1.5-flash", "gemini-2.5-flash", "gemini-2.0-flash"];
+// Modelos activos de Gemini en orden de preferencia (Gemini 3 Flash)
+const MODELOS_GEMINI = [
+  "gemini-3.7-flash",
+  "gemini-3.6-flash",
+  "gemini-3.5-flash",
+];
 
 // Enriquecer una noticia individual con Google Gemini Flash
 async function enriquecerConGemini(noticia, rawApiKey) {
