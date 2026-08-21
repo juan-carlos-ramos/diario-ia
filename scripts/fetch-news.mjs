@@ -398,11 +398,11 @@ function enriquecerFallback(noticia) {
   };
 }
 
-// Modelos activos de Gemini en orden de preferencia (Gemini 3 Flash)
+// Modelos activos de Gemini (priorizando gemini-3.5-flash por estabilidad y velocidad)
 const MODELOS_GEMINI = [
-  "gemini-3.7-flash",
-  "gemini-3.6-flash",
   "gemini-3.5-flash",
+  "gemini-3.6-flash",
+  "gemini-3.7-flash",
 ];
 
 // Enriquecer una noticia individual con Google Gemini Flash
@@ -445,10 +445,12 @@ Responde ÚNICAMENTE con este JSON:
         body: JSON.stringify({
           contents: [{ parts: [{ text: prompt }] }],
           generationConfig: {
-            temperature: 0.3,
+            thinkingConfig: {
+              thinkingLevel: "MINIMAL",
+            },
           },
         }),
-        timeout: 15000,
+        timeout: 30000,
       });
 
       if (!res.ok) {
