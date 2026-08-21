@@ -361,6 +361,28 @@ function generarTagsLocales(titulo, resumen) {
   return Array.from(tags).slice(0, 4);
 }
 
+// Extrae y parsea un JSON limpio incluso si viene envuelto en markdown
+function extraerJSONValido(texto) {
+  if (!texto) return null;
+  let limpio = texto
+    .replace(/```json\s*/gi, "")
+    .replace(/```\s*/gi, "")
+    .trim();
+
+  const primerBrace = limpio.indexOf("{");
+  const ultimoBrace = limpio.lastIndexOf("}");
+  if (primerBrace !== -1 && ultimoBrace !== -1) {
+    limpio = limpio.slice(primerBrace, ultimoBrace + 1);
+  }
+
+  try {
+    return JSON.parse(limpio);
+  } catch (e) {
+    console.warn("Error parseando JSON de IA:", e.message);
+    return null;
+  }
+}
+
 // Fallback de enriquecimiento local sin llamada a API
 function enriquecerFallback(noticia) {
   const palabras = (noticia.resumen || "").split(/\s+/).length;
@@ -378,50 +400,66 @@ function enriquecerFallback(noticia) {
 
 // Enriquecer una noticia individual con Google Gemini Flash
 async function enriquecerConGemini(noticia, apiKey) {
-  const prompt = `Eres un editor jefe especializado en Inteligencia Artificial y tecnología para el portal "DiarioIA".
-Tu objetivo es analizar la siguiente noticia de IA y sintetizarla con máxima calidad para lectores y programadores.
+  const prompt = `Eres un periodista tecnológico y redactor jefe para el portal de noticias de Inteligencia Artificial "DiarioIA".
+Analiza la siguiente noticia y genera un micro-análisis exclusivo, inteligente y original.
 
 Noticia:
 - Título: ${noticia.titulo}
-- Fuente: ${noticia.fuente}
-- Contenido: ${noticia.resumen}
+- Fuente original: ${noticia.fuente}
+- Texto base: ${noticia.resumen}
 
-Responde ÚNICAMENTE un objeto JSON válido con este esquema exacto (sin texto adicional ni bloques markdown):
+INSTRUCCIONES OBLIGATORIAS:
+1. "puntosClave": Genera exactamente 3 viñetas concisas redactadas por ti con tus propias palabras (máximo 1-2 líneas cada una) sintetizando los datos y hechos clave. NUNCA repitas el texto base literal.
+2. "porQueImporta": Redacta un párrafo único (2-3 líneas) explicando el impacto real que esta noticia específica tiene para programadores, empresas o la industria. NUNCA uses frases genéricas repetitivas.
+3. "tags": Genera de 2 a 4 etiquetas temáticas relevantes (ej: ["OpenAI", "Robótica", "LLMs", "Hardware", "Productividad"]).
+
+Responde ÚNICAMENTE con este JSON:
 {
   "puntosClave": [
-    "Frase 1 clara y directa con el hecho principal.",
-    "Frase 2 con un detalle técnico o dato relevante.",
-    "Frase 3 con el resultado o impacto."
+    "Primer punto clave sintetizado.",
+    "Segundo punto clave con datos o detalles.",
+    "Tercer punto con el resultado o proyección."
   ],
-  "porQueImporta": "Un párrafo breve (2 a 3 líneas) explicando por qué esta noticia es importante para desarrolladores, empresas o el futuro de la IA.",
-  "tags": ["Tag1", "Tag2", "Tag3"]
+  "porQueImporta": "Explicación del impacto para la tecnología y la IA...",
+  "tags": ["Tag1", "Tag2"]
 }`;
 
   try {
     const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
     const res = await fetchWithTimeout(url, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: {
+        "Content-Type": "application/json",
+        "x-goog-api-key": apiKey,
+      },
       body: JSON.stringify({
         contents: [{ parts: [{ text: prompt }] }],
         generationConfig: {
-          temperature: 0.2,
-          responseMimeType: "application/json",
+          temperature: 0.3,
         },
       }),
-      timeout: 12000,
+      timeout: 15000,
     });
 
     if (!res.ok) {
-      console.warn(`⚠️ Gemini API retornó estado ${res.status}: ${res.statusText}`);
+      const errBody = await res.text().catch(() => "");
+      console.warn(`⚠️ Gemini API error (${res.status}): ${errBody.slice(0, 150)}`);
       return enriquecerFallback(noticia);
     }
 
     const data = await res.json();
     const candidateText = data?.candidates?.[0]?.content?.parts?.[0]?.text;
-    if (!candidateText) return enriquecerFallback(noticia);
+    if (!candidateText) {
+      console.warn(`⚠️ Gemini no devolvió texto de candidato para: ${noticia.titulo.slice(0, 30)}`);
+      return enriquecerFallback(noticia);
+    }
 
-    const parsed = JSON.parse(candidateText);
+    const parsed = extraerJSONValido(candidateText);
+    if (!parsed) {
+      console.warn(`⚠️ JSON inválido devuelto por Gemini. Usando fallback.`);
+      return enriquecerFallback(noticia);
+    }
+
     const palabras = (noticia.resumen || "").split(/\s+/).length;
 
     return {
@@ -429,7 +467,7 @@ Responde ÚNICAMENTE un objeto JSON válido con este esquema exacto (sin texto a
       puntosClave: Array.isArray(parsed.puntosClave) && parsed.puntosClave.length > 0
         ? parsed.puntosClave
         : [noticia.resumen],
-      porQueImporta: parsed.porQueImporta || `Impacto en el sector tecnológico reportado por ${noticia.fuente}.`,
+      porQueImporta: parsed.porQueImporta || `Novedad relevante reportada por ${noticia.fuente}.`,
       tags: Array.isArray(parsed.tags) && parsed.tags.length > 0
         ? parsed.tags
         : generarTagsLocales(noticia.titulo, noticia.resumen),
@@ -453,12 +491,13 @@ async function enriquecerNoticias(noticias) {
   const enriquecidas = [];
 
   for (const noticia of noticias) {
+    console.log(`✨ Procesando con IA: ${noticia.titulo.slice(0, 45)}...`);
     const enriquecida = await enriquecerConGemini(noticia, apiKey);
     enriquecidas.push(enriquecida);
-    await new Promise((r) => setTimeout(r, 400));
+    await new Promise((r) => setTimeout(r, 600));
   }
 
-  console.log(`✅ ${enriquecidas.length} noticias enriquecidas con IA.`);
+  console.log(`✅ ${enriquecidas.length} noticias enriquecidas con IA con éxito.`);
   return enriquecidas;
 }
 

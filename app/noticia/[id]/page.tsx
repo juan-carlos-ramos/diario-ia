@@ -156,36 +156,40 @@ export default async function PaginaDetalle({ params }: Props) {
             {noticia.resumen}
           </p>
 
-          {/* Bloque En 3 Puntos Clave (IA) */}
-          {Array.isArray(noticia.puntosClave) && noticia.puntosClave.length > 0 && (
-            <div className="mb-8 p-5 sm:p-6 rounded-[20px] bg-[oklch(12%_0.01_200)] border border-[oklch(22%_0.015_200)] shadow-[0_8px_24px_rgba(0,0,0,0.3)]">
-              <h2 className="text-xs font-bold uppercase tracking-[0.12em] text-[var(--color-accent)] mb-4 flex items-center gap-2">
-                <span>📌</span> Puntos Clave de la Noticia
-              </h2>
-              <ul className="space-y-3">
-                {noticia.puntosClave.map((punto, idx) => (
-                  <li key={idx} className="flex items-start gap-3 text-sm sm:text-base text-[oklch(90%_0.005_200)] leading-relaxed">
-                    <span className="text-[var(--color-accent)] font-bold text-base leading-none mt-1">
-                      ◈
-                    </span>
-                    <span>{punto}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          )}
+          {/* Bloque En 3 Puntos Clave (IA) - Solo si son puntos sintetizados distintos al resumen */}
+          {Array.isArray(noticia.puntosClave) &&
+            noticia.puntosClave.length > 0 &&
+            !(noticia.puntosClave.length === 1 && noticia.puntosClave[0] === noticia.resumen) && (
+              <div className="mb-8 p-5 sm:p-6 rounded-[20px] bg-[oklch(12%_0.01_200)] border border-[oklch(22%_0.015_200)] shadow-[0_8px_24px_rgba(0,0,0,0.3)]">
+                <h2 className="text-xs font-bold uppercase tracking-[0.12em] text-[var(--color-accent)] mb-4 flex items-center gap-2">
+                  <span>📌</span> Puntos Clave de la Noticia
+                </h2>
+                <ul className="space-y-3">
+                  {noticia.puntosClave.map((punto, idx) => (
+                    <li key={idx} className="flex items-start gap-3 text-sm sm:text-base text-[oklch(90%_0.005_200)] leading-relaxed">
+                      <span className="text-[var(--color-accent)] font-bold text-base leading-none mt-1">
+                        ◈
+                      </span>
+                      <span>{punto}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
 
-          {/* Bloque ¿Por qué importa? (IA) */}
-          {noticia.porQueImporta && (
-            <div className="mb-8 p-5 sm:p-6 rounded-[20px] bg-gradient-to-br from-[oklch(14%_0.02_200)] to-[oklch(10%_0.01_200)] border-l-4 border-l-[var(--color-accent)] border border-[oklch(20%_0.01_200)]">
-              <h2 className="text-xs font-bold uppercase tracking-[0.12em] text-[var(--color-accent)] mb-2 flex items-center gap-2">
-                <span>💡</span> ¿Por qué importa?
-              </h2>
-              <p className="text-sm sm:text-base text-[oklch(88%_0.01_200)] leading-relaxed font-medium">
-                {noticia.porQueImporta}
-              </p>
-            </div>
-          )}
+          {/* Bloque ¿Por qué importa? (IA) - Solo si es análisis editorial específico */}
+          {noticia.porQueImporta &&
+            !noticia.porQueImporta.startsWith("Novedad relevante en el sector") &&
+            !noticia.porQueImporta.startsWith("Novedad relevante reportada") && (
+              <div className="mb-8 p-5 sm:p-6 rounded-[20px] bg-gradient-to-br from-[oklch(14%_0.02_200)] to-[oklch(10%_0.01_200)] border-l-4 border-l-[var(--color-accent)] border border-[oklch(20%_0.01_200)]">
+                <h2 className="text-xs font-bold uppercase tracking-[0.12em] text-[var(--color-accent)] mb-2 flex items-center gap-2">
+                  <span>💡</span> ¿Por qué importa?
+                </h2>
+                <p className="text-sm sm:text-base text-[oklch(88%_0.01_200)] leading-relaxed font-medium">
+                  {noticia.porQueImporta}
+                </p>
+              </div>
+            )}
 
           {/* Tags Temáticos */}
           {Array.isArray(noticia.tags) && noticia.tags.length > 0 && (
