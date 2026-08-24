@@ -2,16 +2,16 @@
 @config "../tailwind.config.ts";
 
 :root {
-  /* 📰 Paleta "The Modern Broadsheet (Light Editorial)" OKLCH — Warm Newsprint & Deep Charcoal Ink */
-  --color-bg: oklch(96.8% 0.007 75);        /* Papel Prensa Marfil Cálido (Warm Newsprint, cero #fff deslumbrante) */
-  --color-surface: oklch(98.6% 0.005 75);   /* Superficies Elevadas / Tarjetas Claras */
+  /* 📰 Modo Claro Editorial ("The Modern Broadsheet Light") — Warm Newsprint & Deep Charcoal Ink */
+  --color-bg: oklch(96.8% 0.007 75);        /* Papel Prensa Marfil Cálido */
+  --color-surface: oklch(98.6% 0.005 75);   /* Superficies Elevadas */
   --color-card: oklch(99.2% 0.003 75);      /* Fondos de Tarjetas de Prensa */
   --color-card-hover: oklch(95.5% 0.009 75);/* Hover Sutil */
-  --color-border: oklch(88.5% 0.012 75);    /* Líneas Finas de Imprenta (Hairline Warm Gray) */
+  --color-border: oklch(88.5% 0.012 75);    /* Líneas Finas de Imprenta */
   --color-border-hover: oklch(76% 0.025 75);/* Hover de Bordes */
-  --color-accent: oklch(54% 0.17 50);       /* Ámbar Terracota / Bronce Editorial (Gran Contraste en Claro) */
+  --color-accent: oklch(54% 0.17 50);       /* Ámbar Terracota Editorial */
   --color-accent-dim: oklch(66% 0.13 50);   /* Ámbar Atenuado */
-  --color-text: oklch(18% 0.015 50);        /* Tinta Carbón Profunda (Deep Charcoal Ink) */
+  --color-text: oklch(18% 0.015 50);        /* Tinta Carbón Profunda */
   --color-muted: oklch(46% 0.018 50);       /* Ceniza Tostado para Metadatos */
   --color-subtle: oklch(76% 0.015 75);      /* Separadores y Guías de Lectura */
   
@@ -21,6 +21,23 @@
   --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
   --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
   --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+  color-scheme: light;
+}
+
+.dark {
+  /* 📰 Modo Oscuro Editorial ("The Modern Broadsheet Dark") — Warm Obsidian & Noble Amber */
+  --color-bg: oklch(13.5% 0.012 55);        /* Carbón Obsidiana Cálido */
+  --color-surface: oklch(16.5% 0.014 55);   /* Superficies Elevadas */
+  --color-card: oklch(18% 0.015 55);        /* Fondos de Tarjetas de Prensa */
+  --color-card-hover: oklch(21.5% 0.02 55); /* Hover Sutil */
+  --color-border: oklch(23.5% 0.018 55);    /* Líneas Finas de Imprenta */
+  --color-border-hover: oklch(34% 0.035 68);/* Hover de Bordes */
+  --color-accent: oklch(76% 0.165 72);      /* Ámbar Dorado Noble */
+  --color-accent-dim: oklch(62% 0.14 72);   /* Ámbar Atenuado */
+  --color-text: oklch(94% 0.008 60);        /* Blanco Marfil / Pergamino */
+  --color-muted: oklch(65% 0.012 55);       /* Ceniza Cálido para Metadatos */
+  --color-subtle: oklch(38% 0.012 55);      /* Separadores y Guías de Lectura */
+  color-scheme: dark;
 }
 
 * {
@@ -38,6 +55,7 @@ body {
   font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  transition: background-color 200ms ease, color 200ms ease;
 }
 
 /* Tipografía de Periódico Editorial para Titulares */
@@ -101,8 +119,8 @@ h1, h2, h3, .font-serif {
   will-change: transform, opacity;
 }
 
-/* Selección de texto en ámbar pergamino claro */
+/* Selección de texto en ámbar pergamino */
 ::selection {
-  background-color: oklch(54% 0.17 50 / 18%);
+  background-color: oklch(54% 0.17 50 / 20%);
   color: var(--color-accent);
 }

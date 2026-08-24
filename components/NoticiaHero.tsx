@@ -11,14 +11,14 @@ interface Props {
 
 export default function NoticiaHero({ noticia }: Props) {
   return (
-    <div className="relative w-full rounded-[24px] overflow-hidden border border-[var(--color-border)] bg-[var(--color-card)] shadow-[0_12px_40px_rgba(0,0,0,0.5)]">
+    <div className="relative w-full rounded-[24px] overflow-hidden border border-[var(--color-border)] bg-[var(--color-card)] shadow-[0_8px_32px_rgba(0,0,0,0.08)]">
       <Link
         href={`/noticia/${noticia.id}`}
         className="group relative block w-full h-[380px] sm:h-[480px] md:h-[520px] focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap pc-hover-hero"
         aria-label={`Noticia principal: ${noticia.titulo}`}
       >
         {/* Imagen de fondo */}
-        <div className="absolute inset-0 bg-[var(--color-bg)]">
+        <div className="absolute inset-0 bg-neutral-900">
           {noticia.imagen ? (
             <img
               src={noticia.imagen}
@@ -27,25 +27,25 @@ export default function NoticiaHero({ noticia }: Props) {
               loading="eager"
             />
           ) : (
-            <div className="w-full h-full bg-[var(--color-card)]" />
+            <div className="w-full h-full bg-neutral-900" />
           )}
-          {/* Degradado sobre la imagen optimizado para legibilidad móvil */}
-          <div className="absolute inset-0 bg-gradient-to-t from-[oklch(13.5%_0.012_55_/_96%)] via-[oklch(13.5%_0.012_55_/_60%)] to-transparent" />
+          {/* Degradado oscuro profundo para garantizar 100% de contraste y legibilidad del texto */}
+          <div className="absolute inset-0 bg-gradient-to-t from-black/95 via-black/65 to-black/15" />
         </div>
 
         {/* Contenido sobre la imagen */}
         <div className="absolute bottom-0 left-0 right-0 p-5 sm:p-8 md:p-10 flex flex-col justify-end h-full">
           {/* Etiqueta y Tags */}
           <div className="flex flex-wrap items-center gap-2 mb-3">
-            <span className="text-[10px] font-extrabold tracking-[0.12em] uppercase text-[var(--color-accent)]">
+            <span className="text-[10px] font-extrabold tracking-[0.14em] uppercase text-[#F5A623] px-2 py-0.5 rounded-md bg-black/40 border border-[#F5A623]/30 backdrop-blur-xs">
               {noticia.fuente}
             </span>
-            <span className="text-[var(--color-muted)]">·</span>
-            <span className="text-[11px] font-medium text-[var(--color-muted)]">
+            <span className="text-white/40">·</span>
+            <span className="text-[11px] font-medium text-white/80">
               {formatearFecha(noticia.fechaPublicacion)}
             </span>
-            <span className="text-[var(--color-muted)]">·</span>
-            <span className="text-[11px] font-medium text-[var(--color-text)]">
+            <span className="text-white/40">·</span>
+            <span className="text-[11px] font-medium text-white/90">
               ⏱️ {noticia.tiempoLecturaMin || 1} min
             </span>
             {Array.isArray(noticia.tags) && (
@@ -53,7 +53,7 @@ export default function NoticiaHero({ noticia }: Props) {
                 {noticia.tags.slice(0, 3).map((tag) => (
                   <span
                     key={tag}
-                    className="px-2 py-0.5 rounded-full bg-[var(--color-surface)] text-[var(--color-text)] text-[10px] font-bold tracking-wide border border-[var(--color-border)]"
+                    className="px-2.5 py-0.5 rounded-full bg-black/50 text-white/90 text-[10px] font-bold tracking-wide border border-white/20 backdrop-blur-xs"
                   >
                     #{tag}
                   </span>
@@ -62,13 +62,13 @@ export default function NoticiaHero({ noticia }: Props) {
             )}
           </div>
 
-          {/* Título Serif Editorial */}
-          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight text-[var(--color-text)] font-serif leading-[1.18] mb-3 sm:mb-4 pc-hover-hero-title transition-colors duration-200 line-clamp-3">
+          {/* Título Serif Editorial en Blanco Nítido con Alto Contraste */}
+          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight text-white font-serif leading-[1.18] mb-3 sm:mb-4 drop-shadow-md line-clamp-3">
             {noticia.titulo}
           </h2>
 
           {/* Resumen */}
-          <p className="text-xs sm:text-sm md:text-base text-[var(--color-muted)] line-clamp-2 max-w-2xl font-normal leading-relaxed">
+          <p className="text-xs sm:text-sm md:text-base text-white/85 line-clamp-2 max-w-2xl font-normal leading-relaxed drop-shadow-xs">
             {noticia.resumen}
           </p>
         </div>
@@ -76,11 +76,17 @@ export default function NoticiaHero({ noticia }: Props) {
 
       {/* Botones de acción flotantes en Hero */}
       <div className="absolute top-4 right-4 flex items-center gap-2 z-20">
-        <BotonCompartir noticia={noticia} size="md" />
-        <BotonFavorito noticia={noticia} size="md" />
+        <BotonCompartir
+          noticia={noticia}
+          size="md"
+          className="bg-black/60 text-white border-white/20 hover:bg-black/80 shadow-md backdrop-blur-xs"
+        />
+        <BotonFavorito
+          noticia={noticia}
+          size="md"
+          className="bg-black/60 text-white border-white/20 hover:bg-black/80 shadow-md backdrop-blur-xs"
+        />
       </div>
     </div>
   );
 }
-
-

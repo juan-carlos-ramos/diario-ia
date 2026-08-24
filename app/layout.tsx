@@ -70,6 +70,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es" className={`${serifFont.variable} ${sansFont.variable}`} suppressHydrationWarning>
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var t=localStorage.getItem("diarioia_tema");if(t==="dark"){document.documentElement.classList.add("dark");}}catch(e){}})();`,
+          }}
+        />
+      </head>
       <body className="font-sans antialiased">
         <BuscadorModal />
         {children}

@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useFavoritos } from "@/lib/favoritos";
+import BotonTema from "./BotonTema";
 
 export default function Header() {
   const pathname = usePathname();
@@ -27,6 +28,9 @@ export default function Header() {
           </span>
         </Link>
         <div className="flex items-center gap-2 sm:gap-3">
+          {/* Botón Selector de Modo Claro/Oscuro */}
+          <BotonTema />
+
           {/* Botón Buscador Cmd+K */}
           <button
             onClick={() => window.dispatchEvent(new Event("diarioia_abrir_buscador"))}

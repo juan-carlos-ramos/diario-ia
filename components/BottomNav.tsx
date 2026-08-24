@@ -80,7 +80,7 @@ export default function BottomNav() {
               <span className="text-base leading-none relative">
                 {item.icono}
                 {item.href === "/guardados" && montado && totalFavoritos > 0 && (
-                  <span className="absolute -top-1.5 -right-2.5 min-w-[14px] h-[14px] px-1 text-[9px] font-black rounded-full bg-[var(--color-accent)] text-black flex items-center justify-center">
+                  <span className="absolute -top-1.5 -right-2.5 min-w-[14px] h-[14px] px-1 text-[9px] font-black rounded-full bg-[var(--color-accent)] text-white flex items-center justify-center">
                     {totalFavoritos}
                   </span>
                 )}
