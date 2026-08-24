@@ -1,7 +1,9 @@
 @import "tailwindcss";
 @config "../tailwind.config.ts";
 
-:root {
+:root,
+html.light,
+[data-theme="light"] {
   /* 📰 Modo Claro Editorial ("The Modern Broadsheet Light") — Warm Newsprint & Deep Charcoal Ink */
   --color-bg: oklch(96.8% 0.007 75);        /* Papel Prensa Marfil Cálido */
   --color-surface: oklch(98.6% 0.005 75);   /* Superficies Elevadas */
@@ -24,7 +26,9 @@
   color-scheme: light;
 }
 
-.dark {
+html.dark,
+.dark,
+[data-theme="dark"] {
   /* 📰 Modo Oscuro Editorial ("The Modern Broadsheet Dark") — Warm Obsidian & Noble Amber */
   --color-bg: oklch(13.5% 0.012 55);        /* Carbón Obsidiana Cálido */
   --color-surface: oklch(16.5% 0.014 55);   /* Superficies Elevadas */
