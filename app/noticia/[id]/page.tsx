@@ -117,7 +117,7 @@ export default async function PaginaDetalle({ params }: Props) {
         <div className="flex items-center justify-between mb-8">
           <Link
             href="/"
-            className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[var(--color-card)] border border-[var(--color-border)] text-xs font-bold tracking-wider uppercase text-[var(--color-muted)] hover:text-white hover:border-[var(--color-border-hover)] transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap"
+            className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[var(--color-card)] border border-[var(--color-border)] text-xs font-bold tracking-wider uppercase text-[var(--color-muted)] hover:text-[var(--color-text)] hover:border-[var(--color-border-hover)] transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap shadow-xs"
             aria-label="Volver a la página principal"
           >
             ← Volver
@@ -131,7 +131,7 @@ export default async function PaginaDetalle({ params }: Props) {
 
         {/* Imagen */}
         {noticia.imagen && (
-          <div className="w-full h-64 sm:h-96 md:h-[420px] rounded-[24px] overflow-hidden mb-10 bg-[var(--color-card)] border border-[var(--color-border)] relative shadow-[0_12px_40px_rgba(0,0,0,0.4)]">
+          <div className="w-full h-64 sm:h-96 md:h-[420px] rounded-[24px] overflow-hidden mb-10 bg-[var(--color-card)] border border-[var(--color-border)] relative shadow-[0_8px_32px_rgba(0,0,0,0.06)]">
             <img
               src={noticia.imagen}
               alt={noticia.titulo}
@@ -151,7 +151,7 @@ export default async function PaginaDetalle({ params }: Props) {
               {formatearFecha(noticia.fechaPublicacion)}
             </span>
             <span className="text-[var(--color-subtle)]">·</span>
-            <span className="text-xs font-medium text-[oklch(75%_0.02_200)] flex items-center gap-1">
+            <span className="text-xs font-medium text-[var(--color-muted)] flex items-center gap-1">
               <span>⏱️</span> {noticia.tiempoLecturaMin || 1} min de lectura
             </span>
           </div>
@@ -170,7 +170,7 @@ export default async function PaginaDetalle({ params }: Props) {
           {Array.isArray(noticia.puntosClave) &&
             noticia.puntosClave.length > 0 &&
             !(noticia.puntosClave.length === 1 && noticia.puntosClave[0] === noticia.resumen) && (
-              <div className="mb-8 p-6 sm:p-7 rounded-[22px] bg-[var(--color-card)] border border-[var(--color-border)] shadow-[0_8px_24px_rgba(0,0,0,0.3)]">
+              <div className="mb-8 p-6 sm:p-7 rounded-[22px] bg-[var(--color-card)] border border-[var(--color-border)] shadow-[0_4px_20px_rgba(0,0,0,0.03)]">
                 <h2 className="text-xs font-black uppercase tracking-[0.14em] text-[var(--color-accent)] mb-4 flex items-center gap-2">
                   <span>📌</span> En 3 Puntos Clave
                 </h2>
@@ -191,7 +191,7 @@ export default async function PaginaDetalle({ params }: Props) {
           {noticia.porQueImporta &&
             !noticia.porQueImporta.startsWith("Novedad relevante en el sector") &&
             !noticia.porQueImporta.startsWith("Novedad relevante reportada") && (
-              <div className="mb-8 p-6 sm:p-7 rounded-[22px] bg-[oklch(76%_0.165_72_/_7%)] border-l-4 border-l-[var(--color-accent)] border border-[oklch(76%_0.165_72_/_22%)]">
+              <div className="mb-8 p-6 sm:p-7 rounded-[22px] bg-[oklch(54%_0.17_50_/_6%)] border-l-4 border-l-[var(--color-accent)] border border-[oklch(54%_0.17_50_/_20%)]">
                 <h2 className="text-xs font-black uppercase tracking-[0.14em] text-[var(--color-accent)] mb-2 flex items-center gap-2">
                   <span>💡</span> ¿Por qué importa?
                 </h2>
@@ -209,7 +209,7 @@ export default async function PaginaDetalle({ params }: Props) {
                 <Link
                   key={tag}
                   href={`/?q=${encodeURIComponent(tag)}`}
-                  className="px-3 py-1 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-card-hover)] text-[var(--color-muted)] hover:text-[var(--color-accent)] border border-[var(--color-border)] text-xs font-semibold tracking-wide transition-colors interactive-tap"
+                  className="px-3 py-1 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-card-hover)] text-[var(--color-muted)] hover:text-[var(--color-accent)] border border-[var(--color-border)] text-xs font-semibold tracking-wide transition-colors interactive-tap shadow-2xs"
                 >
                   #{tag}
                 </Link>
@@ -223,7 +223,7 @@ export default async function PaginaDetalle({ params }: Props) {
               href={noticia.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-2.5 px-7 py-3.5 bg-[var(--color-accent)] text-black text-sm font-black rounded-full transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] focus:ring-offset-2 focus:ring-offset-black interactive-tap shadow-[0_4px_16px_oklch(76%_0.165_72_/_20%)] hover:scale-[1.02]"
+              className="inline-flex items-center justify-center gap-2.5 px-7 py-3.5 bg-[var(--color-accent)] text-white text-sm font-black rounded-full transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] focus:ring-offset-2 interactive-tap shadow-[0_4px_16px_oklch(54%_0.17_50_/_20%)] hover:scale-[1.02]"
               aria-label={`Leer artículo completo en ${noticia.fuente}`}
             >
               Leer artículo completo en {noticia.fuente} →

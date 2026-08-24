@@ -43,7 +43,7 @@ export default function PaginaGuardados() {
           </div>
         ) : favoritos.length === 0 ? (
           <div className="py-20 px-4 text-center max-w-md mx-auto flex flex-col items-center">
-            <div className="w-16 h-16 rounded-2xl bg-[var(--color-card)] border border-[var(--color-border)] flex items-center justify-center text-[var(--color-accent)] text-2xl mb-5 shadow-[0_8px_32px_rgba(0,0,0,0.3)]">
+            <div className="w-16 h-16 rounded-2xl bg-[var(--color-card)] border border-[var(--color-border)] flex items-center justify-center text-[var(--color-accent)] text-2xl mb-5 shadow-sm">
               <svg
                 className="w-8 h-8"
                 viewBox="0 0 24 24"
@@ -56,7 +56,7 @@ export default function PaginaGuardados() {
                 <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
               </svg>
             </div>
-            <h2 className="text-lg font-bold text-white mb-2">
+            <h2 className="text-lg font-bold font-serif text-[var(--color-text)] mb-2">
               No tienes noticias guardadas
             </h2>
             <p className="text-xs text-[var(--color-muted)] mb-6 leading-relaxed">
@@ -64,7 +64,7 @@ export default function PaginaGuardados() {
             </p>
             <Link
               href="/"
-              className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-black text-xs font-bold transition-transform active:scale-95 interactive-tap"
+              className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white text-xs font-bold transition-transform active:scale-95 interactive-tap shadow-[0_2px_12px_oklch(54%_0.17_50_/_20%)]"
             >
               Explorar noticias de hoy →
             </Link>
@@ -81,7 +81,7 @@ export default function PaginaGuardados() {
         )}
       </main>
 
-      <footer className="mt-16 border-t border-[#111111] py-8 text-center text-xs text-[#333333]">
+      <footer className="mt-16 border-t border-[var(--color-border)] py-8 text-center text-xs text-[var(--color-muted)]">
         DiarioIA · Colección personal en tu navegador
       </footer>
     </>

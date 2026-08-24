@@ -15,7 +15,7 @@ export default function NoticiaCard({ noticia, index }: Props) {
     <Link
       href={`/noticia/${noticia.id}`}
       style={index !== undefined ? { animationDelay: `${index * 35}ms` } : undefined}
-      className="group flex flex-col bg-[var(--color-card)] border border-[var(--color-border)] rounded-[16px] overflow-hidden focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] focus:ring-offset-2 focus:ring-offset-black interactive-tap pc-hover-card stagger-item relative"
+      className="group flex flex-col bg-[var(--color-card)] border border-[var(--color-border)] rounded-[16px] overflow-hidden focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] focus:ring-offset-2 focus:ring-offset-[var(--color-bg)] interactive-tap pc-hover-card stagger-item relative shadow-[0_2px_12px_rgba(0,0,0,0.03)] hover:shadow-[0_4px_20px_rgba(0,0,0,0.06)]"
       aria-label={`Leer noticia: ${noticia.titulo}`}
     >
       {/* Imagen */}
@@ -53,7 +53,7 @@ export default function NoticiaCard({ noticia, index }: Props) {
           {Array.isArray(noticia.tags) && noticia.tags[0] && (
             <>
               <span className="text-[var(--color-subtle)] text-[10px]">·</span>
-              <span className="text-[10px] font-semibold text-[oklch(75%_0.02_200)]">
+              <span className="text-[10px] font-semibold text-[var(--color-muted)]">
                 #{noticia.tags[0]}
               </span>
             </>

@@ -82,7 +82,7 @@ export default function HerramientasClient({ herramientasIniciales, categorias }
       {herramientasFiltradas.length === 0 ? (
         <div className="text-center py-20 bg-[var(--color-card)] rounded-[24px] border border-[var(--color-border)]">
           <span className="text-4xl">🔍</span>
-          <h3 className="text-lg font-bold font-serif text-white mt-3">No se encontraron herramientas</h3>
+          <h3 className="text-lg font-bold font-serif text-[var(--color-text)] mt-3">No se encontraron herramientas</h3>
           <p className="text-xs text-[var(--color-muted)] mt-1">Prueba cambiando los términos de búsqueda o de categoría.</p>
         </div>
       ) : (
@@ -90,7 +90,7 @@ export default function HerramientasClient({ herramientasIniciales, categorias }
           {herramientasFiltradas.map((herramienta) => (
             <div
               key={herramienta.id}
-              className="flex flex-col justify-between p-6 rounded-[20px] bg-[var(--color-card)] border border-[var(--color-border)] hover:border-[var(--color-border-hover)] transition-all duration-200 hover:-translate-y-1 shadow-[0_4px_20px_rgba(0,0,0,0.2)] group"
+              className="flex flex-col justify-between p-6 rounded-[20px] bg-[var(--color-card)] border border-[var(--color-border)] hover:border-[var(--color-border-hover)] transition-all duration-200 hover:-translate-y-1 shadow-[0_2px_12px_rgba(0,0,0,0.03)] group"
             >
               <div>
                 {/* Cabecera de la tarjeta */}
@@ -121,7 +121,7 @@ export default function HerramientasClient({ herramientasIniciales, categorias }
                   href={herramienta.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-accent)] text-[var(--color-text)] hover:text-black text-xs font-bold transition-all interactive-tap"
+                  className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-accent)] text-[var(--color-text)] hover:text-white border border-[var(--color-border)] text-xs font-bold transition-all interactive-tap"
                   aria-label={`Abrir sitio de ${herramienta.nombre}`}
                 >
                   Probar ↗

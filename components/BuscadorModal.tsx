@@ -159,18 +159,18 @@ export default function BuscadorModal() {
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-end sm:items-start justify-center sm:pt-24 p-0 sm:p-4 bg-black/80 backdrop-blur-md transition-opacity"
+      className="fixed inset-0 z-50 flex items-end sm:items-start justify-center sm:pt-24 p-0 sm:p-4 bg-black/40 backdrop-blur-sm transition-opacity"
       onClick={() => setAbierto(false)}
       role="dialog"
       aria-modal="true"
       aria-label="Buscador global"
     >
       <div
-        className="w-full max-w-xl bg-[var(--color-card)] border-t sm:border border-[oklch(26%_0.02_200)] rounded-t-[28px] sm:rounded-[24px] shadow-[0_20px_60px_rgba(0,0,0,0.9)] overflow-hidden flex flex-col max-h-[80vh] animate-in slide-in-from-bottom-6 sm:slide-in-from-bottom-0 sm:fade-in sm:zoom-in-95 duration-200 pb-[max(12px,env(safe-area-inset-bottom))]"
+        className="w-full max-w-xl bg-[var(--color-card)] border-t sm:border border-[var(--color-border)] rounded-t-[28px] sm:rounded-[24px] shadow-[0_20px_60px_rgba(0,0,0,0.15)] overflow-hidden flex flex-col max-h-[80vh] animate-in slide-in-from-bottom-6 sm:slide-in-from-bottom-0 sm:fade-in sm:zoom-in-95 duration-200 pb-[max(12px,env(safe-area-inset-bottom))]"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Barra superior de arrastre en móvil */}
-        <div className="sm:hidden w-10 h-1 bg-[oklch(25%_0.01_200)] rounded-full mx-auto mt-3 mb-1" />
+        <div className="sm:hidden w-10 h-1 bg-[var(--color-border)] rounded-full mx-auto mt-3 mb-1" />
 
         {/* Input de Búsqueda Minimalista */}
         <div className="flex items-center gap-3 px-4 sm:px-5 py-3 sm:py-4 border-b border-[var(--color-border)]">
@@ -185,19 +185,19 @@ export default function BuscadorModal() {
               setIndiceSeleccionado(0);
             }}
             onKeyDown={handleInputKeyDown}
-            className="w-full bg-transparent text-sm sm:text-base text-white placeholder-[var(--color-muted)] focus:outline-none"
+            className="w-full bg-transparent text-sm sm:text-base text-[var(--color-text)] placeholder-[var(--color-muted)] focus:outline-none"
           />
           {query && (
             <button
               onClick={() => setQuery("")}
-              className="text-xs text-[var(--color-muted)] hover:text-white px-1.5 py-0.5 rounded-full"
+              className="text-xs text-[var(--color-muted)] hover:text-[var(--color-text)] px-1.5 py-0.5 rounded-full"
             >
               ✕
             </button>
           )}
           <button
             onClick={() => setAbierto(false)}
-            className="w-8 h-8 rounded-full bg-[oklch(18%_0.01_200)] flex items-center justify-center text-xs text-[var(--color-muted)] active:text-white interactive-tap"
+            className="w-8 h-8 rounded-full bg-[var(--color-surface)] flex items-center justify-center text-xs text-[var(--color-muted)] active:text-[var(--color-text)] interactive-tap"
             aria-label="Cerrar buscador"
           >
             ✕
@@ -219,7 +219,7 @@ export default function BuscadorModal() {
                       setQuery(tema);
                       setIndiceSeleccionado(0);
                     }}
-                    className="px-3 py-1.5 rounded-full bg-[oklch(16%_0.01_200)] hover:bg-[var(--color-accent)] hover:text-black text-[oklch(80%_0.015_200)] border border-[var(--color-border)] text-xs font-semibold tracking-wide transition-all interactive-tap"
+                    className="px-3 py-1.5 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-accent)] hover:text-white text-[var(--color-text)] border border-[var(--color-border)] text-xs font-semibold tracking-wide transition-all interactive-tap"
                   >
                     #{tema}
                   </button>
@@ -240,8 +240,8 @@ export default function BuscadorModal() {
                   onMouseEnter={() => setIndiceSeleccionado(idx)}
                   className={`flex items-center justify-between gap-3 p-3 rounded-xl transition-all interactive-tap ${
                     indiceSeleccionado === idx
-                      ? "bg-[oklch(18%_0.02_200)] border border-[oklch(28%_0.03_200)] text-white"
-                      : "hover:bg-[oklch(14%_0.01_200)] border border-transparent text-[oklch(85%_0.01_200)]"
+                      ? "bg-[var(--color-surface)] border border-[var(--color-border-hover)] text-[var(--color-text)]"
+                      : "hover:bg-[var(--color-surface)] border border-transparent text-[var(--color-text)]"
                   }`}
                 >
                   <div className="flex items-center gap-2.5 min-w-0">
@@ -254,7 +254,7 @@ export default function BuscadorModal() {
                   </div>
 
                   {item.badge && (
-                    <span className="text-[10px] font-bold px-2 py-0.5 rounded-md bg-[oklch(18%_0.01_200)] text-[var(--color-accent)] border border-[oklch(26%_0.02_200)] flex-shrink-0">
+                    <span className="text-[10px] font-bold px-2 py-0.5 rounded-md bg-[var(--color-surface)] text-[var(--color-accent)] border border-[var(--color-border)] flex-shrink-0">
                       {item.badge}
                     </span>
                   )}
@@ -265,7 +265,7 @@ export default function BuscadorModal() {
         </div>
 
         {/* Footer Minimalista */}
-        <div className="px-5 py-2.5 border-t border-[var(--color-border)] bg-[oklch(10%_0.008_200)] flex items-center justify-between text-[11px] text-[var(--color-muted)]">
+        <div className="px-5 py-2.5 border-t border-[var(--color-border)] bg-[var(--color-surface)] flex items-center justify-between text-[11px] text-[var(--color-muted)]">
           <span className="hidden sm:inline">Usa ↑↓ para navegar y Enter para abrir</span>
           <span className="text-[10px] text-[var(--color-muted)] sm:ml-auto">DiarioIA Search</span>
         </div>
