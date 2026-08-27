@@ -1,0 +1,216 @@
+{
+  "fecha": "2026-08-27",
+  "generado": "2026-08-27T18:54:50.200Z",
+  "total": 9,
+  "noticias": [
+    {
+      "id": "8bcda6f4-f85b-4e7f-b686-a317950d0fca",
+      "titulo": "Google lanza Gemini Omni 1.1 Flash, una nueva IA para generar vídeos profesionales que es una bestia",
+      "resumen": "Google acaba de lanzar Gemini Omni 1.1 Flash, su nueva IA para generar vídeos de calidad profesional. La nueva versión construye sobre lo que ya vimos a mediados de año con Gemini Omni y lo lleva a un nivel más alto gracias a la implementación de varias características que destacan tanto por su util",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-gemini-omni-1-1-flash/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/omni-1-1-flash-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-27T17:42:47.000Z",
+      "fechaAgregada": "2026-08-27T18:52:51.477Z",
+      "puntosClave": [
+        "Google presenta Gemini Omni 1.1 Flash, una evolución de su modelo multimedia diseñada específicamente para la generación de vídeo de alta calidad y rendimiento optimizado.",
+        "La arquitectura 'Flash' prioriza la velocidad de procesamiento y la eficiencia de costes, permitiendo tiempos de renderizado mucho más rápidos para creadores de contenido.",
+        "Esta actualización busca competir directamente en el sector de la producción audiovisual automatizada, ofreciendo herramientas de edición y control más avanzadas."
+      ],
+      "porQueImporta": "Esta actualización traslada la batalla de la generación de vídeo de la mera calidad visual a la eficiencia operativa; al democratizar herramientas de nivel profesional con costes de cómputo reducidos, Google presiona a rivales como OpenAI y Runway a acelerar la comercialización y viabilidad económica de sus propios modelos.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "Generación de Vídeo",
+        "Multimedia"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "66acd299-5e3f-497d-af2c-e51634ab2036",
+      "titulo": "Bill Gates exige que la IA pague impuestos para blindar empleos: \"Creo que deberíamos gravar los tokens de IA y a los robots\"",
+      "resumen": "Más allá de los pequeños empleos (casi vocacionales) que Bill Gates contó en su libro biográfico 'Código Fuente: Mis inicios', el millonario tecnológico solo ha tenido dos trabajos en su vida. El primero fue levantar una de las mayores tecnológicas del mundo, y el segundo, repartir la fortuna que le",
+      "url": "https://www.xataka.com/robotica-e-ia/bill-gates-exige-que-ia-pague-impuestos-para-blindar-empleos-creo-que-deberiamos-gravar-tokens-ia-a-robots",
+      "imagen": "https://i.blogs.es/bb0a6e/bill-gates-y-la-ia-en-el-trabajo/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-27T16:45:04.000Z",
+      "fechaAgregada": "2026-08-27T18:52:51.201Z",
+      "puntosClave": [
+        "Bill Gates propone gravar directamente los tokens generados por modelos de IA y la actividad de los robots para frenar el desplazamiento laboral.",
+        "La medida busca desincentivar la sustitución acelerada de trabajadores humanos y financiar la transición de los sectores más afectados.",
+        "El filántropo sugiere que una tasa impositiva digital equilibraría la balanza fiscal entre las corporaciones tecnológicas y la fuerza laboral tradicional."
+      ],
+      "porQueImporta": "De prosperar esta visión fiscal, el coste de operar modelos de lenguaje y sistemas automatizados aumentaría significativamente, obligando a las empresas a recalcular el retorno de inversión (ROI) de sus integraciones de IA y alterando el modelo de negocio de los proveedores de API de software.",
+      "tags": [
+        "Fiscalidad IA",
+        "Automatización",
+        "Mercado Laboral",
+        "Regulación"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "c92d1866-651d-4ca5-bf51-38b16d6f98bd",
+      "titulo": "EEUU tiene los modelos más caros y capaces del mundo. El problema es que China los tiene casi igual de buenos y mucho más baratos",
+      "resumen": "Hace pocas semanas se lanzó DeepSeek V4-Flash, y esta semana hemos visto cómo han llegado dos espectaculares modelos más: Qwen3.8-Flash y GLM-5.3-Flash. Todos ellos destacan por ser buenos, bonitos y sobre todo, baratos. Antes los modelos de pesos abiertos chinos eran atractivos solo por su precio,",
+      "url": "https://www.xataka.com/robotica-e-ia/eeuu-tiene-modelos-caros-capaces-mundo-problema-que-china-tiene-casi-igual-buenos-mucho-baratos",
+      "imagen": "https://i.blogs.es/f50059/zai-app/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-27T14:45:04.000Z",
+      "fechaAgregada": "2026-08-27T18:52:51.202Z",
+      "puntosClave": [
+        "Modelos chinos recientes como Qwen3.8-Flash y DeepSeek V4-Flash demuestran que el ecosistema asiático ya no solo compite en coste, sino también en capacidades de primer nivel.",
+        "La estrategia de código abierto y pesos disponibles de las firmas chinas está dinamitando el mercado con precios drásticamente inferiores a las alternativas de EE. UU.",
+        "El liderazgo indiscutible de firmas norteamericanas como OpenAI se ve amenazado ante la viabilidad económica que ofrecen estos nuevos modelos para producción masiva."
+      ],
+      "porQueImporta": "Esta paridad técnica a bajo coste redefine la viabilidad de los proyectos de IA para startups y desarrolladores. Al romper la dependencia de las costosas API estadounidenses, se desata una inevitable guerra de precios global que obligará a los gigantes de Silicon Valley a abaratar sus tecnologías o perder cuota de mercado.",
+      "tags": [
+        "LLMs",
+        "Geopolítica IA",
+        "Eficiencia Coste",
+        "Código Abierto"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "713bc9db-f550-4a45-9579-b0c7db09efbd",
+      "titulo": "Vigila tu vivienda en todo momento con estas cámaras de seguridad en oferta",
+      "resumen": "Para proteger la seguridad de tu vivienda, contar con cámaras de vigilancia puede ser una buena opción. Vas a poder controlarlas de forma remota, desde el móvil, y recibir avisos en cuanto ocurra algo. Vamos a mostrarte algunas opciones que puedes encontrar a precio reducido. Te hablaremos de las pr",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-seguridad-hogar-0826/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/camara-seguridad-tp-link-tapo.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-26T14:03:10.000Z",
+      "fechaAgregada": "2026-08-27T18:52:53.817Z",
+      "puntosClave": [
+        "La adopción de cámaras de vigilancia conectadas se facilita mediante descuentos estratégicos en el mercado de consumo.",
+        "Estos dispositivos permiten la supervisión remota continua y la emisión de alertas inmediatas a través de aplicaciones móviles.",
+        "El hardware de seguridad doméstica sigue consolidándose como la puerta de entrada principal al ecosistema del hogar conectado."
+      ],
+      "porQueImporta": "La masificación de cámaras IoT a bajo coste amplía la red de nodos en el borde (*edge computing*), impulsando la necesidad de algoritmos de visión por computador más eficientes para el procesamiento local de vídeo y abriendo oportunidades para desarrolladores de integraciones domóticas seguras.",
+      "tags": [
+        "IoT",
+        "Hardware",
+        "VisiónPorComputador",
+        "Seguridad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "708acc5b-efbe-41ac-a2b9-53d69d544ccf",
+      "titulo": "Carmody Grey, la filósofa que dijo no a Anthropic: “Cada vez estamos más solos y somos más tontos”",
+      "resumen": "Esta académica inglesa recibió la llamada deseada por muchos de colaborar con una gran empresa de IA. Para sorpresa de la mayoría de sus colegas, dijo que no le interesaba su oferta",
+      "url": "https://elpais.com/tecnologia/2026-08-26/carmody-grey-la-filosofa-que-dijo-no-a-anthropic-cada-vez-estamos-mas-solos-y-somos-mas-tontos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XJOUHM5DQ5DGNHGOJSZUWKSTIE.jpg?auth=8bd043eb801aa0ed240f96e5d54ce35b21d0c3cfcc550d664fb98ad02ce058a9",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-26T03:30:01.000Z",
+      "fechaAgregada": "2026-08-27T18:52:52.409Z",
+      "puntosClave": [
+        "La filósofa británica Carmody Grey rechazó una lucrativa oferta de colaboración con Anthropic, desmarcándose del éxodo habitual de académicos hacia las grandes tecnológicas.",
+        "Grey sostiene que la dependencia tecnológica actual fomenta el aislamiento social y debilita nuestra autonomía cognitiva, haciéndonos más vulnerables.",
+        "Su decisión expone la creciente resistencia de sectores humanistas a legitimar con su presencia el desarrollo acelerado y sin control de la inteligencia artificial."
+      ],
+      "porQueImporta": "El rechazo de Grey evidencia una grieta reputacional para firmas como Anthropic: la dificultad de reclutar un pensamiento crítico genuino cuando la industria es percibida como un peligro para el desarrollo intelectual y la cohesión social, y no como un aliado.",
+      "tags": [
+        "Anthropic",
+        "Ética de la IA",
+        "Filosofía",
+        "Humanidades"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "30ec30ed-010f-49ad-914f-4797d36214c1",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/85/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-08-27T18:52:52.409Z",
+      "puntosClave": [
+        "La tutela digital infantil debe evolucionar de la simple restricción a un acompañamiento dinámico que madure junto al menor.",
+        "La irrupción de la inteligencia artificial generativa exige una nueva alfabetización digital enfocada en la verificación de contenidos y el pensamiento crítico.",
+        "El rol de los adultos se desplaza de la vigilancia pasiva hacia la mediación activa para enseñar el uso ético de los asistentes virtuales."
+      ],
+      "porQueImporta": "Esta tendencia obliga a las empresas de software y desarrolladores de IA a priorizar el diseño de interfaces 'seguras por definición' (safety-by-design). Las tecnológicas que lideren la creación de herramientas con control parental avanzado y modelos de lenguaje transparentes ganarán la confianza de un mercado educativo y familiar cada vez más exigente.",
+      "tags": [
+        "Seguridad IA",
+        "EdTech",
+        "Ética Digital"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "35ee5cbf-8907-40a2-947f-5db8dbc8cf09",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-08-27T18:52:52.320Z",
+      "puntosClave": [
+        "Sam Altman busca un perfil directivo para OpenAI bajo la advertencia explícita de que se enfrentará a un entorno de alta presión y exigencia inmediata.",
+        "La compensación económica para el puesto supera los 500.000 dólares anuales, una cifra de élite incluso para los estándares de Silicon Valley.",
+        "Esta convocatoria abierta en redes sociales refleja la urgencia de la compañía por reforzar su cúpula en un momento de máxima competencia y transición corporativa."
+      ],
+      "porQueImporta": "Esta oferta evidencia que la carrera por el liderazgo en la IA generativa ya no solo se libra con algoritmos, sino atrayendo a un talento ejecutivo dispuesto a asumir un desgaste extremo. Define un nuevo estándar de 'compensación por estrés' en el sector tecnológico, donde la velocidad de despliegue comercial de OpenAI prima sobre la conciliación laboral.",
+      "tags": [
+        "OpenAI",
+        "Empleo Tech",
+        "Silicon Valley",
+        "Sam Altman"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "e131fc41-63c8-4af8-b662-1c88acd7b445",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-08-27T18:52:52.321Z",
+      "puntosClave": [
+        "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "00d54d56-485d-459c-8a0a-142756ca61d1",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-08-27T18:52:52.321Z",
+      "puntosClave": [
+        "Un correo de agradecimiento redactado automáticamente por una IA desató la indignación de uno de los creadores históricos del lenguaje Go.",
+        "El incidente expone el creciente rechazo de líderes técnicos ante la deshumanización y la pérdida de autenticidad en las comunicaciones profesionales.",
+        "La polémica ilustra la delgada línea entre la productividad optimizada y la saturación de interacciones artificiales vacías de valor real."
+      ],
+      "porQueImporta": "Este rechazo de figuras clave de la programación expone una crisis de confianza en la industria: cuando la automatización sustituye la cortesía humana, las empresas arriesgan su reputación y alienan a las comunidades de desarrolladores al priorizar la eficiencia artificial sobre la empatía real.",
+      "tags": [
+        "IA Generativa",
+        "Desarrollo de Software",
+        "Cultura Tecnológica"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
