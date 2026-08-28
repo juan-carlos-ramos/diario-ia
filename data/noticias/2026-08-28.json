@@ -1,0 +1,404 @@
+{
+  "fecha": "2026-08-28",
+  "generado": "2026-08-28T20:00:05.151Z",
+  "total": 17,
+  "noticias": [
+    {
+      "id": "50f0c20a-edee-4f63-9259-8c7d8c43ba47",
+      "titulo": "OpenAI, Google y Microsoft advierten sobre una ola de ciberataques con IA",
+      "resumen": "OpenAI, Microsoft, Anthropic y otras 100 compañías han firmado una carta advirtiendo sobre los riesgos de la IA en la ciberseguridad. Titulada \"Un llamado a la acción colectiva en materia de ciberdefensa\", diferentes compañías de sectores tecnológicos y financieros alertaron sobre un aumento en la s",
+      "url": "https://hipertextual.com/inteligencia-artificial/carta-openai-empresas-ciberdefensa-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/11/openai.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-28T19:06:34.000Z",
+      "fechaAgregada": "2026-08-28T19:55:10.339Z",
+      "puntosClave": [
+        "Más de 100 colosos tecnológicos y financieros firman una alianza inédita frente al repunte de ciberamenazas diseñadas con inteligencia artificial.",
+        "El manifiesto exige una estrategia de ciberdefensa colectiva para anticiparse a vectores de ataque cada vez más sofisticados y automatizados.",
+        "La iniciativa busca unificar protocolos de seguridad entre competidores del sector para proteger infraestructuras digitales críticas a nivel global."
+      ],
+      "porQueImporta": "Esta alianza redefine la ciberseguridad corporativa al forzar a los desarrolladores de IA a asumir la responsabilidad de blindar sus modelos, obligando a la industria a migrar hacia defensas proactivas capaces de contener malware dinámico que muta en tiempo real.",
+      "tags": [
+        "Ciberseguridad",
+        "OpenAI",
+        "Microsoft",
+        "Gobernanza IA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "7e0d3fc5-53b8-45a5-ab68-bc4ca546f8b5",
+      "titulo": "De enorme fábrica de aluminio a centro de datos para IA: Kentucky va a convertirse en el próximo gran nodo de datos para Anthropic",
+      "resumen": "TeraWulf ha recibido luz verde por parte de los reguladores para desarrollar un enorme campus de centros de datos de IA construido en lo que antes era una fundición de aluminio en Kentucky, Estados Unidos. El coste del proyecto se estima en unos 4.000 millones de dólares y será Anthropic una de las",
+      "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/enorme-fabrica-aluminio-a-centro-datos-para-ia-kentucky-va-a-convertirse-proximo-gran-nodo-datos-para-anthropic",
+      "imagen": "https://i.blogs.es/568051/fabrica/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-28T19:01:04.000Z",
+      "fechaAgregada": "2026-08-28T19:55:09.899Z",
+      "puntosClave": [
+        "TeraWulf transformará una antigua fundición de aluminio en Kentucky en un megaproyecto de centros de datos optimizados para inteligencia artificial.",
+        "La inversión estimada supera los 4.000 millones de dólares tras recibir la aprobación de las autoridades regulatorias.",
+        "Anthropic se posiciona como el cliente principal de estas instalaciones para expandir la capacidad de cómputo de sus modelos Claude."
+      ],
+      "porQueImporta": "Este movimiento evidencia cómo la carrera por la IA de frontera se ha trasladado a la infraestructura física y energética, reconvirtiendo el sector industrial pesado en nodos de computación para garantizar la viabilidad y el entrenamiento de los LLM de próxima generación.",
+      "tags": [
+        "Anthropic",
+        "Infraestructura",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "74344b94-bd71-45fe-885b-fcaa3cb9353e",
+      "titulo": "La IA prometía reducir la jornada laboral de los empleados. Por el momento ya ha conseguido tres horas libres a la semana",
+      "resumen": "Los gurús de la IA nos contaron que esta tecnología iba a permitirnos trabajar menos horas, liberarnos de las tareas aburridas y rutinarias y a darnos tiempo para lo realmente importante. La promesa sonaba bien, pero hasta ahora lo único que parece estar consiguiendo la IA es incrementar la carga de",
+      "url": "https://www.xataka.com/robotica-e-ia/ia-prometia-reducir-jornada-laboral-empleados-momento-ha-conseguido-tres-horas-libres-a-semana",
+      "imagen": "https://i.blogs.es/909f3e/beatriz-cattel-lycaa7rwshc-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-28T18:46:59.000Z",
+      "fechaAgregada": "2026-08-28T19:55:09.899Z",
+      "puntosClave": [
+        "La promesa de automatización se materializa de forma modesta, logrando liberar un promedio de tres horas semanales para los trabajadores.",
+        "A pesar del ahorro de tiempo, existe una percepción inicial de sobrecarga laboral debido a la curva de aprendizaje y la reestructuración de tareas.",
+        "El éxito de la integración de la IA dependerá de cómo las empresas gestionen ese tiempo liberado sin saturar nuevamente a sus plantillas."
+      ],
+      "porQueImporta": "Este fenómeno redefine el debate sobre el retorno de inversión de la IA en las empresas; demuestra que la tecnología no elimina puestos de inmediato, sino que exige una reconfiguración profunda de los flujos de trabajo donde la eficiencia debe traducirse en bienestar y no en mayor autoexplotación.",
+      "tags": [
+        "Productividad",
+        "FuturoDelTrabajo",
+        "GestiónEmpresarial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "fa8425eb-6e05-4133-8a3d-de8382789d01",
+      "titulo": "OpenAI, Anthropic y Google piden protegernos de los riesgos de la IA. Es como poner al lobo a cuidar del gallinero",
+      "resumen": "OpenAI, Anthropic, Google, Microsoft, AWS, IBM, Cloudflare, CrowdStrike, Palo Alto Networks y decenas de empresas más han firmado una carta abierta con un objetivo común: reforzar la ciberseguridad ante la llegada de modelos de IA cada vez más potentes. La frase con la que arrranca el documento no d",
+      "url": "https://www.xataka.com/robotica-e-ia/openai-anthropic-google-piden-protegernos-riesgos-ia-como-poner-al-lobo-a-cuidar-gallinero",
+      "imagen": "https://i.blogs.es/dd6a62/models-seguridad-carta-abierta/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-28T15:31:04.000Z",
+      "fechaAgregada": "2026-08-28T19:55:09.900Z",
+      "puntosClave": [
+        "Las principales corporaciones de IA y firmas de ciberseguridad se alían bajo un frente común para mitigar los riesgos digitales de los modelos de nueva generación.",
+        "El movimiento genera recelo en el sector, que percibe esta iniciativa de autoregulación como una estrategia para controlar el relato de la seguridad y eludir auditorías externas.",
+        "La coalición busca coordinar defensas proactivas ante la creciente sofisticación de amenazas cibernéticas impulsadas por sistemas automatizados."
+      ],
+      "porQueImporta": "Esta alianza redefine quién dicta las reglas de juego en seguridad digital; para empresas y desarrolladores, implica que los estándares de protección del mañana estarán diseñados por los mismos gigantes que crean los riesgos, moldeando un mercado de ciberseguridad bajo sus propias condiciones corporativas.",
+      "tags": [
+        "Ciberseguridad",
+        "Regulación IA",
+        "Grandes Tecnológicas"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "0ca2a6b8-b8b9-4254-8f2f-b8cd941fa43f",
+      "titulo": "Sale a la venta el 4 de septiembre, pero ya puedes reservar el nuevo Galaxy S26 FE con hasta 100 euros de descuento",
+      "resumen": "El próximo 4 de septiembre, sale a la venta oficialmente el nuevo móvil de Samsung, el Galaxy S26 FE, un terminal que pretende ofrecer una experiencia premium a un precio más comedido que el de los móviles de gama alta. Su PVP oficial de salida es de 799 euros, aunque ya hay tiendas en la que puedes",
+      "url": "https://www.xataka.com/seleccion/sale-a-venta-4-septiembre-puedes-reservar-nuevo-galaxy-s26-fe-100-euros-descuento",
+      "imagen": "https://i.blogs.es/7b8351/samsung-galaxy-s26-fe/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-28T15:15:04.000Z",
+      "fechaAgregada": "2026-08-28T19:55:09.900Z",
+      "puntosClave": [
+        "Samsung programa el lanzamiento oficial del Galaxy S26 FE para el 4 de septiembre con un precio de salida de 799 euros.",
+        "La fase de precompra ya está activa y permite obtener rebajas de hasta 100 euros antes de su llegada a las tiendas.",
+        "Este modelo busca equilibrar especificaciones de nivel premium con un coste más competitivo en el mercado de consumo."
+      ],
+      "porQueImporta": "El lanzamiento del S26 FE acelera la democratización de la IA en el ecosistema móvil. Al ofrecer hardware optimizado para ejecutar modelos de inteligencia artificial en un rango de precio intermedio, Samsung amplía drásticamente la base de usuarios activos para desarrolladores de aplicaciones y servicios basados en IA on-device.",
+      "tags": [
+        "Hardware",
+        "Smartphones",
+        "Samsung",
+        "Consumo"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "7a6e7e50-db81-429f-857d-d052e6f8b55c",
+      "titulo": "Anthropic replica la jugada de OpenAI: quiere su propio chip de IA para reducir su dependencia de Nvidia",
+      "resumen": "A las empresas que se dedican al desarrollo de modelos de inteligencia artificial (IA) les interesa tener sus propios chips para entrenamiento e inferencia. Google tiene sus TPU (Tensor Processing Unit) 8t y 8i, ambas de última generación. Meta, su familia de aceleradores MTIA (Meta Training and Inf",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-replica-jugada-openai-quiere-su-propio-chip-ia-para-reducir-su-dependencia-nvidia",
+      "imagen": "https://i.blogs.es/a3a2ad/claudechip/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-28T12:45:04.000Z",
+      "fechaAgregada": "2026-08-28T19:55:09.901Z",
+      "puntosClave": [
+        "Anthropic busca diseñar sus propios procesadores de IA para recortar la enorme dependencia financiera y logística que tiene de Nvidia.",
+        "La firma se suma a la tendencia de gigantes como OpenAI, Meta y Google, que ya desarrollan silicio a medida para entrenamiento e inferencia.",
+        "Esta estrategia busca garantizar potencia de cálculo constante y reducir drásticamente los elevados costes operativos de sus modelos."
+      ],
+      "porQueImporta": "La descentralización del hardware de IA frente al monopolio de Nvidia permitirá a las grandes tecnológicas reducir costes de infraestructura, lo que eventualmente abaratará el consumo de APIs para desarrolladores e impulsará modelos más eficientes.",
+      "tags": [
+        "Anthropic",
+        "Hardware",
+        "Nvidia",
+        "Chips"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "4416458d-8616-4d70-bcd5-2ebadd2b3b85",
+      "titulo": "Misma pantalla, misma batería y casi las mismas cámaras: ¿merece la pena pagar más por el nuevo Galaxy S26 FE?",
+      "resumen": "Con la llegada del nuevo Galaxy S26 FE, la firma coreana renueva una de sus familias más populares: esa que busca ofrecer la experiencia de la gama alta a un precio más contenido. Sin embargo, como suele ocurrir tras cada salto generacional, el lanzamiento del nuevo modelo deja en una posición estra",
+      "url": "https://www.xataka.com/seleccion/pantalla-bateria-casi-mismas-camaras-merece-pena-pagar-nuevo-galaxy-s26-fe",
+      "imagen": "https://i.blogs.es/ddb6dd/samsung-galaxy-s26-fe-vs-samsung-galaxy-s25-fe/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-28T11:15:05.000Z",
+      "fechaAgregada": "2026-08-28T19:55:09.902Z",
+      "puntosClave": [
+        "Samsung apuesta por el continuismo físico en el Galaxy S26 FE, repitiendo la misma pantalla, batería y casi idénticas especificaciones de cámara.",
+        "La falta de novedades de hardware cuestiona el incremento de precio frente a su predecesor, complicando su atractivo en el mercado de consumo.",
+        "La estrategia obliga a la marca a justificar el relevo generacional casi exclusivamente mediante optimización de software y funciones de procesamiento."
+      ],
+      "porQueImporta": "Este estancamiento de hardware consolida una tendencia crítica para la industria: el valor de los smartphones se ha desplazado del silicio a los servicios de IA y optimización de software. Para desarrolladores y marcas, esto significa que el éxito de un dispositivo ya no depende de la lente o la batería, sino de la eficiencia del sistema operativo y los modelos integrados.",
+      "tags": [
+        "Hardware",
+        "Smartphones",
+        "Samsung",
+        "Consumo"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "49a02c8e-e8bb-47b9-8af0-78343b46bcfa",
+      "titulo": "LibreOffice no quiere ningún tipo de IA y muchos usuarios aplauden la decisión",
+      "resumen": "The Document Foundation ha liberado una nueva versión de la suite ofimática, LibreOffice 26.8, que destaca por la mejora de sus funciones, aumento de rendimiento y compatibilidad. Además, la Fundación se niega a incluir ningún tipo de tecnología de inteligencia artificial generativa en una estrategi",
+      "url": "https://www.muycomputer.com/2026/08/28/libreoffice-no-quiere-ningun-tipo-de-ia-y-muchos-usuarios-aplauden-la-decision/",
+      "imagen": "https://picsum.photos/seed/485/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-28T09:43:49.000Z",
+      "fechaAgregada": "2026-08-28T19:55:19.188Z",
+      "puntosClave": [
+        "LibreOffice estrena su versión 26.8 enfocándose estrictamente en mejorar el rendimiento clásico, la estabilidad y la compatibilidad de documentos.",
+        "The Document Foundation ha decidido vetar de forma explícita la integración de herramientas de inteligencia artificial generativa en su ecosistema.",
+        "La postura anti-IA de la suite de código abierto ha sido respaldada masivamente por usuarios que buscan un reducto libre de telemetría y procesamiento externo de datos."
+      ],
+      "porQueImporta": "Esta decisión marca una fractura ideológica en la industria del software: frente al sector que integra IA de forma omnipresente, LibreOffice se posiciona como el refugio de máxima privacidad para corporaciones y administraciones públicas que manejan datos ultrasensibles y rechazan la dependencia de modelos en la nube.",
+      "tags": [
+        "Open Source",
+        "Privacidad",
+        "Productividad",
+        "Ofimática"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "adb0276a-616b-40ca-b5ef-d0dce8d7bdbc",
+      "titulo": "Pon la IA de Copilot en Windows 11 Pro a tu servicio, por solo 23,49 euros",
+      "resumen": "¿Qué ocurriría si la inteligencia artificial pudiera ayudarte precisamente con esas tareas que ralentizan tu rutina diaria? Buscar una información concreta, ordenar varias ideas, preparar un primer texto o resolver una duda puede llevarnos solo unos minutos, pero la suma de todas esas pequeñas inter",
+      "url": "https://www.muycomputer.com/2026/08/28/pon-la-ia-de-copilot-en-windows-11-pro-a-tu-servicio-por-solo-2349-euros/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/08/Windows-11-3.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-28T07:57:33.000Z",
+      "fechaAgregada": "2026-08-28T19:55:19.188Z",
+      "puntosClave": [
+        "La licencia de Windows 11 Pro sufre una agresiva rebaja de precio, facilitando el acceso generalizado a funciones avanzadas por poco más de 23 euros.",
+        "Copilot se integra como el motor de productividad clave para resolver microtareas cotidianas, desde la síntesis de textos hasta la resolución de dudas.",
+        "La oferta busca acelerar la transición de los usuarios hacia sistemas operativos modernos optimizados nativamente para la asistencia con inteligencia artificial."
+      ],
+      "porQueImporta": "La democratización económica de sistemas operativos con IA nativa acelera la transición hacia entornos de trabajo híbridos, obligando a los desarrolladores a replantear el software profesional para que sea compatible y coexista eficientemente con asistentes virtuales integrados en el kernel del sistema.",
+      "tags": [
+        "Microsoft",
+        "Productividad",
+        "Sistemas Operativos",
+        "Copilot"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "e9222210-dd23-4a75-9a3a-8654d0cae0fa",
+      "titulo": "OpenAI desarrolla una IA que trabaja sola durante días enteros",
+      "resumen": "OpenAI está desarrollando un agente de IA que puede trabajar por horas o días sin intervención humana constante. Un reporte señala que esta función estaría disponible en Codex y permitiría mantener activos a los agentes hasta que decidas ponerlos en modo de suspensión. La IA podría trabajar mientras",
+      "url": "https://hipertextual.com/inteligencia-artificial/openai-modo-persistente-codex-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/07/iroboto.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-27T19:35:00.000Z",
+      "fechaAgregada": "2026-08-28T19:55:10.339Z",
+      "puntosClave": [
+        "OpenAI diseña agentes de inteligencia artificial capaces de operar de forma autónoma durante jornadas completas sin requerir supervisión constante.",
+        "La funcionalidad se integraría en Codex, permitiendo que el sistema ejecute de manera continua tareas de programación complejas en segundo plano.",
+        "El usuario mantiene el control estratégico mediante un mecanismo de suspensión que pausa la actividad del agente solo cuando es necesario."
+      ],
+      "porQueImporta": "Esta tecnología marca la transición de asistentes de código reactivos a verdaderos colaboradores autónomos. Al delegar tareas complejas de desarrollo de software que toman días, las empresas podrán acelerar drásticamente sus ciclos de producción y redefinir el rol del programador hacia la pura supervisión arquitectónica.",
+      "tags": [
+        "OpenAI",
+        "Codex",
+        "Agentes Autónomos",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "2bc517a1-81d5-48b2-b7af-b33403f8c2c6",
+      "titulo": "Google lanza Gemini Omni 1.1 Flash, una nueva IA para generar vídeos profesionales que es una bestia",
+      "resumen": "Google acaba de lanzar Gemini Omni 1.1 Flash, su nueva IA para generar vídeos de calidad profesional. La nueva versión construye sobre lo que ya vimos a mediados de año con Gemini Omni y lo lleva a un nivel más alto gracias a la implementación de varias características que destacan tanto por su util",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-gemini-omni-1-1-flash/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/omni-1-1-flash-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-27T17:42:47.000Z",
+      "fechaAgregada": "2026-08-28T19:55:10.340Z",
+      "puntosClave": [
+        "Google evoluciona su tecnología de generación de vídeo con la llegada de Gemini Omni 1.1 Flash, diseñada para la producción de metraje de nivel profesional.",
+        "Esta versión optimiza sustancialmente la arquitectura de su predecesora, logrando un rendimiento mucho más rápido y eficiente en la creación de contenido.",
+        "El lanzamiento intensifica la competencia directa en el sector audiovisual sintético, buscando liderar la generación de vídeo comercial y creativo."
+      ],
+      "porQueImporta": "Esta herramienta democratiza la producción de vídeo de alta fidelidad para creadores y agencias, reduciendo drásticamente los tiempos de renderizado y costes de producción, al tiempo que consolida la infraestructura 'Flash' de Google como el estándar de velocidad en la industria multimodal.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "VideoAI",
+        "IA Generativa"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "ad676f14-0013-4f4e-bde1-c8dcd431ea5e",
+      "titulo": "Vigila tu vivienda en todo momento con estas cámaras de seguridad en oferta",
+      "resumen": "Para proteger la seguridad de tu vivienda, contar con cámaras de vigilancia puede ser una buena opción. Vas a poder controlarlas de forma remota, desde el móvil, y recibir avisos en cuanto ocurra algo. Vamos a mostrarte algunas opciones que puedes encontrar a precio reducido. Te hablaremos de las pr",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-seguridad-hogar-0826/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/camara-seguridad-tp-link-tapo.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-26T14:03:10.000Z",
+      "fechaAgregada": "2026-08-28T19:55:16.147Z",
+      "puntosClave": [
+        "La reducción de precios democratiza el acceso a dispositivos de vigilancia inteligente para el ámbito doméstico.",
+        "El control remoto móvil y los sistemas de alertas en tiempo real se consolidan como estándares de seguridad accesibles.",
+        "La proliferación de hardware IoT a bajo costo acelera la adopción de ecosistemas de hogar conectado."
+      ],
+      "porQueImporta": "La masificación de cámaras de consumo impulsa la necesidad de desarrollar modelos de Visión Artificial y Edge AI más eficientes y ligeros, obligando a la industria a priorizar el procesamiento de datos local para garantizar la privacidad del usuario sin saturar la nube.",
+      "tags": [
+        "IoT",
+        "Visión Artificial",
+        "Smart Home",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "fd0d4bd2-3806-42cf-b1bf-841157ce2964",
+      "titulo": "Carmody Grey, la filósofa que dijo no a Anthropic: “Cada vez estamos más solos y somos más tontos”",
+      "resumen": "Esta académica inglesa recibió la llamada deseada por muchos de colaborar con una gran empresa de IA. Para sorpresa de la mayoría de sus colegas, dijo que no le interesaba su oferta",
+      "url": "https://elpais.com/tecnologia/2026-08-26/carmody-grey-la-filosofa-que-dijo-no-a-anthropic-cada-vez-estamos-mas-solos-y-somos-mas-tontos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XJOUHM5DQ5DGNHGOJSZUWKSTIE.jpg?auth=8bd043eb801aa0ed240f96e5d54ce35b21d0c3cfcc550d664fb98ad02ce058a9",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-26T03:30:01.000Z",
+      "fechaAgregada": "2026-08-28T19:55:12.080Z",
+      "puntosClave": [
+        "La filósofa británica Carmody Grey rechazó una lucrativa propuesta de colaboración con Anthropic, creadores del modelo de IA Claude.",
+        "Su decisión se basa en la convicción de que el desarrollo tecnológico acelerado deteriora el intelecto humano y debilita los vínculos sociales.",
+        "El caso expone la creciente resistencia de académicos humanistas a actuar como validadores éticos cosméticos de las corporaciones tecnológicas."
+      ],
+      "porQueImporta": "Esta renuncia marca un límite claro para la industria de la IA: las Big Tech no pueden comprar legitimidad ética fácilmente. Para las empresas de tecnología, evidencia que la integración de las humanidades en el desarrollo de software exige un compromiso real y no solo una estrategia de relaciones públicas.",
+      "tags": [
+        "Anthropic",
+        "Ética de la IA",
+        "Filosofía"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "e89089b3-04b1-4f3e-bcc8-ed945a50c213",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/24/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-08-28T19:55:12.080Z",
+      "puntosClave": [
+        "La tutela digital de los menores debe evolucionar de la simple prohibición a un acompañamiento activo y adaptativo según su edad.",
+        "La irrupción de la IA generativa añade complejidad al entorno digital, exigiendo que los adultos actúen como filtros éticos de esta tecnología.",
+        "El verdadero reto educativo ya no es el acceso a internet, sino capacitar a las nuevas generaciones para discernir y coconvivir con algoritmos avanzados."
+      ],
+      "porQueImporta": "Para los desarrolladores y empresas de IA, este escenario exige diseñar interfaces con seguridad nativa ('safety by design') y herramientas de control parental inteligentes. Quienes logren crear asistentes que eduquen de forma segura a los menores capturarán un mercado de EdTech y consumo familiar altamente regulado pero de gran valor.",
+      "tags": [
+        "IA Ética",
+        "EdTech",
+        "Seguridad Digital"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "fc042e0c-9ba1-419e-90ff-7a89c5b7e0e8",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-08-28T19:55:11.936Z",
+      "puntosClave": [
+        "Sam Altman busca un perfil directivo para OpenAI bajo la advertencia explícita de enfrentarse a un entorno de altísima presión y estrés.",
+        "La oferta económica supera los 500.000 dólares anuales, un salario de élite que busca compensar la exigencia de una incorporación inmediata y sin curva de aprendizaje.",
+        "Este movimiento evidencia la brutal competencia y la velocidad de desarrollo en Silicon Valley, donde la salud laboral se intercambia abiertamente por compensaciones millonarias."
+      ],
+      "porQueImporta": "Esta oferta redefine el listón del reclutamiento en la era de la IA generativa: ya no basta con la excelencia técnica, ahora se prioriza la resistencia psicológica extrema. Para la industria, consolida una cultura de 'hipercrecimiento' donde las grandes firmas están dispuestas a pagar primas millonarias para blindar sus puestos críticos frente al agotamiento.",
+      "tags": [
+        "OpenAI",
+        "Talento Tech",
+        "Salarios",
+        "Cultura Laboral"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "fd282a36-5657-416d-8f22-a275d92fc3e4",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-08-28T19:55:11.937Z",
+      "puntosClave": [
+        "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "f45ed52a-c800-4185-9414-c02f26eab00d",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-08-28T19:55:11.937Z",
+      "puntosClave": [
+        "Rob Pike, co-creador del lenguaje de programación Go, reaccionó con rechazo y enfado ante un correo de agradecimiento automatizado con IA.",
+        "El incidente expone la creciente fatiga y la desconexión emocional que genera recibir textos sintéticos sin esfuerzo humano real detrás.",
+        "La molestia de figuras clave del desarrollo de software marca un límite claro entre la productividad técnica y la deshumanización de las relaciones profesionales."
+      ],
+      "porQueImporta": "Este desencuentro resalta una barrera cultural crítica para la IA: el rechazo de la comunidad técnica a la 'cortesía automatizada'. Para las empresas, revela que el uso indiscriminado de texto sintético en la comunicación puede destruir la confianza y alejar a socios o talentos clave que valoran la autenticidad.",
+      "tags": [
+        "IA Generativa",
+        "Desarrollo de Software",
+        "Cultura Tech"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
