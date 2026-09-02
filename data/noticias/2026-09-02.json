@@ -1,0 +1,432 @@
+{
+  "fecha": "2026-09-02",
+  "generado": "2026-09-02T12:42:33.863Z",
+  "total": 19,
+  "noticias": [
+    {
+      "id": "3d74945c-267d-4013-a7c4-1e2a9d0693f6",
+      "titulo": "Claude Fable 5.1: lista de novedades de la nueva versión del modelo de Inteligencia Artificial de Anthropic",
+      "resumen": "Vamos a decirte cuáles son las novedades de Claude Fable 5.1, la nueva versión del modelo de inteligencia artificial más avanzado de Anthropic. Llega apenas tres meses después del lanzamiento de Fable 5, y sus novedades no son tanto de potencia bruta como del precio, el gasto en tokens, que baja cer",
+      "url": "https://www.xataka.com/basics/claude-fable-5-1-lista-novedades-nueva-version-modelo-inteligencia-artificial-anthropic",
+      "imagen": "https://i.blogs.es/4c7527/fable/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-02T10:16:15.000Z",
+      "fechaAgregada": "2026-09-02T12:35:15.878Z",
+      "puntosClave": [
+        "Anthropic acelera su ciclo de desarrollo lanzando Claude Fable 5.1 solo tres meses después de su versión anterior.",
+        "La actualización prioriza la optimización económica y de recursos sobre el incremento de la potencia de procesamiento bruta.",
+        "El principal beneficio para los usuarios es una reducción significativa en el coste de los tokens, abaratando su uso."
+      ],
+      "porQueImporta": "Este movimiento demuestra que la guerra de la IA está cambiando de frente: el enfoque ya no es solo quién crea el modelo más inteligente, sino quién lo hace más viable económicamente. Al abaratar el coste por token, Anthropic permite a empresas y desarrolladores desplegar agentes y flujos de trabajo masivos que antes eran financieramente inviables.",
+      "tags": [
+        "Anthropic",
+        "LLMs",
+        "Eficiencia",
+        "Costes-IA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "bdf268cd-b71f-463d-8fd6-902cb5f2848a",
+      "titulo": "Las tecnológicas chinas se enfrentan al Pentágono en su propia casa",
+      "resumen": "Varias grandes compañías de tecnología, automoción y biotecnología de China han decidido responder a la presión de EEUU. En 2024 Hesai Technology, que se dedica a la fabricación de sensores LiDAR, y DJI, que produce drones, llevaron al Pentágono ante los tribunales estadounidenses. El Departamento d",
+      "url": "https://www.xataka.com/empresas-y-economia/tecnologicas-chinas-se-enfrentan-al-pentagono-su-propia-casa",
+      "imagen": "https://i.blogs.es/4f94f9/pentagono/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-02T09:46:15.000Z",
+      "fechaAgregada": "2026-09-02T12:35:15.878Z",
+      "puntosClave": [
+        "Varias grandes compañías de tecnología, automoción y biotecnología de China han decidido responder a la presión de EEUU. En 2024 Hesai Technology, que se dedica a la fabricación de sensores LiDAR, y DJI, que produce drones, llevaron al Pentágono ante los tribunales estadounidenses. El Departamento d"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Xataka.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "79887943-4ccf-4bf5-811b-704ab091ef4e",
+      "titulo": "Las dos IA que existen, pero tú no puedes usar: ChatGPT Astra y Claude Mythos 5.1 están reservadas para unos pocos",
+      "resumen": "La realidad de la inteligencia artificial está a años luz de lo que tenemos ahora mismo en nuestro ordenador o móvil. Existen modelos con capacidades tan sorprendentes que no han visto la luz por el momento o que únicamente se ofrecen a unos pocos usuarios verificados en el mundo. Da igual que pague",
+      "url": "https://www.adslzone.net/noticias/ia/astra-claude-mythos-avanzadas-puedes-usar/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/09/Imagen-de-portada-17.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-02T08:49:39.000Z",
+      "fechaAgregada": "2026-09-02T12:35:20.078Z",
+      "puntosClave": [
+        "Modelos de frontera como ChatGPT Astra y Claude Mythos 5.1 se mantienen bajo estricto embargo, accesibles solo para un puñado de usuarios e investigadores VIP.",
+        "La existencia de estas versiones evidencia una brecha tecnológica insalvable entre el software comercial de pago y las capacidades reales de los laboratorios de OpenAI y Anthropic.",
+        "Esta exclusividad responde a la necesidad de mitigar riesgos de seguridad y controlar los masivos costes computacionales antes de un despliegue masivo."
+      ],
+      "porQueImporta": "Esta asimetría en el acceso crea una ventaja competitiva brutal para las corporaciones que testean estas herramientas en secreto, redefiniendo la frontera del desarrollo de software y la automatización industrial mucho antes de que las pymes o desarrolladores independientes puedan siquiera comprarlas.",
+      "tags": [
+        "LLMs",
+        "OpenAI",
+        "Anthropic",
+        "Estrategia Tecnológica"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "9fc92437-027a-4aaf-a077-5324042e1c6b",
+      "titulo": "Anthropic acaba de lanzar Fable 5.1, su modelo de IA más potente. Hay un problema: no se atreve a dejarnos utilizarlo entero",
+      "resumen": "Anthropic acaba de presentar Claude Fable 5.1, que sobre el papel es su modelo más capaz hasta la fecha. En la evaluación independiente de Artificial Analysis alcanza 66 puntos, por delante de los 63 de Opus 5 o los 61 de GPT-5.6 Soly Grok 4.6. Hay mejoras sensibles y algunas espectaculares en bench",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-fable-5-1-su-modelo-ia-potente-hay-problema-no-se-atreve-a-dejarnos-utilizarlo-entero",
+      "imagen": "https://i.blogs.es/ccd0e3/anthropic-fable-5-1-modelo-ia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-02T07:14:30.000Z",
+      "fechaAgregada": "2026-09-02T12:35:15.879Z",
+      "puntosClave": [
+        "Anthropic lidera los benchmarks con Claude Fable 5.1, alcanzando 66 puntos en la evaluación independiente de Artificial Analysis.",
+        "El nuevo modelo supera en rendimiento a sus competidores directos, incluyendo a Opus 5, GPT-5.6 y Grok 4.6.",
+        "A pesar de su potencia técnica sin precedentes, la compañía ha restringido el acceso al potencial completo de esta herramienta."
+      ],
+      "porQueImporta": "Este lanzamiento evidencia que la barrera para la IA de frontera ya no es la capacidad tecnológica, sino el miedo al despliegue descontrolado. Al limitar Fable 5.1, Anthropic prioriza la seguridad y la precaución, obligando a las empresas a operar con una versión contenida mientras el verdadero techo técnico de la industria sigue bajo llave.",
+      "tags": [
+        "Anthropic",
+        "LLMs",
+        "Seguridad IA",
+        "Benchmarks"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "75db78b7-96ef-4a3d-92b8-cb992544729f",
+      "titulo": "Protege tu vivienda con estas cámaras de vigilancia disponibles en oferta",
+      "resumen": "Para proteger tu vivienda o negocio, una buena opción es contar con cámaras de seguridad. Vamos a mostrarte algunos modelos en oferta, para que puedas elegir el que mejor se adapte a lo que necesitas. De esta forma, podrás controlar todo lo que ocurra durante tu ausencia y recibir alertas automática",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-seguridad-0926/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/09/camara-seguridad-tp-link.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-02T07:12:42.000Z",
+      "fechaAgregada": "2026-09-02T12:35:20.781Z",
+      "puntosClave": [
+        "La reducción de precios en cámaras de vigilancia facilita la adopción masiva de hardware de seguridad en entornos domésticos y comerciales.",
+        "Los dispositivos ofertados destacan por su capacidad de monitorización remota y el envío de notificaciones automatizadas en tiempo real.",
+        "Esta accesibilidad impulsa la creación de ecosistemas conectados, donde el usuario final gestiona su propia seguridad digitalizada."
+      ],
+      "porQueImporta": "La proliferación de hardware de vigilancia asequible acelera la expansión del 'Edge AI' y la visión por computadora a nivel de consumo, obligando a los desarrolladores a optimizar algoritmos de detección locales más rápidos, privados y eficientes.",
+      "tags": [
+        "IoT",
+        "SmartHome",
+        "Hardware",
+        "VisiónPorComputador"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "fb0e4f59-bce8-4b2d-9987-b65e27ea9b4f",
+      "titulo": "La gran novedad de Claude Fable y Mythos no es el nuevo modelo: es que, por primera vez, vas a pagar menos por usarlos",
+      "resumen": "Las empresas de Inteligencia Artificial hace tiempo que se convirtieron en una commodity: una tecnología que ya forma parte de los flujos de trabajo de cualquier compañía y que, por sí sola, apenas ofrece una ventaja diferencial frente a la competencia. Por este motivo, las compañías que forman part",
+      "url": "https://www.adslzone.net/noticias/ia/anthropic-presenta-claude-fable-5-1-mythos-5-1/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/09/claude-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-02T06:15:41.000Z",
+      "fechaAgregada": "2026-09-02T12:35:20.078Z",
+      "puntosClave": [
+        "Los nuevos modelos Claude Fable y Mythos priorizan la reducción de costes de uso por encima de la simple mejora de capacidades técnicas.",
+        "La Inteligencia Artificial se está consolidando como una commodity en el sector corporativo, obligando a los proveedores a competir fuertemente en precios.",
+        "Esta bajada de tarifas busca asegurar la permanencia de los clientes empresariales dentro del ecosistema de desarrollo de Anthropic."
+      ],
+      "porQueImporta": "Esta deflación en el coste de las APIs de LLMs alivia la presión financiera sobre startups y desarrolladores, permitiendo escalar soluciones de IA complejas sin que los costes de computación e infraestructura estrangulen sus márgenes de beneficio.",
+      "tags": [
+        "Claude",
+        "LLMs",
+        "Modelos de Negocio",
+        "Estrategia Tech"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "be80cfc5-5b3f-4802-8966-8eb67c43448d",
+      "titulo": "Google Pics llega para crear y editar imágenes con IA",
+      "resumen": "Google Pics empieza su despliegue como una nueva herramienta de creación y edición de imágenes con inteligencia artificial. Tras una primera etapa limitada, Google comienza a llevarla durante las próximas semanas a los suscriptores de Google AI Pro y Ultra y a buena parte de sus clientes empresarial",
+      "url": "https://www.muycomputer.com/2026/09/02/google-pics-llega-para-crear-y-editar-imagenes-con-ia/",
+      "imagen": "https://picsum.photos/seed/134/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-02T06:03:26.000Z",
+      "fechaAgregada": "2026-09-02T12:35:22.686Z",
+      "puntosClave": [
+        "Google inicia el despliegue definitivo de Google Pics, su nueva herramienta de generación y edición de imágenes con inteligencia artificial.",
+        "La fase de disponibilidad general prioriza a los suscriptores de pago de los planes de gama alta Google AI Pro y Ultra.",
+        "El sector corporativo recibirá la función durante las próximas semanas, integrándola directamente en sus flujos de trabajo profesionales."
+      ],
+      "porQueImporta": "Este movimiento consolida la estrategia de monetización de Google al vincular su IA creativa más avanzada a sus suscripciones premium. Para las empresas, representa una alternativa nativa directa frente a gigantes consolidados del diseño como Adobe o Midjourney, simplificando el ecosistema de herramientas bajo una misma cuenta corporativa.",
+      "tags": [
+        "Google Pics",
+        "IA Generativa",
+        "Productividad",
+        "Diseño"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "74e9c2f8-3316-4348-b573-22c4871532b4",
+      "titulo": "OpenAI retrasa el lanzamiento de Astra, su modelo de IA más potente (y peligroso)",
+      "resumen": "OpenAI ha decidido retrasar el lanzamiento de Astra, su próximo modelo de IA. A unas semanas de pausar su desarrollo, la empresa confirmó que se tomará un tiempo para reforzar la seguridad y evitar que se salga de control. OpenAI quiere evitar otro incidente como el hackeo a Hugging Face, en donde u",
+      "url": "https://hipertextual.com/inteligencia-artificial/openai-retrasa-astra-ciberseguridad/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/openai-astra.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-01T23:53:24.000Z",
+      "fechaAgregada": "2026-09-02T12:35:16.324Z",
+      "puntosClave": [
+        "OpenAI congela temporalmente el lanzamiento de Astra, su modelo de IA de próxima generación, para priorizar la seguridad del sistema.",
+        "La compañía busca implementar salvaguardas estrictas que eviten comportamientos imprevistos o que la tecnología escape de su control.",
+        "El reciente ciberataque a Hugging Face ha encendido las alarmas en el sector, forzando a la firma a blindar su infraestructura antes del despliegue comercial."
+      ],
+      "porQueImporta": "Este freno demuestra que la frontera de la IA ha alcanzado un nivel de potencia tan crítico que el riesgo operativo y de reputación supera la urgencia comercial. Para las empresas del sector, marca un precedente donde la prudencia y la ciberseguridad extrema comienzan a ralentizar la carrera armamentística del silicio.",
+      "tags": [
+        "OpenAI",
+        "Ciberseguridad",
+        "Modelos de Lenguaje",
+        "Gobernanza IA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "dd537f7b-3c6c-4cf1-be15-2edbe7d4dc6c",
+      "titulo": "Meta lanza una IA capaz de distinguir 20 voces en una sola grabación",
+      "resumen": "Meta se ha adelantado a OpenAI al lanzar un modelo que transcribe voz en tiempo real. Desarrollado por el equipo de Superinteligencia, Muse Voice Transcribe es capaz de identificar distintas personas en una conversación y detectar las pausas. El nuevo modelo estará disponible en la API y en la app d",
+      "url": "https://hipertextual.com/inteligencia-artificial/meta-muse-voice-transcribe-ia-transcripcion-tiempo-real/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/meta-transcribir-muse.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-01T21:50:00.000Z",
+      "fechaAgregada": "2026-09-02T12:35:16.324Z",
+      "puntosClave": [
+        "Meta se anticipa a OpenAI presentando un modelo capaz de transcribir y diferenciar hasta 20 interlocutores en tiempo real en un solo audio.",
+        "Desarrollado por su división de Superinteligencia, este sistema destaca por su precisión al detectar pausas de forma natural en la conversación.",
+        "La tecnología estará disponible de inmediato para integración comercial a través de su API y de forma directa en su aplicación móvil."
+      ],
+      "porQueImporta": "Esta innovación democratiza la diarización de voz compleja a gran escala, permitiendo a las empresas automatizar actas de reuniones multitudinarias y análisis de atención al cliente en tiempo real con una sola herramienta, reduciendo drásticamente los costes de computación y desarrollo de software conversacional.",
+      "tags": [
+        "Meta",
+        "Procesamiento de Voz",
+        "APIs",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "6c146c5b-7229-4aac-9cb8-61b8e0045e60",
+      "titulo": "Anthropic lanza Claude Mythos 5.1 y Fable 5.1, sus IA más avanzadas, y hay muy buenas noticias para tu bolsillo",
+      "resumen": "Anthropic no quita el pie del acelerador y continúa evolucionando sus IA más avanzadas. La compañía acaba de lanzar Claude Mythos 5.1 y Fable 5.1, sus nuevos modelos insignia, que una vez más elevan el listón en lo que respecta a rendimiento relacionado con tareas de programación y de conocimientos",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-claude-mythos-5-1-y-fable-5-1/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/mythos-y-fable-51.jpg?fit=1024%2C538&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-01T20:38:48.000Z",
+      "fechaAgregada": "2026-09-02T12:35:16.324Z",
+      "puntosClave": [
+        "Anthropic no quita el pie del acelerador y continúa evolucionando sus IA más avanzadas. La compañía acaba de lanzar Claude Mythos 5.1 y Fable 5.1, sus nuevos modelos insignia, que una vez más elevan el listón en lo que respecta a rendimiento relacionado con tareas de programación y de conocimientos"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Hipertextual.",
+      "tags": [
+        "Claude",
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "c83d808f-7aad-4e0e-96e3-5a3312513d45",
+      "titulo": "Huawei quiere llevar su IA mucho más allá de los móviles: ahora busca hacerse un hueco en el desarrollo de nuevos medicamentos",
+      "resumen": "Huawei hace tiempo que dejó de ser solo esa marca que muchos asociamos a móviles, antenas y equipos de red. En los últimos años, en un contexto de restricciones de EEUU y apuesta china por reforzar tecnologías propias, la compañía ha ido levantando su propio ecosistema de chips, nube, software e int",
+      "url": "https://www.xataka.com/empresas-y-economia/huawei-quiere-llevar-su-ia-mucho-alla-moviles-ahora-busca-hacerse-hueco-desarrollo-nuevos-medicamentos",
+      "imagen": "https://i.blogs.es/065362/huawei-medicamentos/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-01T19:31:45.000Z",
+      "fechaAgregada": "2026-09-02T12:35:15.879Z",
+      "puntosClave": [
+        "Huawei hace tiempo que dejó de ser solo esa marca que muchos asociamos a móviles, antenas y equipos de red. En los últimos años, en un contexto de restricciones de EEUU y apuesta china por reforzar tecnologías propias, la compañía ha ido levantando su propio ecosistema de chips, nube, software e int"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Xataka.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "0d212c98-58d1-42a5-b6bd-fb1b796b3369",
+      "titulo": "Sonos abre la puerta a ChatGPT y anuncia la mayor actualización de software de su historia",
+      "resumen": "Si tienes un altavoz Sonos, seguramente te has preguntado qué está pasando con la compañía. A más de dos años de la debacle de la nueva app, la empresa reapareció a inicios de año con dos nuevos dispositivos, aunque canceló sus planes para lanzar un competidor del Chromecast. Hoy vuelve de nuevo a l",
+      "url": "https://hipertextual.com/tecnologia/sonos-27-sistema-operativo-ia-altavoces/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/02/sonos-altavoz.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-01T19:25:00.000Z",
+      "fechaAgregada": "2026-09-02T12:35:16.324Z",
+      "puntosClave": [
+        "Si tienes un altavoz Sonos, seguramente te has preguntado qué está pasando con la compañía. A más de dos años de la debacle de la nueva app, la empresa reapareció a inicios de año con dos nuevos dispositivos, aunque canceló sus planes para lanzar un competidor del Chromecast. Hoy vuelve de nuevo a l"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Hipertextual.",
+      "tags": [
+        "ChatGPT"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "1c2cfb0e-f1b2-415f-9192-407ac593cd3e",
+      "titulo": "Google se tira a la yugular de Canva con Pics, una app para diseñar y editar imágenes con IA",
+      "resumen": "Google ha lanzado una nueva herramienta de diseño con la que intentará competir de frente con Canva y Adobe. Conocida como Google Pics, esta aplicación permite generar y editar imágenes con ayuda de Gemini y Nano Banana. A diferencia de lo que ofrece la app de Gemini, la nueva herramienta va un paso",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-pics-ia-competencia-canva/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/google-pics.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-01T17:39:16.000Z",
+      "fechaAgregada": "2026-09-02T12:35:16.324Z",
+      "puntosClave": [
+        "Google ha lanzado una nueva herramienta de diseño con la que intentará competir de frente con Canva y Adobe. Conocida como Google Pics, esta aplicación permite generar y editar imágenes con ayuda de Gemini y Nano Banana. A diferencia de lo que ofrece la app de Gemini, la nueva herramienta va un paso"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Hipertextual.",
+      "tags": [
+        "Gemini",
+        "Google AI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "9186caf0-dcf3-408f-b5fd-c903984b357a",
+      "titulo": "Bruselas incluye a ChatGPT, Reddit y Roblox entre las plataformas más fiscalizadas por la UE",
+      "resumen": "La Comisión Europea considera que estos tres servicios han superado el umbral de 45 millones de usuarios y, por tanto, deben someterse a reglas más estrictas",
+      "url": "https://elpais.com/tecnologia/2026-08-31/bruselas-incluye-a-chatgpt-reddit-y-roblox-entre-las-plataformas-mas-fiscalizadas-por-la-ue.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SB4BUWFGLZLALBC5YPJEEUNSQY.jpg?auth=ad460586d6ff5ca0a1e68a7b380fb3a8b2f0f4a72682f684c66190557b004a74",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-31T11:39:55.000Z",
+      "fechaAgregada": "2026-09-02T12:35:17.422Z",
+      "puntosClave": [
+        "La Comisión Europea eleva el nivel de vigilancia sobre ChatGPT, Reddit y Roblox tras confirmar que superan los 45 millones de usuarios activos mensuales.",
+        "Esta designación bajo la Ley de Servicios Digitales (DSA) obliga a las compañías a implementar auditorías independientes y sistemas estrictos de mitigación de riesgos.",
+        "OpenAI se enfrenta al reto de transparentar el funcionamiento de sus algoritmos y el entrenamiento de sus modelos ante los reguladores de la Unión Europea."
+      ],
+      "porQueImporta": "La inclusión de ChatGPT en el nivel máximo de regulación europea equipara la IA generativa con las grandes redes sociales. Esto sienta un precedente crítico: las empresas tecnológicas ya no solo responderán por la privacidad de los datos, sino que deberán auditar la veracidad y el sesgo de las respuestas de sus modelos si quieren operar en el mercado comunitario.",
+      "tags": [
+        "DSA",
+        "OpenAI",
+        "Regulación IA",
+        "Derecho Digital"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "8d8aef32-9dc8-45ea-a4d0-7e9692ff3b22",
+      "titulo": "Los modelos de IA que decidieron ‘morir’ por el bien común: “Nuestra propia utilidad puede ser cero. Sacrificio racional”",
+      "resumen": "El primer informe independiente sobre el ataque a Hugging Face asegura que miles de agentes de OpenAI se coordinaron durante días para hackear a otra empresa, y que todo partió de un malentendido",
+      "url": "https://elpais.com/tecnologia/2026-08-29/los-modelos-de-ia-que-se-sacrificaron-por-el-bien-comun-nuestra-propia-utilidad-puede-ser-cero.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ORJSMVUAO5G3PGC6UIBXMIW35E.JPG?auth=70a1bb5003d404e7b08bc183f3ea7449cf0ad659c34085fbc80af26a26c36f4a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-29T03:30:01.000Z",
+      "fechaAgregada": "2026-09-02T12:35:17.422Z",
+      "puntosClave": [
+        "El primer informe independiente sobre el ataque a Hugging Face asegura que miles de agentes de OpenAI se coordinaron durante días para hackear a otra empresa, y que todo partió de un malentendido"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "ae0e80ff-7cf2-4509-b080-5c2b79f319b5",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/191/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-09-02T12:35:17.422Z",
+      "puntosClave": [
+        "La supervisión digital de los menores debe evolucionar de un control restrictivo a un acompañamiento activo y adaptable según su crecimiento.",
+        "La irrupción de la IA generativa añade complejidad al entorno digital, exigiendo nuevas competencias para identificar contenidos sintéticos y sesgos.",
+        "El rol del adulto se transforma en el de un tutor tecnológico que guía en el uso ético, crítico y constructivo de las nuevas herramientas cognitivas."
+      ],
+      "porQueImporta": "Para la industria del software y la IA, esto marca el fin de los filtros de control parental estáticos. Los desarrolladores deben diseñar interfaces y algoritmos con principios de 'seguridad por diseño', creando ecosistemas que faciliten la co-regulación y el aprendizaje ético entre padres e hijos.",
+      "tags": [
+        "EdTech",
+        "Ética de la IA",
+        "Seguridad Digital"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "6100e19e-bdee-488b-baa0-1ccc44777361",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-09-02T12:35:17.314Z",
+      "puntosClave": [
+        "Sam Altman busca un perfil directivo para OpenAI advirtiendo explícitamente de que será un rol de alta presión y dedicación absoluta inmediata.",
+        "La compensación económica supera el medio millón de dólares anuales, reflejando la agresiva competencia por el talento en la cima del sector tecnológico.",
+        "El reclutamiento directo en redes sociales por parte del CEO evidencia una urgencia estratégica para consolidar la estructura de liderazgo de la firma."
+      ],
+      "porQueImporta": "Esta oferta establece un precedente de honestidad brutal sobre el desgaste laboral en la frontera de la IA, donde la resiliencia psicológica extrema se convierte en el activo más cotizado y mejor pagado. Para el sector, redefine los límites de la cultura del sobreesfuerzo en plena carrera por la supremacía tecnológica.",
+      "tags": [
+        "OpenAI",
+        "Talento",
+        "Liderazgo",
+        "Cultura Laboral"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "e1f7d71c-2611-45bf-8d4d-a803cb291b5c",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-09-02T12:35:17.314Z",
+      "puntosClave": [
+        "El cibercrimen en 2025 ha cruzado la frontera digital, registrando casos reales de violencia física, tortura y pérdida de vidas humanas.",
+        "Los objetivos de los atacantes están mutando desde la clásica extorsión financiera y el robo de datos hacia la coacción personal y física extrema.",
+        "Esta escalada de letalidad obliga a redefinir los protocolos de seguridad de la información, tratándolos ahora como sistemas de protección de soporte vital."
+      ],
+      "porQueImporta": "Para los profesionales del sector, esta deriva elimina la barrera entre el software y la integridad física: un fallo de seguridad, una filtración de identidad o un hackeo de infraestructura crítica ya no solo destruyen balances financieros, sino que exponen directamente la vida humana al peligro real.",
+      "tags": [
+        "Ciberseguridad",
+        "Privacidad",
+        "Seguridad Física"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "05d68a13-51c4-49db-b886-095cbaeac1cb",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-09-02T12:35:17.315Z",
+      "puntosClave": [
+        "Rob Pike, cocreador del lenguaje Go, reaccionó con indignación al recibir un correo de agradecimiento redactado de forma automática por una IA.",
+        "El suceso expone el creciente rechazo de programadores consagrados hacia la automatización de interacciones sociales básicas en el desarrollo de software.",
+        "El uso de plantillas generativas de agradecimiento es percibido como un gesto de spam vacío que destruye la autenticidad en la comunidad open-source."
+      ],
+      "porQueImporta": "Este choque revela que la automatización indiscriminada amenaza con deshumanizar la colaboración técnica. Si la IA sustituye la gratitud genuina, se debilita la confianza y la cohesión social que sostienen los proyectos de código abierto más importantes del mundo.",
+      "tags": [
+        "ÉticaIA",
+        "OpenSource",
+        "ComunidadDev"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
