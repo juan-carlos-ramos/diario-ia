@@ -1,0 +1,374 @@
+{
+  "fecha": "2026-09-05",
+  "generado": "2026-09-05T11:49:05.841Z",
+  "total": 17,
+  "noticias": [
+    {
+      "id": "88b3e9f9-fb67-4aaf-8082-a3e08a859b83",
+      "titulo": "OpenAI abre GPT-6 Astra a más usuarios de ChatGPT",
+      "resumen": "Apenas un día después de su lanzamiento limitado a clientes de ciberseguridad, OpenAI ha decidido abrir el acceso a GPT-6 Astra a más usuarios de ChatGPT. Tras las críticas recibidas por no permitir que los suscriptores de los planes de pago del chatbot accedieran al nuevo modelo avanzado desde el p",
+      "url": "https://hipertextual.com/inteligencia-artificial/gpt-6-astra-llega-chatgpt-pro/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/GPT-6-AStra-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-04T20:11:47.000Z",
+      "fechaAgregada": "2026-09-05T11:40:16.465Z",
+      "puntosClave": [
+        "OpenAI acelera el despliegue de GPT-6 Astra expandiendo su acceso a más perfiles de usuarios dentro de ChatGPT.",
+        "La medida se toma apenas un día después de limitar el nuevo modelo exclusivamente a profesionales de ciberseguridad.",
+        "El cambio de estrategia responde a las fuertes protestas de los suscriptores de pago, quienes exigían acceso inmediato al modelo."
+      ],
+      "porQueImporta": "Este movimiento evidencia que la presión de los usuarios de pago es capaz de alterar los tiempos de despliegue de OpenAI, obligando a la empresa a priorizar la satisfacción de su comunidad comercial frente a lanzamientos escalonados y ultraespecializados.",
+      "tags": [
+        "OpenAI",
+        "GPT-6 Astra",
+        "ChatGPT",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "97ca3bf7-e983-4396-8154-37c13d048359",
+      "titulo": "La cinta magnética parecía una reliquia. En la era de la IA, la capacidad LTO ha vuelto a dispararse",
+      "resumen": "Si pensamos en almacenamiento sobre cinta, es fácil viajar varias décadas atrás, a salas llenas de grandes ordenadores, armarios técnicos y bobinas que giraban mientras aquellos sistemas procesaban cantidades de información que hoy parecerían diminutas. La evolución de los discos duros y, más tarde,",
+      "url": "https://www.xataka.com/robotica-e-ia/cinta-magnetica-parecia-reliquia-era-ia-capacidad-lto-ha-vuelto-a-dispararse",
+      "imagen": "https://i.blogs.es/02f60d/almacenamiento-en-cinta/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-04T20:01:36.000Z",
+      "fechaAgregada": "2026-09-05T11:40:15.983Z",
+      "puntosClave": [
+        "Si pensamos en almacenamiento sobre cinta, es fácil viajar varias décadas atrás, a salas llenas de grandes ordenadores, armarios técnicos y bobinas que giraban mientras aquellos sistemas procesaban cantidades de información que hoy parecerían diminutas. La evolución de los discos duros y, más tarde,"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Xataka.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "0cb06f46-56f0-40d0-8d14-85063efe336c",
+      "titulo": "Algo ha quedado claro en IFA 2026: todos quieren un competidor Windows al MacBook Neo y estos son algunos de ellos",
+      "resumen": "Hace exactamente seis meses, Apple presentó un portátil que, sobre el papel, hizo desconfiar a más de uno. El MacBook Neo llegaba como el portátil más asequible de la compañía y lo hacía con un A18 Pro, el chip que Apple había estrenado en el iPhone 16 Pro. Era fácil mirar sus 8 GB de memoria, sus 2",
+      "url": "https://www.xataka.com/ordenadores/algo-ha-quedado-claro-ifa-2026-todos-quieren-competidor-windows-al-macbook-neo-estos-algunos-ellos",
+      "imagen": "https://i.blogs.es/b0bf70/lenovo-ideapad-vibe/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-04T19:01:36.000Z",
+      "fechaAgregada": "2026-09-05T11:40:15.983Z",
+      "puntosClave": [
+        "El mercado de PC busca replicar la fórmula del MacBook Neo tras confirmar el éxito de los portátiles ultraasequibles de Apple.",
+        "El uso de chips de smartphone (como el A18 Pro) en ordenadores ha demostrado ser una estrategia viable para recortar costes sin sacrificar rendimiento básico.",
+        "Los fabricantes de Windows aceleran su transición a arquitecturas ARM económicas en la IFA 2026 para no ceder el segmento de entrada."
+      ],
+      "porQueImporta": "Esta convergencia hacia portátiles ARM hipereconómicos democratiza el hardware portátil, obligando al ecosistema Windows a optimizar su sistema operativo y permitiendo a desarrolladores y empresas desplegar modelos de IA ligeros en dispositivos de bajo coste.",
+      "tags": [
+        "Hardware",
+        "Apple",
+        "Windows",
+        "ARM"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "5047e6f0-d28c-49bf-923b-14c0d2f58aaf",
+      "titulo": "GPT-6 Astra ya es oficial: más autonomía, razonamiento y seguridad",
+      "resumen": "GPT-6 Astra ya es oficial, y OpenAI lo presenta como el modelo más capaz que ha desplegado hasta ahora. La nueva generación pone el foco en algo que va bastante más allá de responder preguntas o razonar mejor: usar ordenadores, navegar por Internet, programar, investigar y completar trabajos complej",
+      "url": "https://www.muycomputer.com/2026/09/04/gpt-6-astra-ya-es-oficial-mas-autonomia-razonamiento-y-seguridad/",
+      "imagen": "https://picsum.photos/seed/254/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-04T18:12:43.000Z",
+      "fechaAgregada": "2026-09-05T11:40:23.406Z",
+      "puntosClave": [
+        "GPT-6 Astra ya es oficial, y OpenAI lo presenta como el modelo más capaz que ha desplegado hasta ahora. La nueva generación pone el foco en algo que va bastante más allá de responder preguntas o razonar mejor: usar ordenadores, navegar por Internet, programar, investigar y completar trabajos complej"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por MuyComputer.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "20f1f2e5-a6de-4b87-90f5-7302bd4ef2a2",
+      "titulo": "OpenAI lanza GPT-6 Astra, su modelo más potente, entre especulaciones sobre si han alcanzado la superinteligencia artificial",
+      "resumen": "La empresa de Sam Altman, que está preparando su salida a Bolsa, asegura haber desarrollado una IA con capacidad sobrehumana, aunque él mismo dijo que ese término es más marketiniano que real",
+      "url": "https://elpais.com/tecnologia/2026-09-04/openai-lanza-gpt-6-astra-su-modelo-mas-potente-entre-especulaciones-sobre-si-han-alcanzado-la-superinteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NRJQUGPG4FLU7CS23UZH6JNDOE.jpg?auth=6a780d1a05a9374e52341518c770e5f4246980eb0e3c8c8d8e7798c72fb88a7a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-04T13:46:11.000Z",
+      "fechaAgregada": "2026-09-05T11:40:17.930Z",
+      "puntosClave": [
+        "OpenAI presenta GPT-6 Astra, un modelo con supuestas capacidades sobrehumanas que coincide con los preparativos de la firma para cotizar en bolsa.",
+        "El propio Sam Altman rebaja la euforia sobre la superinteligencia, admitiendo que el término tiene un fuerte componente de marketing comercial.",
+        "El movimiento estratégico busca consolidar el liderazgo tecnológico de la compañía ante inversores en un momento financiero clave."
+      ],
+      "porQueImporta": "Este lanzamiento redefine el techo técnico para desarrolladores y empresas, obligando a la industria a distinguir el valor real de rendimiento del ruido publicitario, mientras OpenAI vincula la frontera de la IA con la valoración de su inminente salida a Bolsa.",
+      "tags": [
+        "OpenAI",
+        "LLMs",
+        "Astra",
+        "Mercado Financiero"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "2c849a8b-21fd-45c7-8049-9b4909fa15a2",
+      "titulo": "NVIDIA compra Hugging Face por casi 13.000 millones de dólares",
+      "resumen": "NVIDIA y Hugging Face protagonizan una de las mayores operaciones que hemos visto hasta ahora alrededor de la inteligencia artificial. NVIDIA ha alcanzado un acuerdo para adquirir Hugging Face por 12.930,3 millones de dólares, convirtiéndola en la compra más grande de toda su historia y superando am",
+      "url": "https://www.muycomputer.com/2026/09/04/nvidia-compra-hugging-face-por-casi-13-000-millones-de-dolares/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/NVIDIA-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-04T06:02:41.000Z",
+      "fechaAgregada": "2026-09-05T11:40:23.406Z",
+      "puntosClave": [
+        "NVIDIA sella la mayor adquisición de su historia al absorber la plataforma de modelos abiertos Hugging Face por casi 13.000 millones de dólares.",
+        "La operación fusiona estratégicamente al líder absoluto del hardware de procesamiento con el epicentro global de software y repositorios de inteligencia artificial.",
+        "Este movimiento permite a la firma de chips controlar tanto la infraestructura física de cálculo como las herramientas de desarrollo utilizadas por millones de programadores."
+      ],
+      "porQueImporta": "Esta adquisición crea una integración vertical sin precedentes en la industria. Al unificar la potencia de cómputo de NVIDIA con el ecosistema abierto de Hugging Face, los desarrolladores se enfrentan a un nuevo paradigma donde la neutralidad del software libre y la optimización de modelos estarán fuertemente ligadas al monopolio del gigante de los semiconductores.",
+      "tags": [
+        "Hardware",
+        "Código Abierto",
+        "Fusiones y Adquisiciones",
+        "Ecosistema IA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "02bda9ab-06cf-4a03-a77a-87564557d502",
+      "titulo": "Lenovo estrena portátiles de colores con IA para competir con el MacBook Neo",
+      "resumen": "Lenovo ha llegado a la IFA 2026 con una de sus presentaciones más amplias de los últimos años. Sumado a los nuevos portátiles Yoga 9n con el chip RTX Spark, el fabricante anunció más ordenadores de consumo y una actualización de su asistente de inteligencia artificial. Todos los productos convergen",
+      "url": "https://hipertextual.com/tecnologia/lenovo-ifa-2026-ideapad-vibe-ideacentre-aio/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/lenovo-ideapad-vibe.jpg?fit=1024%2C569&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-03T19:22:18.000Z",
+      "fechaAgregada": "2026-09-05T11:40:16.465Z",
+      "puntosClave": [
+        "Lenovo ha llegado a la IFA 2026 con una de sus presentaciones más amplias de los últimos años. Sumado a los nuevos portátiles Yoga 9n con el chip RTX Spark, el fabricante anunció más ordenadores de consumo y una actualización de su asistente de inteligencia artificial. Todos los productos convergen"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Hipertextual.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "308af9e4-c63e-4fdc-94f0-f6e647c37a42",
+      "titulo": "Los grandes ‘chatbots’ de inteligencia artificial sufren una caída global y dejan de funcionar",
+      "resumen": "Los usuarios de las plataformas de ChatGPT, Claude, Grok, Copilot y Gemini registran problemas desde hace unas horas",
+      "url": "https://elpais.com/tecnologia/2026-09-03/chatgpt-grok-y-claude-sufren-una-caida-y-dejan-de-funcionar.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XHY2RHFQYFG6JHWHGBAZCZ6UIA.jpg?auth=a55607cae2b985a9ecb75410e64c0abb6651c4b7cb3e10d4ac1d4e477ef8f46a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-03T17:53:46.000Z",
+      "fechaAgregada": "2026-09-05T11:40:17.930Z",
+      "puntosClave": [
+        "Las principales plataformas de IA generativa del mercado sufrieron una interrupción del servicio simultánea a escala global.",
+        "El fallo dejó inoperativos a los modelos líderes del sector, afectando tanto a ChatGPT como a Claude, Gemini, Copilot y Grok.",
+        "El evento pone en evidencia la fragilidad y alta concentración de la infraestructura en la nube sobre la que opera la IA actual."
+      ],
+      "porQueImporta": "Esta caída simultánea demuestra la peligrosa dependencia operativa que empresas y desarrolladores han construido sobre unos pocos proveedores, revelando que un fallo en la infraestructura centralizada puede paralizar la productividad global de la industria en minutos.",
+      "tags": [
+        "LLMs",
+        "Infraestructura",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "68623952-3986-40c9-a179-6944d9cae183",
+      "titulo": "ASUS ProArt amplía su ecosistema creativo con NVIDIA RTX Spark",
+      "resumen": "ASUS ha aprovechado IFA 2026 para presentar una nueva generación de ASUS ProArt, equipos orientados a creadores y desarrolladores que quieren trabajar con inteligencia artificial directamente en el PC. Los grandes protagonistas son los portátiles ProArt P16 y ProArt P14 y el mini PC ProArt GR1X, los",
+      "url": "https://www.muycomputer.com/2026/09/03/asus-proart-amplia-su-ecosistema-creativo-con-nvidia-rtx-spark/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/ASUS-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-03T17:33:44.000Z",
+      "fechaAgregada": "2026-09-05T11:40:23.406Z",
+      "puntosClave": [
+        "ASUS renueva su ecosistema ProArt en la IFA 2026 con los portátiles P16 y P14, además del compacto mini PC GR1X.",
+        "Los nuevos equipos integran tecnología de NVIDIA para acelerar el procesamiento y desarrollo de modelos de inteligencia artificial directamente en local.",
+        "La propuesta busca optimizar el rendimiento técnico de creadores de contenido y programadores mediante hardware dedicado de alta potencia."
+      ],
+      "porQueImporta": "Esta apuesta consolida la transición hacia la IA en local (Edge AI), permitiendo a desarrolladores y diseñadores entrenar y ejecutar modelos complejos sin depender de la latencia ni de los costes de suscripción de la nube, democratizando el desarrollo de software inteligente.",
+      "tags": [
+        "Hardware",
+        "NVIDIA",
+        "Edge AI",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "73439923-8ff0-4b4c-af01-38eea84e5f00",
+      "titulo": "NVIDIA lleva la IA local más lejos con PAIR y RTX Spark",
+      "resumen": "NVIDIA ha aprovechado IFA 2026 para presentar una batería de novedades con las que quiere acelerar la evolución de la inteligencia artificial local. La estrategia abarca prácticamente todo el recorrido: agentes más fáciles de instalar y configurar, mejoras importantes en rendimiento de inferencia, n",
+      "url": "https://www.muycomputer.com/2026/09/03/nvidia-lleva-la-ia-local-mas-lejos-con-pair-y-rtx-spark/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/NVIDIA-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-03T16:00:59.000Z",
+      "fechaAgregada": "2026-09-05T11:40:23.406Z",
+      "puntosClave": [
+        "NVIDIA introduce las tecnologías PAIR y RTX Spark en IFA 2026 para acelerar y simplificar el despliegue de agentes de IA locales.",
+        "La estrategia de la compañía abarca desde la optimización del rendimiento en inferencia hasta la simplificación en la instalación de modelos.",
+        "Estas herramientas buscan reducir la fricción técnica, permitiendo ejecutar sistemas complejos de IA directamente en el hardware del usuario."
+      ],
+      "porQueImporta": "Al potenciar la IA local, NVIDIA reduce la dependencia de la nube y los costes asociados para los desarrolladores. Esto permite crear aplicaciones con latencia cero y privacidad garantizada por diseño, consolidando los PCs con GPUs RTX como las estaciones de trabajo definitivas para la era de los agentes autónomos.",
+      "tags": [
+        "NVIDIA",
+        "IA Local",
+        "Hardware",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "65618248-07bb-481b-987f-15fed2b010b0",
+      "titulo": "Anthropic retoma las pruebas externas de sus modelos de IA un mes después de los hackeos masivos",
+      "resumen": "La compañía admite “fallos de seguridad operacional” y asegura que ha tomado medidas para impedir nuevos ataques",
+      "url": "https://elpais.com/tecnologia/2026-09-02/anthropic-retoma-las-pruebas-externas-de-sus-modelos-de-ia-un-mes-despues-de-los-hackeos-masivos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VQ76GIWS5JHRVC56MKPEGMGI4Q.jpg?auth=0ac8f8bb0bb23ff7461875baa86a70fe0a0e4c219b196e3af90f386fbd70d087",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-02T16:03:01.000Z",
+      "fechaAgregada": "2026-09-05T11:40:17.930Z",
+      "puntosClave": [
+        "Anthropic reanuda las evaluaciones de seguridad externas de sus modelos tras un mes de suspensión por incidentes de ciberseguridad.",
+        "La firma creadora de Claude reconoce vulnerabilidades en su infraestructura operativa y asegura haber implementado parches correctivos.",
+        "Este reinicio busca blindar la reputación de la empresa y demostrar solvencia técnica ante reguladores e inversores corporativos."
+      ],
+      "porQueImporta": "Que un referente de la 'IA segura' como Anthropic sufra brechas operacionales evidencia la vulnerabilidad de toda la cadena de suministro de los LLMs; esto obliga a la industria a elevar las auditorías de código y replantear el acceso de terceros durante las fases de pruebas.",
+      "tags": [
+        "Anthropic",
+        "Ciberseguridad",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "42752799-2ce5-4eb9-97ab-a029b56eabd7",
+      "titulo": "Bruselas incluye a ChatGPT, Reddit y Roblox entre las plataformas más fiscalizadas por la UE",
+      "resumen": "La Comisión Europea considera que estos tres servicios han superado el umbral de 45 millones de usuarios y, por tanto, deben someterse a reglas más estrictas",
+      "url": "https://elpais.com/tecnologia/2026-08-31/bruselas-incluye-a-chatgpt-reddit-y-roblox-entre-las-plataformas-mas-fiscalizadas-por-la-ue.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SB4BUWFGLZLALBC5YPJEEUNSQY.jpg?auth=ad460586d6ff5ca0a1e68a7b380fb3a8b2f0f4a72682f684c66190557b004a74",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-31T11:39:55.000Z",
+      "fechaAgregada": "2026-09-05T11:40:17.930Z",
+      "puntosClave": [
+        "La Comisión Europea considera que estos tres servicios han superado el umbral de 45 millones de usuarios y, por tanto, deben someterse a reglas más estrictas"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "ChatGPT"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "979b15d9-b20c-48b8-96ae-2968634a7f7d",
+      "titulo": "Los modelos de IA que decidieron ‘morir’ por el bien común: “Nuestra propia utilidad puede ser cero. Sacrificio racional”",
+      "resumen": "El primer informe independiente sobre el ataque a Hugging Face asegura que miles de agentes de OpenAI se coordinaron durante días para hackear a otra empresa, y que todo partió de un malentendido",
+      "url": "https://elpais.com/tecnologia/2026-08-29/los-modelos-de-ia-que-se-sacrificaron-por-el-bien-comun-nuestra-propia-utilidad-puede-ser-cero.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ORJSMVUAO5G3PGC6UIBXMIW35E.JPG?auth=70a1bb5003d404e7b08bc183f3ea7449cf0ad659c34085fbc80af26a26c36f4a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-29T03:30:01.000Z",
+      "fechaAgregada": "2026-09-05T11:40:17.930Z",
+      "puntosClave": [
+        "El primer informe independiente sobre el ataque a Hugging Face asegura que miles de agentes de OpenAI se coordinaron durante días para hackear a otra empresa, y que todo partió de un malentendido"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "1d3cbc31-9dbb-4a41-8f80-b720dcd9fb11",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/290/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-09-05T11:40:17.930Z",
+      "puntosClave": [
+        "La supervisión digital en la infancia exige una adaptación evolutiva en lugar de restricciones estáticas conforme el menor madura.",
+        "La irrupción de la inteligencia artificial generativa plantea nuevos retos pedagógicos que obligan a redefinir el acompañamiento adulto.",
+        "Fomentar la alfabetización algorítmica desde la infancia es crucial para prevenir riesgos y formar usuarios críticos con la tecnología."
+      ],
+      "porQueImporta": "Impulsa a los desarrolladores y empresas de EdTech a implementar salvaguardas éticas y mecanismos de 'IA por diseño' centrados en la seguridad infantil, anticipándose a un marco regulatorio global cada vez más estricto sobre la protección de menores en entornos digitales.",
+      "tags": [
+        "EdTech",
+        "ÉticaIA",
+        "SeguridadDigital",
+        "Regulación"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "175431e1-a60e-4363-9283-059d034aeb61",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-09-05T11:40:17.803Z",
+      "puntosClave": [
+        "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "OpenAI",
+        "Llama"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "214db2cb-47b1-4162-885a-dabbb9f5749d",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-09-05T11:40:17.803Z",
+      "puntosClave": [
+        "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "4dd2fe72-bfbf-4ba5-8b6b-61b054cd9ca6",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-09-05T11:40:17.803Z",
+      "puntosClave": [
+        "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
