@@ -68,7 +68,7 @@ export default function NoticiaCard({ noticia, index }: Props) {
         {/* Fecha y Tiempo de Lectura */}
         <div className="flex items-center justify-between mt-4 pt-3 border-t border-[var(--color-border)]">
           <div className="flex items-center gap-1.5 text-[11px] text-[var(--color-muted)] font-medium tracking-wide">
-            <span>{formatearFecha(noticia.fechaPublicacion)}</span>
+            <span suppressHydrationWarning>{formatearFecha(noticia.fechaPublicacion)}</span>
             <span className="text-[var(--color-subtle)]">·</span>
             <span>⏱️ {noticia.tiempoLecturaMin || 1}m</span>
           </div>

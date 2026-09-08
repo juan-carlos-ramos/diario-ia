@@ -41,7 +41,7 @@ export default function NoticiaHero({ noticia }: Props) {
               {noticia.fuente}
             </span>
             <span className="text-white/40">·</span>
-            <span className="text-[11px] font-medium text-white/80">
+            <span className="text-[11px] font-medium text-white/80" suppressHydrationWarning>
               {formatearFecha(noticia.fechaPublicacion)}
             </span>
             <span className="text-white/40">·</span>

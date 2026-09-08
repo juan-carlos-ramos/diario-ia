@@ -147,7 +147,7 @@ export default async function PaginaDetalle({ params }: Props) {
               {noticia.fuente}
             </span>
             <span className="text-[var(--color-subtle)]">·</span>
-            <span className="text-xs font-medium text-[var(--color-muted)]">
+            <span className="text-xs font-medium text-[var(--color-muted)]" suppressHydrationWarning>
               {formatearFecha(noticia.fechaPublicacion)}
             </span>
             <span className="text-[var(--color-subtle)]">·</span>
