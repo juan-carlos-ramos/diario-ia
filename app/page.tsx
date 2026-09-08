@@ -95,9 +95,9 @@ export default async function Home({ searchParams }: Props) {
         )}
 
         {/* Contador */}
-        <p className="text-xs text-[#444444] mb-6 tracking-wide" aria-live="polite">
+        <p className="text-xs text-[var(--color-muted)] mb-6 tracking-wide" aria-live="polite">
           {noticias.length} {noticias.length === 1 ? "noticia" : "noticias"}
-          {params.q && <span className="ml-1">para <span className="text-[#00E5FF]">"{params.q}"</span></span>}
+          {params.q && <span className="ml-1">para <span className="text-[var(--color-accent)]">&quot;{params.q}&quot;</span></span>}
         </p>
 
         {/* Grid */}

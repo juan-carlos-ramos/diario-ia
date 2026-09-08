@@ -24,7 +24,10 @@ dist/
 # misc
 .DS_Store
 *.pem
+*.key
 *.log
+*.sqlite
+*.sql
 
 # debug
 npm-debug.log*
@@ -46,9 +49,11 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# ai context
+# AI context & clean root policy
 AI_CONTEXT.md
 CONTEXTO_PROYECTO.md
+AGENTS.md
+CLAUDE.md
 .skills/
-
-
+.claude/
+.system_generated/

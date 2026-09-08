@@ -35,9 +35,9 @@ export default function BotonCompartir({
           url: urlCompleta,
         });
         return;
-      } catch (err: any) {
+      } catch (err: unknown) {
         // Si el usuario cancela la hoja de compartir nativa, no hacemos nada
-        if (err.name === "AbortError") return;
+        if (err instanceof Error && err.name === "AbortError") return;
       }
     }
 
@@ -48,8 +48,8 @@ export default function BotonCompartir({
         setCopiado(true);
         setTimeout(() => setCopiado(false), 2000);
       }
-    } catch (error) {
-      console.error("Error al copiar enlace:", error);
+    } catch {
+      // Ignorar fallo de portapapeles
     }
   };
 
@@ -74,7 +74,7 @@ export default function BotonCompartir({
       className={`relative inline-flex items-center justify-center gap-1.5 rounded-full transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] active:scale-90 interactive-tap ${paddingBoton} ${
         copiado
           ? "bg-[oklch(76%_0.165_72_/_20%)] text-[var(--color-accent)] border border-[var(--color-accent)] shadow-[0_2px_12px_oklch(76%_0.165_72_/_20%)]"
-          : "bg-[var(--color-bg)]/80 text-[var(--color-muted)] hover:text-white border border-[var(--color-border)] hover:border-[var(--color-border-hover)]"
+          : "bg-[var(--color-bg)]/80 text-[var(--color-muted)] hover:text-[var(--color-text)] border border-[var(--color-border)] hover:border-[var(--color-border-hover)]"
       } ${className}`}
     >
       {copiado ? (

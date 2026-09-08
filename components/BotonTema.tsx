@@ -1,27 +1,24 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useSyncExternalStore } from "react";
+
+function subscribe(callback: () => void) {
+  window.addEventListener("storage", callback);
+  return () => window.removeEventListener("storage", callback);
+}
+
+function getSnapshot() {
+  return typeof window !== "undefined" && localStorage.getItem("diarioia_tema") === "dark";
+}
+
+function getServerSnapshot() {
+  return false;
+}
 
 export default function BotonTema() {
-  const [temaOscuro, setTemaOscuro] = useState(false);
-  const [montado, setMontado] = useState(false);
-
-  useEffect(() => {
-    setMontado(true);
-    const temaGuardado = localStorage.getItem("diarioia_tema");
-    if (temaGuardado === "dark") {
-      setTemaOscuro(true);
-      document.documentElement.classList.add("dark");
-      document.documentElement.setAttribute("data-theme", "dark");
-    } else {
-      setTemaOscuro(false);
-      document.documentElement.classList.remove("dark");
-      document.documentElement.setAttribute("data-theme", "light");
-    }
-  }, []);
+  const temaOscuro = useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
 
   const alternarTema = () => {
     const nuevoEstado = !temaOscuro;
-    setTemaOscuro(nuevoEstado);
     if (nuevoEstado) {
       document.documentElement.classList.add("dark");
       document.documentElement.setAttribute("data-theme", "dark");
@@ -31,13 +28,8 @@ export default function BotonTema() {
       document.documentElement.setAttribute("data-theme", "light");
       localStorage.setItem("diarioia_tema", "light");
     }
+    window.dispatchEvent(new Event("storage"));
   };
-
-  if (!montado) {
-    return (
-      <div className="w-8 h-8 rounded-full bg-[var(--color-surface)] border border-[var(--color-border)] opacity-60" />
-    );
-  }
 
   return (
     <button

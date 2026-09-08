@@ -1,7 +1,9 @@
 "use client";
-import { useState, useEffect, useRef, useMemo } from "react";
-import { useRouter, usePathname } from "next/navigation";
+import { useState, useEffect, useRef, useMemo, useCallback } from "react";
+import { useRouter } from "next/navigation";
 import Link from "next/link";
+import type { Noticia } from "@/lib/noticias";
+import type { HerramientaIA } from "@/lib/herramientas";
 
 interface ResultadoBusqueda {
   id: string;
@@ -27,32 +29,43 @@ export default function BuscadorModal() {
   const [abierto, setAbierto] = useState(false);
   const [query, setQuery] = useState("");
   const [indiceSeleccionado, setIndiceSeleccionado] = useState(0);
-  const [noticias, setNoticias] = useState<any[]>([]);
-  const [herramientas, setHerramientas] = useState<any[]>([]);
+  const [noticias, setNoticias] = useState<Noticia[]>([]);
+  const [herramientas, setHerramientas] = useState<HerramientaIA[]>([]);
   const inputRef = useRef<HTMLInputElement>(null);
   const router = useRouter();
-  const pathname = usePathname();
-
-  // Cerrar el modal automáticamente al cambiar de pestaña o ruta
-  useEffect(() => {
-    setAbierto(false);
-  }, [pathname]);
 
   // Cargar datos de búsqueda una vez
   useEffect(() => {
+    let cancelado = false;
     async function cargarDatos() {
       try {
         const res = await fetch("/api/buscar");
-        if (res.ok) {
+        if (res.ok && !cancelado) {
           const data = await res.json();
           setNoticias(data.noticias || []);
           setHerramientas(data.herramientas || []);
         }
-      } catch (e) {
+      } catch {
         // Fallback silencioso
       }
     }
     cargarDatos();
+    return () => {
+      cancelado = true;
+    };
+  }, []);
+
+  const abrirModal = useCallback(() => {
+    setAbierto(true);
+    setQuery("");
+    setIndiceSeleccionado(0);
+    setTimeout(() => {
+      inputRef.current?.focus();
+    }, 50);
+  }, []);
+
+  const cerrarModal = useCallback(() => {
+    setAbierto(false);
   }, []);
 
   // Escuchar atajo de teclado Cmd+K / Ctrl+K y eventos personalizados
@@ -60,35 +73,24 @@ export default function BuscadorModal() {
     const handleKeyDown = (e: KeyboardEvent) => {
       if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k") {
         e.preventDefault();
-        setAbierto((prev) => !prev);
+        if (abierto) {
+          cerrarModal();
+        } else {
+          abrirModal();
+        }
       } else if (e.key === "Escape" && abierto) {
-        setAbierto(false);
+        cerrarModal();
       }
     };
 
-    const handleAbrirEvento = () => {
-      setAbierto(true);
-    };
-
     window.addEventListener("keydown", handleKeyDown);
-    window.addEventListener("diarioia_abrir_buscador", handleAbrirEvento);
+    window.addEventListener("diarioia_abrir_buscador", abrirModal);
 
     return () => {
       window.removeEventListener("keydown", handleKeyDown);
-      window.removeEventListener("diarioia_abrir_buscador", handleAbrirEvento);
+      window.removeEventListener("diarioia_abrir_buscador", abrirModal);
     };
-  }, [abierto]);
-
-  // Enfocar input al abrir
-  useEffect(() => {
-    if (abierto) {
-      setTimeout(() => {
-        inputRef.current?.focus();
-      }, 60);
-      setQuery("");
-      setIndiceSeleccionado(0);
-    }
-  }, [abierto]);
+  }, [abierto, abrirModal, cerrarModal]);
 
   // Filtrar resultados de forma minimalista solo cuando el usuario escribe
   const resultados: ResultadoBusqueda[] = useMemo(() => {
@@ -149,7 +151,7 @@ export default function BuscadorModal() {
       e.preventDefault();
       const seleccionado = resultados[indiceSeleccionado];
       if (seleccionado) {
-        setAbierto(false);
+        cerrarModal();
         router.push(seleccionado.url);
       }
     }
@@ -160,7 +162,7 @@ export default function BuscadorModal() {
   return (
     <div
       className="fixed inset-0 z-50 flex items-end sm:items-start justify-center sm:pt-24 p-0 sm:p-4 bg-black/40 backdrop-blur-sm transition-opacity"
-      onClick={() => setAbierto(false)}
+      onClick={cerrarModal}
       role="dialog"
       aria-modal="true"
       aria-label="Buscador global"
@@ -190,14 +192,14 @@ export default function BuscadorModal() {
           {query && (
             <button
               onClick={() => setQuery("")}
-              className="text-xs text-[var(--color-muted)] hover:text-[var(--color-text)] px-1.5 py-0.5 rounded-full"
+              className="text-xs text-[var(--color-muted)] hover:text-[var(--color-text)] px-1.5 py-0.5 rounded-full cursor-pointer"
             >
               ✕
             </button>
           )}
           <button
-            onClick={() => setAbierto(false)}
-            className="w-8 h-8 rounded-full bg-[var(--color-surface)] flex items-center justify-center text-xs text-[var(--color-muted)] active:text-[var(--color-text)] interactive-tap"
+            onClick={cerrarModal}
+            className="w-8 h-8 rounded-full bg-[var(--color-surface)] flex items-center justify-center text-xs text-[var(--color-muted)] active:text-[var(--color-text)] interactive-tap cursor-pointer"
             aria-label="Cerrar buscador"
           >
             ✕
@@ -219,7 +221,7 @@ export default function BuscadorModal() {
                       setQuery(tema);
                       setIndiceSeleccionado(0);
                     }}
-                    className="px-3 py-1.5 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-accent)] hover:text-white text-[var(--color-text)] border border-[var(--color-border)] text-xs font-semibold tracking-wide transition-all interactive-tap"
+                    className="px-3 py-1.5 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-accent)] hover:text-white text-[var(--color-text)] border border-[var(--color-border)] text-xs font-semibold tracking-wide transition-all interactive-tap cursor-pointer"
                   >
                     #{tema}
                   </button>
@@ -236,7 +238,7 @@ export default function BuscadorModal() {
                 <Link
                   key={item.id}
                   href={item.url}
-                  onClick={() => setAbierto(false)}
+                  onClick={cerrarModal}
                   onMouseEnter={() => setIndiceSeleccionado(idx)}
                   className={`flex items-center justify-between gap-3 p-3 rounded-xl transition-all interactive-tap ${
                     indiceSeleccionado === idx

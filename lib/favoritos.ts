@@ -1,21 +1,32 @@
 "use client";
-import { useState, useEffect } from "react";
+import { useSyncExternalStore } from "react";
 import type { Noticia } from "./noticias";
 
 const STORAGE_KEY = "diarioia_favoritos_v1";
 const EVENT_NAME = "diarioia_favoritos_updated";
 
+let cacheFavoritos: Noticia[] = [];
+let cacheRaw: string | null = null;
+
 /**
- * Obtiene todas las noticias guardadas desde localStorage
+ * Obtiene todas las noticias guardadas desde localStorage con caché de referencia
  */
 export function obtenerFavoritos(): Noticia[] {
   if (typeof window === "undefined") return [];
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw) return [];
-    return JSON.parse(raw) as Noticia[];
-  } catch (error) {
-    console.error("Error al leer favoritos de localStorage:", error);
+    if (!raw) {
+      cacheFavoritos = [];
+      cacheRaw = null;
+      return cacheFavoritos;
+    }
+    if (raw === cacheRaw) {
+      return cacheFavoritos;
+    }
+    cacheRaw = raw;
+    cacheFavoritos = JSON.parse(raw) as Noticia[];
+    return cacheFavoritos;
+  } catch {
     return [];
   }
 }
@@ -32,8 +43,8 @@ export function guardarFavorito(noticia: Noticia): void {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(actualizados));
       window.dispatchEvent(new Event(EVENT_NAME));
     }
-  } catch (error) {
-    console.error("Error al guardar favorito:", error);
+  } catch {
+    // Fallback silencioso
   }
 }
 
@@ -47,8 +58,8 @@ export function eliminarFavorito(id: string): void {
     const actualizados = actuales.filter((n) => n.id !== id);
     localStorage.setItem(STORAGE_KEY, JSON.stringify(actualizados));
     window.dispatchEvent(new Event(EVENT_NAME));
-  } catch (error) {
-    console.error("Error al eliminar favorito:", error);
+  } catch {
+    // Fallback silencioso
   }
 }
 
@@ -75,36 +86,32 @@ export function alternarFavorito(noticia: Noticia): boolean {
   }
 }
 
+function subscribe(callback: () => void) {
+  window.addEventListener(EVENT_NAME, callback);
+  window.addEventListener("storage", callback);
+  return () => {
+    window.removeEventListener(EVENT_NAME, callback);
+    window.removeEventListener("storage", callback);
+  };
+}
+
+const emptyFavoritos: Noticia[] = [];
+function getServerSnapshot(): Noticia[] {
+  return emptyFavoritos;
+}
+
 /**
- * Hook reactivo para consumir y sincronizar favoritos en tiempo real
+ * Hook reactivo para consumir y sincronizar favoritos en tiempo real sin cascadas de renderizado
  */
 export function useFavoritos() {
-  const [favoritos, setFavoritos] = useState<Noticia[]>([]);
-  const [montado, setMontado] = useState(false);
-
-  useEffect(() => {
-    setMontado(true);
-    setFavoritos(obtenerFavoritos());
-
-    const handleUpdate = () => {
-      setFavoritos(obtenerFavoritos());
-    };
-
-    window.addEventListener(EVENT_NAME, handleUpdate);
-    window.addEventListener("storage", handleUpdate);
-
-    return () => {
-      window.removeEventListener(EVENT_NAME, handleUpdate);
-      window.removeEventListener("storage", handleUpdate);
-    };
-  }, []);
+  const favoritos = useSyncExternalStore(subscribe, obtenerFavoritos, getServerSnapshot);
+  const montado = typeof window !== "undefined";
 
   const toggle = (noticia: Noticia) => {
     return alternarFavorito(noticia);
   };
 
   const checkEsFavorito = (id: string) => {
-    if (!montado) return false;
     return favoritos.some((n) => n.id === id);
   };
 
