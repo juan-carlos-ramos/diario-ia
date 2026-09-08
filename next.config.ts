@@ -1,19 +1,5 @@
 import type { NextConfig } from "next";
 
-const isDev = process.env.NODE_ENV === "development";
-
-const cspHeader = `
-  default-src 'self';
-  script-src 'self' 'unsafe-inline' ${isDev ? "'unsafe-eval'" : ""} https://va.vercel-scripts.com;
-  style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
-  img-src 'self' blob: data: https:;
-  font-src 'self' data: https://fonts.gstatic.com;
-  connect-src 'self' https://api.telegram.org https://generativelanguage.googleapis.com https://va.vercel-scripts.com https://vitals.vercel-insights.com;
-  form-action 'self';
-  base-uri 'self';
-  object-src 'none';
-`.replace(/\s{2,}/g, " ").trim();
-
 const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
@@ -26,27 +12,6 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "hardzone.es" },
       { protocol: "https", hostname: "www.muycomputer.com" },
     ],
-  },
-  async headers() {
-    return [
-      {
-        source: "/(.*)",
-        headers: [
-          // Content Security Policy
-          { key: "Content-Security-Policy", value: cspHeader },
-          // Evita que el navegador adivine el tipo de archivo (MIME sniffing)
-          { key: "X-Content-Type-Options", value: "nosniff" },
-          // Fuerza HTTPS siempre con HSTS
-          { key: "Strict-Transport-Security", value: "max-age=63072000; includeSubDomains; preload" },
-          // Controla qué información se envía al hacer clic en links externos
-          { key: "Referrer-Policy", value: "strict-origin-when-cross-origin" },
-          // Restringe acceso a funciones del navegador innecesarias
-          { key: "Permissions-Policy", value: "camera=(), microphone=(), geolocation=()" },
-          // Permite la carga de recursos en visores integrados, WebViews y editores
-          { key: "Cross-Origin-Resource-Policy", value: "cross-origin" },
-        ],
-      },
-    ];
   },
 };
 
