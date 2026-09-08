@@ -9,7 +9,6 @@ const cspHeader = `
   img-src 'self' blob: data: https:;
   font-src 'self' data: https://fonts.gstatic.com;
   connect-src 'self' https://api.telegram.org https://generativelanguage.googleapis.com https://va.vercel-scripts.com https://vitals.vercel-insights.com;
-  frame-ancestors 'none';
   form-action 'self';
   base-uri 'self';
   object-src 'none';
@@ -35,8 +34,8 @@ const nextConfig: NextConfig = {
         headers: [
           // Content Security Policy
           { key: "Content-Security-Policy", value: cspHeader },
-          // Evita que el sitio se cargue dentro de un iframe (clickjacking)
-          { key: "X-Frame-Options", value: "DENY" },
+          // Permite previsualización en visores internos y navegadores móviles de forma segura
+          { key: "X-Frame-Options", value: "SAMEORIGIN" },
           // Evita que el navegador adivine el tipo de archivo (MIME sniffing)
           { key: "X-Content-Type-Options", value: "nosniff" },
           // Fuerza HTTPS siempre con HSTS
@@ -45,9 +44,8 @@ const nextConfig: NextConfig = {
           { key: "Referrer-Policy", value: "strict-origin-when-cross-origin" },
           // Restringe acceso a funciones del navegador innecesarias
           { key: "Permissions-Policy", value: "camera=(), microphone=(), geolocation=()" },
-          // Aislamiento de ventanas y recursos contra Spectre / side-channels
-          { key: "Cross-Origin-Opener-Policy", value: "same-origin-allow-popups" },
-          { key: "Cross-Origin-Resource-Policy", value: "same-origin" },
+          // Permite la carga de recursos en visores integrados y WebViews
+          { key: "Cross-Origin-Resource-Policy", value: "cross-origin" },
         ],
       },
     ];
