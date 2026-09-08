@@ -1,5 +1,5 @@
 "use client";
-import { useSyncExternalStore } from "react";
+import { useState, useEffect, useSyncExternalStore } from "react";
 import type { Noticia } from "./noticias";
 
 const STORAGE_KEY = "diarioia_favoritos_v1";
@@ -101,23 +101,32 @@ function getServerSnapshot(): Noticia[] {
 }
 
 /**
- * Hook reactivo para consumir y sincronizar favoritos en tiempo real sin cascadas de renderizado
+ * Hook reactivo para sincronizar favoritos garantizando 100% de coincidencia con SSR (cero errores de hidratación)
  */
 export function useFavoritos() {
-  const favoritos = useSyncExternalStore(subscribe, obtenerFavoritos, getServerSnapshot);
-  const montado = typeof window !== "undefined";
+  const [montado, setMontado] = useState(false);
+  const storeFavoritos = useSyncExternalStore(subscribe, obtenerFavoritos, getServerSnapshot);
+
+  useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setMontado(true);
+  }, []);
+
+  const favoritos = montado ? storeFavoritos : emptyFavoritos;
+  const totalFavoritos = montado ? storeFavoritos.length : 0;
 
   const toggle = (noticia: Noticia) => {
     return alternarFavorito(noticia);
   };
 
   const checkEsFavorito = (id: string) => {
-    return favoritos.some((n) => n.id === id);
+    if (!montado) return false;
+    return storeFavoritos.some((n) => n.id === id);
   };
 
   return {
     favoritos,
-    totalFavoritos: favoritos.length,
+    totalFavoritos,
     montado,
     toggle,
     esFavorito: checkEsFavorito,

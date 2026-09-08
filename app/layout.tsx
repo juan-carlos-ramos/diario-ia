@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Newsreader, Plus_Jakarta_Sans } from "next/font/google";
 import { Analytics } from "@vercel/analytics/react";
+import Script from "next/script";
 import "./globals.css";
 import BottomNav from "@/components/BottomNav";
 import BuscadorModal from "@/components/BuscadorModal";
@@ -70,14 +71,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es" className={`${serifFont.variable} ${sansFont.variable}`} suppressHydrationWarning>
-      <head>
-        <script
+      <body className="font-sans antialiased">
+        <Script
+          id="theme-bootstrap"
+          strategy="beforeInteractive"
           dangerouslySetInnerHTML={{
             __html: `(function(){try{var t=localStorage.getItem("diarioia_tema");if(t==="dark"){document.documentElement.classList.add("dark");document.documentElement.setAttribute("data-theme","dark");}else{document.documentElement.setAttribute("data-theme","light");}}catch(e){}})();`,
           }}
         />
-      </head>
-      <body className="font-sans antialiased">
         <BuscadorModal />
         {children}
         <Suspense fallback={null}>

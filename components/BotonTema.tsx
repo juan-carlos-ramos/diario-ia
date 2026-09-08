@@ -1,24 +1,21 @@
 "use client";
-import { useSyncExternalStore } from "react";
-
-function subscribe(callback: () => void) {
-  window.addEventListener("storage", callback);
-  return () => window.removeEventListener("storage", callback);
-}
-
-function getSnapshot() {
-  return typeof window !== "undefined" && localStorage.getItem("diarioia_tema") === "dark";
-}
-
-function getServerSnapshot() {
-  return false;
-}
+import { useState, useEffect } from "react";
 
 export default function BotonTema() {
-  const temaOscuro = useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
+  const [montado, setMontado] = useState(false);
+  const [temaOscuro, setTemaOscuro] = useState(false);
+
+  useEffect(() => {
+    const oscuro = localStorage.getItem("diarioia_tema") === "dark";
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setTemaOscuro(oscuro);
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setMontado(true);
+  }, []);
 
   const alternarTema = () => {
     const nuevoEstado = !temaOscuro;
+    setTemaOscuro(nuevoEstado);
     if (nuevoEstado) {
       document.documentElement.classList.add("dark");
       document.documentElement.setAttribute("data-theme", "dark");
@@ -28,7 +25,6 @@ export default function BotonTema() {
       document.documentElement.setAttribute("data-theme", "light");
       localStorage.setItem("diarioia_tema", "light");
     }
-    window.dispatchEvent(new Event("storage"));
   };
 
   return (
@@ -36,11 +32,12 @@ export default function BotonTema() {
       onClick={alternarTema}
       type="button"
       className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-card-hover)] text-[var(--color-text)] border border-[var(--color-border)] text-sm transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap shadow-xs cursor-pointer"
-      aria-label={temaOscuro ? "Cambiar a modo claro (papel prensa)" : "Cambiar a modo oscuro (carbón cálido)"}
-      title={temaOscuro ? "Modo Claro ☀️" : "Modo Oscuro 🌙"}
+      aria-label={montado && temaOscuro ? "Cambiar a modo claro (papel prensa)" : "Cambiar a modo oscuro (carbón cálido)"}
+      title={montado && temaOscuro ? "Modo Claro ☀️" : "Modo Oscuro 🌙"}
+      suppressHydrationWarning
     >
-      <span className="transition-transform duration-200 active:scale-90 select-none">
-        {temaOscuro ? "☀️" : "🌙"}
+      <span className="transition-transform duration-200 active:scale-90 select-none" suppressHydrationWarning>
+        {montado ? (temaOscuro ? "☀️" : "🌙") : "🌙"}
       </span>
     </button>
   );
