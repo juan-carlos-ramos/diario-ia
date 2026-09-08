@@ -34,8 +34,6 @@ const nextConfig: NextConfig = {
         headers: [
           // Content Security Policy
           { key: "Content-Security-Policy", value: cspHeader },
-          // Permite previsualización en visores internos y navegadores móviles de forma segura
-          { key: "X-Frame-Options", value: "SAMEORIGIN" },
           // Evita que el navegador adivine el tipo de archivo (MIME sniffing)
           { key: "X-Content-Type-Options", value: "nosniff" },
           // Fuerza HTTPS siempre con HSTS
@@ -44,7 +42,7 @@ const nextConfig: NextConfig = {
           { key: "Referrer-Policy", value: "strict-origin-when-cross-origin" },
           // Restringe acceso a funciones del navegador innecesarias
           { key: "Permissions-Policy", value: "camera=(), microphone=(), geolocation=()" },
-          // Permite la carga de recursos en visores integrados y WebViews
+          // Permite la carga de recursos en visores integrados, WebViews y editores
           { key: "Cross-Origin-Resource-Policy", value: "cross-origin" },
         ],
       },
