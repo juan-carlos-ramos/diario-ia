@@ -5,20 +5,21 @@ import type { Noticia } from "./noticias";
 const STORAGE_KEY = "diarioia_favoritos_v1";
 const EVENT_NAME = "diarioia_favoritos_updated";
 
-let cacheFavoritos: Noticia[] = [];
+const EMPTY_FAVORITOS: Noticia[] = [];
+let cacheFavoritos: Noticia[] = EMPTY_FAVORITOS;
 let cacheRaw: string | null = null;
 
 /**
  * Obtiene todas las noticias guardadas desde localStorage con caché de referencia
  */
 export function obtenerFavoritos(): Noticia[] {
-  if (typeof window === "undefined") return [];
+  if (typeof window === "undefined") return EMPTY_FAVORITOS;
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (!raw) {
-      cacheFavoritos = [];
+      cacheFavoritos = EMPTY_FAVORITOS;
       cacheRaw = null;
-      return cacheFavoritos;
+      return EMPTY_FAVORITOS;
     }
     if (raw === cacheRaw) {
       return cacheFavoritos;
@@ -27,7 +28,9 @@ export function obtenerFavoritos(): Noticia[] {
     cacheFavoritos = JSON.parse(raw) as Noticia[];
     return cacheFavoritos;
   } catch {
-    return [];
+    cacheFavoritos = EMPTY_FAVORITOS;
+    cacheRaw = null;
+    return EMPTY_FAVORITOS;
   }
 }
 
@@ -95,9 +98,8 @@ function subscribe(callback: () => void) {
   };
 }
 
-const emptyFavoritos: Noticia[] = [];
 function getServerSnapshot(): Noticia[] {
-  return emptyFavoritos;
+  return EMPTY_FAVORITOS;
 }
 
 /**
@@ -112,7 +114,7 @@ export function useFavoritos() {
     setMontado(true);
   }, []);
 
-  const favoritos = montado ? storeFavoritos : emptyFavoritos;
+  const favoritos = montado ? storeFavoritos : EMPTY_FAVORITOS;
   const totalFavoritos = montado ? storeFavoritos.length : 0;
 
   const toggle = (noticia: Noticia) => {
