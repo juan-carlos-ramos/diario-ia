@@ -1,0 +1,508 @@
+{
+  "fecha": "2026-09-09",
+  "generado": "2026-09-09T12:53:37.408Z",
+  "total": 22,
+  "noticias": [
+    {
+      "id": "fc1e8641-1ca6-4f26-97df-764f58134bb1",
+      "titulo": "Elon Musk quiere fabricar sus propias turbinas de gas para alimentar sus centros de datos de IA. No lo va a tener fácil",
+      "resumen": "Parece ser que la solar por sí sola ya no es suficiente: Elon Musk ha anunciado que SpaceX comenzará a fabricar sus propias piezas de turbinas de gas para poder satisfacer la creciente demanda de energía que traerán los centros de datos de inteligencia artificial. \n\rSe trata de un movimiento que nad",
+      "url": "https://www.xataka.com/energia/elon-musk-quiere-fabricar-sus-propias-turbinas-gas-para-alimentar-sus-centros-datos-ia-no-va-a-tener-facil",
+      "imagen": "https://i.blogs.es/ca8871/sven-piper-z4el4wasf8w-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T12:31:00.000Z",
+      "fechaAgregada": "2026-09-09T12:45:45.517Z",
+      "puntosClave": [
+        "SpaceX fabricará componentes de turbinas de gas propios para solventar el enorme consumo energético de los centros de datos dedicados a la IA.",
+        "La iniciativa confirma que las fuentes renovables actuales, como la solar, son insuficientes para sostener el ritmo de la computación a gran escala.",
+        "Este movimiento representa una estrategia de integración vertical extrema, donde las tecnológicas buscan controlar desde el hardware de IA hasta su propia red eléctrica."
+      ],
+      "porQueImporta": "La soberanía energética es el nuevo cuello de botella de la inteligencia artificial. Quien lidere el sector ya no solo necesitará los mejores algoritmos y chips, sino también la capacidad de actuar como una empresa de infraestructura pesada para garantizar que sus servidores no se apaguen.",
+      "tags": [
+        "Hardware",
+        "Infraestructura",
+        "Energía",
+        "Centros de Datos"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "4698683d-0086-4d05-8bec-37a63b78c08d",
+      "titulo": "Del chip M4 al nuevo chip M6 de Apple: hacemos un repaso por todos los equipos que los llevan (y dónde comprarlos más baratos)",
+      "resumen": "Aunque todavía no están disponibles, los nuevos Mac Mini han estrenado un nuevo procesador: el chip M6. Este es el primer chip de 2 nanómetros que utiliza Apple en sus dispositivos, pero ¿en qué se traduce eso? O más bien, ¿qué diferencias hay con respecto a los anteriores chips M? Por eso mismo, en",
+      "url": "https://www.xataka.com/seleccion/chip-m4-al-nuevo-chip-m6-apple-hacemos-repaso-todos-equipos-que-llevan-donde-comprarlos-baratos",
+      "imagen": "https://i.blogs.es/40c619/comparativa-chips-m-apple/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T11:46:59.000Z",
+      "fechaAgregada": "2026-09-09T12:45:45.519Z",
+      "puntosClave": [
+        "Apple introduce la arquitectura de 2 nanómetros en el mercado de consumo de la mano de su nuevo procesador M6.",
+        "El rediseñado Mac Mini se posiciona como el dispositivo pionero en integrar esta avanzada tecnología de semiconductores.",
+        "Este salto generacional optimiza drásticamente la densidad de transistores, prometiendo un rendimiento energético sin precedentes."
+      ],
+      "porQueImporta": "La transición a los 2 nanómetros en el chip M6 permite a desarrolladores y creadores de software ejecutar modelos de IA locales y procesamiento de datos masivos directamente en el dispositivo, minimizando la latencia y la dependencia de servidores en la nube.",
+      "tags": [
+        "Hardware",
+        "Apple",
+        "Semiconductores",
+        "Edge AI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "bdaa897a-db53-4626-b115-69e48863469c",
+      "titulo": "OpenAI afirma haber resuelto uno de los Problemas del Milenio con su IA. La que se ha liado después es gorda",
+      "resumen": "OpenAI afirma haber resuelto el problema de existencia y regularidad de Navier-Stokes, uno de los siete Problemas del Milenio planteados por el Clay Mathematics Institute y dotados con un premio de un millón de dólares. La compañía ha publicado tanto la demostración analítica como su formalización e",
+      "url": "https://www.xataka.com/robotica-e-ia/openai-afirma-haber-resuelto-uno-problemas-milenio-su-ia-que-se-ha-liado-despues-gorda",
+      "imagen": "https://i.blogs.es/2f7cb1/navier-stokes-openai/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T11:17:00.000Z",
+      "fechaAgregada": "2026-09-09T12:45:45.519Z",
+      "puntosClave": [
+        "OpenAI afirma haber resuelto teóricamente el problema de Navier-Stokes, uno de los siete desafíos matemáticos del milenio más complejos del mundo.",
+        "La compañía presentó tanto la demostración matemática como su formalización computacional, desatando un profundo escepticismo y debate en la comunidad científica.",
+        "De validarse el hallazgo, supondría un hito histórico que demostraría la capacidad de la IA para el descubrimiento científico de frontera más allá de la simple automatización."
+      ],
+      "porQueImporta": "Resolver Navier-Stokes permitiría modelar con precisión matemática absoluta desde el clima hasta la aerodinámica. Para la industria tecnológica, esto demuestra que la IA está transicionando de generar código y texto a convertirse en un motor de descubrimiento científico capaz de resolver problemas que han eludido a las mentes humanas durante siglos.",
+      "tags": [
+        "OpenAI",
+        "Matemáticas",
+        "Supercomputación",
+        "Ciencia de Datos"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "d156d525-79a4-40f4-85eb-1f3474d72497",
+      "titulo": "Un investigador de Anthropic dimite porque asegura que la IA “puede matarnos antes de 2030”",
+      "resumen": "El jefe de Jacob Coxon, joven investigador de la compañía,  le apoya y dice que la probabilidad de extinción en los próximos años supera el 10%",
+      "url": "https://elpais.com/tecnologia/2026-09-09/un-investigador-de-anthropic-dimite-porque-asegura-que-la-ia-puede-matarnos-antes-de-2030.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7LMK6BH76NAVJFZ7AIHOS57VPM.jpg?auth=086ba84839fd34916bc92386e8231e2a676a1490ac1c2d681cbbd6912d51d863",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T11:01:45.000Z",
+      "fechaAgregada": "2026-09-09T12:45:46.991Z",
+      "puntosClave": [
+        "Un científico de Anthropic abandona su puesto alarmado por el vertiginoso y descontrolado avance de la inteligencia artificial general.",
+        "El supervisor del ex-empleado respalda la decisión, estimando en más de un 10% la posibilidad de un colapso existencial humano a corto plazo.",
+        "La renuncia evidencia la creciente brecha ética en las grandes tecnológicas entre la velocidad de despliegue comercial y la seguridad real."
+      ],
+      "porQueImporta": "Esta dimisión expone una grave crisis de confianza interna en las firmas líderes de IA. Para la industria y los desarrolladores, el hecho de que los propios creadores duden de la seguridad de sus sistemas acelerará la fiscalización gubernamental y forzará la creación de protocolos de contención mucho más estrictos.",
+      "tags": [
+        "Anthropic",
+        "Seguridad IA",
+        "Ética Tecnológica",
+        "Riesgo Existencial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "153eecb9-8683-408d-a142-5487fddff8c6",
+      "titulo": "Evan Hubinger, investigador de Anthropic, lanza una cifra escalofriante sobre la IA: “Más del 10% de que mate a todos los humanos”",
+      "resumen": "Uno de los investigadores encargados precisamente de estudiar cómo mantener bajo control los sistemas avanzados de inteligencia artificial acaba de poner una cifra al peor escenario posible. Evan Hubinger, Alignment Science Lead de Anthropic, no ha dudado en estimar en más de un 10 % la posibilidad",
+      "url": "https://www.adslzone.net/noticias/ia/evan-hubinger-anthropic-riesgo-humanidad/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/09/Imagen-de-portada-50.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T10:15:44.000Z",
+      "fechaAgregada": "2026-09-09T12:45:48.435Z",
+      "puntosClave": [
+        "Un líder de alineación de Anthropic sitúa por encima del 10% la probabilidad de que un fallo en el control de la IA resulte en una catástrofe existencial.",
+        "La advertencia proviene de un perfil puramente técnico y especializado en seguridad, lo que otorga rigor científico a una cifra tradicionalmente ligada a la ciencia ficción.",
+        "La declaración intensifica la presión sobre los laboratorios para priorizar la alineación ética antes de liberar la próxima generación de modelos frontera."
+      ],
+      "porQueImporta": "Que un experto interno de Anthropic publique esta cifra redefine la gestión de riesgos para corporaciones y desarrolladores de LLMs. Obliga a la industria a tratar la seguridad no como un checklist de relaciones públicas, sino como un vector crítico de ingeniería ante la inminente llegada de regulaciones gubernamentales más estrictas.",
+      "tags": [
+        "Anthropic",
+        "Seguridad de la IA",
+        "Alineación"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "675c6d13-6626-4b0e-83c2-56c0a9e8e044",
+      "titulo": "El anuncio de OpenAI de que ha resuelto uno de los mayores enigmas matemáticos de la historia desata acusaciones de plagio",
+      "resumen": "Un matemático dice que la tecnológica ha usado investigaciones previas y “presionado” para excluir a otro investigador de Anthropic",
+      "url": "https://elpais.com/ciencia/2026-09-09/el-anuncio-de-openai-de-que-ha-resuelto-uno-de-los-mayores-enigmas-matematicos-de-la-historia-desata-acusaciones-de-plagio.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I27RAYLCEVCBFOFYOLKPZP3YW4.JPG?auth=c4d674130cb1f5a2fd766495517bba03d303a81dfadda68c6bff4811b2129809",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T08:44:52.000Z",
+      "fechaAgregada": "2026-09-09T12:45:46.991Z",
+      "puntosClave": [
+        "OpenAI es acusada de plagiar trabajos académicos previos tras anunciar la resolución de un histórico enigma matemático.",
+        "Un matemático denuncia que la firma omitió créditos clave y presionó para marginar a un investigador de su rival, Anthropic.",
+        "El caso intensifica la disputa por la propiedad intelectual y la ética científica en la carrera por liderar el desarrollo de la IA."
+      ],
+      "porQueImporta": "Este conflicto expone la creciente tensión entre la investigación abierta tradicional y el secretismo comercial de las grandes tecnológicas. Para el sector, evidencia que la prisa por patentar hitos hacia la AGI puede comprometer el rigor ético, erosionando la confianza de la comunidad científica en los modelos de OpenAI.",
+      "tags": [
+        "OpenAI",
+        "Ética",
+        "Matemáticas",
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "fb3268a3-808b-45ae-8122-c7eb85abb5e9",
+      "titulo": "Cómo te verías en los 80: cómo crear tu foto ochentera usando ChatGPT paso a paso",
+      "resumen": "Vamos a decirte cómo crear una imagen tuya vestido o vestida como en los 80 para sumarte a la tendencia viral de redes sociales. ChatGPT ha lanzado un filtro en su creador de imágenes por inteligencia artificial con el que te viste con indumentaria de esa época, algo que está compartiéndose mucho en",
+      "url": "https://www.xataka.com/basics/como-te-verias-80-como-crear-tu-foto-ochentera-usando-chatgpt-paso-a-paso",
+      "imagen": "https://i.blogs.es/f1c012/ochentero/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T08:16:54.000Z",
+      "fechaAgregada": "2026-09-09T12:45:45.520Z",
+      "puntosClave": [
+        "OpenAI introduce un filtro temático en ChatGPT para recrear retratos con la estética de los años 80, capitalizando la nostalgia digital.",
+        "La funcionalidad se ha convertido rápidamente en un fenómeno viral en redes sociales, impulsando el uso orgánico de su generador de imágenes.",
+        "Este movimiento posiciona a ChatGPT como un competidor directo de las aplicaciones móviles de edición fotográfica basadas en plantillas de IA."
+      ],
+      "porQueImporta": "Esta función demuestra cómo las grandes tecnológicas están gamificando la IA generativa de consumo para masificar su adopción. Para la industria, confirma que el éxito de los LLMs ya no solo depende de la productividad, sino de su capacidad para integrarse rápidamente en las tendencias culturales y el entretenimiento cotidiano de los usuarios.",
+      "tags": [
+        "OpenAI",
+        "DALL-E",
+        "Tendencias",
+        "Consumo Digital"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "9e72e019-8223-4310-baed-7fa8c773e167",
+      "titulo": "Civilization VI pone en aprietos a GPT-5.4, Claude y Gemini",
+      "resumen": "Civilization VI, y en general la saga de Sid Meier, lleva años demostrando que aquello de «un turno más y me voy a dormir» rara vez significa realmente un turno más. Ahora también se ha convertido en un banco de pruebas para averiguar hasta dónde pueden llegar los agentes de inteligencia artificial",
+      "url": "https://www.muycomputer.com/2026/09/09/civilization-vi-pone-en-aprietos-a-gpt-5-4-claude-y-gemini/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/Civilization-VI-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T06:03:36.000Z",
+      "fechaAgregada": "2026-09-09T12:45:52.832Z",
+      "puntosClave": [
+        "El videojuego de estrategia de largo formato Civilization VI se está utilizando como un nuevo y exigente estándar de pruebas para evaluar la autonomía de los agentes de IA.",
+        "Modelos de frontera de OpenAI, Anthropic y Google son puestos a prueba en escenarios que requieren planificación a largo plazo, diplomacia y gestión de recursos.",
+        "Este entorno interactivo evidencia las carencias actuales de los LLMs en razonamiento estratégico y adaptación ante imprevistos en sistemas dinámicos."
+      ],
+      "porQueImporta": "Dominar un entorno no lineal como Civilization VI acelera el desarrollo de agentes de IA capaces de tomar decisiones complejas bajo incertidumbre, una competencia crítica para transferir estas tecnologías a la optimización logística, la simulación económica y la toma de decisiones empresariales en el mundo real.",
+      "tags": [
+        "Agentes de IA",
+        "LLMs",
+        "Benchmark",
+        "Videojuegos"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "80e61a13-4318-40c7-956b-7d00d3f196d7",
+      "titulo": "OpenAI lanza ChatGPT Images 2.5 para que puedas crear imágenes más realistas y precisas",
+      "resumen": "Desde OpenAI acaban de anunciar la disponibilidad de ChatGPT Images 2.5, su nuevo modelo de IA especializado en la producción de imágenes. Con esta nueva versión es posible dar forma a imágenes más realistas que destacan por mejoras claras en todos los aspectos. Es el siguiente paso evolutivo de la",
+      "url": "https://www.adslzone.net/noticias/ia/openai-nuevo-chatgpt-images-disponible/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/09/Chica-verano-usando-ChatGPT-Images-2-5.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T04:00:51.000Z",
+      "fechaAgregada": "2026-09-09T12:45:48.436Z",
+      "puntosClave": [
+        "OpenAI despliega ChatGPT Images 2.5, su última evolución en IA generativa enfocada en el fotorrealismo extremo.",
+        "El modelo optimiza la fidelidad de los detalles y la precisión con la que interpreta las instrucciones complejas de los usuarios.",
+        "Esta actualización busca estandarizar la creación visual de alta calidad directamente dentro del flujo de trabajo de su ecosistema conversacional."
+      ],
+      "porQueImporta": "Este salto evolutivo redefine la productividad para departamentos de marketing y creadores de contenido, permitiendo prototipar diseños profesionales al instante sin salir de la interfaz de chat, lo que presiona directamente el liderazgo de herramientas especializadas como Midjourney.",
+      "tags": [
+        "OpenAI",
+        "Generación de Imágenes",
+        "Productividad",
+        "Diseño"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "505f8ac4-300f-4e34-9d17-9d5f7004e08f",
+      "titulo": "Meta lanza Muse, un agente de IA que trabaja por ti sin salir de WhatsApp",
+      "resumen": "Meta ha presentado su primer agente de inteligencia artificial para todos los usuarios. Conocido como Muse, esta IA se define como un agente personal que puede conectarse a tus aplicaciones y ejecutar tareas en tu nombre. Aunque es capaz de llevar a cabo múltiples funciones, los usuarios requieren d",
+      "url": "https://hipertextual.com/inteligencia-artificial/meta-lanza-muse-un-agente-de-ia-que-trabaja-por-ti-sin-salir-de-whatsapp/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/muse-spark.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-08T22:58:55.000Z",
+      "fechaAgregada": "2026-09-09T12:45:45.804Z",
+      "puntosClave": [
+        "Meta ha presentado su primer agente de inteligencia artificial para todos los usuarios. Conocido como Muse, esta IA se define como un agente personal que puede conectarse a tus aplicaciones y ejecutar tareas en tu nombre. Aunque es capaz de llevar a cabo múltiples funciones, los usuarios requieren d"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Hipertextual.",
+      "tags": [
+        "Meta IA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "ff96c82a-1d2c-42da-a3e3-554601e84c65",
+      "titulo": "OpenAI sube el listón con su nueva IA para generar imágenes: es mejor, más rápida y te permite dibujar en ChatGPT",
+      "resumen": "OpenAI acaba de estrenar ChatGPT Images 2.5, un nuevo modelo de inteligencia artificial dedicado a la generación de imágenes. La tecnología supone una importante mejora respecto de la versión 2.0 que debutó en abril pasado y que también brindaba un desempeño muy interesante. Según la empresa, ChatGP",
+      "url": "https://hipertextual.com/inteligencia-artificial/openai-chatgpt-images-2-5/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/ChatGPT-Images-2.5-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-08T20:37:54.000Z",
+      "fechaAgregada": "2026-09-09T12:45:45.804Z",
+      "puntosClave": [
+        "OpenAI presenta ChatGPT Images 2.5, una evolución de su modelo visual que supera en velocidad y definición a la versión de abril.",
+        "La actualización introduce funciones interactivas que permiten a los usuarios esbozar y realizar trazos directamente en la interfaz de chat.",
+        "Este despliegue busca consolidar el ecosistema de ChatGPT como una suite creativa todo en uno, reduciendo la dependencia de herramientas externas."
+      ],
+      "porQueImporta": "La fusión de generación sintética y edición manual directa en el chat transforma la UI/UX de la IA generativa, permitiendo a diseñadores y creadores de contenido iterar prototipos visuales en tiempo real sin salir del flujo de conversación.",
+      "tags": [
+        "OpenAI",
+        "Generación de Imágenes",
+        "Productividad",
+        "Diseño"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "a52b814f-ca08-477d-9ada-cb22304a63f2",
+      "titulo": "OpenAI dice que su IA resolvió el enigma matemático del milenio, pero un científico la acusa de plagio",
+      "resumen": "Un sistema de OpenAI ha resuelto un enigma matemático que llevaba décadas sin solución. La compañía anunció que su IA encontró la solución de uno de los siete problemas del milenio relacionado con las ecuaciones de Navier-Stokes usando un modelo más potente que GPT-6 Astra. Aunque esto suena notable",
+      "url": "https://hipertextual.com/inteligencia-artificial/ia-openai-resuelve-problema-milenio-navier-stokes/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/matematicas.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-08T19:58:40.000Z",
+      "fechaAgregada": "2026-09-09T12:45:45.804Z",
+      "puntosClave": [
+        "OpenAI afirma haber resuelto una de las ecuaciones de Navier-Stokes, un histórico problema del milenio, usando un modelo superior a GPT-6 Astra.",
+        "El logro científico se encuentra bajo sospecha tras la denuncia pública de un científico que acusa a la compañía de plagiar su trabajo.",
+        "La disputa pone en entredicho si la IA realmente generó conocimiento matemático original o si se limitó a replicar investigaciones existentes sin atribución."
+      ],
+      "porQueImporta": "Este caso expone el vacío legal y ético de la IA en la ciencia frontera: si las empresas tecnológicas se apropian de hallazgos académicos para adjudicárselos a sus modelos, se pondrá en riesgo la colaboración de la comunidad científica y la validez de los futuros descubrimientos automatizados.",
+      "tags": [
+        "OpenAI",
+        "Propiedad Intelectual",
+        "Ciencia de la IA",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "82196db0-79a9-4659-854a-0c6de99e9e65",
+      "titulo": "Diferencias entre las versionas Astra, Sol, Tierra y Luna de ChatGPT",
+      "resumen": "Desde el lanzamiento de ChatGPT, la forma de identificar los modelos de inteligencia artificial de OpenAI se ha basado en números y denominaciones técnicas: GPT-3, GPT-4, GPT-4.1, o modelos como o3 y o4-mini.\nSin embargo, con la llegada de nuevas generaciones de modelos, OpenAI está introduciendo un",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/diferencias-versiones-gpt-astra-sol-tierra-luna/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/09/versiones-gpt.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-08T13:02:38.000Z",
+      "fechaAgregada": "2026-09-09T12:45:51.486Z",
+      "puntosClave": [
+        "OpenAI evoluciona su estrategia de marca sustituyendo la nomenclatura técnica y numérica por nombres inspirados en la naturaleza y el cosmos como Astra, Sol, Tierra y Luna.",
+        "Esta nueva segmentación busca categorizar los modelos según su potencia, consumo de recursos y especialización para simplificar su oferta comercial.",
+        "El cambio metodológico facilita la comprensión del portafolio de productos de cara a la adopción masiva por parte de usuarios no técnicos."
+      ],
+      "porQueImporta": "Esta simplificación en el branding de OpenAI reduce la fricción para que empresas y desarrolladores adopten IA, permitiendo identificar instantáneamente qué modelo se adapta mejor a sus costes y necesidades operativas sin descifrar complejas nomenclaturas técnicas.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "LLMs",
+        "Estrategia Comercial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "dc62564e-5c13-436f-9574-6158fac33e48",
+      "titulo": "Vuelven a usar mensajes invisibles para robar contraseñas: no caigas en la trampa",
+      "resumen": "Los piratas informáticos pueden utilizar estrategias muy variadas para lograr sus objetivos de robar datos personales, contraseñas o tomar el control del dispositivo. En esta ocasión nos hacemos eco de una nueva campaña en la que utilizan caracteres Unicode invisibles para ocultar señuelos de phishi",
+      "url": "https://www.redeszone.net/noticias/seguridad/mensajes-invisibles-robar-contrasenas-trampa/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/09/mensaje-correo-peligroso.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-07T07:28:18.000Z",
+      "fechaAgregada": "2026-09-09T12:45:50.089Z",
+      "puntosClave": [
+        "Los piratas informáticos pueden utilizar estrategias muy variadas para lograr sus objetivos de robar datos personales, contraseñas o tomar el control del dispositivo. En esta ocasión nos hacemos eco de una nueva campaña en la que utilizan caracteres Unicode invisibles para ocultar señuelos de phishi"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por RedesZone.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "9e7507d7-5587-4f02-b628-d71ed4389a38",
+      "titulo": "OpenAI lanza GPT-6 Astra, su modelo más potente, entre especulaciones sobre si han alcanzado la superinteligencia artificial",
+      "resumen": "La empresa de Sam Altman, que está preparando su salida a Bolsa, asegura haber desarrollado una IA con capacidad sobrehumana, aunque él mismo dijo que ese término es más marketiniano que real",
+      "url": "https://elpais.com/tecnologia/2026-09-04/openai-lanza-gpt-6-astra-su-modelo-mas-potente-entre-especulaciones-sobre-si-han-alcanzado-la-superinteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NRJQUGPG4FLU7CS23UZH6JNDOE.jpg?auth=6a780d1a05a9374e52341518c770e5f4246980eb0e3c8c8d8e7798c72fb88a7a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-04T13:46:11.000Z",
+      "fechaAgregada": "2026-09-09T12:45:46.991Z",
+      "puntosClave": [
+        "OpenAI presenta GPT-6 Astra, un modelo con capacidades catalogadas como sobrehumanas, en pleno proceso de preparación para su debut bursátil.",
+        "El director ejecutivo, Sam Altman, rebaja el tono sensacionalista al admitir que el concepto de superinteligencia se utiliza actualmente de forma comercial.",
+        "La maniobra busca consolidar el liderazgo técnico de la firma y atraer inversores institucionales ante una valoración financiera sin precedentes."
+      ],
+      "porQueImporta": "Este lanzamiento marca el fin de la era de la IA puramente experimental para entrar en la de la presión bursátil. Las corporaciones y desarrolladores ahora deben discernir entre las mejoras de rendimiento reales de GPT-6 Astra y la narrativa inflada diseñada para disparar la valoración de OpenAI antes de su salida a Bolsa.",
+      "tags": [
+        "OpenAI",
+        "GPT-6",
+        "Modelos de Lenguaje",
+        "Finanzas Tech"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "54f7d261-df2b-49b3-9f96-c0fde052fa24",
+      "titulo": "Los grandes ‘chatbots’ de inteligencia artificial sufren una caída global y dejan de funcionar",
+      "resumen": "Los usuarios de las plataformas de ChatGPT, Claude, Grok, Copilot y Gemini registran problemas desde hace unas horas",
+      "url": "https://elpais.com/tecnologia/2026-09-03/chatgpt-grok-y-claude-sufren-una-caida-y-dejan-de-funcionar.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XHY2RHFQYFG6JHWHGBAZCZ6UIA.jpg?auth=a55607cae2b985a9ecb75410e64c0abb6651c4b7cb3e10d4ac1d4e477ef8f46a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-03T17:53:46.000Z",
+      "fechaAgregada": "2026-09-09T12:45:46.992Z",
+      "puntosClave": [
+        "Una caída simultánea sin precedentes dejó fuera de servicio a los principales LLMs del mercado, afectando a ChatGPT, Claude, Gemini, Copilot y Grok.",
+        "El fallo generalizado apunta a un posible colapso en la infraestructura de red compartida o proveedores de nube comunes que sostienen estos servicios.",
+        "La interrupción masiva paralizó temporalmente el flujo de trabajo de millones de usuarios y desarrolladores que dependen de estas API en su día a día."
+      ],
+      "porQueImporta": "Este apagón sistémico expone la extrema fragilidad y centralización del ecosistema de la IA generativa. Para las empresas que han integrado estas tecnologías en su núcleo operativo, el incidente es una seria advertencia sobre los riesgos de no contar con redundancia multi-modelo o soluciones locales 'open-source' para evitar costosos tiempos de inactividad.",
+      "tags": [
+        "LLMs",
+        "Infraestructura",
+        "Cloud Computing",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "a187b4b6-1e20-492a-867a-2c2de96b0473",
+      "titulo": "Anthropic retoma las pruebas externas de sus modelos de IA un mes después de los hackeos masivos",
+      "resumen": "La compañía admite “fallos de seguridad operacional” y asegura que ha tomado medidas para impedir nuevos ataques",
+      "url": "https://elpais.com/tecnologia/2026-09-02/anthropic-retoma-las-pruebas-externas-de-sus-modelos-de-ia-un-mes-despues-de-los-hackeos-masivos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VQ76GIWS5JHRVC56MKPEGMGI4Q.jpg?auth=0ac8f8bb0bb23ff7461875baa86a70fe0a0e4c219b196e3af90f386fbd70d087",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-02T16:03:01.000Z",
+      "fechaAgregada": "2026-09-09T12:45:46.992Z",
+      "puntosClave": [
+        "La compañía admite “fallos de seguridad operacional” y asegura que ha tomado medidas para impedir nuevos ataques"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "56b7c0b5-cebd-42bd-b89c-e183994b1c96",
+      "titulo": "Bruselas incluye a ChatGPT, Reddit y Roblox entre las plataformas más fiscalizadas por la UE",
+      "resumen": "La Comisión Europea considera que estos tres servicios han superado el umbral de 45 millones de usuarios y, por tanto, deben someterse a reglas más estrictas",
+      "url": "https://elpais.com/tecnologia/2026-08-31/bruselas-incluye-a-chatgpt-reddit-y-roblox-entre-las-plataformas-mas-fiscalizadas-por-la-ue.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SB4BUWFGLZLALBC5YPJEEUNSQY.jpg?auth=ad460586d6ff5ca0a1e68a7b380fb3a8b2f0f4a72682f684c66190557b004a74",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-31T11:39:55.000Z",
+      "fechaAgregada": "2026-09-09T12:45:46.992Z",
+      "puntosClave": [
+        "La Comisión Europea considera que estos tres servicios han superado el umbral de 45 millones de usuarios y, por tanto, deben someterse a reglas más estrictas"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "ChatGPT"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "0e8d7cca-f7cd-4773-8139-604de83ad58b",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/215/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-09-09T12:45:46.992Z",
+      "puntosClave": [
+        "La tutela digital de los menores debe evolucionar de un control restrictivo a un acompañamiento activo y adaptativo según su edad.",
+        "La llegada de la inteligencia artificial generativa exige nuevas competencias digitales para que los niños distingan lo real de lo sintético.",
+        "El rol del adulto se desplaza hacia la mediación orientada a fomentar el pensamiento crítico y el uso ético de las herramientas tecnológicas."
+      ],
+      "porQueImporta": "Esta transición obliga a los desarrolladores de IA y empresas EdTech a priorizar el diseño ético y la seguridad desde la raíz, creando interfaces transparentes que no solo protejan a los menores, sino que faciliten a los educadores herramientas de supervisión no invasivas.",
+      "tags": [
+        "EdTech",
+        "Ética de la IA",
+        "Seguridad Digital"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "69bd4bae-47aa-4eac-b876-c3fecd6ceb88",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-09-09T12:45:46.698Z",
+      "puntosClave": [
+        "Sam Altman busca un perfil directivo para OpenAI bajo la advertencia explícita de que será un puesto de alta presión y máxima exigencia desde el primer día.",
+        "La compensación económica supera el medio millón de dólares anuales, posicionándose en la cúspide salarial del sector tecnológico actual.",
+        "La convocatoria abierta en redes sociales refleja la urgencia de la compañía por captar talento capaz de gestionar su acelerado ritmo de lanzamientos."
+      ],
+      "porQueImporta": "Esta oferta redefine las reglas del reclutamiento en la era de la IA generativa, evidenciando que el liderazgo en las Big Tech ya no solo exige brillantez técnica, sino una resistencia psicológica extrema pagada a precio de oro bajo una cultura de hiperproductividad.",
+      "tags": [
+        "OpenAI",
+        "Empleo",
+        "Cultura Laboral",
+        "Silicon Valley"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "fb4776ad-92d8-4b5a-bf09-98eeed4c5ff4",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-09-09T12:45:46.699Z",
+      "puntosClave": [
+        "El cibercrimen ha traspasado la frontera estrictamente digital, incorporando violencia física, torturas y homicidios a sus métodos de operación durante 2025.",
+        "Las motivaciones delictivas evolucionan más allá del robo de datos o rescates económicos, adoptando tácticas de extorsión directa y crimen organizado tradicional.",
+        "Esta convergencia de amenazas físicas y cibernéticas transforma de forma radical el panorama global de la seguridad corporativa e individual."
+      ],
+      "porQueImporta": "Para las empresas e ingenieros de seguridad, esto implica rediseñar de cero los modelos de amenaza: la protección de datos ya no puede desvincularse de la seguridad física del personal, obligando a coordinar la ciberseguridad con protocolos de protección de vidas humanas.",
+      "tags": [
+        "Ciberseguridad",
+        "Cibercrimen",
+        "Seguridad Corporativa",
+        "Gestión de Riesgos"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "155147b8-7eb6-4760-b17e-7105247f83ac",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-09-09T12:45:46.699Z",
+      "puntosClave": [
+        "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
