@@ -1,0 +1,479 @@
+{
+  "fecha": "2026-09-10",
+  "generado": "2026-09-10T12:47:02.737Z",
+  "total": 20,
+  "noticias": [
+    {
+      "id": "f0014f66-612a-4d69-a179-c832950441b7",
+      "titulo": "Mark Zuckerberg fichó a un experto en IA por un salario de 1.500 millones en seis años: le ha durado 11 meses",
+      "resumen": "El dinero no siempre compra la lealtad, ni siquiera cuando se materializa en un contrato laboral con un salario de miles de millones de dólares. Las grandes empresas llevan décadas pagando fortunas para arrebatar a un rival su empleado estrella. La cifra de fracasos en esa práctica es casi tan larga",
+      "url": "https://www.xataka.com/empresas-y-economia/mark-zuckerberg-ficho-a-experto-ia-1-500-millones-al-ano-le-ha-durado-11-meses",
+      "imagen": "https://i.blogs.es/adebd7/un-fichaje-de-meta-fallido/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T11:17:00.000Z",
+      "fechaAgregada": "2026-09-10T12:43:49.231Z",
+      "puntosClave": [
+        "Meta ofreció un contrato histórico de 1.500 millones de dólares a seis años para asegurar a un líder clave en su división de inteligencia artificial.",
+        "El fichaje estrella decidió abandonar la compañía de Mark Zuckerberg tras tan solo 11 meses de relación laboral.",
+        "El fracaso de esta operación demuestra los límites del talonario en la feroz y volátil guerra por el talento técnico de élite."
+      ],
+      "porQueImporta": "La fuga de este talento evidencia que ni los presupuestos ilimitados garantizan la estabilidad en la frontera de la IA. Para la industria, esto redefine la competencia por el liderazgo tecnológico: la cultura corporativa, la libertad de investigación y la agilidad pesan hoy más que las compensaciones astronómicas.",
+      "tags": [
+        "Meta",
+        "Talento IA",
+        "Big Tech",
+        "Estrategia"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "22df085c-49ab-4dca-bb8e-1f5cef039e44",
+      "titulo": "OpenAI corrige de tapadillo su prueba ‘del milenio’ para citar a los matemáticos clave que ninguneó al anunciar el descubrimiento",
+      "resumen": "La compañía tecnológica reconoce así que se apoyó en el trabajo de los investigadores españoles. Charles Fefferman, el experto de Princeton que formuló el problema, confirma que el resultado presentado de la IA es la solución al reto",
+      "url": "https://elpais.com/tecnologia/2026-09-10/openai-corrige-de-tapadillo-su-prueba-del-milenio-para-citar-a-los-matematicos-clave-que-ninguneo-al-anunciar-el-descubrimiento.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4V7ZRT3NIVK4DEYJQUBTQ666EI.jpg?auth=388001b98c980fa8fb4f5d6ec66d9ea88b30d68a75ea046384afbc7ec2a1ae85",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T10:08:56.000Z",
+      "fechaAgregada": "2026-09-10T12:43:50.726Z",
+      "puntosClave": [
+        "OpenAI rectificó discretamente su publicación original para incluir el reconocimiento a los matemáticos españoles cuyo trabajo fue fundamental para el hallazgo.",
+        "El prestigioso matemático Charles Fefferman, de la Universidad de Princeton, validó oficialmente que la solución presentada por la IA es correcta.",
+        "La corrección silenciosa expone las tensiones éticas de las grandes tecnológicas al apropiarse de méritos académicos sin la atribución adecuada."
+      ],
+      "porQueImporta": "Este incidente evidencia la necesidad de establecer un marco ético riguroso en la IA de frontera, donde las corporaciones no pueden simplemente absorber y capitalizar el conocimiento académico tradicional sin acreditarlo. Para los investigadores, marca un precedente sobre la defensa de la propiedad intelectual frente al avance de los modelos generativos.",
+      "tags": [
+        "OpenAI",
+        "Ética",
+        "Investigación",
+        "Matemáticas"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "86e9ea0a-72b0-4321-992e-a1c6c48aab9a",
+      "titulo": "El A20 Pro es el chip más eficiente que Apple ha metido en un iPhone. Curiosamente, nunca había necesitado refrigerarlo tanto",
+      "resumen": "Durante su evento de ayer, Apple nos \"vendió\" su SoC A20 Pro con un eslogan muy contundente: \"el mayor rendimiento constante en la historia del iPhone\". Si rascamos un poco en esta frase nos daremos cuenta de que tiene más miga de la que puede parecer en un principio. Estas cuatro palabras, \"el mayo",
+      "url": "https://www.xataka.com/telefono-movil/a20-pro-chip-eficiente-que-apple-ha-metido-iphone-curiosamente-nunca-habia-necesitado-refrigerarlo",
+      "imagen": "https://i.blogs.es/4f9753/a20pro/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T09:46:00.000Z",
+      "fechaAgregada": "2026-09-10T12:43:49.231Z",
+      "puntosClave": [
+        "El procesador A20 Pro promete el rendimiento sostenido más alto en la historia del iPhone, pero exige un sistema de disipación térmica sin precedentes.",
+        "La paradoja de requerir más refrigeración en el chip teóricamente más eficiente responde a la demanda de procesamiento continuo que exige la IA local.",
+        "Apple busca erradicar el estrangulamiento térmico (thermal throttling) para mantener la potencia gráfica y de computación al máximo durante más tiempo."
+      ],
+      "porQueImporta": "Esta paradoja térmica evidencia que ejecutar modelos de IA generativa y computación espacial en local lleva al hardware móvil al límite de la disipación pasiva. Para los desarrolladores de software, esto significa que optimizar la eficiencia del código y el consumo de recursos será tan crítico como la potencia bruta para evitar el sobrecalentamiento del dispositivo.",
+      "tags": [
+        "Hardware",
+        "Apple",
+        "Procesadores",
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "a3a76cc5-2701-4c95-99a9-14d63a479fc7",
+      "titulo": "\"Están jugando con nuestras vidas\": un investigador de Anthropic cree que hay un 10% de posibilidades de que la IA acabe con la humanidad",
+      "resumen": "Hay un número que se ha vuelto viral en Twitter estos días: más del 10%.  Esa es la probabilidad que Evan Hubinger, un investigador de Anthropic, cree que existe de que la inteligencia artificial acabe con todos los humanos durante la próxima década. El comentario respaldó la decisión de Jacob Coxon",
+      "url": "https://www.xataka.com/robotica-e-ia/estan-jugando-nuestras-vidas-investigador-anthropic-cree-que-hay-10-posibilidades-que-ia-acabe-humanidad",
+      "imagen": "https://i.blogs.es/34c5b7/robot-anthropic-extincion-raza-humana/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T09:17:00.000Z",
+      "fechaAgregada": "2026-09-10T12:43:49.232Z",
+      "puntosClave": [
+        "Un investigador de Anthropic sitúa en más del 10% la probabilidad de que la inteligencia artificial cause la extinción humana en esta década.",
+        "La polémica declaración ha popularizado el debate sobre el 'p(doom)' en redes, reflejando el temor existencial dentro de los laboratorios punteros.",
+        "Estas advertencias de seguridad interna están motivando la dimisión de ingenieros y redefiniendo las carreras profesionales en el sector tecnológico."
+      ],
+      "porQueImporta": "Cuando los propios desarrolladores cuantifican un riesgo existencial de doble dígito, la seguridad de la IA pasa de debate filosófico a prioridad comercial. Para las empresas de software, esto acelerará la demanda de especialistas en alineación y auditorías de seguridad antes de poder desplegar modelos de nueva generación.",
+      "tags": [
+        "Seguridad IA",
+        "Anthropic",
+        "Ética",
+        "Regulación"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "35415585-ff5c-4cfb-8fef-4e110edadf7b",
+      "titulo": "HP y la Scuderia Ferrari «redefinen» el AI PC con un portátil muy especial",
+      "resumen": "HP y la Scuderia Ferrari han presentado un portátil de edición limitada y especial, que refleja la visión compartida de ambas compañías para crear una nueva generación de dispositivos donde el diseño, la inteligencia artificial y el rendimiento convergen en una única experiencia. Dicen desde HP que",
+      "url": "https://www.muycomputer.com/2026/09/10/hp-y-la-scuderia-ferrari-redefinen-el-ai-pc-con-un-portatil-muy-especial/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/HP-y-la-Scuderia-Ferrari_3.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T08:46:35.000Z",
+      "fechaAgregada": "2026-09-10T12:43:57.422Z",
+      "puntosClave": [
+        "HP y la Scuderia Ferrari se alían para lanzar un ordenador portátil de edición limitada enfocado en la era del 'AI PC'.",
+        "El dispositivo busca fusionar la ingeniería de alto rendimiento y el diseño de automoción con capacidades avanzadas de IA local.",
+        "Esta colaboración estratégica posiciona la inteligencia artificial integrada como el nuevo estándar de lujo y exclusividad tecnológica."
+      ],
+      "porQueImporta": "Esta alianza demuestra que el 'AI PC' ya no es solo una categoría técnica, sino el nuevo argumento de estatus y rendimiento extremo. Para la industria del hardware, valida que el procesamiento de IA en local (edge) es el nuevo campo de batalla de la gama ultra-premium, redefiniendo lo que los profesionales de alto nivel esperan de su computación móvil.",
+      "tags": [
+        "Hardware",
+        "AI PC",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "e4a7c503-e21e-47ea-b2cd-a58861456468",
+      "titulo": "Un año de trabajo de dos matemáticos españoles frente a 88 horas y 15 millones de OpenAI: “Sin nuestra idea, la IA no lo habría resuelto”",
+      "resumen": "Las investigaciones de Diego Córdoba y Luis Martínez-Zoroa son la base del anuncio de que la inteligencia artificial ha resuelto uno de los mayores enigmas de la historia. Ambos creen que el logro cambiará radicalmente la disciplina",
+      "url": "https://elpais.com/ciencia/2026-09-10/un-ano-de-trabajo-de-dos-matematicos-espanoles-frente-a-88-horas-y-15-millones-de-openai-sin-nuestra-idea-la-ia-no-lo-habria-resuelto.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/37RYRR4V5JDQFCZVIXK5AIBXUQ.jpg?auth=f0f3b3086b1700632a18c52c410c7daf3d21e41e966015b657725be2f0bb6b16",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T03:30:01.000Z",
+      "fechaAgregada": "2026-09-10T12:43:50.726Z",
+      "puntosClave": [
+        "Dos matemáticos españoles dedicaron un año a desarrollar la base teórica sin la cual la tecnología de OpenAI no habría podido resolver el enigma.",
+        "La tecnológica estadounidense invirtió 15 millones de dólares y 88 horas de supercomputación para ejecutar y validar la teoría humana.",
+        "El logro redefine la cooperación científica, demostrando que la fuerza bruta algorítmica es inútil sin la chispa creativa y conceptual previa."
+      ],
+      "porQueImporta": "Este hito demuestra que el futuro de la ciencia no pertenece al software autónomo, sino a un modelo híbrido donde el pensamiento abstracto humano guía la capacidad de cómputo masivo de la IA, marcando el camino para resolver otros grandes misterios de la física y la ingeniería.",
+      "tags": [
+        "OpenAI",
+        "Matemáticas",
+        "Supercomputación"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "791b311f-72b4-435f-8219-1f663d8d5885",
+      "titulo": "¿Qué iPhone comprar tras la keynote de Apple? Así son los nuevos iPhone 18 Pro, iPhone 18 Pro Max y iPhone Duo",
+      "resumen": "La última keynote de Apple ha vuelto a sacudir la gama alta de la telefonía con una familia que redobla su apuesta por la potencia, la eficiencia y la fotografía computacional. Sin embargo, la llegada del inédito modelo iPhone Duo añade un nuevo escalón en el catálogo de la firma de la manzana mordi",
+      "url": "https://www.xataka.com/seleccion/que-iphone-comprar-keynote-apple-asi-nuevos-iphone-18-pro-iphone-18-pro-max-iphone-duo",
+      "imagen": "https://i.blogs.es/794294/nuevos-iphone/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T19:17:00.000Z",
+      "fechaAgregada": "2026-09-10T12:43:49.234Z",
+      "puntosClave": [
+        "Apple sacude el mercado móvil con los nuevos iPhone 18 Pro y Pro Max, apostando fuertemente por chips optimizados para fotografía computacional.",
+        "La gran novedad de la keynote es el inédito 'iPhone Duo', un modelo con un factor de forma disruptivo que diversifica el catálogo premium de la marca.",
+        "Esta nueva segmentación redefine la estrategia comercial de Apple, obligando a los consumidores a elegir entre potencia tradicional o un nuevo paradigma de diseño."
+      ],
+      "porQueImporta": "La introducción del iPhone Duo y la arquitectura del chip de los iPhone 18 obligan a los desarrolladores a rediseñar interfaces para pantallas múltiples y adaptativas, mientras aceleran la carrera por procesar modelos de IA generativa y visión computacional directamente en el silicio del dispositivo.",
+      "tags": [
+        "Apple",
+        "Hardware",
+        "InteligenciaArtificial",
+        "DiseñoMóvil"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "ae448ffe-6c95-4ea6-abf4-bc69644c5ecd",
+      "titulo": "Controla todo lo que ocurra en tu casa con estas cámaras de vigilancia en oferta",
+      "resumen": "Si quieres controlar todo lo que ocurra en tu casa, una buena opción es utilizar cámaras de seguridad. Te ayudarán a vigilar desde cualquier sitio, además de recibir notificaciones instantáneas en caso de que detecten algo. Vamos a mostrarte algunas opciones en oferta, además de hablarte de las prin",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-vigilancia-0926/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/09/camara-seguridad.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T15:27:43.000Z",
+      "fechaAgregada": "2026-09-10T12:43:54.578Z",
+      "puntosClave": [
+        "Las rebajas en cámaras de seguridad facilitan la adquisición masiva de hardware conectado para el control del hogar.",
+        "Estos sistemas destacan por su capacidad de monitorización remota y el envío de notificaciones reactivas instantáneas.",
+        "La accesibilidad de estos dispositivos acelera la adopción de infraestructuras domésticas preparadas para la automatización."
+      ],
+      "porQueImporta": "La democratización de este hardware acelera la expansión de redes IoT domésticas, abriendo un mercado crítico para desarrolladores de software enfocados en integrar visión artificial en el borde (Edge AI) y análisis predictivo de seguridad.",
+      "tags": [
+        "IoT",
+        "Hardware",
+        "Domótica",
+        "Visión Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "0ccfb471-4e53-46eb-b59f-c36f2d35d49d",
+      "titulo": "Jacob Coxon avisa de la carrera de la IA después de dimitir de Anthropic: «Están jugando con nuestras vidas»",
+      "resumen": "La Inteligencia Artificial ha ido creciendo a pasos agigantados en los últimos años. Tenemos muchas plataformas disponibles con las que podemos realizar tareas muy variadas y ahorrar tiempo. Sin embargo, todo esto también genera dudas sobre cómo puede repercutir en el trabajo de muchas personas, ade",
+      "url": "https://www.redeszone.net/noticias/redes/jacob-coxon-alerta-ia-dimision/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/09/inteligencia-artificial-imagen.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T14:05:43.000Z",
+      "fechaAgregada": "2026-09-10T12:43:54.578Z",
+      "puntosClave": [
+        "Jacob Coxon abandona Anthropic lanzando una dura advertencia sobre cómo la competencia desmedida del sector prioriza la velocidad sobre la seguridad humana.",
+        "La dimisión evidencia una preocupante fuga de cerebros éticos en las principales firmas de IA, quienes alertan de la falta de control sobre los modelos más avanzados.",
+        "El aviso pone el foco en el impacto sistémico de la automatización acelerada, cuestionando la falta de filtros éticos frente a intereses comerciales masivos."
+      ],
+      "porQueImporta": "La salida de figuras clave en seguridad dentro de bastiones de la IA como Anthropic revela una fractura ética en la industria: la presión competitiva está asfixiando los protocolos de contención de riesgos, lo que forzará a las empresas a operar bajo un escrutinio regulatorio mucho más estricto sobre sus LLMs.",
+      "tags": [
+        "Anthropic",
+        "Seguridad de la IA",
+        "Ética Tecnológica"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "5e0aa55f-4719-4502-a1f4-11a54eb60b9e",
+      "titulo": "Un investigador de Anthropic dimite y alerta del peligro de la IA: “Puede matarnos antes de 2030”",
+      "resumen": "El jefe de Jacob Coxon, joven investigador de la compañía,  le apoya y dice que la probabilidad de extinción en los próximos años supera el 10%",
+      "url": "https://elpais.com/tecnologia/2026-09-09/un-investigador-de-anthropic-dimite-porque-asegura-que-la-ia-puede-matarnos-antes-de-2030.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/U6GJQJBBSVAU3DBJYXH7T6Q4DQ.jpg?auth=758c76b1176d7c75e0cddd6b78ad33f91ee9a5c0d044626f18fe77303dd4600a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T11:01:45.000Z",
+      "fechaAgregada": "2026-09-10T12:43:50.726Z",
+      "puntosClave": [
+        "Jacob Coxon, investigador de Anthropic, dimite al considerar que el ritmo de desarrollo de la IA representa una amenaza existencial inminente.",
+        "El supervisor directo de Coxon apoya su decisión y respalda la alarmante cifra de un 10% de probabilidad de extinción humana antes de 2030.",
+        "Esta salida evidencia una creciente brecha ideológica dentro de las empresas líderes entre la aceleración comercial y la seguridad real de los modelos."
+      ],
+      "porQueImporta": "La dimisión en Anthropic —creada originalmente como el bastión de la IA ética y segura— demuestra que la crisis de gobernanza interna en el sector es crítica. Para la industria, esto acelerará la presión legislativa global y obligará a las empresas tecnológicas a reevaluar sus métricas de desarrollo, priorizando la contención de riesgos existenciales sobre la velocidad de lanzamiento al mercado.",
+      "tags": [
+        "Anthropic",
+        "Seguridad de la IA",
+        "Riesgo Existencial",
+        "Gobernanza"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "b8a8818c-2e47-4c25-8150-fa7f513bc1f9",
+      "titulo": "El anuncio de OpenAI de que ha resuelto uno de los mayores enigmas matemáticos de la historia desata acusaciones de plagio",
+      "resumen": "Un matemático dice que la tecnológica ha usado investigaciones previas y “presionado” para excluir a otro investigador de Anthropic",
+      "url": "https://elpais.com/ciencia/2026-09-09/el-anuncio-de-openai-de-que-ha-resuelto-uno-de-los-mayores-enigmas-matematicos-de-la-historia-desata-acusaciones-de-plagio.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I27RAYLCEVCBFOFYOLKPZP3YW4.JPG?auth=c4d674130cb1f5a2fd766495517bba03d303a81dfadda68c6bff4811b2129809",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T08:44:52.000Z",
+      "fechaAgregada": "2026-09-10T12:43:50.726Z",
+      "puntosClave": [
+        "OpenAI es acusada de apropiación intelectual tras atribuirse la resolución de un hito matemático histórico utilizando supuestamente trabajos ajenos sin el debido crédito.",
+        "Un académico denuncia que la firma no solo omitió investigaciones previas, sino que presionó para marginar a un investigador rival de su competidora Anthropic.",
+        "El caso reaviva la tensión entre el hermetismo corporativo de Silicon Valley y el principio de colaboración abierta que rige a la comunidad científica internacional."
+      ],
+      "porQueImporta": "Este incidente golpea la credibilidad científica de OpenAI y demuestra que la carrera por la Inteligencia Artificial General (AGI) está empujando a las Big Tech a saltarse la ética académica, lo que podría fracturar la relación indispensable entre los desarrolladores de modelos y la comunidad investigadora global.",
+      "tags": [
+        "OpenAI",
+        "Propiedad Intelectual",
+        "Ética de la IA",
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "f531fd49-20c2-4432-b0de-7034f0126cee",
+      "titulo": "Civilization VI pone en aprietos a GPT-5.4, Claude y Gemini",
+      "resumen": "Civilization VI, y en general la saga de Sid Meier, lleva años demostrando que aquello de «un turno más y me voy a dormir» rara vez significa realmente un turno más. Ahora también se ha convertido en un banco de pruebas para averiguar hasta dónde pueden llegar los agentes de inteligencia artificial",
+      "url": "https://www.muycomputer.com/2026/09/09/civilization-vi-pone-en-aprietos-a-gpt-5-4-claude-y-gemini/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/Civilization-VI-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T06:03:36.000Z",
+      "fechaAgregada": "2026-09-10T12:43:57.423Z",
+      "puntosClave": [
+        "La compleja saga de estrategia Civilization VI se consolida como el nuevo terreno de pruebas extremo para evaluar la capacidad de planificación de los LLM de última generación.",
+        "Modelos de frontera como GPT, Claude y Gemini se enfrentan al reto de gestionar recursos, diplomacia y tácticas militares a lo largo de cientos de turnos interactivos.",
+        "Este escenario de juego demuestra que, más allá de generar texto, el verdadero desafío de la IA actual radica en la toma de decisiones lógicas y adaptativas a largo plazo."
+      ],
+      "porQueImporta": "Dominar un entorno dinámico y multifactorial como Civilization VI valida la transición de los LLMs desde simples asistentes conversacionales hacia agentes autónomos capaces de resolver problemas logísticos, de negociación y de planificación estratégica en el mundo corporativo real.",
+      "tags": [
+        "LLMs",
+        "Agentes de IA",
+        "Videojuegos",
+        "Planificación"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "ec12105c-be1d-4cef-80ff-bb5831768ac5",
+      "titulo": "OpenAI lanza GPT-6 Astra, su modelo más potente, entre especulaciones sobre si han alcanzado la superinteligencia artificial",
+      "resumen": "La empresa de Sam Altman, que está preparando su salida a Bolsa, asegura haber desarrollado una IA con capacidad sobrehumana, aunque él mismo dijo que ese término es más marketiniano que real",
+      "url": "https://elpais.com/tecnologia/2026-09-04/openai-lanza-gpt-6-astra-su-modelo-mas-potente-entre-especulaciones-sobre-si-han-alcanzado-la-superinteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NRJQUGPG4FLU7CS23UZH6JNDOE.jpg?auth=6a780d1a05a9374e52341518c770e5f4246980eb0e3c8c8d8e7798c72fb88a7a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-04T13:46:11.000Z",
+      "fechaAgregada": "2026-09-10T12:43:50.726Z",
+      "puntosClave": [
+        "OpenAI presenta GPT-6 Astra bajo la etiqueta de capacidad sobrehumana, coincidiendo con los preparativos para su salida a Bolsa.",
+        "Sam Altman rebaja la euforia de la superinteligencia artificial al admitir que el concepto tiene un fuerte componente de marketing.",
+        "El movimiento estratégico busca consolidar la dominancia técnica de la firma y maximizar su valoración financiera ante los inversores."
+      ],
+      "porQueImporta": "Este hito marca un punto de inflexión donde el desarrollo de frontera de la IA se fusiona directamente con la especulación bursátil, obligando a empresas y desarrolladores a discernir el rendimiento real de los modelos frente al 'hype' publicitario corporativo.",
+      "tags": [
+        "OpenAI",
+        "GPT-6",
+        "Inversión Tech",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "6ac3bc1b-8fe4-4311-aceb-1df90001e8a8",
+      "titulo": "Los grandes ‘chatbots’ de inteligencia artificial sufren una caída global y dejan de funcionar",
+      "resumen": "Los usuarios de las plataformas de ChatGPT, Claude, Grok, Copilot y Gemini registran problemas desde hace unas horas",
+      "url": "https://elpais.com/tecnologia/2026-09-03/chatgpt-grok-y-claude-sufren-una-caida-y-dejan-de-funcionar.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XHY2RHFQYFG6JHWHGBAZCZ6UIA.jpg?auth=a55607cae2b985a9ecb75410e64c0abb6651c4b7cb3e10d4ac1d4e477ef8f46a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-03T17:53:46.000Z",
+      "fechaAgregada": "2026-09-10T12:43:50.726Z",
+      "puntosClave": [
+        "Un apagón de red simultáneo e inédito dejó inoperativos a los principales motores de IA generativa del mercado, incluyendo ChatGPT, Claude, Gemini, Copilot y Grok.",
+        "La interrupción masiva afectó las operaciones diarias de millones de usuarios que integran estas tecnologías en sus flujos de trabajo profesionales.",
+        "El incidente reabre el debate sobre la vulnerabilidad y la centralización de los servidores en la nube que sostienen la revolución de la inteligencia artificial."
+      ],
+      "porQueImporta": "Este colapso en cadena demuestra que la IA ya no es un juguete tecnológico, sino una infraestructura crítica. Para desarrolladores y empresas, una caída coordinada de este calibre paraliza la productividad global, evidenciando el riesgo de depender de APIs externas sin contar con modelos locales o planes de contingencia híbridos.",
+      "tags": [
+        "LLMs",
+        "Infraestructura",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "0c79cc48-dc32-4690-a997-bc514109427d",
+      "titulo": "Anthropic retoma las pruebas externas de sus modelos de IA un mes después de los hackeos masivos",
+      "resumen": "La compañía admite “fallos de seguridad operacional” y asegura que ha tomado medidas para impedir nuevos ataques",
+      "url": "https://elpais.com/tecnologia/2026-09-02/anthropic-retoma-las-pruebas-externas-de-sus-modelos-de-ia-un-mes-despues-de-los-hackeos-masivos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VQ76GIWS5JHRVC56MKPEGMGI4Q.jpg?auth=0ac8f8bb0bb23ff7461875baa86a70fe0a0e4c219b196e3af90f386fbd70d087",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-02T16:03:01.000Z",
+      "fechaAgregada": "2026-09-10T12:43:50.726Z",
+      "puntosClave": [
+        "Anthropic reactiva su programa de pruebas de seguridad externas tras suspenderlo un mes debido a brechas en sus sistemas.",
+        "La firma detrás de Claude admite vulnerabilidades en su seguridad operativa y asegura haber blindado sus protocolos internos.",
+        "El retorno al 'red-teaming' busca certificar la robustez de sus modelos antes de sus próximos lanzamientos comerciales."
+      ],
+      "porQueImporta": "Este incidente golpea el núcleo de la narrativa de Anthropic, posicionada como la alternativa ética y segura a OpenAI. Para las corporaciones que integran a Claude en sus procesos confidenciales, la rápida resolución de estas brechas determinará si la startup mantiene su reputación de confianza frente al espionaje industrial.",
+      "tags": [
+        "Anthropic",
+        "Ciberseguridad",
+        "LLMs",
+        "Seguridad de IA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "6f9e5b39-0726-4bc8-9ffc-f11ec9ee01c4",
+      "titulo": "Bruselas incluye a ChatGPT, Reddit y Roblox entre las plataformas más fiscalizadas por la UE",
+      "resumen": "La Comisión Europea considera que estos tres servicios han superado el umbral de 45 millones de usuarios y, por tanto, deben someterse a reglas más estrictas",
+      "url": "https://elpais.com/tecnologia/2026-08-31/bruselas-incluye-a-chatgpt-reddit-y-roblox-entre-las-plataformas-mas-fiscalizadas-por-la-ue.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SB4BUWFGLZLALBC5YPJEEUNSQY.jpg?auth=ad460586d6ff5ca0a1e68a7b380fb3a8b2f0f4a72682f684c66190557b004a74",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-08-31T11:39:55.000Z",
+      "fechaAgregada": "2026-09-10T12:43:50.726Z",
+      "puntosClave": [
+        "La UE cataloga a ChatGPT, Reddit y Roblox como 'plataformas muy grandes' tras superar el límite de 45 millones de usuarios activos.",
+        "Esta designación bajo la DSA les exige auditorías independientes, mayor transparencia en sus algoritmos y mitigación activa de riesgos sistémicos.",
+        "Bruselas consolida su control regulatorio no solo sobre las redes sociales tradicionales, sino también sobre la IA generativa y el metaverso."
+      ],
+      "porQueImporta": "Esta decisión marca un precedente crítico para la industria tecnológica: la IA generativa y los mundos virtuales ya no son tecnologías emergentes libres de escrutinio, sino infraestructuras de comunicación masiva. Los desarrolladores y empresas de IA deberán priorizar la explicabilidad de sus modelos y la seguridad por diseño antes que el crecimiento acelerado si quieren operar en territorio europeo.",
+      "tags": [
+        "Regulación",
+        "ChatGPT",
+        "DSA",
+        "Metaverso"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "f072c1c0-f4f3-41db-b780-114fda7f00b8",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/270/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-09-10T12:43:50.726Z",
+      "puntosClave": [
+        "La tutela digital de los menores debe transformarse de una simple restricción de pantallas a un acompañamiento dinámico que madure con el usuario.",
+        "La irrupción de la inteligencia artificial generativa añade complejidad al aprendizaje, exigiendo guías específicas para discernir lo real de lo sintético.",
+        "El desafío actual radica en capacitar a los adultos para que actúen como mentores activos en un entorno tecnológico que a menudo les supera."
+      ],
+      "porQueImporta": "Esta tendencia obliga a los desarrolladores de IA y empresas EdTech a diseñar algoritmos con principios de 'seguridad por diseño', creando interfaces más transparentes y herramientas de control parental inteligente que no solo bloqueen, sino que eduquen activamente al menor.",
+      "tags": [
+        "Ética de la IA",
+        "EdTech",
+        "Seguridad Digital"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "b7c1b5f4-4844-42e1-a63a-61173d9ce634",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-09-10T12:43:50.495Z",
+      "puntosClave": [
+        "Sam Altman busca cubrir un puesto directivo de alta responsabilidad en OpenAI mediante una inusual convocatoria abierta en redes sociales.",
+        "La oferta destaca por su honestidad brutal, advirtiendo explícitamente sobre el entorno de máximo estrés y la necesidad de implicación absoluta inmediata.",
+        "A cambio de este nivel de exigencia extrema, la compañía ofrece una compensación económica muy atractiva que supera los 500.000 dólares."
+      ],
+      "porQueImporta": "Esta oferta visibiliza la altísima presión de la carrera por la IA generativa, donde las tecnológicas ya no venden oficinas idílicas, sino salarios estratosféricos a cambio de un desgaste extremo. Define un nuevo estándar de captación de talento donde la resiliencia psicológica cotiza tan alto como la capacidad técnica.",
+      "tags": [
+        "OpenAI",
+        "Empleo",
+        "Talento"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "50f9ab65-7a6d-4276-bf74-4ad70b5e2ebc",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-09-10T12:43:50.496Z",
+      "puntosClave": [
+        "El cibercrimen ha trascendido el ámbito digital en 2025, registrando casos de violencia física, tortura y homicidios vinculados a extorsiones.",
+        "Los objetivos de los atacantes ya no se limitan al secuestro de datos corporativos o pérdidas financieras, sino que apuntan directamente a la integridad de las personas.",
+        "Esta evolución delictiva fuerza a los expertos en seguridad a replantear las estrategias de protección, integrando la seguridad física con la digital."
+      ],
+      "porQueImporta": "Para la industria tecnológica y los desarrolladores de software, este giro drástico eleva la responsabilidad en el diseño de sistemas críticos; una brecha de datos o un fallo de seguridad ya no se traduce únicamente en pérdidas económicas, sino que ahora pone en riesgo real y directo vidas humanas.",
+      "tags": [
+        "Ciberseguridad",
+        "Cibercrimen",
+        "Privacidad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "1aa2ae71-b238-409b-bcd5-76d02f212ad0",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-09-10T12:43:50.496Z",
+      "puntosClave": [
+        "Rob Pike, cocreador del lenguaje Go, reaccionó con profunda indignación tras recibir un correo electrónico de agradecimiento redactado de forma sintética por una IA.",
+        "El incidente expone la creciente frustración de los desarrolladores tradicionales ante la automatización de la cortesía y la pérdida de interacciones humanas genuinas.",
+        "Este rechazo pone de relieve el debate ético sobre cómo el spam asistido por IA devalúa el reconocimiento real y el esfuerzo de los creadores de software."
+      ],
+      "porQueImporta": "Este conflicto evidencia la desconexión cultural entre los impulsores de la IA generativa y las comunidades de código abierto. Si los líderes técnicos empiezan a percibir la automatización de la gratitud como un insulto perecedero en lugar de una muestra de eficiencia, las empresas de software se enfrentarán a una grave crisis de confianza y legitimidad ante los desarrolladores que sostienen su infraestructura.",
+      "tags": [
+        "IA Generativa",
+        "Programación",
+        "Cultura Tech"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
