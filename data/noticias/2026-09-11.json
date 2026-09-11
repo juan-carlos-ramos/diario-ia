@@ -1,0 +1,540 @@
+{
+  "fecha": "2026-09-11",
+  "generado": "2026-09-11T12:46:13.348Z",
+  "total": 23,
+  "noticias": [
+    {
+      "id": "f53c343d-ee2e-48ac-a67f-e88d948af54a",
+      "titulo": "Anthropic reconoce que no puede descartar que Claude termine contribuyendo al desarrollo de armas biológicas",
+      "resumen": "Los modelos de inteligencia artificial (IA) de frontera están rompiendo todas las expectativas. Todavía estamos sumidos en la catarsis que ha desencadenado la probable resolución de uno de los problemas del milenio pendientes, las ecuaciones de Navier-Stokes, por un modelo de vanguardia de OpenAI, c",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-reconoce-que-no-puede-descartar-que-claude-termine-contribuyendo-al-desarrollo-armas-biologicas",
+      "imagen": "https://i.blogs.es/d8afdb/claude-virus/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-11T10:17:00.000Z",
+      "fechaAgregada": "2026-09-11T12:38:17.314Z",
+      "puntosClave": [
+        "Anthropic admite la imposibilidad de garantizar que su modelo Claude no sea instrumentalizado en el futuro para el diseño de armas biológicas.",
+        "La advertencia surge en un contexto de aceleración exponencial de las capacidades de las IA de frontera para resolver problemas científicos de alta complejidad.",
+        "El escenario plantea dudas razonables sobre si las medidas de seguridad y alineación actuales son suficientes para contener riesgos existenciales."
+      ],
+      "porQueImporta": "Este reconocimiento redefine la responsabilidad legal de los creadores de LLMs. Obligará a la industria a transicionar de la simple moderación ética de contenido hacia auditorías de bioseguridad militar ultraestrictas, lo que podría restringir el acceso abierto a APIs científicas avanzadas.",
+      "tags": [
+        "Anthropic",
+        "Seguridad IA",
+        "LLMs",
+        "Bioseguridad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "537c91c6-dc3a-4742-8da9-c62c5318868c",
+      "titulo": "Anthropic ha pillado a China copiando Claude. De paso ha demostrado cuánto sabe sobre lo que hacemos con él",
+      "resumen": "Anthropic acaba de publicar su informe de inteligencia de amenazas más detallado hasta la fecha. Además de campañas de ciberespionaje o armas biológicas aparece una historia especialmente llamativa: siete laboratorios de IA chinos habrían logrado recolectar datos sobre el funcionamiento de Claude me",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-pillado-a-china-copiando-claude-paso-ha-demostrado-cuanto-sabe-que-hacemos",
+      "imagen": "https://i.blogs.es/136833/magnific_expand_cphfsfk0ep/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-11T09:47:00.000Z",
+      "fechaAgregada": "2026-09-11T12:38:17.314Z",
+      "puntosClave": [
+        "Anthropic detectó que siete laboratorios de IA vinculados a China extrajeron sistemáticamente datos de rendimiento y respuestas de su modelo estrella, Claude.",
+        "El informe revela la sofisticada capacidad de telemetría de Anthropic, capaz de rastrear y auditar de forma minuciosa el uso que los usuarios hacen de sus herramientas.",
+        "El incidente expone la intensa campaña global de ingeniería inversa y espionaje industrial para acortar la brecha tecnológica entre las potencias de la IA."
+      ],
+      "porQueImporta": "Este caso demuestra que los creadores de LLMs tienen una visibilidad absoluta de las interacciones con sus modelos, lo que redefine la privacidad corporativa. Para las empresas, evidencia que el espionaje industrial ya no busca vulnerar servidores, sino extraer el conocimiento del modelo mediante ingeniería de prompts avanzada.",
+      "tags": [
+        "Anthropic",
+        "Ciberseguridad",
+        "Geopolítica",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "73818904-c46f-444f-8139-02e17fe1c6a1",
+      "titulo": "Jensen Huang, CEO de NVIDIA: “¿Qué mejor manera de crear demanda que crear un problema?”",
+      "resumen": "Jensen Huang ha dejado una de esas frases que se explican casi solas. Este la ha pronunciado durante la Goldman Sachs Communacopia + Technology Conference. Allí, el CEO de NVIDIA aseguró que parte de la conversación actual sobre ciberseguridad también responde a que la industria se prepara para lanz",
+      "url": "https://www.adslzone.net/noticias/ia/jensen-huang-nvidia-crear-demanda-crear-problema/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/09/Imagen-de-portada-62.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-11T09:00:51.000Z",
+      "fechaAgregada": "2026-09-11T12:38:21.088Z",
+      "puntosClave": [
+        "Jensen Huang sugirió en un foro de Goldman Sachs que la industria tecnológica fomenta narrativas de crisis para incentivar la adopción de nuevas tecnologías.",
+        "El CEO de NVIDIA vinculó la actual preocupación por la ciberseguridad con la necesidad de preparar la infraestructura global para la era de la inteligencia artificial.",
+        "La declaración expone una estrategia comercial basada en adelantarse a las vulnerabilidades sistémicas para garantizar la venta constante de hardware avanzado."
+      ],
+      "porQueImporta": "La audaz filosofía de Huang revela cómo NVIDIA moldea activamente las prioridades del sector tecnológico; al posicionar la ciberseguridad en la IA como un problema inminente, obliga a las corporaciones a actualizar preventivamente su infraestructura con el silicio de la compañía para no quedar obsoletas ni desprotegidas.",
+      "tags": [
+        "NVIDIA",
+        "Hardware",
+        "Ciberseguridad",
+        "Estrategia de Negocios"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "22dbd159-35d4-4de4-a92b-804a4d62e769",
+      "titulo": "Gemini da el salto al escritorio de Windows",
+      "resumen": "Gemini ya tiene aplicación de escritorio para Windows. Google ha llevado su asistente de inteligencia artificial a Windows 10 y Windows 11, después de estrenarlo anteriormente en macOS, con una propuesta pensada para reducir al mínimo la fricción a la hora de invocarlo. El acceso se realiza mediante",
+      "url": "https://www.muycomputer.com/2026/09/11/gemini-da-el-salto-al-escritorio-de-windows/",
+      "imagen": "https://picsum.photos/seed/270/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-11T06:03:15.000Z",
+      "fechaAgregada": "2026-09-11T12:38:24.375Z",
+      "puntosClave": [
+        "Google expande el ecosistema de Gemini con el lanzamiento de su aplicación oficial de escritorio para usuarios de Windows 10 y 11.",
+        "La versión para Windows sigue la estela del cliente de macOS, priorizando un acceso rápido y directo para eliminar barreras de uso.",
+        "Esta estrategia busca transformar al asistente en una herramienta omnipresente dentro del flujo de trabajo diario del usuario sin depender del navegador web."
+      ],
+      "porQueImporta": "El desembarco de Gemini en Windows representa una ofensiva directa en el territorio nativo de Microsoft y su Copilot. Al integrarse en el escritorio, Google no solo compite por la cuota de pantalla del usuario profesional, sino que acelera la transición hacia un entorno de trabajo donde la IA se ejecuta como un puente invisible entre el sistema operativo y la productividad diaria.",
+      "tags": [
+        "Google",
+        "Windows",
+        "Productividad",
+        "Asistentes de IA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "1f13d270-7efd-4951-a988-fde401122d3a",
+      "titulo": "La NASA quiere entender mejor la Luna antes de volver allí. Ha creado con IBM una IA para encontrar hielo y nuevos cráteres",
+      "resumen": "Durante 17 años, la Lunar Reconnaissance Orbiter ha fotografiado y medido la Luna hasta construir uno de los archivos más detallados que existen sobre su superficie. La NASA asegura que la misión ha generado un volumen de datos mayor que el de todas sus demás misiones planetarias combinadas, con una",
+      "url": "https://www.xataka.com/espacio/nasa-quiere-entender-mejor-luna-antes-volver-alli-ha-creado-ibm-ia-para-encontrar-hielo-nuevos-crateres",
+      "imagen": "https://i.blogs.es/331838/nasa-luna-imagen/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T19:01:00.000Z",
+      "fechaAgregada": "2026-09-11T12:38:17.315Z",
+      "puntosClave": [
+        "La NASA e IBM colaboran para entrenar modelos de IA utilizando el gigantesco archivo visual de 17 años de la sonda Lunar Reconnaissance Orbiter.",
+        "La tecnología busca localizar con precisión depósitos de hielo de agua y cráteres recientes, críticos para la supervivencia en próximas misiones humanas.",
+        "El conjunto de datos a procesar es masivo, superando en volumen a la información combinada de todas las misiones interplanetarias previas de la agencia."
+      ],
+      "porQueImporta": "Esta alianza consolida el uso de modelos fundacionales de IA en el sector aeroespacial. Para desarrolladores y empresas de tecnología, abre un precedente sobre cómo estructurar Big Data geoespacial extremo, demostrando que la visión artificial entrenada para entornos lunares hostiles acelerará soluciones de teledetección comercial, agricultura de precisión y análisis climático en la Tierra.",
+      "tags": [
+        "Modelos Fundacionales",
+        "Computer Vision",
+        "Big Data",
+        "Espacio"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "d6beba62-5c48-40cd-b664-ac913137ee97",
+      "titulo": "Anthropic alerta de que ha frenado posibles intentos de crear armas biológicas con su IA",
+      "resumen": "La compañía desconoce si la motivación detrás de estos accesos era la investigación científica o los usos maliciosos. El anuncio se produce un día después de que uno de sus ingenieros alertara del peligro existencial de estas herramientas",
+      "url": "https://elpais.com/tecnologia/2026-09-10/anthropic-alerta-de-que-ha-frenado-posibles-intentos-de-crear-armas-biologicas-con-su-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XV5AUWY7DRDWLJEZEO7KCFABF4.jpg?auth=0e7966c7c7d91537a1fd8204cef1e74630931df0c4e47b9e61f3cb07e176cf40",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T18:41:55.000Z",
+      "fechaAgregada": "2026-09-11T12:38:18.673Z",
+      "puntosClave": [
+        "Anthropic intervino activamente para bloquear interacciones sospechosas dentro de sus modelos de lenguaje orientadas al diseño de agentes biológicos peligrosos.",
+        "La firma de seguridad tecnológica reconoce que es incapaz de determinar si las consultas tenían un fin académico legítimo o intenciones maliciosas.",
+        "Esta alerta coincide temporalmente con las denuncias internas de sus propios ingenieros sobre los riesgos existenciales inminentes que plantean estas herramientas."
+      ],
+      "porQueImporta": "Este incidente traslada el debate de la seguridad en IA desde la filosofía ética a la urgencia operativa real. Para la industria, establece que los proveedores de LLMs deberán asumir funciones de vigilancia y bioseguridad, lo que endurecerá la regulación del sector y cambiará el diseño de las APIs para desarrolladores.",
+      "tags": [
+        "Anthropic",
+        "Seguridad IA",
+        "Regulación"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "bccace54-dcc3-46e3-89f0-2e7f5ff8c34a",
+      "titulo": "China quiere sustituir los chips de NVIDIA con alternativas propias. La memoria HBM acaba de ponerle un problema delante",
+      "resumen": "Pekín lleva tiempo impulsando la sustitución de los chips de NVIDIA por alternativas desarrolladas dentro del país. Huawei, Cambricon y otros fabricantes nacionales han creado aceleradores destinados a cubrir parte del espacio que dejaron las restricciones estadounidenses. Sin embargo, reducir esa d",
+      "url": "https://www.xataka.com/robotica-e-ia/china-quiere-sustituir-chips-nvidia-alternativas-propias-memoria-hbm-acaba-ponerle-problema-delante",
+      "imagen": "https://i.blogs.es/0232c1/chips-ia-china/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T18:31:00.000Z",
+      "fechaAgregada": "2026-09-11T12:38:17.316Z",
+      "puntosClave": [
+        "Pekín acelera la transición hacia aceleradores de IA locales como los de Huawei para esquivar las sanciones estadounidenses.",
+        "El gran obstáculo para la independencia del silicio chino es la producción de memoria de alto ancho de banda (HBM), controlada por rivales extranjeros.",
+        "Sin acceso a empaquetado de memoria avanzado, los chips chinos pierden competitividad en rendimiento de cómputo para grandes modelos."
+      ],
+      "porQueImporta": "La crisis de la memoria HBM demuestra que el diseño de chips de IA es inútil sin una cadena de suministro de hardware completa. Este cuello de botella frena la capacidad de las empresas chinas para entrenar modelos de lenguaje avanzados al nivel de Occidente, fragmentando el mapa del desarrollo tecnológico global.",
+      "tags": [
+        "Hardware",
+        "Geopolítica",
+        "Semiconductores"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "1fe36235-4f51-4a9c-b8b1-96fef070f3c5",
+      "titulo": "Gemini por fin lanza su app de escritorio para Windows, con Gemini Spark y Omni integrados",
+      "resumen": "Meses después de su lanzamiento en macOS, Gemini por fin estrena su app de escritorio para Windows. De esta manera, la IA de Google ahora dispone de un cliente nativo para el software de Microsoft y abre la puerta a un uso más integrado en cualquier PC, sin depender de un navegador web ni del […]\nSe",
+      "url": "https://hipertextual.com/inteligencia-artificial/app-gemini-para-windows-ya-disponible/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Gemini-escritorio-windows-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T18:25:00.000Z",
+      "fechaAgregada": "2026-09-11T12:38:17.478Z",
+      "puntosClave": [
+        "Google lanza la versión nativa de Gemini para Windows, eliminando la dependencia del navegador web tras meses de exclusividad en macOS.",
+        "La aplicación integra las capacidades avanzadas de Gemini Spark y Omni, ofreciendo una experiencia multimodal más fluida directamente en el sistema operativo.",
+        "Este movimiento posiciona a Google en competencia directa con la app de escritorio de ChatGPT, buscando dominar el flujo de trabajo diario de los usuarios."
+      ],
+      "porQueImporta": "Este lanzamiento democratiza el acceso a la IA de Google en el sistema operativo corporativo por excelencia, reduciendo la fricción para profesionales y desarrolladores. Al integrarse de forma nativa en Windows, Gemini se convierte en un copiloto más rápido y accesible, intensificando la batalla con Microsoft y OpenAI por el control de la productividad en el escritorio.",
+      "tags": [
+        "Google",
+        "Windows",
+        "Productividad",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "240bb360-3aa9-4ad5-b93c-d882cc154214",
+      "titulo": "Me he leído el estudio de Anthropic sobre el impacto de la IA en la economía y he llegado a una conclusión: voy a tener que estudiar fontanería",
+      "resumen": "Si eres programador, diseñador, financiero o estás en el gremio de los periodistas como yo, quizás deberías empezar a preocuparte. Un estudio económico publicado por Anthropic explora qué puede pasar en el mundo del empleo si la IA sigue avanzando, y la cosa se pone complicada para los \"trabajadores",
+      "url": "https://www.xataka.com/robotica-e-ia/me-he-leido-estudio-anthropic-impacto-ia-economia-he-llegado-a-conclusion-voy-a-tener-que-estudiar-fontaneria",
+      "imagen": "https://i.blogs.es/ac4c0c/fontaneria-ia-anthropic-estimacion-economia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T17:31:01.000Z",
+      "fechaAgregada": "2026-09-11T12:38:17.316Z",
+      "puntosClave": [
+        "Un nuevo estudio económico de Anthropic advierte que la IA avanzada amenaza con desplazar prioritariamente a los profesionales del sector cognitivo, digital y creativo.",
+        "El análisis plantea un escenario de vulnerabilidad para programadores, redactores y financieros, cuyas tareas digitales son altamente automatizables por modelos de lenguaje.",
+        "La resiliencia de los oficios manuales y físicos frente al software de IA sugiere una paradoja donde el trabajo técnico tradicional gana un nuevo valor estratégico."
+      ],
+      "porQueImporta": "Este informe de un líder de la industria como Anthropic valida el temor del 'colapso del trabajo de cuello blanco'. No estamos ante una automatización industrial clásica, sino ante una reconfiguración acelerada donde las habilidades de software tradicionales pierden valor comercial frente a la ejecución física y la toma de decisiones complejas en el mundo real.",
+      "tags": [
+        "Anthropic",
+        "Mercado Laboral",
+        "LLMs",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "db9a0c08-b285-44da-8361-b484ec8f15b5",
+      "titulo": "OpenAI corrige de tapadillo su prueba ‘del milenio’ para citar a los matemáticos clave que ninguneó al anunciar el descubrimiento",
+      "resumen": "La compañía tecnológica reconoce así que se apoyó en el trabajo de los investigadores españoles. Charles Fefferman, el experto de Princeton que formuló el problema, confirma que el resultado presentado de la IA es la solución al reto",
+      "url": "https://elpais.com/tecnologia/2026-09-10/openai-corrige-de-tapadillo-su-prueba-del-milenio-para-citar-a-los-matematicos-clave-que-ninguneo-al-anunciar-el-descubrimiento.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4V7ZRT3NIVK4DEYJQUBTQ666EI.jpg?auth=388001b98c980fa8fb4f5d6ec66d9ea88b30d68a75ea046384afbc7ec2a1ae85",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T10:08:56.000Z",
+      "fechaAgregada": "2026-09-11T12:38:18.673Z",
+      "puntosClave": [
+        "OpenAI rectificó discretamente su anuncio sobre un hito matemático para incluir el crédito omitido a investigadores españoles en cuyas bases se apoyaron.",
+        "Charles Fefferman, el célebre matemático de Princeton que diseñó el desafío original, validó oficialmente que el resultado de la IA es correcto.",
+        "El ajuste forzado evidencia la tensión creciente entre el desarrollo acelerado de la IA y el respeto por la autoría y el rigor de la comunidad académica."
+      ],
+      "porQueImporta": "Este caso demuestra que los grandes hitos de razonamiento de la IA no ocurren en el vacío y siguen dependiendo críticamente del conocimiento científico humano previo; para la industria, establece un precedente ético donde saltarse el reconocimiento académico ya no pasa desapercibido, obligando a las Big Tech a una mayor transparencia y rigor científico.",
+      "tags": [
+        "OpenAI",
+        "Matemáticas",
+        "Ética de IA",
+        "Investigación Científica"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "7531a2e0-935e-4a3f-a34d-e58df5e559ca",
+      "titulo": "HP y la Scuderia Ferrari «redefinen» el AI PC con un portátil muy especial",
+      "resumen": "HP y la Scuderia Ferrari han presentado un portátil de edición limitada y especial, que refleja la visión compartida de ambas compañías para crear una nueva generación de dispositivos donde el diseño, la inteligencia artificial y el rendimiento convergen en una única experiencia. Dicen desde HP que",
+      "url": "https://www.muycomputer.com/2026/09/10/hp-y-la-scuderia-ferrari-redefinen-el-ai-pc-con-un-portatil-muy-especial/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/HP-y-la-Scuderia-Ferrari_3.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T08:46:35.000Z",
+      "fechaAgregada": "2026-09-11T12:38:24.376Z",
+      "puntosClave": [
+        "HP y la Scuderia Ferrari se alían para lanzar un ordenador portátil de edición limitada diseñado para liderar la nueva categoría de 'AI PC'.",
+        "El dispositivo busca la convergencia entre el diseño exclusivo automotriz, la potencia bruta y el procesamiento de inteligencia artificial en local.",
+        "Esta colaboración estratégica posiciona el hardware de IA en el sector premium, elevando los estándares estéticos y de rendimiento en la computación personal."
+      ],
+      "porQueImporta": "Esta alianza demuestra que la IA ya no es solo una función de software, sino el motor de una nueva categoría de hardware de lujo. Para la industria y los desarrolladores, valida la transición hacia el procesamiento en local (Edge AI), donde el rendimiento extremo y el diseño exclusivo se convierten en los principales argumentos de venta frente a la computación en la nube.",
+      "tags": [
+        "Hardware",
+        "AI PC",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "6f4e5f69-b023-4141-b887-e97339c88523",
+      "titulo": "Un año de trabajo de dos matemáticos españoles frente a 88 horas y 15 millones de OpenAI: “Sin nuestra idea, la IA no lo habría resuelto”",
+      "resumen": "Las investigaciones de Diego Córdoba y Luis Martínez-Zoroa son la base del anuncio de que la inteligencia artificial ha resuelto uno de los mayores enigmas de la historia. Ambos creen que el logro cambiará radicalmente la disciplina",
+      "url": "https://elpais.com/ciencia/2026-09-10/un-ano-de-trabajo-de-dos-matematicos-espanoles-frente-a-88-horas-y-15-millones-de-openai-sin-nuestra-idea-la-ia-no-lo-habria-resuelto.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/37RYRR4V5JDQFCZVIXK5AIBXUQ.jpg?auth=f0f3b3086b1700632a18c52c410c7daf3d21e41e966015b657725be2f0bb6b16",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T03:30:01.000Z",
+      "fechaAgregada": "2026-09-11T12:38:18.673Z",
+      "puntosClave": [
+        "Dos matemáticos españoles dedicaron un año a desarrollar la base conceptual e intelectual indispensable para resolver un histórico enigma matemático.",
+        "OpenAI ejecutó la comprobación final en solo 88 horas mediante supercomputación, con un coste de 15 millones de dólares.",
+        "Los investigadores defienden que la fuerza bruta del hardware es inútil para la ciencia de frontera sin la chispa creativa de la lógica humana."
+      ],
+      "porQueImporta": "Este hito demuestra que el futuro del software no radica en reemplazar al humano, sino en un modelo híbrido: la mente humana aporta la intuición disruptiva y la IA actúa como un acelerador de cálculo ultrarrápido. Para las tecnológicas, evidencia que la inversión millonaria en cómputo necesita de la ciencia básica tradicional para generar verdadero valor.",
+      "tags": [
+        "OpenAI",
+        "Matemáticas",
+        "Algoritmos"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "1d361c6d-5611-4539-b577-2b7e6c8cfb65",
+      "titulo": "Controla todo lo que ocurra en tu casa con estas cámaras de vigilancia en oferta",
+      "resumen": "Si quieres controlar todo lo que ocurra en tu casa, una buena opción es utilizar cámaras de seguridad. Te ayudarán a vigilar desde cualquier sitio, además de recibir notificaciones instantáneas en caso de que detecten algo. Vamos a mostrarte algunas opciones en oferta, además de hablarte de las prin",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-vigilancia-0926/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/09/camara-seguridad.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T15:27:43.000Z",
+      "fechaAgregada": "2026-09-11T12:38:21.578Z",
+      "puntosClave": [
+        "Las ofertas en sistemas de videovigilancia facilitan la adopción masiva de hardware conectado en el ámbito doméstico.",
+        "Estos dispositivos integran funciones clave como el monitoreo remoto en tiempo real y el envío de alertas automatizadas ante incidencias.",
+        "La accesibilidad económica de estas tecnologías impulsa la creación de hogares inteligentes y redes de seguridad descentralizadas."
+      ],
+      "porQueImporta": "La proliferación de cámaras domésticas a bajo coste acelera la necesidad de desarrollar modelos de Edge AI y visión computacional más eficientes, permitiendo a los programadores crear sistemas de procesamiento local que garanticen la privacidad del usuario sin depender constantemente de la nube.",
+      "tags": [
+        "SmartHome",
+        "VisiónComputacional",
+        "InternetDeLasCosas"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "5dda53c6-423f-4e1a-b97a-4ca7431c7ae2",
+      "titulo": "Jacob Coxon avisa de la carrera de la IA después de dimitir de Anthropic: «Están jugando con nuestras vidas»",
+      "resumen": "La Inteligencia Artificial ha ido creciendo a pasos agigantados en los últimos años. Tenemos muchas plataformas disponibles con las que podemos realizar tareas muy variadas y ahorrar tiempo. Sin embargo, todo esto también genera dudas sobre cómo puede repercutir en el trabajo de muchas personas, ade",
+      "url": "https://www.redeszone.net/noticias/redes/jacob-coxon-alerta-ia-dimision/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/09/inteligencia-artificial-imagen.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T14:05:43.000Z",
+      "fechaAgregada": "2026-09-11T12:38:21.578Z",
+      "puntosClave": [
+        "La Inteligencia Artificial ha ido creciendo a pasos agigantados en los últimos años. Tenemos muchas plataformas disponibles con las que podemos realizar tareas muy variadas y ahorrar tiempo. Sin embargo, todo esto también genera dudas sobre cómo puede repercutir en el trabajo de muchas personas, ade"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por RedesZone.",
+      "tags": [
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "496050c3-0a9a-4460-804a-492c9ea42dca",
+      "titulo": "Un investigador de Anthropic dimite y alerta del peligro de la IA: “Puede matarnos antes de 2030”",
+      "resumen": "El jefe de Jacob Coxon, joven investigador de la compañía,  le apoya y dice que la probabilidad de extinción en los próximos años supera el 10%",
+      "url": "https://elpais.com/tecnologia/2026-09-09/un-investigador-de-anthropic-dimite-porque-asegura-que-la-ia-puede-matarnos-antes-de-2030.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/U6GJQJBBSVAU3DBJYXH7T6Q4DQ.jpg?auth=758c76b1176d7c75e0cddd6b78ad33f91ee9a5c0d044626f18fe77303dd4600a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T11:01:45.000Z",
+      "fechaAgregada": "2026-09-11T12:38:18.673Z",
+      "puntosClave": [
+        "El jefe de Jacob Coxon, joven investigador de la compañía,  le apoya y dice que la probabilidad de extinción en los próximos años supera el 10%"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "19686cbc-376a-4b0e-a878-164f13e8627e",
+      "titulo": "El anuncio de OpenAI de que ha resuelto uno de los mayores enigmas matemáticos de la historia desata acusaciones de plagio",
+      "resumen": "Un matemático dice que la tecnológica ha usado investigaciones previas y “presionado” para excluir a otro investigador de Anthropic",
+      "url": "https://elpais.com/ciencia/2026-09-09/el-anuncio-de-openai-de-que-ha-resuelto-uno-de-los-mayores-enigmas-matematicos-de-la-historia-desata-acusaciones-de-plagio.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I27RAYLCEVCBFOFYOLKPZP3YW4.JPG?auth=c4d674130cb1f5a2fd766495517bba03d303a81dfadda68c6bff4811b2129809",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T08:44:52.000Z",
+      "fechaAgregada": "2026-09-11T12:38:18.673Z",
+      "puntosClave": [
+        "OpenAI se atribuye la resolución de un enigma matemático histórico, desatando una fuerte polémica sobre la autoría y originalidad del hallazgo.",
+        "Un matemático acusa a la firma de Sam Altman de apropiarse de investigaciones previas sin otorgar el debido crédito académico.",
+        "La denuncia incluye presuntas presiones corporativas para excluir de los méritos a un investigador perteneciente a su rival, Anthropic."
+      ],
+      "porQueImporta": "Este conflicto expone la creciente tensión ética en la frontera de la IA científica, donde la carrera comercial por el prestigio puede pisotear el rigor y la colaboración de la ciencia abierta. Si las grandes tecnológicas instrumentalizan el trabajo académico para monopolizar hitos, arriesgan con romper la confianza entre los investigadores y la industria.",
+      "tags": [
+        "OpenAI",
+        "Ética de IA",
+        "Ciencia y Tecnología",
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "6520f2f4-0693-4a30-a647-be80482df0c1",
+      "titulo": "OpenAI lanza GPT-6 Astra, su modelo más potente, entre especulaciones sobre si han alcanzado la superinteligencia artificial",
+      "resumen": "La empresa de Sam Altman, que está preparando su salida a Bolsa, asegura haber desarrollado una IA con capacidad sobrehumana, aunque él mismo dijo que ese término es más marketiniano que real",
+      "url": "https://elpais.com/tecnologia/2026-09-04/openai-lanza-gpt-6-astra-su-modelo-mas-potente-entre-especulaciones-sobre-si-han-alcanzado-la-superinteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NRJQUGPG4FLU7CS23UZH6JNDOE.jpg?auth=6a780d1a05a9374e52341518c770e5f4246980eb0e3c8c8d8e7798c72fb88a7a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-04T13:46:11.000Z",
+      "fechaAgregada": "2026-09-11T12:38:18.673Z",
+      "puntosClave": [
+        "OpenAI presenta GPT-6 Astra, un modelo de alta potencia que coincide con los preparativos de la compañía para debutar en el mercado bursátil.",
+        "A pesar de promocionarse con capacidades sobrehumanas, Sam Altman rebaja la euforia calificando el término de estrategia publicitaria.",
+        "El lanzamiento reactiva el debate global sobre la cercanía de la Inteligencia Artificial General (AGI) y su verdadero alcance práctico."
+      ],
+      "porQueImporta": "Este lanzamiento redefine la valoración comercial de la IA avanzada; para la industria y los desarrolladores, implica medir el rendimiento real de un modelo 'superhumano' frente a la evidente necesidad de OpenAI de inflar su narrativa de cara a Wall Street.",
+      "tags": [
+        "OpenAI",
+        "GPT-6",
+        "Inversión",
+        "Superinteligencia"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "2abf1cf5-b980-4409-b8bd-ac19d99a928e",
+      "titulo": "Los grandes ‘chatbots’ de inteligencia artificial sufren una caída global y dejan de funcionar",
+      "resumen": "Los usuarios de las plataformas de ChatGPT, Claude, Grok, Copilot y Gemini registran problemas desde hace unas horas",
+      "url": "https://elpais.com/tecnologia/2026-09-03/chatgpt-grok-y-claude-sufren-una-caida-y-dejan-de-funcionar.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XHY2RHFQYFG6JHWHGBAZCZ6UIA.jpg?auth=a55607cae2b985a9ecb75410e64c0abb6651c4b7cb3e10d4ac1d4e477ef8f46a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-03T17:53:46.000Z",
+      "fechaAgregada": "2026-09-11T12:38:18.673Z",
+      "puntosClave": [
+        "Un fallo simultáneo sin precedentes deja fuera de servicio a los principales LLMs del mercado, afectando a ChatGPT, Gemini, Claude, Copilot y Grok.",
+        "La caída global interrumpió abruptamente el flujo de trabajo de millones de usuarios y desarrolladores que dependen de estas API y plataformas.",
+        "El incidente reabre el debate sobre la extrema centralización de los servidores que sostienen la infraestructura de la inteligencia artificial actual."
+      ],
+      "porQueImporta": "Este apagón masivo evidencia la crítica dependencia operativa que la industria tecnológica y el sector corporativo han desarrollado hacia la IA en la nube, demostrando que la falta de redundancia o de modelos locales alternativos puede paralizar la productividad global en cuestión de minutos.",
+      "tags": [
+        "LLMs",
+        "Infraestructura",
+        "Productividad",
+        "Cloud Computing"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "b9d65083-148d-4846-ab8f-e2e48110ce65",
+      "titulo": "Anthropic retoma las pruebas externas de sus modelos de IA un mes después de los hackeos masivos",
+      "resumen": "La compañía admite “fallos de seguridad operacional” y asegura que ha tomado medidas para impedir nuevos ataques",
+      "url": "https://elpais.com/tecnologia/2026-09-02/anthropic-retoma-las-pruebas-externas-de-sus-modelos-de-ia-un-mes-despues-de-los-hackeos-masivos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VQ76GIWS5JHRVC56MKPEGMGI4Q.jpg?auth=0ac8f8bb0bb23ff7461875baa86a70fe0a0e4c219b196e3af90f386fbd70d087",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-02T16:03:01.000Z",
+      "fechaAgregada": "2026-09-11T12:38:18.673Z",
+      "puntosClave": [
+        "Anthropic reactiva su programa de pruebas externas tras un mes de parálisis provocado por brechas críticas en sus sistemas.",
+        "La empresa reconoce públicamente vulnerabilidades en su seguridad operativa y asegura haber reestructurado sus protocolos de defensa.",
+        "El retorno a las pruebas busca mitigar el daño reputacional y asegurar la resiliencia de la familia de modelos Claude ante futuros hackeos."
+      ],
+      "porQueImporta": "Para una compañía que fundamenta su ventaja competitiva en la seguridad y la ética frente a OpenAI, este incidente socava su narrativa de liderazgo confiable, obligando a la industria a cuestionar si los entornos de desarrollo de los LLMs más avanzados están realmente preparados para proteger la propiedad intelectual crítica.",
+      "tags": [
+        "Ciberseguridad",
+        "Anthropic",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "32a460c5-7ae8-42e8-8088-1867f88f38c4",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/346/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-09-11T12:38:18.673Z",
+      "puntosClave": [
+        "La tutela digital de los menores debe abandonar los enfoques estáticos para convertirse en un acompañamiento dinámico que evolucione con su edad.",
+        "La irrupción de la inteligencia artificial generativa redefine las reglas del juego, exigiendo un nuevo nivel de alfabetización digital y ética familiar.",
+        "El rol del adulto pasa de la mera prohibición o control de pantallas a la mediación activa sobre cómo interactuar de forma crítica con algoritmos."
+      ],
+      "porQueImporta": "Para la industria tecnológica, esto redefine el diseño de producto: los desarrolladores de IA ya no pueden crear sistemas asumiendo un usuario adulto genérico, sino que deben integrar salvaguardas nativas y herramientas de gobernanza parental que faciliten este co-aprendizaje sin mermar la usabilidad.",
+      "tags": [
+        "Ética de la IA",
+        "EdTech",
+        "Seguridad Digital"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "ae9ab2c8-ae51-4cae-bdf5-3ecc03cef026",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-09-11T12:38:18.637Z",
+      "puntosClave": [
+        "Sam Altman busca un perfil directivo para OpenAI bajo la advertencia explícita de que se enfrentará a un entorno de máxima presión laboral.",
+        "La compensación económica supera el medio millón de dólares anuales, reflejando la agresiva competencia por el talento en la industria.",
+        "Esta convocatoria pública en redes sociales rompe los canales tradicionales de reclutamiento ejecutivo para buscar resiliencia extrema."
+      ],
+      "porQueImporta": "Esta oferta redefine el estándar de exigencia en la élite de la IA. Demuestra que las compañías líderes ya no solo compiten por capacidad técnica, sino por la resistencia psicológica de profesionales capaces de liderar bajo crisis constantes en un sector que evoluciona a un ritmo vertiginoso.",
+      "tags": [
+        "OpenAI",
+        "Empleo",
+        "Sam Altman",
+        "Talento Tech"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "6d62aee0-2cc6-4a3d-bc3b-0594a5a93c8e",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-09-11T12:38:18.637Z",
+      "puntosClave": [
+        "El cibercrimen en 2025 ha cruzado una línea roja irreversible al incorporar la violencia física, torturas y homicidios como herramientas de coacción.",
+        "Los objetivos de los ataques ya no se limitan al secuestro de datos o activos financieros, sino a la integridad de las personas detrás de los sistemas.",
+        "Esta evolución exige que las estrategias de defensa corporativa fusionen la ciberseguridad tradicional con la protección física y policial activa."
+      ],
+      "porQueImporta": "Esta deriva ultra-violenta transforma la ciberseguridad de un problema técnico de IT a un asunto de seguridad nacional y salud laboral de alto riesgo; los desarrolladores de infraestructura crítica y directivos ahora deben ser protegidos bajo protocolos de seguridad física y personal ante el incremento de la extorsión armada.",
+      "tags": [
+        "Ciberseguridad",
+        "Cibercrimen",
+        "Seguridad Corporativa"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "00bbddd7-dd12-4229-a0bd-ba1dbddb619d",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-09-11T12:38:18.637Z",
+      "puntosClave": [
+        "Un correo de agradecimiento generado por IA desató la indignación de Rob Pike, co-creador del lenguaje de programación Go.",
+        "El incidente expone la creciente frustración de figuras clave de la tecnología ante la saturación de mensajes automatizados y desprovistos de empatía real.",
+        "Este rechazo pone en tela de juicio la conveniencia de delegar la correspondencia personal y profesional en herramientas de IA generativa."
+      ],
+      "porQueImporta": "El caso evidencia una desconexión crítica en la industria: mientras las empresas promueven la automatización absoluta, los programadores y líderes técnicos veteranos penalizan la pérdida de autenticidad, lo que sugiere que el uso descuidado de LLMs puede arruinar la reputación profesional de quien los usa sin filtro.",
+      "tags": [
+        "IA Generativa",
+        "Desarrollo de Software",
+        "Ética Tecnológica"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
