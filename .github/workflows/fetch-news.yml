@@ -29,23 +29,55 @@ jobs:
       - name: Instalar dependencias
         run: npm ci
 
-      - name: Ejecutar script de noticias
-        run: node scripts/fetch-news.mjs
+      - name: 1. Extraer y enriquecer noticias con IA
+        run: node scripts/fetch-news.mjs --fetch-only
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
-      - name: Guardar noticias en el repositorio
+      - name: 2. Guardar noticias en el repositorio
+        id: git_push
         run: |
-          git config --local user.email "diarioia-bot@noreply.github.com"
-          git config --local user.name "DiarioIA Bot"
+          git config --local user.email "carlosfrei8899@gmail.com"
+          git config --local user.name "Juan Carlos Ramos"
           git add data/
           if ! git diff --staged --quiet; then
             git commit -m "chore: actualización automática de noticias $(date +'%Y-%m-%d')"
             git pull --rebase origin main || true
             git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
           else
             echo "Sin cambios para guardar."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: 3. Verificar que la web esté desplegada en Vercel antes de emitir a Telegram
+        if: steps.git_push.outputs.pushed == 'true'
+        run: |
+          echo "⏳ Esperando confirmación de despliegue en Vercel..."
+          FECHA_HOY=$(date +'%Y-%m-%d')
+          URL="https://diario-ia.vercel.app"
+          
+          # Esperar hasta 180 segundos (18 intentos cada 10s) para que Vercel termine de compilar la nueva edición
+          DESPLEGADO=false
+          for i in {1..18}; do
+            sleep 10
+            echo "Verificación #$i: Comprobando si $URL ya sirve la edición de $FECHA_HOY..."
+            if curl -sL "$URL" | grep -q "$FECHA_HOY"; then
+              echo "✅ ¡Vercel ha desplegado la edición $FECHA_HOY con éxito y la web está en vivo!"
+              DESPLEGADO=true
+              break
+            fi
+          done
+
+          if [ "$DESPLEGADO" = false ]; then
+            echo "⚠️ Vercel todavía no ha actualizado la web. Por seguridad, no se enviarán enlaces rotos a Telegram."
+            exit 1
+          fi
+
+      - name: 4. Publicar noticias en canal de Telegram
+        if: steps.git_push.outputs.pushed == 'true'
+        run: node scripts/fetch-news.mjs --telegram-only
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
 

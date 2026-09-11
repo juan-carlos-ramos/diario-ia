@@ -700,12 +700,65 @@ async function publicarEnTelegram(noticias) {
   console.log(`💾 Registro de enviados actualizado: ${enviados.size} noticias en total.`);
 }
 
+// Carga las noticias guardadas de hoy (o la más reciente) para emisión diferida
+function obtenerNoticiasGuardadasHoy() {
+  const hoy = new Date().toISOString().split("T")[0];
+  const archivoHoy = path.join(process.cwd(), "data", "noticias", `${hoy}.json`);
+  if (fs.existsSync(archivoHoy)) {
+    try {
+      const data = JSON.parse(fs.readFileSync(archivoHoy, "utf-8"));
+      return data.noticias || [];
+    } catch (e) {
+      console.error("Error leyendo archivo de hoy:", e.message);
+    }
+  }
+  const carpeta = path.join(process.cwd(), "data", "noticias");
+  if (fs.existsSync(carpeta)) {
+    const archivos = fs
+      .readdirSync(carpeta)
+      .filter((f) => f.endsWith(".json") && f !== ".gitkeep")
+      .sort()
+      .reverse();
+    if (archivos.length > 0) {
+      try {
+        const data = JSON.parse(fs.readFileSync(path.join(carpeta, archivos[0]), "utf-8"));
+        return data.noticias || [];
+      } catch (e) {
+        console.error("Error leyendo noticias recientes:", e.message);
+      }
+    }
+  }
+  return [];
+}
+
 // Ejecutar
 async function main() {
+  const args = process.argv.slice(2);
+  const soloFetch = args.includes("--fetch-only");
+  const soloTelegram = args.includes("--telegram-only");
+
+  if (soloTelegram) {
+    console.log("📨 Modo Telegram únicamente: cargando noticias existentes para notificar...");
+    const noticias = obtenerNoticiasGuardadasHoy();
+    if (noticias.length === 0) {
+      console.warn("⚠️ No se encontraron noticias guardadas para publicar en Telegram.");
+    } else {
+      await publicarEnTelegram(noticias);
+    }
+    console.log("🎉 Publicación en Telegram finalizada.");
+    process.exit(0);
+  }
+
   const noticiasCrudas = await obtenerNoticias();
   const noticiasEnriquecidas = await enriquecerNoticias(noticiasCrudas);
   await guardarNoticias(noticiasEnriquecidas);
-  await publicarEnTelegram(noticiasEnriquecidas);
+
+  if (!soloFetch) {
+    await publicarEnTelegram(noticiasEnriquecidas);
+  } else {
+    console.log("ℹ️ Modo fetch únicamente: noticias guardadas. Publicación en Telegram diferida.");
+  }
+
   console.log("🎉 Proceso de noticias finalizado con éxito.");
   process.exit(0);
 }
