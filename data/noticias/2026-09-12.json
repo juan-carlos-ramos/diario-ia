@@ -1,0 +1,456 @@
+{
+  "fecha": "2026-09-12",
+  "generado": "2026-09-12T12:06:05.272Z",
+  "total": 19,
+  "noticias": [
+    {
+      "id": "6026991f-2318-4c07-b904-6e944841d00b",
+      "titulo": "\"Una amenaza general al trabajo intelectual\": las mentes matemáticas más brillantes, contra el modus operandi de la IA",
+      "resumen": "Esta semana la ciencia se ha llevado una de cal y otra de arena: a falta de la confirmación de la comunidad matemática, parece que por fin hemos averiguado la solución a uno de los siete Problemas del Milenio planteados por el Clay Mathematics Institute. Pero ese \"hemos\" es más una expresión que la",
+      "url": "https://www.xataka.com/robotica-e-ia/amenaza-general-al-trabajo-intelectual-mentes-matematicas-brillantes-modus-operandi-ia",
+      "imagen": "https://i.blogs.es/9de6c2/gemini_generated_image_z6o0p5z6o0p5z6o0/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-12T08:31:01.000Z",
+      "fechaAgregada": "2026-09-12T11:59:07.267Z",
+      "puntosClave": [
+        "La resolución potencial de un Problema del Milenio mediante sistemas de IA ha desatado un debate ético y metodológico entre los matemáticos más prestigiosos del mundo.",
+        "La comunidad académica critica que el avance de la IA en la ciencia pura se basa en la fuerza bruta computacional y el reconocimiento de patrones, careciendo de una comprensión conceptual real.",
+        "Este conflicto expone el temor de que la automatización del razonamiento abstracto devalúe el rol del pensamiento humano y redefina el concepto de descubrimiento científico."
+      ],
+      "porQueImporta": "El debate trasciende la matemática pura: si la IA puede resolver problemas teóricos hipercomplejos, la industria del software experimentará un cambio radical. Los programadores y empresas pasarán de escribir código lógico a actuar como auditores de soluciones generadas por máquinas, redefiniendo el valor del talento técnico.",
+      "tags": [
+        "Razonamiento IA",
+        "Ciencia de Datos",
+        "DeepMind",
+        "Filosofía Tech"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "fff7569b-f447-4490-b081-ee60f7df3f2f",
+      "titulo": "Personaliza ChatGPT para que responda como necesitas: instrucciones, memoria y personalidad",
+      "resumen": "ChatGPT puede responder de formas muy diferentes a una misma pregunta. No depende únicamente de cómo redactes cada prompt, dado que también puedes configurar qué debe saber sobre ti, cómo quieres que se comunique y qué información puede recordar entre conversaciones. Tres herramientas son especialme",
+      "url": "https://www.adslzone.net/noticias/ia/personaliza-chatgpt-instrucciones-memoria-personalidad/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/09/ChatGPT-iPhone.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-12T08:02:04.000Z",
+      "fechaAgregada": "2026-09-12T11:59:12.247Z",
+      "puntosClave": [
+        "La personalización de ChatGPT va más allá del prompt unitario, permitiendo definir un perfil persistente del usuario y sus preferencias.",
+        "El sistema utiliza memoria inter-conversacional e instrucciones personalizadas para adaptar tanto el fondo como la forma de sus respuestas.",
+        "Esta capacidad transforma al bot de un consultor genérico a un asistente de nicho alineado con el tono y necesidades de cada profesional."
+      ],
+      "porQueImporta": "La persistencia de contexto mitiga el desgaste por redirección constante ('prompt fatigue'), permitiendo a empresas y desarrolladores automatizar flujos de trabajo con una IA que ya entiende sus estándares, jerga y objetivos sin necesidad de reentrenarla.",
+      "tags": [
+        "ChatGPT",
+        "Productividad",
+        "LLMs",
+        "UX"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "d5da67a4-ab91-42dd-a704-94c7d2ea574b",
+      "titulo": "Gemini Notebook (NotebookLM) versus Gemini: cuál deberías usar en cada situación",
+      "resumen": "Desde que Google presentó Gemini en diciembre de 2023, este nombre nos ha acompañado en todo momento y se ha extendido a casi todo el ecosistema de productos y servicios de Google. Gemini es el nombre del modelo de IA de Google para el gran público. También da nombre a su aplicación de IA tipo […]\nS",
+      "url": "https://hipertextual.com/guias/para-que-sirve-gemini-gemini-notebook-cual-elegir/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Gemini-Gemini-Notebook-Centro-Datos-Google.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-12T07:00:00.000Z",
+      "fechaAgregada": "2026-09-12T11:59:07.474Z",
+      "puntosClave": [
+        "Google ha segmentado su ecosistema de IA diferenciando a Gemini, su asistente conversacional generalista, de NotebookLM (Gemini Notebook), enfocado en la investigación.",
+        "Mientras Gemini opera de forma óptima para tareas creativas y consultas generales, NotebookLM se limita a analizar, resumir e interconectar los documentos específicos provistos por el usuario.",
+        "Esta estrategia de marca busca evitar la confusión del consumidor ante la omnipresencia del ecosistema Gemini en las herramientas de productividad corporativas."
+      ],
+      "porQueImporta": "La especialización de estas herramientas marca un cambio en el diseño de producto de IA: la industria ya no busca un único chatbot omnipotente, sino interfaces especializadas que optimicen flujos de trabajo concretos y reduzcan las alucinaciones limitando el contexto a fuentes de datos cerradas.",
+      "tags": [
+        "Google",
+        "NotebookLM",
+        "Productividad",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "da2335a4-cb07-40ab-bcb1-f0cae0097a5b",
+      "titulo": "Mythos 5 ya está en manos de ENISA, aunque Anthropic ya va por Mythos 5.1",
+      "resumen": "Mythos 5 ya está siendo probado por ENISA, la agencia de ciberseguridad de la Unión Europea, después de varios meses de negociaciones con Anthropic. La noticia es importante porque permite a una institución europea evaluar directamente uno de los modelos de IA con mayores capacidades ofensivas en ci",
+      "url": "https://www.muycomputer.com/2026/09/11/mythos-5-ya-esta-en-manos-de-enisa-aunque-anthropic-ya-va-por-mythos-5-1/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/Antrophic-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-11T17:45:22.000Z",
+      "fechaAgregada": "2026-09-12T11:59:16.210Z",
+      "puntosClave": [
+        "ENISA, la agencia de ciberseguridad de la Unión Europea, comienza a auditar Mythos 5 tras meses de complejas negociaciones con Anthropic.",
+        "La evaluación llega con un notable desfase tecnológico, ya que el regulador analiza la versión 5 mientras el desarrollador ya trabaja con Mythos 5.1.",
+        "El objetivo principal es testear de primera mano el potencial de este modelo para ejecutar ataques informáticos y capacidades cibernéticas ofensivas."
+      ],
+      "porQueImporta": "Este movimiento redefine la relación entre reguladores y creadores de IA, obligando a las tecnológicas a abrir sus 'cajas negras' para auditorías de seguridad nacional, lo que forzará a los desarrolladores de software a implementar arquitecturas defensivas mucho más estrictas bajo la sombra de la nueva Ley de IA europea.",
+      "tags": [
+        "Ciberseguridad",
+        "Anthropic",
+        "Regulación",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "c876b53d-677c-4f56-8e9a-9e97f44688fd",
+      "titulo": "Alemania se despidió de la nuclear. Ahora va a aprovechar una de sus antiguas centrales para almacenar energía solar",
+      "resumen": "En 2023, Alemania terminó de dar carpetazo a la generación de electricidad mediante energía nuclear. Ahora, en pleno impulso por liderar las renovables, va a convertir una de sus últimas centrales, la bávara Isar II, en un gigantesco sistema de almacenamiento en baterías y en un centro de datos IA.",
+      "url": "https://www.xataka.com/energia/alemania-se-despidio-nuclear-ahora-va-a-aprovechar-sus-antiguas-centrales-para-almacenar-energia-solar",
+      "imagen": "https://i.blogs.es/0cded3/jakub-zerdzicki-qdyl3-tk_ts-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-11T13:47:01.000Z",
+      "fechaAgregada": "2026-09-12T11:59:07.269Z",
+      "puntosClave": [
+        "La antigua central nuclear bávara Isar II será reconvertida en un nodo que fusiona el almacenamiento de energía limpia y la computación de alto rendimiento.",
+        "El proyecto aprovechará la robusta infraestructura eléctrica existente para alimentar un nuevo centro de datos dedicado exclusivamente a la inteligencia artificial.",
+        "Esta transición reconvierte un símbolo del pasado atómico alemán en un pilar para la soberanía tecnológica y la descarbonización industrial."
+      ],
+      "porQueImporta": "La reconversión resuelve el mayor cuello de botella de la IA: el acceso inmediato a redes eléctricas de gran capacidad. Reutilizar la infraestructura de antiguas centrales nucleares permite desplegar clústeres de supercomputación de forma rápida y sostenible, un modelo clave para el futuro del hardware de IA.",
+      "tags": [
+        "CentrosDeDatos",
+        "Hardware",
+        "Sostenibilidad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "02560737-758d-4705-9944-3e6ac68bbc4a",
+      "titulo": "Gemini da el salto al escritorio de Windows",
+      "resumen": "Gemini ya tiene aplicación de escritorio para Windows. Google ha llevado su asistente de inteligencia artificial a Windows 10 y Windows 11, después de estrenarlo anteriormente en macOS, con una propuesta pensada para reducir al mínimo la fricción a la hora de invocarlo. El acceso se realiza mediante",
+      "url": "https://www.muycomputer.com/2026/09/11/gemini-da-el-salto-al-escritorio-de-windows/",
+      "imagen": "https://picsum.photos/seed/176/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-11T06:03:15.000Z",
+      "fechaAgregada": "2026-09-12T11:59:16.210Z",
+      "puntosClave": [
+        "Google expande el alcance de su IA al lanzar una app nativa de Gemini para Windows 10 y 11, tras su paso previo por macOS.",
+        "La herramienta se centra en la inmediatez, permitiendo invocar al asistente mediante atajos para eliminar la fricción del uso en el navegador.",
+        "El movimiento refuerza la presencia de la compañía en el espacio de trabajo digital, desafiando el dominio local de Microsoft."
+      ],
+      "porQueImporta": "Llevar Gemini al escritorio de Windows intensifica la competencia directa con Copilot en su propio ecosistema. Para profesionales y empresas, esta integración nativa agiliza los flujos de trabajo diarios al eliminar la dependencia de la pestaña del navegador y acelerar la ejecución de tareas asistidas por IA.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "Windows",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "0fceff15-d160-470a-a9e7-bdc92e46e937",
+      "titulo": "Anthropic alerta de que ha frenado posibles intentos de crear armas biológicas con su IA",
+      "resumen": "La compañía desconoce si la motivación detrás de estos accesos era la investigación científica o los usos maliciosos. El anuncio se produce un día después de que uno de sus ingenieros alertara del peligro existencial de estas herramientas",
+      "url": "https://elpais.com/tecnologia/2026-09-10/anthropic-alerta-de-que-ha-frenado-posibles-intentos-de-crear-armas-biologicas-con-su-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XV5AUWY7DRDWLJEZEO7KCFABF4.jpg?auth=0e7966c7c7d91537a1fd8204cef1e74630931df0c4e47b9e61f3cb07e176cf40",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T18:41:55.000Z",
+      "fechaAgregada": "2026-09-12T11:59:09.576Z",
+      "puntosClave": [
+        "La compañía desconoce si la motivación detrás de estos accesos era la investigación científica o los usos maliciosos. El anuncio se produce un día después de que uno de sus ingenieros alertara del peligro existencial de estas herramientas"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "f64a47eb-b9a1-413a-90f9-a59e2cb7249b",
+      "titulo": "Gemini por fin lanza su app de escritorio para Windows, con Gemini Spark y Omni integrados",
+      "resumen": "Meses después de su lanzamiento en macOS, Gemini por fin estrena su app de escritorio para Windows. De esta manera, la IA de Google ahora dispone de un cliente nativo para el software de Microsoft y abre la puerta a un uso más integrado en cualquier PC, sin depender de un navegador web ni del […]\nSe",
+      "url": "https://hipertextual.com/inteligencia-artificial/app-gemini-para-windows-ya-disponible/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Gemini-escritorio-windows-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T18:25:00.000Z",
+      "fechaAgregada": "2026-09-12T11:59:07.474Z",
+      "puntosClave": [
+        "Google rompe la dependencia del navegador en Windows al lanzar su aplicación nativa de Gemini, meses después de su debut en macOS.",
+        "La versión de escritorio integra Gemini Spark y Omni, optimizando la ejecución de tareas multitarea y la velocidad de respuesta en PC.",
+        "Este despliegue busca competir directamente en el terreno de Microsoft, facilitando un acceso directo y fluido al modelo de Google."
+      ],
+      "porQueImporta": "El desembarco de Gemini nativo en Windows desafía la hegemonía de Copilot en su propio ecosistema. Para los profesionales, esto reduce la fricción operativa y democratiza el uso de flujos de trabajo multimodelo avanzados directamente desde el sistema operativo, acelerando la integración de la IA en tareas diarias de desarrollo y productividad empresarial.",
+      "tags": [
+        "Google Gemini",
+        "Productividad",
+        "Windows"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "07738cd0-a9f2-43a7-8f77-19e02dbaf995",
+      "titulo": "OpenAI corrige de tapadillo su prueba ‘del milenio’ para citar a los matemáticos clave que ninguneó al anunciar el descubrimiento",
+      "resumen": "La compañía tecnológica reconoce así que se apoyó en el trabajo de los investigadores españoles. Charles Fefferman, el experto de Princeton que formuló el problema, confirma que el resultado presentado de la IA es la solución al reto",
+      "url": "https://elpais.com/tecnologia/2026-09-10/openai-corrige-de-tapadillo-su-prueba-del-milenio-para-citar-a-los-matematicos-clave-que-ninguneo-al-anunciar-el-descubrimiento.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4V7ZRT3NIVK4DEYJQUBTQ666EI.jpg?auth=388001b98c980fa8fb4f5d6ec66d9ea88b30d68a75ea046384afbc7ec2a1ae85",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T10:08:56.000Z",
+      "fechaAgregada": "2026-09-12T11:59:09.577Z",
+      "puntosClave": [
+        "OpenAI modificó sutilmente su anuncio oficial para acreditar el trabajo previo de investigadores españoles, tras omitirlos inicialmente.",
+        "Charles Fefferman, el célebre matemático de Princeton que formuló el desafío, confirmó la validez del resultado alcanzado por la IA.",
+        "El episodio pone de manifiesto las tensiones existentes entre las grandes tecnológicas y la comunidad académica respecto a la atribución del mérito científico."
+      ],
+      "porQueImporta": "El caso sienta un precedente crítico sobre la ética de atribución en la era de la IA. Demuestra que incluso los avances más disruptivos de la industria dependen del conocimiento académico previo, lo que obligará a los gigantes de la tecnología a ser más transparentes con la autoría científica para no dañar su credibilidad.",
+      "tags": [
+        "OpenAI",
+        "Ética en IA",
+        "Matemáticas",
+        "Investigación Científica"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "a7ea0e31-7c00-4fba-a00a-711255214af7",
+      "titulo": "Un año de trabajo de dos matemáticos españoles frente a 88 horas y 15 millones de OpenAI: “Sin nuestra idea, la IA no lo habría resuelto”",
+      "resumen": "Las investigaciones de Diego Córdoba y Luis Martínez-Zoroa son la base del anuncio de que la inteligencia artificial ha resuelto uno de los mayores enigmas de la historia. Ambos creen que el logro cambiará radicalmente la disciplina",
+      "url": "https://elpais.com/ciencia/2026-09-10/un-ano-de-trabajo-de-dos-matematicos-espanoles-frente-a-88-horas-y-15-millones-de-openai-sin-nuestra-idea-la-ia-no-lo-habria-resuelto.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/37RYRR4V5JDQFCZVIXK5AIBXUQ.jpg?auth=f0f3b3086b1700632a18c52c410c7daf3d21e41e966015b657725be2f0bb6b16",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-10T03:30:01.000Z",
+      "fechaAgregada": "2026-09-12T11:59:09.577Z",
+      "puntosClave": [
+        "Dos matemáticos españoles dedicaron un año a diseñar el marco teórico conceptual sin el cual la IA no habría podido abordar el enigma.",
+        "OpenAI ejecutó la idea empleando 88 horas de supercomputación y un presupuesto de 15 millones de dólares para materializar el hallazgo.",
+        "El logro demuestra que la fuerza bruta de los modelos de lenguaje requiere de la genialidad y dirección humana para resolver problemas complejos."
+      ],
+      "porQueImporta": "Este hito redefine la relación entre las Big Tech y la ciencia básica: evidencia que el presupuesto de computación de las grandes corporaciones es inútil sin la heurística conceptual humana, marcando el camino hacia un modelo de desarrollo donde la IA no sustituye al científico, sino que actúa como un acelerador de su creatividad.",
+      "tags": [
+        "OpenAI",
+        "Matemáticas",
+        "Supercomputación",
+        "Algoritmos"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "c0b8d5ba-d471-46bb-b726-c8310051d220",
+      "titulo": "Un investigador de Anthropic dimite y alerta del peligro de la IA: “Puede matarnos antes de 2030”",
+      "resumen": "El jefe de Jacob Coxon, joven investigador de la compañía,  le apoya y dice que la probabilidad de extinción en los próximos años supera el 10%",
+      "url": "https://elpais.com/tecnologia/2026-09-09/un-investigador-de-anthropic-dimite-porque-asegura-que-la-ia-puede-matarnos-antes-de-2030.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/U6GJQJBBSVAU3DBJYXH7T6Q4DQ.jpg?auth=758c76b1176d7c75e0cddd6b78ad33f91ee9a5c0d044626f18fe77303dd4600a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T11:01:45.000Z",
+      "fechaAgregada": "2026-09-12T11:59:09.577Z",
+      "puntosClave": [
+        "Un investigador de Anthropic renuncia al alertar que la inteligencia artificial representa una amenaza existencial inminente para la humanidad.",
+        "El supervisor del científico apoya la dimisión y cifra en más del 10% la posibilidad de un colapso global antes de que termine la década.",
+        "La salida evidencia una creciente fractura ética interna en los laboratorios de vanguardia entre el desarrollo acelerado y la seguridad real."
+      ],
+      "porQueImporta": "Si los propios creadores de una de las firmas referentes en 'IA alineada' huyen por temor al descontrol de sus modelos, la industria se enfrenta a una crisis de confianza que forzará auditorías externas más severas y podría frenar las inversiones en AGI.",
+      "tags": [
+        "Anthropic",
+        "SeguridadIA",
+        "RiesgoExistencial",
+        "Ética"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "d9f71912-9bac-4922-935a-2368faa69688",
+      "titulo": "El anuncio de OpenAI de que ha resuelto uno de los mayores enigmas matemáticos de la historia desata acusaciones de plagio",
+      "resumen": "Un matemático dice que la tecnológica ha usado investigaciones previas y “presionado” para excluir a otro investigador de Anthropic",
+      "url": "https://elpais.com/ciencia/2026-09-09/el-anuncio-de-openai-de-que-ha-resuelto-uno-de-los-mayores-enigmas-matematicos-de-la-historia-desata-acusaciones-de-plagio.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I27RAYLCEVCBFOFYOLKPZP3YW4.JPG?auth=c4d674130cb1f5a2fd766495517bba03d303a81dfadda68c6bff4811b2129809",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-09T08:44:52.000Z",
+      "fechaAgregada": "2026-09-12T11:59:09.577Z",
+      "puntosClave": [
+        "OpenAI anunció la resolución de un histórico problema matemático, pero el logro ha quedado empañado por serias acusaciones de atribución indebida.",
+        "Un matemático sostiene que la compañía utilizó investigaciones anteriores sin el debido reconocimiento e interfirió para marginar a un científico clave.",
+        "El investigador supuestamente excluido del reconocimiento trabaja actualmente en Anthropic, el principal rival de OpenAI."
+      ],
+      "porQueImporta": "El caso evidencia cómo la feroz competencia por el talento entre gigantes como OpenAI y Anthropic está comprometiendo el rigor académico, amenazando con erosionar la confianza de la comunidad científica en los avances que estas empresas se atribuyen.",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Ética en IA",
+        "Investigación"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "7eb7b87d-cea6-4500-8881-11529d49e782",
+      "titulo": "OpenAI lanza GPT-6 Astra, su modelo más potente, entre especulaciones sobre si han alcanzado la superinteligencia artificial",
+      "resumen": "La empresa de Sam Altman, que está preparando su salida a Bolsa, asegura haber desarrollado una IA con capacidad sobrehumana, aunque él mismo dijo que ese término es más marketiniano que real",
+      "url": "https://elpais.com/tecnologia/2026-09-04/openai-lanza-gpt-6-astra-su-modelo-mas-potente-entre-especulaciones-sobre-si-han-alcanzado-la-superinteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NRJQUGPG4FLU7CS23UZH6JNDOE.jpg?auth=6a780d1a05a9374e52341518c770e5f4246980eb0e3c8c8d8e7798c72fb88a7a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-04T13:46:11.000Z",
+      "fechaAgregada": "2026-09-12T11:59:09.577Z",
+      "puntosClave": [
+        "OpenAI presenta GPT-6 Astra, un modelo con presuntas capacidades sobrehumanas en vísperas de su esperada salida a Bolsa.",
+        "El CEO, Sam Altman, matiza el debate de la superinteligencia catalogando el término como una etiqueta más comercial que técnica.",
+        "La presentación del modelo reaviva la tensión entre el verdadero avance científico de los LLM y la necesidad de inflar la valoración financiera de la empresa."
+      ],
+      "porQueImporta": "Este hito obliga a la industria y a los desarrolladores a discernir el valor técnico real de la IA 'sobrehumana' frente al ruido corporativo, en un momento donde las métricas de rendimiento empiezan a confundirse deliberadamente con estrategias de marketing para inversores.",
+      "tags": [
+        "OpenAI",
+        "GPT-6",
+        "Superinteligencia",
+        "Negocios"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "4cc8106f-0549-4eb7-99e7-355445ad0631",
+      "titulo": "Los grandes ‘chatbots’ de inteligencia artificial sufren una caída global y dejan de funcionar",
+      "resumen": "Los usuarios de las plataformas de ChatGPT, Claude, Grok, Copilot y Gemini registran problemas desde hace unas horas",
+      "url": "https://elpais.com/tecnologia/2026-09-03/chatgpt-grok-y-claude-sufren-una-caida-y-dejan-de-funcionar.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XHY2RHFQYFG6JHWHGBAZCZ6UIA.jpg?auth=a55607cae2b985a9ecb75410e64c0abb6651c4b7cb3e10d4ac1d4e477ef8f46a",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-03T17:53:46.000Z",
+      "fechaAgregada": "2026-09-12T11:59:09.577Z",
+      "puntosClave": [
+        "Un apagón masivo e inusual afectó de forma simultánea a los principales sistemas de IA del mercado, incluyendo ChatGPT, Claude, Gemini, Copilot y Grok.",
+        "La interrupción dejó fuera de servicio tanto las interfaces conversacionales para usuarios finales como las integraciones API para desarrolladores.",
+        "El fallo coordinado apunta a posibles vulnerabilidades en proveedores de infraestructura en la nube o nodos de distribución de red compartidos."
+      ],
+      "porQueImporta": "El colapso simultáneo evidencia el riesgo de monocultivo tecnológico y la extrema dependencia que la industria y las empresas han desarrollado hacia un puñado de proveedores de LLMs, donde una caída en cadena paraliza la productividad global.",
+      "tags": [
+        "LLMs",
+        "Infraestructura",
+        "Productividad",
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "a67ba80e-189f-4518-b16e-fbb3be147e76",
+      "titulo": "Anthropic retoma las pruebas externas de sus modelos de IA un mes después de los hackeos masivos",
+      "resumen": "La compañía admite “fallos de seguridad operacional” y asegura que ha tomado medidas para impedir nuevos ataques",
+      "url": "https://elpais.com/tecnologia/2026-09-02/anthropic-retoma-las-pruebas-externas-de-sus-modelos-de-ia-un-mes-despues-de-los-hackeos-masivos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VQ76GIWS5JHRVC56MKPEGMGI4Q.jpg?auth=0ac8f8bb0bb23ff7461875baa86a70fe0a0e4c219b196e3af90f386fbd70d087",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-02T16:03:01.000Z",
+      "fechaAgregada": "2026-09-12T11:59:09.577Z",
+      "puntosClave": [
+        "Anthropic reactiva su programa de evaluación externa tras un mes de suspensión provocado por graves brechas de seguridad.",
+        "La tecnológica reconoce que sufrió debilidades en su infraestructura operativa y afirma haber reforzado sus defensas contra intrusiones.",
+        "El reinicio de estas pruebas busca restaurar la reputación de su ecosistema de seguridad antes de liberar sus futuros modelos comerciales."
+      ],
+      "porQueImporta": "El tropiezo y regreso de Anthropic evidencia que la carrera por el liderazgo en IA no solo se gana con parámetros, sino con resiliencia operativa. Para las empresas que integran Claude, la transparencia de la firma al admitir sus fallos establece un estándar de madurez corporativa indispensable para mantener la confianza en la seguridad de los LLMs.",
+      "tags": [
+        "Anthropic",
+        "Ciberseguridad",
+        "LLMs",
+        "RedTeaming"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "05554441-509d-4b4f-95eb-4ebd13b00e27",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/264/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-09-12T11:59:09.577Z",
+      "puntosClave": [
+        "La crianza digital exige adaptar la supervisión adulta conforme los menores maduran, evitando patrones de control estáticos.",
+        "La integración masiva de la IA en el entorno cotidiano de los niños exige alfabetizar de forma proactiva en lugar de prohibir.",
+        "El nuevo desafío educativo busca transformar a los menores de consumidores pasivos a usuarios críticos frente a los algoritmos."
+      ],
+      "porQueImporta": "Para la industria tecnológica, este cambio paradigmático presiona a los desarrolladores e integradores de IA a priorizar la 'ética por diseño', la privacidad infantil y el filtrado algorítmico, anticipando regulaciones más estrictas sobre la interacción entre menores y modelos de lenguaje.",
+      "tags": [
+        "Educación Tech",
+        "Ética en IA",
+        "Seguridad Digital",
+        "Sociedad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "65d4877e-9eec-44ee-8fc8-a25e4372d5fa",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-09-12T11:59:08.545Z",
+      "puntosClave": [
+        "Sam Altman utiliza la red social X para lanzar una vacante directiva de alta responsabilidad y máxima exigencia en OpenAI.",
+        "La oferta compensa el estrés extremo y la inmersión inmediata con un salario que supera los 500.000 dólares anuales.",
+        "Esta estrategia de reclutamiento directo refleja la urgencia de la firma por incorporar líderes capaces de resistir el ritmo de la carrera por la AGI."
+      ],
+      "porQueImporta": "Esta oferta redefine la guerra por el talento en el sector tecnológico: OpenAI prefiere la honestidad brutal sobre el agotamiento antes que maquillar sus vacantes, estableciendo un estándar donde la resiliencia psicológica extrema se cotiza a precio de oro para mantener el liderazgo en la industria de la IA.",
+      "tags": [
+        "OpenAI",
+        "Talento Tech",
+        "Sam Altman",
+        "Empleo"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "cafd4146-fd38-4392-a088-18a448efedb2",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-09-12T11:59:08.545Z",
+      "puntosClave": [
+        "El cibercrimen ha traspasado la frontera digital hacia el daño físico directo, registrando casos de tortura y muertes en 2025.",
+        "Las motivaciones delictivas han evolucionado más allá del rescate económico o las interrupciones de infraestructura corporativa.",
+        "La convergencia entre la ciberseguridad y la seguridad personal exige un cambio radical en los protocolos de protección global."
+      ],
+      "porQueImporta": "Para la industria tecnológica y de seguridad, la convergencia del ciberespacio con la violencia física altera el análisis de riesgos: los vectores de ataque ya no solo amenazan activos de software o datos, sino directamente la integridad física de las personas.",
+      "tags": [
+        "Ciberseguridad",
+        "Cibercrimen",
+        "Seguridad Humana",
+        "Tendencias 2025"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "899464bd-825d-4f0e-9bf2-e6bab32c22ce",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-09-12T11:59:08.545Z",
+      "puntosClave": [
+        "Un co-creador del lenguaje de programación Go expresó una fuerte indignación tras recibir un mensaje de agradecimiento generado automáticamente por IA.",
+        "El incidente pone de relieve la irritación colectiva de la comunidad de desarrolladores ante el contenido sintético despersonalizado o 'AI slop'.",
+        "El caso muestra cómo la automatización masiva de interacciones sociales está deteriorando la autenticidad en la comunicación profesional."
+      ],
+      "porQueImporta": "Evidencia una creciente fatiga y rechazo en el sector tecnológico hacia el uso indiscriminado de la IA en tareas donde la empatía humana es irreemplazable. Para las empresas e ingenieros, esto advierte que automatizar mensajes personales puede generar hostilidad y dañar la reputación profesional en lugar de optimizar tiempos.",
+      "tags": [
+        "IA Generativa",
+        "Desarrollo de Software",
+        "Cultura Tech",
+        "Go"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
