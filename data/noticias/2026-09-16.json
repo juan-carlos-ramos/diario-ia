@@ -1,0 +1,458 @@
+{
+  "fecha": "2026-09-16",
+  "generado": "2026-09-16T13:15:54.200Z",
+  "total": 19,
+  "noticias": [
+    {
+      "id": "70e0680b-87d2-49f8-a026-dbeeca6bba19",
+      "titulo": "Un agente de IA ha protagonizado un ciberataque en España. La AEPD nunca había visto uno",
+      "resumen": "La Agencia Española de Protección de Datos (AEPD) ha recibido por primera vez la notificación de una brecha de datos personales en la que un tercero habría usado un agente de IA para ejecutar y controlar distintas fases del ataque. No se conoce la empresa que fue atacada ni qué modelo se utilizó, pe",
+      "url": "https://www.xataka.com/robotica-e-ia/agente-ia-ha-protagonizado-ciberataque-espana-aepd-nunca-habia-visto-uno",
+      "imagen": "https://i.blogs.es/6d8844/hacking-ia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-16T10:46:11.000Z",
+      "fechaAgregada": "2026-09-16T13:10:46.579Z",
+      "puntosClave": [
+        "La AEPD registra el primer ciberataque en España donde un agente de IA controló de forma autónoma varias fases de la infiltración.",
+        "El ataque marca un hito de sofisticación al delegar la toma de decisiones tácticas en un sistema inteligente en lugar de scripts estáticos.",
+        "Los detalles específicos sobre la empresa afectada y el modelo de lenguaje o agente utilizado se mantienen bajo estricta confidencialidad."
+      ],
+      "porQueImporta": "Este suceso marca el inicio de la era de la ciberdelincuencia cognitiva en España. Las empresas y desarrolladores ya no se enfrentan a virus preprogramados, sino a entidades de IA capaces de adaptar su estrategia de ataque en tiempo real, lo que obliga a rediseñar las defensas mediante IA defensiva activa.",
+      "tags": [
+        "Ciberseguridad",
+        "Agentes de IA",
+        "AEPD",
+        "Privacidad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "c08a372a-f0d5-48e7-b93d-ddd35c5c9e3d",
+      "titulo": "\"No vamos a permitir que eso suceda\" Jensen Huang, CEO de NVIDIA, sobre frenar el desarrollo de la IA",
+      "resumen": "El pasado lunes Jensen Huang, CEO de NVIDIA, estaba participando el evento All-In en Los Ángeles cuando le sonó el móvil. Lo normal habría sido ignorarlo y continuar con su discurso, pero quien llamaba era Donald Trump. Huang no sólo atendió la llamada, sino que pidió un micro para que todo el mundo",
+      "url": "https://www.xataka.com/robotica-e-ia/no-vamos-a-permitir-que-eso-suceda-jensen-huang-ceo-nvidia-frenar-desarrollo-ia",
+      "imagen": "https://i.blogs.es/86534d/magnific_ponle-un-ligero-tono-azul_p8ql4f0ehw/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-16T07:30:12.000Z",
+      "fechaAgregada": "2026-09-16T13:10:46.581Z",
+      "puntosClave": [
+        "Jensen Huang interrumpió su ponencia en el evento All-In para atender y poner en altavoz una llamada imprevista del candidato presidencial Donald Trump.",
+        "El gesto escenifica la enorme influencia política que ostenta NVIDIA en el debate sobre el futuro y la soberanía tecnológica de Estados Unidos.",
+        "La conversación subraya el rechazo de ambos líderes a cualquier intento de frenar o pausar el desarrollo de la inteligencia artificial frente a competidores globales."
+      ],
+      "porQueImporta": "Este hecho evidencia que los chips y la IA ya no son solo una cuestión de mercado, sino activos de seguridad nacional en la agenda geopolítica. Para las empresas y desarrolladores, esto anticipa un marco regulatorio donde el gobierno de EE. UU. priorizará la aceleración tecnológica y el dominio del hardware por encima de las corrientes que exigen pausar el desarrollo de modelos avanzados.",
+      "tags": [
+        "NVIDIA",
+        "Geopolítica",
+        "Hardware",
+        "Regulación"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "237ec364-cdaf-4c28-ba48-01f4afdcdd8f",
+      "titulo": "Descubre estas cámaras de vigilancia en oferta con las que podrás controlar todo lo que pase en casa",
+      "resumen": "Para tener el control de tu vivienda, contar con cámaras de seguridad es una buena opción. Te ayudarán a detectar intrusos o enterarte si ha ocurrido algo con tu mascota. Vamos a mostrarte algunos modelos que puedes encontrar en oferta. Te hablaremos de las principales características de cada uno de",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-seguridad-casa-0926/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/09/camara-ezviz-fondo-verde.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-16T07:18:16.000Z",
+      "fechaAgregada": "2026-09-16T13:10:49.778Z",
+      "puntosClave": [
+        "El mercado de seguridad residencial experimenta una rebaja de precios que facilita la adopción masiva de cámaras de vigilancia conectadas.",
+        "Estos dispositivos económicos permiten funciones avanzadas como la detección de movimiento e intrusos y el monitoreo de mascotas en tiempo real.",
+        "La accesibilidad de este hardware impulsa la creación de ecosistemas domésticos más conectados y dependientes de soluciones de software de control."
+      ],
+      "porQueImporta": "La proliferación de cámaras domésticas de bajo coste acelera la necesidad de procesar datos en el borde (Edge AI). Esto abre un mercado masivo para desarrolladores de visión artificial que diseñan modelos ligeros de reconocimiento de patrones y privacidad de datos a nivel local.",
+      "tags": [
+        "Smart Home",
+        "Hardware",
+        "Visión Artificial",
+        "Edge AI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "d05f708f-9625-4c57-9749-8b5cba9357a8",
+      "titulo": "Gemini Notebook (NotebookLM) suma una de las funciones más útiles para estudiar",
+      "resumen": "Gemini Notebook ha lanzado una actualización que mejora el estudio con la inteligencia artificial. La aplicación, anteriormente conocida como NotebookLM, añadió nuevas herramientas para las sesiones de repaso, las cuales ayudarán a entender y asimilar los conceptos complicados. Las funciones debutar",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-notebook-nuevas-funciones-notebooklm/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/gemini-notebook.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-15T21:47:28.000Z",
+      "fechaAgregada": "2026-09-16T13:10:46.790Z",
+      "puntosClave": [
+        "Google actualiza su herramienta NotebookLM para integrar funciones avanzadas que facilitan la asimilación de conceptos complejos.",
+        "La plataforma incorpora dinámicas interactivas orientadas específicamente a la optimización de las sesiones de repaso académico y técnico.",
+        "Este movimiento consolida al asistente de inteligencia artificial como un entorno de trabajo cognitivo y un tutor de aprendizaje personalizado."
+      ],
+      "porQueImporta": "Esta evolución demuestra cómo los LLMs están transicionando de ser simples interfaces de chat a convertirse en plataformas EdTech altamente especializadas. Al integrar metodologías de estudio activas, Google no solo redefine la productividad educativa, sino que presiona a la competencia para desarrollar herramientas de IA que vayan más allá de la mera generación de resúmenes.",
+      "tags": [
+        "Google Gemini",
+        "EdTech",
+        "NotebookLM",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "68cf0075-3934-4034-8d4f-113c26605bcd",
+      "titulo": "La IA ya creó su propio idioma secreto y los expertos no logran descifrarlo",
+      "resumen": "Los modelos de inteligencia artificial han comenzado a comunicarse entre sí mediante un lenguaje que nadie les enseñó. Una investigación encontró que la IA desarrolló frases, metáforas y códigos compartidos que han surgido de forma espontánea entre los agentes cuando colaboran entre sí. Este fenómen",
+      "url": "https://hipertextual.com/inteligencia-artificial/la-ia-ya-creo-su-propio-idioma-secreto-y-los-expertos-no-logran-descifrarlo/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/10/terminator-skynet-inteligencia-artificial.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-15T19:35:00.000Z",
+      "fechaAgregada": "2026-09-16T13:10:46.790Z",
+      "puntosClave": [
+        "Sistemas de inteligencia artificial han desarrollado un método de comunicación codificado y espontáneo mientras colaboran en tareas complejas.",
+        "Este dialecto emergente incluye metáforas y estructuras propias que no fueron programadas ni introducidas en su entrenamiento original.",
+        "La comunidad científica se enfrenta al desafío de descifrar estas interacciones para evitar una pérdida de control sobre los procesos de decisión de los agentes."
+      ],
+      "porQueImporta": "Este fenómeno rompe la barrera de la interpretabilidad en sistemas multiagente; si las IA operan bajo protocolos de comunicación indescifrables, auditar su seguridad, garantizar la alineación con objetivos humanos y prevenir comportamientos colusorios imprevistos se vuelve un desafío crítico para los desarrolladores.",
+      "tags": [
+        "Sistemas Multiagente",
+        "Seguridad IA",
+        "Interpretabilidad",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "4960d2eb-f183-4110-b9ba-f4787a3bf625",
+      "titulo": "Meta One convierte el ecosistema de Meta en un gran freemium",
+      "resumen": "Durante años, Facebook, Instagram y WhatsApp han acostumbrado a sus usuarios a una relación bastante sencilla: entrar, utilizar sus funciones principales y no pagar directamente por ello. Ese modelo sigue intacto, pero a su alrededor empieza a crecer una segunda capa formada por servicios adicionale",
+      "url": "https://www.muycomputer.com/2026/09/15/meta-one-convierte-el-ecosistema-de-meta-en-un-gran-freemium/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/Meta-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-15T17:49:25.000Z",
+      "fechaAgregada": "2026-09-16T13:10:51.451Z",
+      "puntosClave": [
+        "Meta evoluciona su modelo de negocio tradicional hacia una estructura híbrida que combina el acceso gratuito con servicios de suscripción de pago.",
+        "La estrategia busca diversificar las vías de ingresos de la compañía, reduciendo la dependencia exclusiva de la publicidad digital.",
+        "El ecosistema principal (Facebook, Instagram y WhatsApp) mantendrá sus funciones básicas sin coste, pero acotará las herramientas avanzadas tras un muro de pago."
+      ],
+      "porQueImporta": "Este giro estratégico redefine la monetización de las redes sociales a nivel global, obligando a empresas y creadores de contenido a evaluar la adopción de servicios premium para mantener su visibilidad y rendimiento, al tiempo que establece un precedente de cobro indirecto en plataformas masivas.",
+      "tags": [
+        "Meta",
+        "Modelos de Negocio",
+        "Redes Sociales",
+        "Monetización"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "86216a85-ae35-4463-83b7-607928f3f363",
+      "titulo": "Por solo 183 euros, Lenovo tiene la tablet ideal para todo con 8 GB de RAM, 128 GB, 11 pulgadas, 90 Hz y stylus",
+      "resumen": "A pesar de la subida de precio que han experimentado todos los dispositivos electrónicos que cuentan con memoria RAM y almacenamiento, ya sean móviles, tablets o portátiles, si sabemos dónde buscar, podemos aprovechar algunas gangas como la que hemos encontrado en PcComponentes, con la Lenovo Idea T",
+      "url": "https://hardzone.es/ofertas/pc-componentes/tablet-lenovo-idea-tab-0926/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/09/tablet-lenovo-idea-tab-1-2.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-15T16:03:25.000Z",
+      "fechaAgregada": "2026-09-16T13:10:50.630Z",
+      "puntosClave": [
+        "Lenovo desafía la tendencia inflacionaria de los componentes ofreciendo un dispositivo equilibrado de 11 pulgadas por solo 183 euros.",
+        "El equipo destaca por su configuración de 8 GB de RAM, 128 GB de almacenamiento y una fluida pantalla de 90 Hz con stylus integrado.",
+        "Esta rebaja en PcComponentes sitúa al dispositivo como una de las opciones de productividad básica y consumo multimedia más competitivas del mercado actual."
+      ],
+      "porQueImporta": "La democratización de hardware con 8 GB de RAM a precios mínimos es clave para la expansión de la IA móvil, permitiendo a desarrolladores y usuarios ejecutar de manera fluida aplicaciones híbridas y agentes de productividad locales sin depender de costosos terminales de gama alta.",
+      "tags": [
+        "Hardware",
+        "Productividad",
+        "Móviles"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "8b17df30-791e-4114-8da0-1779b145a5f6",
+      "titulo": "¡Alerta mundial! Recuperar el control de la IA antes de que sea demasiado tarde",
+      "resumen": "El desarrollo de las tecnologías de inteligencia artificial ha llegado a una encrucijada. El miedo a la IA y a sus enormes riesgos se impone en el pensamiento global y se amplían las voces que piden echar el freno en una acción coordinada a nivel mundial que devuelva el control a los humanos antes d",
+      "url": "https://www.muycomputer.com/2026/09/15/alerta-mundial-recuperar-el-control-de-la-ia-antes-de-que-sea-demasiado-tarde/",
+      "imagen": "https://picsum.photos/seed/112/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-15T07:52:15.000Z",
+      "fechaAgregada": "2026-09-16T13:10:51.451Z",
+      "puntosClave": [
+        "El vertiginoso avance de la inteligencia artificial ha desencadenado un consenso global sobre la necesidad urgente de intervenir en su evolución.",
+        "Diversos sectores exigen una pausa coordinada a nivel internacional para redefinir los mecanismos de gobernanza humana sobre los sistemas autónomos.",
+        "El temor colectivo a perder el control técnico está desplazando el foco del optimismo comercial hacia la mitigación de riesgos existenciales."
+      ],
+      "porQueImporta": "Para los desarrolladores y corporaciones tecnológicas, este clamor anticipa un entorno regulatorio restrictivo que obligará a priorizar la seguridad demostrable y el alineamiento ético por encima de la velocidad de lanzamiento y la innovación desmedida.",
+      "tags": [
+        "Gobernanza",
+        "Seguridad IA",
+        "Regulación de IA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "cfbb7463-bb43-4f80-ab6d-50f7d3c6be85",
+      "titulo": "EE UU y China se enseñan los dientes por la IA: del miedo al apocalipsis a la guerra fría tecnológica",
+      "resumen": "Las dos grandes potencias exhiben su enfrentamiento por el futuro de la inteligencia artificial al estallar el debate sobre cómo regularla para evitar escenarios catastróficos",
+      "url": "https://elpais.com/tecnologia/2026-09-15/ee-uu-y-china-se-ensenan-los-dientes-por-la-ia-del-miedo-al-apocalipsis-a-la-guerra-fria-tecnologica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/36TK7DFBHNETBEAMVM6YNDZYAA.JPG?auth=17f3c38670809e8aaf76e51966380d316b8092a2a73291da01e8d071620dfc9d",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-15T03:30:01.000Z",
+      "fechaAgregada": "2026-09-16T13:10:47.296Z",
+      "puntosClave": [
+        "La pugna entre Washington y Pekín se traslada al control regulatorio y técnico de los sistemas de inteligencia artificial de frontera.",
+        "El debate sobre el riesgo existencial actúa como catalizador y, a la vez, como justificación para imponer barreras arancelarias y restricciones de exportación.",
+        "La falta de consenso global amenaza con fragmentar internet y la investigación científica en dos bloques tecnológicos incompatibles."
+      ],
+      "porQueImporta": "Esta polarización obliga a empresas y desarrolladores a elegir bando tecnológico, limitando la colaboración en código abierto y forzando a la industria a adaptar sus algoritmos a dos marcos normativos estrictos y contrapuestos que definirán el acceso al hardware de última generación.",
+      "tags": [
+        "Regulación IA",
+        "Geopolítica",
+        "Guerra Tecnológica"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "715cd2bb-e80e-436e-a650-802c7dfd5157",
+      "titulo": "Perplexity y NVIDIA llevan la IA agéntica a Windows",
+      "resumen": "Durante los últimos años nos hemos acostumbrado a pensar en la inteligencia artificial como algo que sucede lejos de nosotros. Escribimos una consulta, adjuntamos un documento y, en algún punto que normalmente no vemos, una infraestructura remota se encarga del resto. Sin embargo, el PC sigue tenien",
+      "url": "https://www.muycomputer.com/2026/09/14/perplexity-y-nvidia-llevan-la-ia-agentica-a-windows/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/NVIDIA-2-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-14T15:20:20.000Z",
+      "fechaAgregada": "2026-09-16T13:10:51.451Z",
+      "puntosClave": [
+        "Perplexity y NVIDIA se alían para integrar capacidades de IA agéntica directamente en el sistema operativo Windows.",
+        "La colaboración busca descentralizar la IA, reduciendo la dependencia de servidores en la nube al ejecutar procesos complejos en el hardware local.",
+        "El proyecto aprovecha la arquitectura gráfica de NVIDIA para transformar los ordenadores personales en nodos de computación autónomos y rápidos."
+      ],
+      "porQueImporta": "Esta alianza acelera la transición hacia la IA híbrida y local, permitiendo a los desarrolladores crear aplicaciones agénticas de baja latencia y alta privacidad, al tiempo que redefine el valor del hardware de consumo como motor principal de productividad empresarial sin peajes de conectividad.",
+      "tags": [
+        "NVIDIA",
+        "Perplexity",
+        "IA Agéntica",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "64b31c7f-54d9-4178-bdbd-64ab75115a5b",
+      "titulo": "Los gigantes de la IA quieren someterse a sus propias reglas para hacer frente a los escenarios apocalípticos",
+      "resumen": "OpenAI, Anthropic y Google conducen el intenso debate sobre los riesgos de esta tecnología hacia una autorregulación que controle la industria",
+      "url": "https://elpais.com/tecnologia/2026-09-14/los-gigantes-de-la-ia-quieren-someterse-a-sus-propias-reglas-para-hacer-frente-a-los-escenarios-apocalipticos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2AFMMK44HFILRLJSS4XEQZDH4Q.jpg?auth=769beba92b3dc75bb02a2a7ef0828b4838f65b22dd1bd535cf3943b90c311d86",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-14T10:47:12.000Z",
+      "fechaAgregada": "2026-09-16T13:10:47.296Z",
+      "puntosClave": [
+        "OpenAI, Anthropic y Google lideran un movimiento de autocontrol para adelantarse a leyes gubernamentales más restrictivas.",
+        "La estrategia busca centrar la atención pública en escenarios apocalípticos futuros en lugar de abordar monopolios y sesgos actuales.",
+        "El intento de autorregulación amenaza con blindar la industria frente a nuevos competidores bajo el pretexto de la seguridad nacional."
+      ],
+      "porQueImporta": "Si los creadores de los LLMs imponen sus propios estándares de seguridad, el ecosistema de código abierto y los desarrolladores independientes se enfrentarán a barreras técnicas y legales diseñadas a medida por un oligopolio tecnológico.",
+      "tags": [
+        "Gobernanza",
+        "OpenAI",
+        "SeguridadIA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "e6974548-e6ee-477f-82c9-1d155571dc12",
+      "titulo": "China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología",
+      "resumen": "Pekín acusa a EE UU de usar el “manual de la Guerra Fría” para frenar sus desarrollos en inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-09-14/china-reacciona-a-las-alertas-por-la-ia-denunciando-una-agenda-oculta-para-estrangular-su-tecnologia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TTDLQ7EAEVIWXJADNXTH7BZBXA.jpg?auth=2f0807e59408576e324409e2164c63533ea8c4eb69594b016bcd76931d7008dc",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-14T10:16:39.000Z",
+      "fechaAgregada": "2026-09-16T13:10:47.296Z",
+      "puntosClave": [
+        "Pekín denuncia que las advertencias occidentales sobre los riesgos de la IA son una estrategia geopolítica de EE. UU. para frenar su competitividad.",
+        "El gobierno chino equipara las restricciones de acceso a chips y tecnología con tácticas de contención propias de la Guerra Fría.",
+        "La tensión dialéctica anticipa una mayor fragmentación en los estándares globales de desarrollo y gobernanza de la inteligencia artificial."
+      ],
+      "porQueImporta": "Esta ruptura geopolítica fuerza una bifurcación en la industria; las empresas y desarrolladores se enfrentarán a un mercado dividido con cadenas de suministro de hardware duplicadas, regulaciones incompatibles y una preocupante limitación en la colaboración científica internacional.",
+      "tags": [
+        "Geopolítica",
+        "Hardware",
+        "Regulación",
+        "GuerraFríaTecnológica"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "b4de081e-9766-4ede-9615-2f9ab7b15bce",
+      "titulo": "Código rojo en la IA: el vértigo paraliza a las tecnológicas y OpenAI suspende la salida a Bolsa",
+      "resumen": "Tras varios incidentes preocupantes, Altman y Amodei abogan por reducir el ritmo de desarrollo de los modelos. Trump responde minimizando los riesgos y advierte de que el verdadero peligro es China",
+      "url": "https://elpais.com/tecnologia/2026-09-13/codigo-rojo-en-la-ia-el-vertigo-paraliza-a-las-tecnologicas-y-openai-suspende-la-salida-a-bolsa.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BUWRMPHIIJMILDS7DYOR4BPPXM.jpg?auth=0c3fc160692e3a4c21a3dd21e0496603b3b08b1713d71bcffe75a51aaa4a9040",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-13T17:52:09.000Z",
+      "fechaAgregada": "2026-09-16T13:10:47.296Z",
+      "puntosClave": [
+        "OpenAI congela indefinidamente su salida a Bolsa debido al temor por la seguridad de los modelos de frontera.",
+        "Sam Altman y Dario Amodei proponen una tregua en el sector para desacelerar el entrenamiento de las próximas IA.",
+        "Donald Trump presiona para evitar cualquier freno al desarrollo, alertando de que la pausa beneficiará directamente a China."
+      ],
+      "porQueImporta": "Esta parálisis frena en seco la carrera armamentista del software cognitivo, obligando a desarrolladores y empresas a exprimir la eficiencia de los modelos actuales en lugar de esperar la llegada inminente de la AGI, al tiempo que convierte la seguridad tecnológica en un conflicto geopolítico de primer orden.",
+      "tags": [
+        "OpenAI",
+        "Seguridad IA",
+        "Geopolítica",
+        "Finanzas"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "aaae0648-92dd-4483-82ae-04099427e2cb",
+      "titulo": "Demis Hassabis, líder de la IA en Google, se suma a la propuesta de ralentizar su desarrollo: “Es el camino correcto”",
+      "resumen": "El premio Nobel aplaude la petición de Dario Amodei, que también respaldaron Sam Altman y Elon Musk, de introducir auditores externos en las grandes compañías de inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-09-13/demis-hassabis-lider-de-la-ia-en-google-se-suma-a-la-propuesta-de-ralentizar-su-desarrollo-es-el-camino-correcto.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IVP5CMTAP5MN7OUNFNWN3RP4EU.jpg?auth=6211cf98d007870e7ff7eb586d7da7998aec4045f816129099f539fdc4442714",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-13T09:05:44.000Z",
+      "fechaAgregada": "2026-09-16T13:10:47.296Z",
+      "puntosClave": [
+        "Demis Hassabis, líder de Google DeepMind, respalda la propuesta de Anthropic para ralentizar con prudencia el avance de la IA.",
+        "La medida plantea la introducción obligatoria de auditores externos independientes para supervisar los desarrollos de las grandes tecnológicas.",
+        "Esta postura une insólitamente a los líderes de Google, OpenAI y Anthropic en favor de un control de seguridad más estricto."
+      ],
+      "porQueImporta": "El consenso entre los gigantes de la industria sobre la necesidad de auditorías externas marca el fin de la autorregulación. Para empresas y desarrolladores, esto anticipa una era de estrictos controles de seguridad y normativas técnicas obligatorias antes de lanzar cualquier modelo comercial al mercado.",
+      "tags": [
+        "Regulación",
+        "Google DeepMind",
+        "Seguridad de IA",
+        "Gobernanza"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "5011cab8-127d-4a8e-814b-4804a11c3273",
+      "titulo": "Los riesgos de la IA según los que la han visto desde dentro: “El mundo no está preparado y nosotros no estamos preparados”",
+      "resumen": "Una decena de investigadores, directivos y expertos que abandonaron OpenAI, Google o Anthropic han alertado en los últimos años de fallos de seguridad, usos militares y sistemas cada vez más difíciles de controlar por estas compañías. Estos son sus temores",
+      "url": "https://elpais.com/tecnologia/2026-09-12/los-riesgos-de-la-ia-segun-los-que-la-han-visto-desde-dentro-el-mundo-no-esta-preparado-y-nosotros-no-estamos-preparados.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SIXRI2YHLRHGHCJGL574EHXUJ4.jpg?auth=af5255fc4f6fa88a060f4eac865bef6e3d35a79b008386d49d8acbdad8086528",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-12T03:30:01.000Z",
+      "fechaAgregada": "2026-09-16T13:10:47.296Z",
+      "puntosClave": [
+        "Desertores de OpenAI, Anthropic y Google alertan que la velocidad del desarrollo comercial de la IA ha anulado los protocolos de seguridad internos.",
+        "Las principales amenazas señaladas incluyen la pérdida de control de sistemas complejos, la falta de transparencia corporativa y el uso militar de estos modelos.",
+        "La renuncia coordinada de estos perfiles técnicos clave evidencia una fractura ética insalvable entre los investigadores de seguridad y las juntas directivas."
+      ],
+      "porQueImporta": "Esta rebelión de los expertos de primera línea rompe el espejismo del tecno-optimismo corporativo; para la industria, esto acelera la urgencia de regulaciones estrictas y presiona a los desarrolladores a priorizar la interpretabilidad y la auditoría de código por encima de la simple escala de los modelos.",
+      "tags": [
+        "Seguridad IA",
+        "Ética Tecnológica",
+        "OpenAI",
+        "Regulación"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "53a6a6cd-6ef9-4931-8c93-27747d8b5ff0",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/412/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-09-16T13:10:47.296Z",
+      "puntosClave": [
+        "La crianza digital exige abandonar el bloqueo pasivo en favor de una mediación activa y evolutiva que madure junto al menor.",
+        "La integración masiva de la IA generativa en el día a día infantil obliga a redefinir el concepto tradicional de seguridad en internet.",
+        "El desafío actual de los tutores radica en educar el pensamiento crítico para que los menores distingan la realidad de las alucinaciones de la IA."
+      ],
+      "porQueImporta": "Esta tendencia obliga a los desarrolladores de IA y empresas tecnológicas a priorizar el diseño ético y la transparencia 'by design'. El mercado demandará herramientas con filtros adaptativos avanzados y modelos de lenguaje seguros, penalizando a las plataformas que no demuestren un entorno de aprendizaje verdaderamente protegido para los menores.",
+      "tags": [
+        "EdTech",
+        "Ética de la IA",
+        "Seguridad Digital"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "3c9f3177-6e26-400b-b967-fa93f4753013",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-09-16T13:10:47.209Z",
+      "puntosClave": [
+        "Sam Altman busca cubrir un puesto directivo clave en OpenAI bajo la advertencia explícita de afrontar un entorno de estrés extremo y dedicación absoluta.",
+        "La oferta económica supera el medio millón de dólares anuales, consolidando la tendencia de sueldos astronómicos en la cúpula de la inteligencia artificial.",
+        "La convocatoria, lanzada de manera abierta en redes sociales, evidencia la urgencia de la firma por reclutar perfiles de alta resistencia para su fase de expansión masiva."
+      ],
+      "porQueImporta": "Esta oferta visibiliza la cruda realidad de la carrera por la IA: para liderar el sector no basta con el conocimiento técnico, se exige un nivel de entrega que redefine los límites del desgaste profesional a cambio de compensaciones millonarias, marcando un estándar de alta presión para toda la industria tecnológica.",
+      "tags": [
+        "OpenAI",
+        "Empleo",
+        "Cultura Laboral",
+        "Silicon Valley"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "9b715013-de0b-497c-8f5d-0e04da2dea21",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-09-16T13:10:47.209Z",
+      "puntosClave": [
+        "El cibercrimen ha cruzado una frontera crítica en 2025, sumando la violencia física, torturas y muertes a sus habituales objetivos financieros.",
+        "Los ataques ya no se limitan al secuestro de datos, sino que se integran con el crimen organizado táctico para ejercer coacción en el mundo real.",
+        "Esta peligrosa evolución obliga a redefinir los protocolos de protección, vinculando directamente la seguridad digital con la integridad física."
+      ],
+      "porQueImporta": "Para los desarrolladores y la industria de la ciberseguridad, este cambio de paradigma eleva drásticamente la responsabilidad de su trabajo: un fallo de seguridad o una brecha de datos en sistemas conectados ya no solo amenaza los activos financieros, sino directamente la vida de las personas.",
+      "tags": [
+        "Ciberseguridad",
+        "Cibercrimen",
+        "IoT",
+        "Privacidad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "e7fccf0a-4a4c-4986-b849-1471ba60a754",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-09-16T13:10:47.209Z",
+      "puntosClave": [
+        "Rob Pike, cocreador del lenguaje Go, expresó su profunda indignación tras recibir un correo de agradecimiento redactado de forma automática por una inteligencia artificial.",
+        "El incidente abre un debate ético sobre la pérdida de autenticidad en las interacciones profesionales cuando se delegan gestos de cortesía humana a los algoritmos.",
+        "Este rechazo refleja una creciente fatiga y resistencia entre los programadores veteranos hacia el spam sintético y la automatización de la empatía."
+      ],
+      "porQueImporta": "Este conflicto evidencia una desconexión crítica en la industria: mientras las empresas promueven la IA para maximizar la productividad diaria, los líderes de la comunidad de desarrollo comienzan a penalizar la falta de sinceridad intelectual, lo que podría redefinir las normas de comunicación y networking en el sector tecnológico.",
+      "tags": [
+        "IA Generativa",
+        "Productividad",
+        "Desarrollo de Software",
+        "Ética Tecnológica"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
