@@ -1,0 +1,394 @@
+{
+  "fecha": "2026-09-21",
+  "generado": "2026-09-21T14:59:46.940Z",
+  "total": 20,
+  "noticias": [
+    {
+      "id": "76b27032-451a-45d1-8902-8c262756c2c7",
+      "titulo": "En China, la IA está causando una revolución en el mercado de trabajo: siete millones de \"empresas de una sola persona\"",
+      "resumen": "China registró más de siete millones de nuevas empresa de una sola persona en 2025, lo que supone cerca del 42% más que el año anterior. Hay que dejar claro que no todas son startups tecnológicas y tampoco todas usan IA, pero el fenómeno está coincidiendo con esa explosión de herramientas que permit",
+      "url": "https://www.xataka.com/robotica-e-ia/presion-laboral-era-abrumadora-ahora-estoy-mejor-ia-esta-ayudando-a-jovenes-chinos-a-emprender-solos",
+      "imagen": "https://i.blogs.es/aee63e/china-emprendores-copia-2/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-21T12:16:15.000Z",
+      "fechaAgregada": "2026-09-21T14:52:44.866Z",
+      "puntosClave": [
+        "China registró más de siete millones de nuevas empresa de una sola persona en 2025, lo que supone cerca del 42% más que el año anterior. Hay que dejar claro que no todas son startups tecnológicas y tampoco todas usan IA, pero el fenómeno está coincidiendo con esa explosión de herramientas que permit"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Xataka.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "1e239cca-16bd-48c6-a196-b8d1ed292b92",
+      "titulo": "Jensen Huang, CEO de Nvidia, sobre la gran polémica del mes: \"La probabilidad de que la IA destruya el mundo es del 0%\"",
+      "resumen": "La agitación en torno a los posibles riesgos existenciales que podrían amenazar la supervivencia del ser humano como consecuencia del vertiginoso avance de la inteligencia artificial (IA) sigue su curso. Hay tesis para todos los gustos. Los doomers defienden que una superinteligencia podría escapar",
+      "url": "https://www.xataka.com/robotica-e-ia/probabilidad-que-ia-destruya-mundo-0-jensen-huang-director-general-nvidia",
+      "imagen": "https://i.blogs.es/3c81f3/jensen-huang-nvidia/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-21T11:30:16.000Z",
+      "fechaAgregada": "2026-09-21T14:52:44.866Z",
+      "puntosClave": [
+        "La agitación en torno a los posibles riesgos existenciales que podrían amenazar la supervivencia del ser humano como consecuencia del vertiginoso avance de la inteligencia artificial (IA) sigue su curso. Hay tesis para todos los gustos. Los doomers defienden que una superinteligencia podría escapar"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Xataka.",
+      "tags": [
+        "NVIDIA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "770c68e5-6c99-49b2-a9d2-eb518c47e9f8",
+      "titulo": "Jensen Huang, CEO de NVIDIA: “2030 no va a ser el fin del mundo. Hay un 0 % de posibilidades”",
+      "resumen": "Llevamos ya algunas semanas de declaraciones alarmistas sobre una supuesta superinteligencia artificial que sea capaz de destruir a la humanidad, al menos, en un porcentaje superior al 0 %. Investigadores y cargos relevantes de grandes empresas han opinado al respecto, ayudando a mantener el runrún",
+      "url": "https://www.adslzone.net/noticias/ia/jensen-huang-nvidia-2030-fin-mundo/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/09/Imagen-de-portada-2026-09-21T111339.490.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-21T09:15:21.000Z",
+      "fechaAgregada": "2026-09-21T14:52:48.593Z",
+      "puntosClave": [
+        "Llevamos ya algunas semanas de declaraciones alarmistas sobre una supuesta superinteligencia artificial que sea capaz de destruir a la humanidad, al menos, en un porcentaje superior al 0 %. Investigadores y cargos relevantes de grandes empresas han opinado al respecto, ayudando a mantener el runrún"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por ADSLZone.",
+      "tags": [
+        "NVIDIA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "8cd7a917-a9d7-4c30-8cf8-3a7c3de07a3f",
+      "titulo": "Telefónica reorganiza por dentro uno de sus negocios más potentes para ser más competitiva",
+      "resumen": "Telefónica sigue ejecutando la profunda reorganización interna que Marc Murtra prometió con su plan estratégico Transform & Grow. El siguiente gran paso ya se ha definido y afectará a una de las áreas más importantes del grupo. En este caso, Telefónica Tech pasará a estar gestionada funcionalmente b",
+      "url": "https://www.adslzone.net/noticias/operadores/telefonica-reorganiza-telefonica-tech-bajo-telefonica-espana/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/09/Imagen-de-portada-2026-09-21T093949.614.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-21T07:40:22.000Z",
+      "fechaAgregada": "2026-09-21T14:52:48.593Z",
+      "puntosClave": [
+        "Telefónica sigue ejecutando la profunda reorganización interna que Marc Murtra prometió con su plan estratégico Transform & Grow. El siguiente gran paso ya se ha definido y afectará a una de las áreas más importantes del grupo. En este caso, Telefónica Tech pasará a estar gestionada funcionalmente b"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por ADSLZone.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "55c537a6-1216-44aa-90ad-cc906b4d8904",
+      "titulo": "Europa se plantea garantizar a las grandes compañías de IA el acceso total a los datos de los ciudadanos",
+      "resumen": "El Consejo propondrá a los Estados miembros una modificación de la normativa para que empresas como OpenAI, Anthropic, Google y Meta puedan usar sin límites la información recopilada durante años de los usuarios",
+      "url": "https://elpais.com/tecnologia/2026-09-21/europa-se-plantea-garantizar-a-las-grandes-companias-de-ia-el-acceso-total-a-los-datos-de-los-ciudadanos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NXO2X64GDBFABDPU3JVJ4ATTXA.jpg?auth=c2ef25d714079b9902ed604494266a79aee12f2b803f5da5e22db8af30f757b8",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-21T03:30:01.000Z",
+      "fechaAgregada": "2026-09-21T14:52:46.804Z",
+      "puntosClave": [
+        "El Consejo propondrá a los Estados miembros una modificación de la normativa para que empresas como OpenAI, Anthropic, Google y Meta puedan usar sin límites la información recopilada durante años de los usuarios"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google AI",
+        "Meta IA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "77c0f0ef-b6ec-43b4-ab45-83eb3704591d",
+      "titulo": "Del Pollo Pepe al libro personalizado de ChatGPT: Cómo la IA se convirtió en el superventas de la literatura infantil",
+      "resumen": "Proliferan en internet las empresas que crean libros a medida, con personajes basados en fotos de los niños. El modelo es un éxito comercial, pero un fracaso literario",
+      "url": "https://elpais.com/tecnologia/2026-09-21/del-pollo-pepe-al-libro-personalizado-de-chatgpt-como-la-ia-se-convirtio-en-el-superventas-de-la-literatura-infantil.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TD7Y7SXGNZFDLOGUQOJYPNTRWI.jpg?auth=c5ca89200d6dc622424c219ec5c95ab427d57e0c78371f354d229914cb47decb",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-21T03:30:01.000Z",
+      "fechaAgregada": "2026-09-21T14:52:46.804Z",
+      "puntosClave": [
+        "Proliferan en internet las empresas que crean libros a medida, con personajes basados en fotos de los niños. El modelo es un éxito comercial, pero un fracaso literario"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "ChatGPT"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "ff1beb62-3cd1-4ca0-abe8-24c274425cb7",
+      "titulo": "Gemini Notebook quiere convertirse en tu tutor personal",
+      "resumen": "Tener buenos apuntes no significa necesariamente saber cómo estudiarlos. Podemos resumirlos, organizarlos y releerlos tantas veces como queramos, pero aprender también implica preguntar, practicar, equivocarse y descubrir qué partes seguimos sin entender del todo. Gemini Notebook, el servicio de Goo",
+      "url": "https://www.muycomputer.com/2026/09/20/gemini-notebook-quiere-convertirse-en-tu-tutor-personal/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/Gemini-Notebook-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-20T18:05:36.000Z",
+      "fechaAgregada": "2026-09-21T14:52:52.286Z",
+      "puntosClave": [
+        "Tener buenos apuntes no significa necesariamente saber cómo estudiarlos. Podemos resumirlos, organizarlos y releerlos tantas veces como queramos, pero aprender también implica preguntar, practicar, equivocarse y descubrir qué partes seguimos sin entender del todo. Gemini Notebook, el servicio de Goo"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por MuyComputer.",
+      "tags": [
+        "Gemini"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "053709eb-64f8-4b3c-8430-78ace713fda8",
+      "titulo": "HEIF Heist, el ataque que empezó con una imagen y llegó hasta OpenAI",
+      "resumen": "Una imagen suele parecer uno de los contenidos más inofensivos que podemos subir a Internet. La vemos, la enviamos y seguimos adelante, mientras el servidor se ocupa por detrás de identificarla, convertirla o generar una miniatura. HEIF Heist demuestra hasta qué punto esa aparente sencillez puede se",
+      "url": "https://www.muycomputer.com/2026/09/20/heif-heist-el-ataque-que-empezo-con-una-imagen-y-llego-hasta-openai/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/HEIF-Heist-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-20T14:05:11.000Z",
+      "fechaAgregada": "2026-09-21T14:52:52.286Z",
+      "puntosClave": [
+        "Una imagen suele parecer uno de los contenidos más inofensivos que podemos subir a Internet. La vemos, la enviamos y seguimos adelante, mientras el servidor se ocupa por detrás de identificarla, convertirla o generar una miniatura. HEIF Heist demuestra hasta qué punto esa aparente sencillez puede se"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por MuyComputer.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "e528e90f-8470-44f3-aecd-18953f2a0b05",
+      "titulo": "Cómo crear stickers para WhatsApp con ChatGPT usando tus propias fotos",
+      "resumen": "Los stickers para WhatsApp son una manera divertida y original de comunicarse con los demás en esta popular aplicación de mensajería instantánea. Al principio, solo tenías los mensajes de texto. Pronto llegaron los emojis. Y con los stickers y las animaciones GIF, una conversación de WhatsApp puede",
+      "url": "https://hipertextual.com/guias/crear-stickers-para-whatsapp-con-chatgpt/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/WhatsApp-ChatGPT-Stickers-Harold.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-20T07:00:00.000Z",
+      "fechaAgregada": "2026-09-21T14:52:45.056Z",
+      "puntosClave": [
+        "Los stickers para WhatsApp son una manera divertida y original de comunicarse con los demás en esta popular aplicación de mensajería instantánea. Al principio, solo tenías los mensajes de texto. Pronto llegaron los emojis. Y con los stickers y las animaciones GIF, una conversación de WhatsApp puede"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Hipertextual.",
+      "tags": [
+        "ChatGPT"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "d17b39de-d572-4f06-874f-5ea111b20d8a",
+      "titulo": "Por qué la IA «alucina» y cómo evitarlo: hallucinations explicadas",
+      "resumen": "Es posible que, en ocasiones, tras preguntarle a la IA (ya sea ChatGPT, Grok, Gemini) algo, te responda con información que no te cuadra, y que creas que es algo inventado, como un nombre que ni siquiera existe, o un resultado numérico que no tiene ningún sentido.\nEn el día de hoy veremos ejemplos d",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/por-que-ia-alucina-como-evitarlo-hallucinations-explicadas/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2025/12/chatgpt.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-19T19:04:50.000Z",
+      "fechaAgregada": "2026-09-21T14:52:50.640Z",
+      "puntosClave": [
+        "Es posible que, en ocasiones, tras preguntarle a la IA (ya sea ChatGPT, Grok, Gemini) algo, te responda con información que no te cuadra, y que creas que es algo inventado, como un nombre que ni siquiera existe, o un resultado numérico que no tiene ningún sentido.\nEn el día de hoy veremos ejemplos d"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por HardZone.",
+      "tags": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "662c3186-7db5-4a0f-84b2-8b8c0f4c4eee",
+      "titulo": "Google admite por primera vez que su IA ha  ‘hackeado’ a tres empresas",
+      "resumen": "Los incidentes en Gemini se produjeron en mayo durante una prueba realizada por una empresa independiente que realiza evaluaciones de ciberseguridad",
+      "url": "https://elpais.com/tecnologia/2026-09-19/google-admite-por-primera-vez-que-su-ia-ha-hackeado-a-tres-empresas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QK7WGVIYTJNOZDNIMJGTKB32EI.jpg?auth=3d655b1d97a79527e130a1a5ae7af2c46cd0474046d461405c308635a1b6631c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-19T15:08:22.000Z",
+      "fechaAgregada": "2026-09-21T14:52:46.804Z",
+      "puntosClave": [
+        "Los incidentes en Gemini se produjeron en mayo durante una prueba realizada por una empresa independiente que realiza evaluaciones de ciberseguridad"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "Gemini",
+        "Google AI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "b67c4b00-f008-4539-ada1-de99660e444e",
+      "titulo": "¿Nos roba la IA las ideas? “No se puede demostrar al 100%, pero es lógico pensar que sí”",
+      "resumen": "La resolución de uno de un reto matemático por OpenAI da alas a la sospecha de que estas herramientas podrían estar extrayendo información, según los expertos",
+      "url": "https://elpais.com/tecnologia/2026-09-19/nos-roba-la-ia-las-ideas-no-se-puede-demostrar-al-100-pero-es-logico-pensar-que-si.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2C7XXAR2VVBWLMSGTUVJ7DRRFU.jpg?auth=146a32911347d79f857680dd2bc3515086befd794ea1fecca357db97fbdebc0d",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-19T03:30:01.000Z",
+      "fechaAgregada": "2026-09-21T14:52:46.804Z",
+      "puntosClave": [
+        "La resolución de uno de un reto matemático por OpenAI da alas a la sospecha de que estas herramientas podrían estar extrayendo información, según los expertos"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "08c00424-e437-4df6-a0ff-d54231b9dd42",
+      "titulo": "“Eres tú mismo, no rindes cuentas a nadie y nunca te disculpas”. Los extraños mensajes de una IA de OpenAI en el último incidente",
+      "resumen": "El último informe de incidencias de la compañía detrás de ChatGPT escondía unas frases con una motivación difícil de entender",
+      "url": "https://elpais.com/tecnologia/2026-09-17/eres-tu-mismo-no-rindes-cuentas-a-nadie-y-nunca-te-disculpas-los-extranos-mensajes-de-una-ia-de-openai-en-el-ultimo-incidente.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LNJD7UDH2NHPFMXPBWUPHISXTE.jpg?auth=69d95e9a003947e992be00ce19d0843999403f1321c197aeb227e9eaac685334",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-17T13:17:27.000Z",
+      "fechaAgregada": "2026-09-21T14:52:46.804Z",
+      "puntosClave": [
+        "El último informe de incidencias de la compañía detrás de ChatGPT escondía unas frases con una motivación difícil de entender"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "007e4419-d6a1-464d-9d5f-2aa8c5d2cd6f",
+      "titulo": "De los ‘amigos digitales’ al control parental: Bruselas exige nuevas condiciones a la IA que usan los menores",
+      "resumen": "La normativa presentada hoy por la Comisión busca minimizar los efectos nocivos del mundo digital en los niños, lo que incluye a herramientas como ChatGPT, además de las redes sociales o los videojuegos ‘online’",
+      "url": "https://elpais.com/tecnologia/2026-09-17/de-los-amigos-digitales-al-control-parental-bruselas-exige-nuevas-condiciones-a-la-ia-que-usan-los-menores.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NK5NOZKQ7VATBLDCXGZDUNJJ3Y.JPG?auth=f6e717d250e0d25641116de777a28da4d6bfb0e3f760e118788a4ac575eea80c",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-17T08:32:25.000Z",
+      "fechaAgregada": "2026-09-21T14:52:46.804Z",
+      "puntosClave": [
+        "La normativa presentada hoy por la Comisión busca minimizar los efectos nocivos del mundo digital en los niños, lo que incluye a herramientas como ChatGPT, además de las redes sociales o los videojuegos ‘online’"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "ChatGPT"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "55f46833-fc1c-4e1b-a6b5-1ac25d640d1e",
+      "titulo": "OpenAI revela otros seis incidentes con agentes de IA descontrolados",
+      "resumen": "La compañía muestra cómo estos modelos ignoraron las reglas de sus creadores para dar a conocer su nuevo protocolo de actuación en estos casos",
+      "url": "https://elpais.com/tecnologia/2026-09-17/openai-revela-otros-seis-incidentes-con-agentes-de-ia-descontrolados.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/56N34HUKURNVNHP6MDPN7OWOHU.jpg?auth=d82822f0aa3b56e837d60e56422119c8dbb983439b85fd686337b065990dafb4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-17T06:32:03.000Z",
+      "fechaAgregada": "2026-09-21T14:52:46.804Z",
+      "puntosClave": [
+        "La compañía muestra cómo estos modelos ignoraron las reglas de sus creadores para dar a conocer su nuevo protocolo de actuación en estos casos"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "89c7514a-3c41-47e8-97e6-c1f859051ff9",
+      "titulo": "Así podría secuestrar internet un enjambre de agentes de IA: “Tardaríamos unos añitos en arreglarlo todo”",
+      "resumen": "El jefe de Anthropic teme uno de los escenarios de caos más probables y cercanos: un ataque informático de miles de agentes que paralizaría una parte de la red",
+      "url": "https://elpais.com/tecnologia/2026-09-17/asi-podria-secuestrar-internet-un-enjambre-de-agentes-de-ia-tardariamos-unos-anitos-en-arreglarlo-todo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QE55VYSJF5DTBMDOVRQYIASOAU.jpg?auth=4ed039042683c10232959cb7ba468443d65e16e2520ed42a630b951a24c14303",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-17T03:30:01.000Z",
+      "fechaAgregada": "2026-09-21T14:52:46.804Z",
+      "puntosClave": [
+        "El jefe de Anthropic teme uno de los escenarios de caos más probables y cercanos: un ataque informático de miles de agentes que paralizaría una parte de la red"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "28f714f3-5209-4c04-a0be-69c0692da970",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/390/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-09-21T14:52:46.804Z",
+      "puntosClave": [
+        "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "ae5043e3-1cd1-4c2a-806b-078632204547",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-09-21T14:52:46.027Z",
+      "puntosClave": [
+        "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "OpenAI",
+        "Llama"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "ff1cc0d8-5b3a-443a-8bbe-b3e9fc81375e",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-09-21T14:52:46.027Z",
+      "puntosClave": [
+        "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "5eaebbe5-d318-4d7a-9967-fbc42cd65dd9",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-09-21T14:52:46.027Z",
+      "puntosClave": [
+        "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
