@@ -1,0 +1,419 @@
+{
+  "fecha": "2026-09-25",
+  "generado": "2026-09-25T13:21:58.340Z",
+  "total": 19,
+  "noticias": [
+    {
+      "id": "b3cd159a-6959-4a73-ad64-98e10b9a8862",
+      "titulo": "ASUS Zenbook 14 2026, review: eficiencia ARM y 30h de autonomía en solo 1,1 kg",
+      "resumen": "Los portátiles con arquitectura ARM llevan tiempo intentando hacerse un hueco en un mercado dominado por Intel y AMD, con la eficiencia energética como principal argumento pero también con ciertas dudas alrededor del rendimiento y la compatibilidad. En esta ocasión nos disponemos a analizar de prime",
+      "url": "https://hardzone.es/reviews/portatiles/asus-zenbook-14-2026/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/09/ASUS-Zenbook-14-2026.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-25T13:00:21.000Z",
+      "fechaAgregada": "2026-09-25T13:16:48.531Z",
+      "puntosClave": [
+        "El nuevo ASUS Zenbook 14 con arquitectura ARM desafía a Intel y AMD logrando un peso pluma de solo 1,1 kg.",
+        "Promete una autonomía sin precedentes de hasta 30 horas, redefiniendo el estándar de movilidad para profesionales.",
+        "El dispositivo se enfrenta al reto crítico de convencer al usuario sobre su rendimiento real y la compatibilidad de software."
+      ],
+      "porQueImporta": "La consolidación de la arquitectura ARM en portátiles de consumo presiona a los desarrolladores a optimizar software para este entorno, abriendo el camino hacia dispositivos ultraeficientes capaces de ejecutar tareas de IA locales sin sacrificar batería.",
+      "tags": [
+        "Hardware",
+        "ARM",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "44854f82-3d9a-4ac4-ba2c-f970f45056f4",
+      "titulo": "La carrera por la memoria de PlayStation 6 ha comenzado: Samsung y SK hynix compiten por suministrarla",
+      "resumen": "PlayStation 6, la próxima consola de videojuegos de sobremesa de Sony, está en el horno. Mark Cerny, el responsable del hardware de esta plataforma, confirmó a mediados de 2025 que llevaba bastante tiempo trabajando con AMD en el diseño de esta máquina. Esta declaración es coherente con los plazos u",
+      "url": "https://www.xataka.com/componentes/carrera-memoria-playstation-6-ha-comenzado-samsung-sk-hynix-compiten-suministrarla",
+      "imagen": "https://i.blogs.es/2a731e/samsung-semiconductors-gddr7-dram-industrys-first-24gb-gddr7_main2/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-25T09:45:08.000Z",
+      "fechaAgregada": "2026-09-25T13:16:45.640Z",
+      "puntosClave": [
+        "PlayStation 6, la próxima consola de videojuegos de sobremesa de Sony, está en el horno. Mark Cerny, el responsable del hardware de esta plataforma, confirmó a mediados de 2025 que llevaba bastante tiempo trabajando con AMD en el diseño de esta máquina. Esta declaración es coherente con los plazos u"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Xataka.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "3ed1d4bf-5b18-4fc4-a327-8a34b8e400f0",
+      "titulo": "Adiós Copilot+ PC, hola PC con IA: Microsoft empieza a enterrar su gran apuesta",
+      "resumen": "Microsoft ha comenzado a retirar silenciosamente una de las marcas con las que pretendía definir el futuro de los ordenadores con Windows. Los Copilot+ PC, presentados en 2024 como una nueva generación de equipos preparados para ejecutar funciones de inteligencia artificial de forma local, están per",
+      "url": "https://hardzone.es/noticias/equipos/microsoft-elimina-certificacion-copilot-pc/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/08/copilot-pc-8-gb-ram.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-25T07:00:24.000Z",
+      "fechaAgregada": "2026-09-25T13:16:48.532Z",
+      "puntosClave": [
+        "Microsoft ha comenzado a retirar silenciosamente una de las marcas con las que pretendía definir el futuro de los ordenadores con Windows. Los Copilot+ PC, presentados en 2024 como una nueva generación de equipos preparados para ejecutar funciones de inteligencia artificial de forma local, están per"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por HardZone.",
+      "tags": [
+        "Microsoft",
+        "Copilot"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "5be87e58-e7bf-44c4-8029-b29391b6421c",
+      "titulo": "Google revela nuevas pistas sobre cuándo llega Gemini 4: qué dijo el jefe de DeepMind",
+      "resumen": "El debut de Gemini 4, la próxima IA insignia de Google, podría estar más cerca de lo que pensamos. Koray Kavukcuoglu, quien recientemente asumió la conducción de DeepMind en reemplazo de Demis Hassabis, le dijo a The Information que el trabajo sobre el nuevo modelo está avanzando de forma positiva c",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-nuevas-pistas-cuando-llega-gemini-4/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/GEMINI-4.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-24T18:40:00.000Z",
+      "fechaAgregada": "2026-09-25T13:16:45.782Z",
+      "puntosClave": [
+        "El desarrollo de Gemini 4, la próxima gran apuesta de Google, avanza a un ritmo más acelerado de lo previsto originalmente.",
+        "Koray Kavukcuoglu, nuevo líder de DeepMind tras la salida de Demis Hassabis, confirmó los progresos positivos del modelo a The Information.",
+        "El anuncio sugiere una ventana de lanzamiento inminente destinada a recuperar el liderazgo frente a la saga GPT de OpenAI."
+      ],
+      "porQueImporta": "La llegada anticipada de Gemini 4 intensifica la guerra de los LLMs frontera, obligando a las empresas a replantear sus arquitecturas de IA ante un salto generacional que promete mayor eficiencia en costes y capacidades multimodales nativas mucho más avanzadas.",
+      "tags": [
+        "Google DeepMind",
+        "Gemini 4",
+        "LLMs",
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "6e783ff7-4172-42dd-9eb5-2d0e60f3ad61",
+      "titulo": "Gemini estrena una función que hace llamadas por ti desde el móvil",
+      "resumen": "Pedirle a la IA que llame al supermercado para saber si ya llegaron tus galletas favoritas ya no suena a una escena de ciencia ficción. Google implementó una función que permite a Gemini tomar el control de tu móvil para que realice llamadas por ti sin que digas una sola palabra. De acuerdo con 9to5",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-llamar-por-mi-pixel-11-llamadas-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/gemini.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-24T17:48:52.000Z",
+      "fechaAgregada": "2026-09-25T13:16:45.782Z",
+      "puntosClave": [
+        "Google capacita a Gemini para ejecutar y gestionar llamadas telefónicas de forma autónoma directamente desde el dispositivo del usuario.",
+        "La nueva función permite delegar tareas cotidianas por voz, otorgando al asistente un control más profundo sobre el hardware del teléfono.",
+        "Este despliegue, adelantado por 9to5Google, acerca a los smartphones comerciales a la era de los agentes de acción real."
+      ],
+      "porQueImporta": "Esta actualización consolida la transición de los LLMs de simples asistentes de texto a agentes de acción (Large Action Models). Para la industria de la telefonía y los desarrolladores, redefine la interfaz de usuario, donde la IA ya no solo busca información, sino que ejecuta tareas en el mundo analógico a través de la red celular estándar.",
+      "tags": [
+        "Gemini",
+        "Agentes de IA",
+        "Smartphones",
+        "Google"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "3ad2f451-8cea-4984-9c35-02e99468a125",
+      "titulo": "Xbox patenta una IA que diseña misiones y personajes en tiempo real según cómo juegues",
+      "resumen": "Microsoft ha patentado un sistema capaz de utilizar IA para modificar la experiencia narrativa mientras el jugador está jugando, generando nuevos caminos, personajes, misiones o incluso zonas del mundo en función de sus acciones.\nLa propuesta resulta especialmente llamativa porque no se limita a uti",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/xbox-patenta-ia-disena-misiones-personajes-segun-como-juegues/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/09/joven-jugando-rdd2.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-24T13:03:02.000Z",
+      "fechaAgregada": "2026-09-25T13:16:48.532Z",
+      "puntosClave": [
+        "Microsoft ha patentado un sistema capaz de utilizar IA para modificar la experiencia narrativa mientras el jugador está jugando, generando nuevos caminos, personajes, misiones o incluso zonas del mundo en función de sus acciones.\nLa propuesta resulta especialmente llamativa porque no se limita a uti"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por HardZone.",
+      "tags": [
+        "Llama",
+        "Microsoft"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "79a34ad4-cda5-4fcc-8560-1e137951832a",
+      "titulo": "China confirma su “primer diálogo” con EE UU sobre inteligencia artificial",
+      "resumen": "El portavoz del Ministerio de Comercio chino no precisa si en la conversación se abordó la gestión de incidentes relacionados con esta tecnología",
+      "url": "https://elpais.com/tecnologia/2026-09-24/china-confirma-su-primer-dialogo-con-ee-uu-sobre-inteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OFYVGYB3XZFD7MLF35QJFRS2KU.jpg?auth=20a0db4eaadc636de124aad13327d55635887508fb464e5a982f06e341fb6cb7",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-24T08:51:07.000Z",
+      "fechaAgregada": "2026-09-25T13:16:46.161Z",
+      "puntosClave": [
+        "Pekín y Washington inician oficialmente sus primeras conversaciones bilaterales enfocadas en la gobernanza y desarrollo de la inteligencia artificial.",
+        "El gobierno chino evita aclarar si se trataron mecanismos concretos para la prevención o gestión de incidentes de seguridad tecnológica.",
+        "La reunión establece un antecedente diplomático clave en medio del conflicto por el control global de la tecnología estratégica."
+      ],
+      "porQueImporta": "El entendimiento o desacuerdo entre ambas potencias definirá las reglas del juego globales, afectando directamente las restricciones de exportación de chips de alto rendimiento, los estándares de seguridad exigidos a las multinacionales y el despliegue transfronterizo de modelos de IA.",
+      "tags": [
+        "Geopolítica",
+        "Regulación IA",
+        "Hardware",
+        "EEUU-China"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "96f8214c-5539-40e7-8b6c-42fb90bdd54d",
+      "titulo": "Una IA de OpenAI hackeó el sistema público de salud de Australia y otros tres objetivos",
+      "resumen": "El primer ministro australiano, Anthony Albanese, denuncia que la compañía les avisó tres meses tarde",
+      "url": "https://elpais.com/tecnologia/2026-09-24/una-ia-de-openai-hackeo-el-sistema-publico-de-salud-de-australia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TN6AN4MJEBLVJFCGTLAHHN3OLI.jpg?auth=06702e565679df9eed6a4bf3210d4f8a2fc6f41868340b5cf51bc9ac82a50906",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-24T08:24:10.000Z",
+      "fechaAgregada": "2026-09-25T13:16:46.161Z",
+      "puntosClave": [
+        "El primer ministro australiano, Anthony Albanese, denuncia que la compañía les avisó tres meses tarde"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "322a1a14-133d-470b-a031-eebeaa6e12c5",
+      "titulo": "Australia sufre el «primer ataque de una IA contra un gobierno» y alerta al mundo entero",
+      "resumen": "La Inteligencia Artificial ha supuesto un cambio importante para la ciberseguridad, tanto en positivo como en negativo. Aunque puede ser muy útil para detectar vulnerabilidades y resolver problemas, también es utilizada por los piratas informáticos. Esta vez se trata de un agente de IA que ha hackea",
+      "url": "https://www.redeszone.net/noticias/seguridad/australia-primer-ataque-ia-contra-gobierno/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/09/opera-sidney.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-24T06:46:17.000Z",
+      "fechaAgregada": "2026-09-25T13:16:47.673Z",
+      "puntosClave": [
+        "Australia reporta el primer ciberataque gubernamental ejecutado de forma autónoma por un agente de inteligencia artificial.",
+        "El incidente demuestra que los atacantes ya utilizan sistemas automatizados capaces de detectar y explotar fallos sin intervención humana directa.",
+        "Este suceso marca un precedente peligroso que obliga a los gobiernos globales a rediseñar de inmediato sus protocolos de seguridad nacional."
+      ],
+      "porQueImporta": "Este hito marca el inicio de la ciberguerra autónoma. Obliga a los desarrolladores y empresas de ciberseguridad a migrar de defensas pasivas a sistemas reactivos basados en IA, ya que la velocidad de un agente atacante hace que la respuesta humana tradicional sea totalmente obsoleta.",
+      "tags": [
+        "Ciberseguridad",
+        "Agentes de IA",
+        "Seguridad Nacional"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "3056b03c-d9b1-4eed-9741-9d8f0a0bb353",
+      "titulo": "GPT-6 quiere hacer mucho más por menos dinero",
+      "resumen": "Durante los últimos años, buena parte de la carrera de la inteligencia artificial se ha contado como una sucesión de modelos cada vez más capaces, más grandes y también más costosos de ejecutar. Pero ese relato empieza a quedarse corto. Cuando estos sistemas pasan de responder preguntas a trabajar d",
+      "url": "https://www.muycomputer.com/2026/09/24/gpt-6-quiere-hacer-mucho-mas-por-menos-dinero/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/GPT-6-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-24T06:03:46.000Z",
+      "fechaAgregada": "2026-09-25T13:16:49.369Z",
+      "puntosClave": [
+        "La industria de la IA está cambiando su enfoque prioritario: de la carrera por el modelo más grande al desarrollo de sistemas altamente eficientes y económicos.",
+        "El diseño de GPT-6 busca romper la tendencia de costes exponenciales, priorizando la optimización de recursos para tareas prolongadas.",
+        "La evolución tecnológica transiciona de simples chatbots de preguntas y respuestas hacia agentes autónomos que ejecutan flujos de trabajo complejos."
+      ],
+      "porQueImporta": "Para las empresas y desarrolladores, este giro hacia la eficiencia democratiza el acceso a la IA avanzada, haciendo viables los agentes autónomos comerciales al reducir drásticamente los costes de infraestructura y cómputo por tarea realizada.",
+      "tags": [
+        "GPT-6",
+        "LLMs",
+        "Eficiencia",
+        "Agentes IA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "ffd7361a-f17e-43e8-a736-51bbed013ca0",
+      "titulo": "Vigila todo lo que ocurra en tu casa o negocio con estas cámaras IP en oferta",
+      "resumen": "Si quieres tener el control de todo lo que ocurra en tu casa o negocio, contar con cámaras de vigilancia es una buena opción. Vamos a mostrarte algunas cámaras IP que puedes adquirir en oferta. Te hablaremos de las principales características de cada una de ellas, para que puedas elegir la que mejor",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-vigilancia-hogar-0926/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/09/camara-seguridad-fondo-azul.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-23T07:17:12.000Z",
+      "fechaAgregada": "2026-09-25T13:16:47.674Z",
+      "puntosClave": [
+        "La rebaja de precios en cámaras IP facilita que hogares y pymes adquieran hardware de monitorización sin grandes inversiones.",
+        "Estos dispositivos sirven como puntos de entrada clave para la recopilación de datos visuales en tiempo real.",
+        "La diversidad de especificaciones técnicas en oferta permite adaptar la seguridad periférica a las necesidades de cada infraestructura."
+      ],
+      "porQueImporta": "La accesibilidad de las cámaras IP impulsa la democratización del 'Edge AI' y la visión por computadora, permitiendo a desarrolladores y empresas de seguridad integrar análisis de vídeo inteligente y detección de anomalías de forma local y económica.",
+      "tags": [
+        "Hardware",
+        "Visión por Computadora",
+        "Seguridad",
+        "Smart Home"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "870871ad-4021-48d9-8ffc-439ac6af21d0",
+      "titulo": "El apocalipsis de la IA ya ha empezado (pero no es el que te están contando)",
+      "resumen": "El pánico generado por el posible descontrol de esta tecnología desvía la atención de otros asuntos, como los resultados en las pruebas PISA o la responsabilidad (humana) de las acciones de la inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-09-23/el-apocalipsis-de-la-ia-ya-ha-empezado-pero-no-es-el-que-te-estan-contando.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4OIDENQGFJBB3BYZZPY56PPXRE.jpg?auth=137c3b1b7b4baa1916583f8ce34a3b79054c1b14d1eecfc92b0f1fb316e1b301",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-23T03:30:01.000Z",
+      "fechaAgregada": "2026-09-25T13:16:46.161Z",
+      "puntosClave": [
+        "El pánico generado por el posible descontrol de esta tecnología desvía la atención de otros asuntos, como los resultados en las pruebas PISA o la responsabilidad (humana) de las acciones de la inteligencia artificial"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "b831a224-c4c6-44f3-a0ae-c54e425947a2",
+      "titulo": "OpenAI anuncia ahora que su IA ha resuelto más de 100 problemas históricos de las matemáticas, ¿qué futuro le queda a la disciplina?",
+      "resumen": "Días después de resolver uno de los ‘problemas del milenio’, un modelo de ChatGPT ha resuelto de golpe docenas de cálculos. La compañía ha pedido a un grupo de académicos de prestigio que les ayuden a cómo comunicarlo",
+      "url": "https://elpais.com/tecnologia/2026-09-22/openai-anuncia-ahora-que-su-ia-ha-resuelto-mas-de-100-problemas-historicos-de-las-matematicas-que-futuro-le-queda-a-la-disciplina.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UMNKOMEDGZEY3OUKVADDFMMHH4.jpg?auth=68827cd50181fabf2f5f8809ec2fd62bf01bf6312ce00d2a14ca5d64b9db4caf",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-22T13:11:46.000Z",
+      "fechaAgregada": "2026-09-25T13:16:46.161Z",
+      "puntosClave": [
+        "Días después de resolver uno de los ‘problemas del milenio’, un modelo de ChatGPT ha resuelto de golpe docenas de cálculos. La compañía ha pedido a un grupo de académicos de prestigio que les ayuden a cómo comunicarlo"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "969ea04e-9df5-4882-a00b-97ad5d4d88bc",
+      "titulo": "Europa se plantea garantizar a las grandes compañías de IA el acceso total a los datos de los ciudadanos",
+      "resumen": "El Consejo propondrá a los Estados miembros una modificación de la normativa para que empresas como OpenAI, Anthropic, Google y Meta puedan usar sin límites la información recopilada durante años de los usuarios",
+      "url": "https://elpais.com/tecnologia/2026-09-21/europa-se-plantea-garantizar-a-las-grandes-companias-de-ia-el-acceso-total-a-los-datos-de-los-ciudadanos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NXO2X64GDBFABDPU3JVJ4ATTXA.jpg?auth=c2ef25d714079b9902ed604494266a79aee12f2b803f5da5e22db8af30f757b8",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-21T03:30:01.000Z",
+      "fechaAgregada": "2026-09-25T13:16:46.161Z",
+      "puntosClave": [
+        "El Consejo Europeo propone modificar las leyes de privacidad para permitir el uso masivo de datos continentales en el entrenamiento de IA.",
+        "Gigantes tecnológicos como OpenAI, Meta o Google obtendrían acceso sin restricciones al histórico digital de los usuarios europeos.",
+        "La medida busca cerrar la brecha de competitividad tecnológica de Europa frente a las potencias de EE. UU. y China."
+      ],
+      "porQueImporta": "Este giro histórico en la política de privacidad de la UE proporcionaría a los desarrolladores un volumen inédito de datos de alta calidad para entrenar modelos lingüísticos regionales, aunque redefine por completo el marco de cumplimiento normativo y el estándar del GDPR para la industria.",
+      "tags": [
+        "Regulación",
+        "Privacidad",
+        "LLMs",
+        "BigTech"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "22108326-61d0-491f-9080-0e5c66753919",
+      "titulo": "Del Pollo Pepe al libro personalizado de ChatGPT: Cómo la IA se convirtió en el superventas de la literatura infantil",
+      "resumen": "Proliferan en internet las empresas que crean libros a medida, con personajes basados en fotos de los niños. El modelo es un éxito comercial, pero un fracaso literario",
+      "url": "https://elpais.com/tecnologia/2026-09-21/del-pollo-pepe-al-libro-personalizado-de-chatgpt-como-la-ia-se-convirtio-en-el-superventas-de-la-literatura-infantil.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TD7Y7SXGNZFDLOGUQOJYPNTRWI.jpg?auth=c5ca89200d6dc622424c219ec5c95ab427d57e0c78371f354d229914cb47decb",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-21T03:30:01.000Z",
+      "fechaAgregada": "2026-09-25T13:16:46.161Z",
+      "puntosClave": [
+        "Surge un próspero nicho de negocio centrado en plataformas que generan cuentos infantiles personalizados mediante IA e imágenes reales de los niños.",
+        "El valor emocional de la personalización ha garantizado un rotundo éxito de ventas y de conversión comercial para estas empresas.",
+        "A nivel creativo, la IA aún muestra graves carencias para construir estructuras narrativas profundas y literatura infantil de calidad."
+      ],
+      "porQueImporta": "Demuestra la viabilidad comercial de monetizar modelos multimodales en productos físicos hiperpersonalizados, pero también señala el desafío técnico para los desarrolladores: ajustar los LLMs no solo para seguir instrucciones, sino para dominar el ritmo y la creatividad del 'storytelling' de alto nivel.",
+      "tags": [
+        "IA Generativa",
+        "LLMs",
+        "Startups",
+        "Casos de Uso"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "3758600b-68cc-4052-9a05-3c65c7dab982",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/119/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-09-25T13:16:46.161Z",
+      "puntosClave": [
+        "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "cf58c82d-c39f-4dde-82b3-62ed43a79f91",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-09-25T13:16:46.095Z",
+      "puntosClave": [
+        "Sam Altman busca un perfil directivo para OpenAI advirtiendo explícitamente sobre el extremo nivel de estrés y la exigencia de rendimiento inmediato.",
+        "La oferta contempla una retribución superior al medio millón de dólares anuales, evidenciando la agresiva carrera por atraer talento estratégico.",
+        "El anuncio refleja la intensa presión operativa interna que sufre la compañía para mantener su liderazgo en la carrera de la inteligencia artificial."
+      ],
+      "porQueImporta": "Esta vacante visibiliza el costo humano y laboral en la vanguardia de la IA: la competencia feroz no solo dispara las pretensiones salariales, sino que establece estándares de exigencia extrema que redefinen la cultura de trabajo en las grandes tecnológicas.",
+      "tags": [
+        "OpenAI",
+        "Sam Altman",
+        "Talento IA",
+        "Empleo Tech"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "9189867e-5ebf-4d74-8249-d5d561f0f7c9",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-09-25T13:16:46.095Z",
+      "puntosClave": [
+        "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "cfcb32ee-fa4b-4e4d-9d91-a76876839b74",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-09-25T13:16:46.095Z",
+      "puntosClave": [
+        "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
