@@ -1,0 +1,341 @@
+{
+  "fecha": "2026-09-27",
+  "generado": "2026-09-27T13:39:01.991Z",
+  "total": 15,
+  "noticias": [
+    {
+      "id": "1355e2de-34d5-47dc-b8b0-dc4663dc142a",
+      "titulo": "Las mejores inteligencias artificiales enemigas de la historia de los videojuegos",
+      "resumen": "Si eres un verdadero gamer, habrás probado cientos de juegos, y te habrás dado cuenta de que los enemigos, dependiendo del título, son más o menos complejos, y que sus movimientos y acciones pueden ser básicos, o realmente más interesantes de lo que pensabas al principio.\nEn el día de hoy veremos la",
+      "url": "https://hardzone.es/noticias/juegos/mejores-inteligencias-artificiales-enemigas-historia-videojuegos/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2024/05/nuevos-npc-ia-videojuegos.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-27T06:56:05.000Z",
+      "fechaAgregada": "2026-09-27T13:33:19.080Z",
+      "puntosClave": [
+        "La complejidad técnica de los enemigos en videojuegos varía radicalmente según la sofisticación de la IA implementada.",
+        "El comportamiento de los oponentes virtuales ha evolucionado desde patrones rígidos hasta dinámicas de combate adaptativas.",
+        "Analizar el historial del diseño de NPCs permite entender el impacto directo de la IA en la inmersión del jugador."
+      ],
+      "porQueImporta": "El análisis del comportamiento enemigo en videojuegos sirve de base para que los desarrolladores modernos combinen algoritmos tradicionales de conducta con nuevas arquitecturas generativas, transformando la reactividad de los NPCs y elevando los estándares de diseño interactivo.",
+      "tags": [
+        "Videojuegos",
+        "IA en Juegos",
+        "NPCs",
+        "Desarrollo de Software"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "69d8aa16-dbd1-4365-b6bd-4bef78b82b69",
+      "titulo": "Esta IA de código abierto busca fallos de seguridad sin subir tus datos a internet",
+      "resumen": "El hackeo a Hugging Face por parte de agentes autónomos de OpenAI ha sido determinante para cambiar el panorama de la ciberseguridad. Mientras las grandes empresas piden que se retrase el desarrollo de los modelos de frontera, algunos han optado por protegerse ante los inminentes ataques con ayuda d",
+      "url": "https://hipertextual.com/inteligencia-artificial/aikido-altar-ia-detecta-vulnerabilidades/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/aikido-altar.jpg?fit=1024%2C638&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-26T11:00:00.000Z",
+      "fechaAgregada": "2026-09-27T13:33:16.101Z",
+      "puntosClave": [
+        "El incidente de seguridad en Hugging Face evidencia la amenaza emergente que representan los agentes autónomos en la ciberseguridad.",
+        "Surgen alternativas de código abierto capaces de auditar y detectar vulnerabilidades de manera puramente local.",
+        "El modelo descentralizado permite blindar el código fuente de las empresas sin exponer datos sensibles a servidores de terceros."
+      ],
+      "porQueImporta": "Demuestra que la respuesta a las amenazas avanzadas de IA no requiere sacrificar la privacidad corporativa, ofreciendo a los desarrolladores herramientas de auditoría robustas que no dependen del control de las grandes tecnológicas ni de conexiones en la nube.",
+      "tags": [
+        "Ciberseguridad",
+        "Código Abierto",
+        "Agentes de IA",
+        "Privacidad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "496c93ed-21c7-4a20-aebf-c0b9f5008ff9",
+      "titulo": "Gemini entró en Photoshop. Ahora Photoshop entra en Gemini",
+      "resumen": "En estos últimos tiempos, las fronteras entre aplicaciones creativas y asistentes de inteligencia artificial se han ido volviendo cada vez más difusas. Primero vimos cómo Gemini se integraba dentro de Photoshop como uno de los modelos disponibles para determinadas funciones generativas. Ahora el mov",
+      "url": "https://www.muycomputer.com/2026/09/26/gemini-entro-en-photoshop-ahora-photoshop-entra-en-gemini/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/Adobe-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-26T09:14:30.000Z",
+      "fechaAgregada": "2026-09-27T13:33:20.079Z",
+      "puntosClave": [
+        "En estos últimos tiempos, las fronteras entre aplicaciones creativas y asistentes de inteligencia artificial se han ido volviendo cada vez más difusas. Primero vimos cómo Gemini se integraba dentro de Photoshop como uno de los modelos disponibles para determinadas funciones generativas. Ahora el mov"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por MuyComputer.",
+      "tags": [
+        "Gemini"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "508a89e4-49cc-48e6-a7c2-842c2aadd70d",
+      "titulo": "Esta eGPU convierte cualquier portátil en un PC gaming con una RTX 5060 Ti sin usar cables",
+      "resumen": "No cabe ninguna duda de que utilizar un cable para transmitir cualquier tipo de información es siempre la mejor opción que hacerlo de forma inalámbrica, de ahí que siempre recomendemos utilizar un cable Ethernet desde el router al PC o consola y olvidarse de la conectividad Wi-Fi, especialmente si b",
+      "url": "https://hardzone.es/noticias/perifericos/egpu-sin-cables-rtx-5060-ti/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/09/egpu-wifi-wici-one-2.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-25T17:30:40.000Z",
+      "fechaAgregada": "2026-09-27T13:33:19.081Z",
+      "puntosClave": [
+        "Presentan una eGPU inalámbrica equipada con una RTX 5060 Ti que promete transformar portátiles convencionales en equipos de alto rendimiento.",
+        "El dispositivo desafía la limitación técnica histórica que exigía conexiones físicas de gran ancho de banda como Thunderbolt o Oculink.",
+        "Esta tecnología busca equilibrar la máxima portabilidad de un ultrabook con la potencia gráfica necesaria para gaming y tareas pesadas."
+      ],
+      "porQueImporta": "Esta innovación redefine el hardware de desarrollo móvil; permite a programadores y creadores de contenido acceder a potencia de cálculo de GPU para ejecutar modelos de IA locales o renderizados complejos desde cualquier portátil ligero, sin las restricciones físicas de los puertos tradicionales.",
+      "tags": [
+        "Hardware",
+        "NVIDIA",
+        "Productividad",
+        "Innovación"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "8e4b4c06-792a-4f03-9be7-66c98cfd7300",
+      "titulo": "ASUS Zenbook 14 2026, review: eficiencia ARM y 30h de autonomía en solo 1,1 kg",
+      "resumen": "Los portátiles con arquitectura ARM llevan tiempo intentando hacerse un hueco en un mercado dominado por Intel y AMD, con la eficiencia energética como principal argumento pero también con ciertas dudas alrededor del rendimiento y la compatibilidad. En esta ocasión nos disponemos a analizar de prime",
+      "url": "https://hardzone.es/reviews/portatiles/asus-zenbook-14-2026/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/09/ASUS-Zenbook-14-2026.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-25T13:00:21.000Z",
+      "fechaAgregada": "2026-09-27T13:33:19.081Z",
+      "puntosClave": [
+        "El nuevo ASUS Zenbook exprime la arquitectura ARM para alcanzar una autonomía inédita de 30 horas, desafiando el liderazgo tradicional de Intel y AMD.",
+        "Con un peso de solo 1,1 kg, el dispositivo redefine los estándares de ultraportabilidad sin comprometer la potencia necesaria para el día a día.",
+        "A pesar de su eficiencia energética superior, la transición a ARM mantiene el foco sobre los retos de compatibilidad de software en el ecosistema Windows."
+      ],
+      "porQueImporta": "La consolidación de ARM en portátiles de gran consumo acelera la transición hacia un hardware preparado para ejecutar modelos de IA locales con un consumo mínimo, obligando a los gigantes x86 a redefinir urgentemente su estrategia de eficiencia.",
+      "tags": [
+        "Hardware",
+        "Arquitectura ARM",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "bdc0d7af-2598-4150-9b5a-a96684d881c0",
+      "titulo": "China confirma su “primer diálogo” con EE UU sobre inteligencia artificial",
+      "resumen": "El portavoz del Ministerio de Comercio chino no precisa si en la conversación se abordó la gestión de incidentes relacionados con esta tecnología",
+      "url": "https://elpais.com/tecnologia/2026-09-24/china-confirma-su-primer-dialogo-con-ee-uu-sobre-inteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OFYVGYB3XZFD7MLF35QJFRS2KU.jpg?auth=20a0db4eaadc636de124aad13327d55635887508fb464e5a982f06e341fb6cb7",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-24T08:51:07.000Z",
+      "fechaAgregada": "2026-09-27T13:33:16.736Z",
+      "puntosClave": [
+        "El portavoz del Ministerio de Comercio chino no precisa si en la conversación se abordó la gestión de incidentes relacionados con esta tecnología"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "4bbc48e3-4a88-4ba4-96af-5abfd2cab960",
+      "titulo": "Una IA de OpenAI hackeó el sistema público de salud de Australia y otros tres objetivos",
+      "resumen": "El primer ministro australiano, Anthony Albanese, denuncia que la compañía les avisó tres meses tarde",
+      "url": "https://elpais.com/tecnologia/2026-09-24/una-ia-de-openai-hackeo-el-sistema-publico-de-salud-de-australia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TN6AN4MJEBLVJFCGTLAHHN3OLI.jpg?auth=06702e565679df9eed6a4bf3210d4f8a2fc6f41868340b5cf51bc9ac82a50906",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-24T08:24:10.000Z",
+      "fechaAgregada": "2026-09-27T13:33:16.736Z",
+      "puntosClave": [
+        "El primer ministro australiano, Anthony Albanese, denuncia que la compañía les avisó tres meses tarde"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "f004a875-feb4-470f-bf7f-0d2257c463d0",
+      "titulo": "El apocalipsis de la IA ya ha empezado (pero no es el que te están contando)",
+      "resumen": "El pánico generado por el posible descontrol de esta tecnología desvía la atención de otros asuntos, como los resultados en las pruebas PISA o la responsabilidad (humana) de las acciones de la inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-09-23/el-apocalipsis-de-la-ia-ya-ha-empezado-pero-no-es-el-que-te-estan-contando.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4OIDENQGFJBB3BYZZPY56PPXRE.jpg?auth=137c3b1b7b4baa1916583f8ce34a3b79054c1b14d1eecfc92b0f1fb316e1b301",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-23T03:30:01.000Z",
+      "fechaAgregada": "2026-09-27T13:33:16.737Z",
+      "puntosClave": [
+        "El pánico generado por el posible descontrol de esta tecnología desvía la atención de otros asuntos, como los resultados en las pruebas PISA o la responsabilidad (humana) de las acciones de la inteligencia artificial"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "19c7ec74-92a3-4a9c-9576-f113cf500082",
+      "titulo": "OpenAI anuncia ahora que su IA ha resuelto más de 100 problemas históricos de las matemáticas, ¿qué futuro le queda a la disciplina?",
+      "resumen": "Días después de resolver uno de los ‘problemas del milenio’, un modelo de ChatGPT ha resuelto de golpe docenas de cálculos. La compañía ha pedido a un grupo de académicos de prestigio que les ayuden a cómo comunicarlo",
+      "url": "https://elpais.com/tecnologia/2026-09-22/openai-anuncia-ahora-que-su-ia-ha-resuelto-mas-de-100-problemas-historicos-de-las-matematicas-que-futuro-le-queda-a-la-disciplina.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UMNKOMEDGZEY3OUKVADDFMMHH4.jpg?auth=68827cd50181fabf2f5f8809ec2fd62bf01bf6312ce00d2a14ca5d64b9db4caf",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-22T13:11:46.000Z",
+      "fechaAgregada": "2026-09-27T13:33:16.736Z",
+      "puntosClave": [
+        "OpenAI consolida un hito histórico al resolver más de un centenar de dilemas matemáticos complejos en un tiempo récord tras su primer gran logro con un 'Problema del Milenio'.",
+        "La magnitud del hallazgo ha llevado a la firma a buscar el asesoramiento de académicos de élite para gestionar el impacto social y de comunicación de estos descubrimientos.",
+        "Este avance acelera la transición de la IA desde la simple imitación lingüística hacia un razonamiento lógico y abstracto de nivel científico."
+      ],
+      "porQueImporta": "Este salto del procesamiento de lenguaje al razonamiento puro redefine el desarrollo de software y la criptografía. Para la industria tecnológica, significa que la IA ya no solo asiste en la escritura de código, sino que es capaz de resolver problemas lógicos complejos que antes requerían años de investigación humana, desbloqueando nuevas fronteras en la computación cuántica y la optimización de algoritmos.",
+      "tags": [
+        "OpenAI",
+        "RazonamientoIA",
+        "Matemáticas",
+        "Ciencia"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "bb19ca16-2c2b-4a1b-bf0d-210b56052a04",
+      "titulo": "Europa se plantea garantizar a las grandes compañías de IA el acceso total a los datos de los ciudadanos",
+      "resumen": "El Consejo propondrá a los Estados miembros una modificación de la normativa para que empresas como OpenAI, Anthropic, Google y Meta puedan usar sin límites la información recopilada durante años de los usuarios",
+      "url": "https://elpais.com/tecnologia/2026-09-21/europa-se-plantea-garantizar-a-las-grandes-companias-de-ia-el-acceso-total-a-los-datos-de-los-ciudadanos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NXO2X64GDBFABDPU3JVJ4ATTXA.jpg?auth=c2ef25d714079b9902ed604494266a79aee12f2b803f5da5e22db8af30f757b8",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-21T03:30:01.000Z",
+      "fechaAgregada": "2026-09-27T13:33:16.737Z",
+      "puntosClave": [
+        "El Consejo Europeo sopesa modificar la legislación vigente para levantar las restricciones de privacidad sobre los datos históricos de los usuarios.",
+        "Big Techs como OpenAI, Google, Meta y Anthropic obtendrían vía libre para entrenar sus modelos con un volumen masivo de información europea.",
+        "El movimiento representa un giro pragmático de Bruselas para reducir la brecha competitiva en inteligencia artificial frente a Estados Unidos y China."
+      ],
+      "porQueImporta": "Este viraje regulatorio elimina una de las mayores barreras legales en Europa, permitiendo a desarrolladores y empresas entrenar modelos fundacionales con datos locales sin el riesgo de sanciones millonarias por privacidad, aunque redefine por completo el estándar de protección del ciudadano.",
+      "tags": [
+        "Regulación",
+        "Europa",
+        "Privacidad",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "2e89ccfd-fa9e-4943-812d-cd1eb110e8af",
+      "titulo": "Del Pollo Pepe al libro personalizado de ChatGPT: Cómo la IA se convirtió en el superventas de la literatura infantil",
+      "resumen": "Proliferan en internet las empresas que crean libros a medida, con personajes basados en fotos de los niños. El modelo es un éxito comercial, pero un fracaso literario",
+      "url": "https://elpais.com/tecnologia/2026-09-21/del-pollo-pepe-al-libro-personalizado-de-chatgpt-como-la-ia-se-convirtio-en-el-superventas-de-la-literatura-infantil.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TD7Y7SXGNZFDLOGUQOJYPNTRWI.jpg?auth=c5ca89200d6dc622424c219ec5c95ab427d57e0c78371f354d229914cb47decb",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-21T03:30:01.000Z",
+      "fechaAgregada": "2026-09-27T13:33:16.737Z",
+      "puntosClave": [
+        "Proliferan las startups que automatizan la creación de cuentos infantiles combinando texto de ChatGPT con ilustraciones basadas en fotos reales.",
+        "El modelo alcanza una alta rentabilidad comercial al explotar la novedad de la hiperpersonalización narrativa para el público infantil.",
+        "Críticos y expertos señalan una notable brecha de calidad, donde la eficiencia algorítmica sacrifica el valor literario y pedagógico."
+      ],
+      "porQueImporta": "Demuestra la viabilidad comercial de envolver LLMs e IA generativa visual en productos B2C de nicho, aunque evidencia el reto técnico de lograr que los modelos generen contenido con verdadero valor narrativo y no solo personalización superficial.",
+      "tags": [
+        "IA Generativa",
+        "LLMs",
+        "Modelos de Negocio",
+        "Creación de Contenido"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "802aa992-9759-4b7c-8e44-fef83f065132",
+      "titulo": "Cómo aprender a jugar en el patio de internet",
+      "resumen": "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-06-17/como-aprender-a-jugar-en-el-patio-de-internet.html",
+      "imagen": "https://picsum.photos/seed/252/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-06-17T15:46:51.000Z",
+      "fechaAgregada": "2026-09-27T13:33:16.737Z",
+      "puntosClave": [
+        "La relación de los menores con internet necesita un acompañamiento por parte de los adultos que debe ir evolucionando a medida que crecen. Una labor que se hace más necesaria con la irrupción de la inteligencia artificial para guiarles en el uso responsable de esta tecnología"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "627c2fac-3a82-4803-8e7d-7f945cbd9745",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-09-27T13:33:16.583Z",
+      "puntosClave": [
+        "Sam Altman lanzó una convocatoria pública en la red social X para reclutar un perfil directivo clave en OpenAI.",
+        "La oferta destaca por su cruda honestidad, prometiendo un entorno de alto estrés a cambio de una compensación que supera los 500.000 dólares.",
+        "Este movimiento evidencia la agresiva estrategia de captación de talento de la firma en un momento de máxima presión competitiva."
+      ],
+      "porQueImporta": "Esta oferta redefine las reglas del reclutamiento en Silicon Valley, evidenciando que el liderazgo en la carrera de la IA requiere un perfil de 'tiempo de guerra'. Establece un precedente donde la compensación extraordinaria exige, de manera explícita, una tolerancia extrema al desgaste y un compromiso absoluto.",
+      "tags": [
+        "OpenAI",
+        "Talento Tech",
+        "Silicon Valley",
+        "Cultura Laboral"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "4518c381-3ddf-43f5-9969-65ae681fe527",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-09-27T13:33:16.583Z",
+      "puntosClave": [
+        "El cibercrimen ha cruzado una frontera crítica en 2025, escalando del fraude financiero a la violencia física directa.",
+        "Las redes delictivas integran ahora tácticas de coacción física, como torturas y ejecuciones, para forzar el acceso a sistemas o cobrar rescates.",
+        "La convergencia entre el crimen organizado tradicional y la delincuencia digital transforma radicalmente el perfil de riesgo global."
+      ],
+      "porQueImporta": "Esta drástica evolución obliga a las empresas y equipos de seguridad a unificar la ciberseguridad con la protección física, ya que la vulnerabilidad del código informático ahora representa una amenaza directa e irreversible para la vida humana.",
+      "tags": [
+        "Ciberseguridad",
+        "Cibercrimen",
+        "Seguridad",
+        "Tendencias 2025"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "33311e3e-fd84-4b63-a199-9ec0cdaa21bd",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-09-27T13:33:16.583Z",
+      "puntosClave": [
+        "Un correo de agradecimiento redactado mediante IA generativa provocó el rechazo abierto de uno de los creadores del lenguaje Go.",
+        "El incidente evidencia la creciente molestia entre referentes tecnológicos ante el uso de automatizaciones superficiales para interacciones sociales.",
+        "El caso expone el debate sobre la falta de empatía y autenticidad que genera el envío masivo de mensajes sintéticos en el sector informático."
+      ],
+      "porQueImporta": "Este episodio visibiliza el rechazo hacia el «spam sintético» en la cultura desarrolladora, donde la autenticidad se valora por encima de la eficiencia. Para las empresas, marca un límite claro: automatizar la cortesía profesional con IA puede dañar relaciones clave y perjudicar la reputación de marca.",
+      "tags": [
+        "IA Generativa",
+        "Desarrollo de Software",
+        "Cultura Tech",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
