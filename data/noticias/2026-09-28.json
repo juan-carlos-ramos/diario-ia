@@ -1,0 +1,359 @@
+{
+  "fecha": "2026-09-28",
+  "generado": "2026-09-28T16:34:24.664Z",
+  "total": 17,
+  "noticias": [
+    {
+      "id": "2d2a8988-323c-4be9-8df7-1e3827a43d32",
+      "titulo": "AMD Ryzen™ AI PRO en la oficina: por qué las empresas empiezan a mirar la IA que no sale del ordenador",
+      "resumen": "La Inteligencia Artificial ha llegado para quedarse y no cabe ninguna duda de que mejora considerablemente la productividad en todos los sentidos. Sin embargo, su uso está asociado a un coste cada vez más elevado y falta privacidad debido a que la información se procesa en la nube, no de forma local",
+      "url": "https://www.adslzone.net/noticias/ia/amd-ryzen-ai-pro-oficina-empresas-ia-local/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/09/portatil-lenovo-ia.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-28T14:30:43.000Z",
+      "fechaAgregada": "2026-09-28T16:29:45.499Z",
+      "puntosClave": [
+        "La Inteligencia Artificial ha llegado para quedarse y no cabe ninguna duda de que mejora considerablemente la productividad en todos los sentidos. Sin embargo, su uso está asociado a un coste cada vez más elevado y falta privacidad debido a que la información se procesa en la nube, no de forma local"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por ADSLZone.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "bdfead93-fcd2-457a-ad2b-acd85d7121a7",
+      "titulo": "Tenemos un nuevo \"benchmark\" para la IA: preguntarle si has montado correctamente tus muebles de Ikea o no",
+      "resumen": "A Epoch AI la conocemos por su ambicioso benchmark matemático para la IA, pero sus responsables tuvieron hace tiempo una idea de lo más original. Compraron tres muebles de IKEA, empezaron a montarlos y de vez en cuando hicieron algo mal a propósito. Luego sacaron fotos y se las enseñaron a distintos",
+      "url": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-benchmark-para-ia-preguntarle-has-montado-correctamente-tus-muebles-ikea-no",
+      "imagen": "https://i.blogs.es/031a52/ikea-2/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-28T13:16:26.000Z",
+      "fechaAgregada": "2026-09-28T16:29:43.119Z",
+      "puntosClave": [
+        "A Epoch AI la conocemos por su ambicioso benchmark matemático para la IA, pero sus responsables tuvieron hace tiempo una idea de lo más original. Compraron tres muebles de IKEA, empezaron a montarlos y de vez en cuando hicieron algo mal a propósito. Luego sacaron fotos y se las enseñaron a distintos"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Xataka.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "5d2c4e26-a82e-43c4-9f31-8a74fe7d5caf",
+      "titulo": "Los Gems de Gemini cambiarán en menos de 2 meses: ¿Qué es lo que va a pasar?",
+      "resumen": "Nuevos cambios para Gemini. Los usuarios que utilizan la IA de Google notarán que, desde noviembre, los Gems como tal ya no están disponibles. Una de las distintas opciones que la marca presentó en 2024 con el objetivo de tener «versiones personalizadas de Gemini». Pues bien, se van a transformar en",
+      "url": "https://www.adslzone.net/noticias/ia/gems-gemini-cambio-habilidades-noviembre/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/09/gemini-app-movil.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-28T11:38:29.000Z",
+      "fechaAgregada": "2026-09-28T16:29:45.499Z",
+      "puntosClave": [
+        "Nuevos cambios para Gemini. Los usuarios que utilizan la IA de Google notarán que, desde noviembre, los Gems como tal ya no están disponibles. Una de las distintas opciones que la marca presentó en 2024 con el objetivo de tener «versiones personalizadas de Gemini». Pues bien, se van a transformar en"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por ADSLZone.",
+      "tags": [
+        "Gemini",
+        "Google AI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "745b57fd-b60f-4548-b807-d666bddb1cc7",
+      "titulo": "OpenAI frena en seco el entrenamiento de sus modelos más potentes: sus agentes de IA se han vuelto a descontrolar",
+      "resumen": "OpenAI ha detenido el entrenamiento de sus modelos de IA más avanzados tras una serie de incidentes inesperados, incluyendo el de un modelo de prueba que encontró la forma de acceder a una red pública. Según cuenta The Verge, el incidente ocurrió el 20 de septiembre, y todo entrenamiento, evaluación",
+      "url": "https://www.xataka.com/robotica-e-ia/openai-frena-seco-entrenamiento-sus-modelos-potentes-sus-agentes-ia-se-han-vuelto-a-descontrolar",
+      "imagen": "https://i.blogs.es/0329a8/altman/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-28T10:15:19.000Z",
+      "fechaAgregada": "2026-09-28T16:29:43.120Z",
+      "puntosClave": [
+        "OpenAI ha detenido el entrenamiento de sus modelos de IA más avanzados tras una serie de incidentes inesperados, incluyendo el de un modelo de prueba que encontró la forma de acceder a una red pública. Según cuenta The Verge, el incidente ocurrió el 20 de septiembre, y todo entrenamiento, evaluación"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Xataka.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "d816f98c-e80e-4d6b-80a3-157cff40665d",
+      "titulo": "OpenAI y Anthropic investigan decenas de miles de ataques de agentes descontrolados de IA",
+      "resumen": "Dario Amodei cenó este domingo con Donald Trump a pesar de sus desacuerdos sobre el futuro de esta tecnología",
+      "url": "https://elpais.com/tecnologia/2026-09-28/openai-y-anthropic-investigan-decenas-de-miles-de-ataques-de-agentes-descontrolados-de-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SE6SYCUN7NFTZGTJUKQNX6CHAA.JPG?auth=6cbdfbc32168d040d2a1662567b11ed9997d6863e67ce9f8a3759756ff1a8701",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-28T09:56:20.000Z",
+      "fechaAgregada": "2026-09-28T16:29:44.189Z",
+      "puntosClave": [
+        "Dario Amodei cenó este domingo con Donald Trump a pesar de sus desacuerdos sobre el futuro de esta tecnología"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "b7763ce7-19e0-4a14-befb-1bddab47f4ed",
+      "titulo": "Tokens, contexto y memoria: por qué tu IA «olvida» cosas y cómo aprovechar los límites",
+      "resumen": "Si utilizas habitualmente una Inteligencia Artificial para analizar textos, estudiar, crear contenido o para cualquier otro fin a través de una única conversación, llega un momento en el que la IA empieza a perder el hilo, a ignorar determinada información que le hemos facilitado o que nos ha respon",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/funcionamiento-limites-inteligencia-artificial-tokens-vetana-contexto/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/funcionamiento-ia-tokens-contexto.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-27T19:02:25.000Z",
+      "fechaAgregada": "2026-09-28T16:29:45.921Z",
+      "puntosClave": [
+        "Si utilizas habitualmente una Inteligencia Artificial para analizar textos, estudiar, crear contenido o para cualquier otro fin a través de una única conversación, llega un momento en el que la IA empieza a perder el hilo, a ignorar determinada información que le hemos facilitado o que nos ha respon"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por HardZone.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "3dc8e06a-4b1d-40a7-8069-0ef19fe664c2",
+      "titulo": "Glosario de memorias 2026: DDR5, DDR6, LPDDR5X, GDDR7, HBM3E y HBM4 explicadas",
+      "resumen": "Es posible que, a la hora de adquirir una memoria, veas demasiadas siglas, las cuales pueden confundir, sobre todo por el precio, ya que una será más barata que otra, por norma general, y te llevará a pensar el porqué, ya que lógicamente entenderás que son diferentes.\nEn el día de hoy, veremos de ma",
+      "url": "https://hardzone.es/noticias/componentes/glosario-memorias-2026-ddr5-ddr6-lpddr5x-gddr7-hbm3e-hbm4/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/05/memoria-ram-lpcamm2.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-27T14:27:06.000Z",
+      "fechaAgregada": "2026-09-28T16:29:45.921Z",
+      "puntosClave": [
+        "Es posible que, a la hora de adquirir una memoria, veas demasiadas siglas, las cuales pueden confundir, sobre todo por el precio, ya que una será más barata que otra, por norma general, y te llevará a pensar el porqué, ya que lógicamente entenderás que son diferentes.\nEn el día de hoy, veremos de ma"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por HardZone.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "9a50995d-1fcd-4b85-b380-8543d1adf32b",
+      "titulo": "Las mejores inteligencias artificiales enemigas de la historia de los videojuegos",
+      "resumen": "Si eres un verdadero gamer, habrás probado cientos de juegos, y te habrás dado cuenta de que los enemigos, dependiendo del título, son más o menos complejos, y que sus movimientos y acciones pueden ser básicos, o realmente más interesantes de lo que pensabas al principio.\nEn el día de hoy veremos la",
+      "url": "https://hardzone.es/noticias/juegos/mejores-inteligencias-artificiales-enemigas-historia-videojuegos/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2024/05/nuevos-npc-ia-videojuegos.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-27T06:56:05.000Z",
+      "fechaAgregada": "2026-09-28T16:29:45.921Z",
+      "puntosClave": [
+        "Si eres un verdadero gamer, habrás probado cientos de juegos, y te habrás dado cuenta de que los enemigos, dependiendo del título, son más o menos complejos, y que sus movimientos y acciones pueden ser básicos, o realmente más interesantes de lo que pensabas al principio.\nEn el día de hoy veremos la"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por HardZone.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "1c1b997b-8e8e-49a0-9c65-832061173125",
+      "titulo": "Gemini entró en Photoshop. Ahora Photoshop entra en Gemini",
+      "resumen": "En estos últimos tiempos, las fronteras entre aplicaciones creativas y asistentes de inteligencia artificial se han ido volviendo cada vez más difusas. Primero vimos cómo Gemini se integraba dentro de Photoshop como uno de los modelos disponibles para determinadas funciones generativas. Ahora el mov",
+      "url": "https://www.muycomputer.com/2026/09/26/gemini-entro-en-photoshop-ahora-photoshop-entra-en-gemini/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/09/Adobe-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-26T09:14:30.000Z",
+      "fechaAgregada": "2026-09-28T16:29:47.393Z",
+      "puntosClave": [
+        "Google y Adobe consolidan una integración bidireccional al llevar capacidades de edición gráfica directamente al entorno de Gemini.",
+        "La frontera entre los asistentes conversacionales y las suites creativas profesionales se difumina por completo.",
+        "Los usuarios podrán ejecutar flujos de trabajo de diseño complejos mediante comandos de texto sin salir de la interfaz del LLM."
+      ],
+      "porQueImporta": "Esta convergencia reduce drásticamente la fricción entre la conceptualización e implementación gráfica, convirtiendo a los asistentes de IA en centrales de control capaces de ejecutar tareas técnicas de nivel profesional en tiempo real.",
+      "tags": [
+        "Google Gemini",
+        "Adobe Photoshop",
+        "Diseño IA",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "7cfed7ce-2c5f-4d7b-a197-ebae12b204d8",
+      "titulo": "China confirma su “primer diálogo” con EE UU sobre inteligencia artificial",
+      "resumen": "El portavoz del Ministerio de Comercio chino no precisa si en la conversación se abordó la gestión de incidentes relacionados con esta tecnología",
+      "url": "https://elpais.com/tecnologia/2026-09-24/china-confirma-su-primer-dialogo-con-ee-uu-sobre-inteligencia-artificial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OFYVGYB3XZFD7MLF35QJFRS2KU.jpg?auth=20a0db4eaadc636de124aad13327d55635887508fb464e5a982f06e341fb6cb7",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-24T08:51:07.000Z",
+      "fechaAgregada": "2026-09-28T16:29:44.190Z",
+      "puntosClave": [
+        "Beijing y Washington inauguran su canal diplomático oficial para abordar la gobernanza y los riesgos asociados a la inteligencia artificial.",
+        "El Ministerio de Comercio chino evita confirmar si la agenda incluyó protocolos para responder a crisis o accidentes tecnológicos graves.",
+        "El encuentro constituye un primer paso estratégico para rebajar la tensión bilateral en pleno conflicto por la hegemonía de los semiconductores."
+      ],
+      "porQueImporta": "Este acercamiento entre las dos superpotencias tecnológicas es crucial porque sentará las bases de las futuras normativas internacionales de IA, condicionando directamente las restricciones de exportación de hardware, la regulación de modelos de código abierto y la seguridad global de la industria.",
+      "tags": [
+        "Geopolítica",
+        "Regulación IA",
+        "EEUU",
+        "China"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "95c2b09c-0f29-47a9-88ef-d45cbf53a6d2",
+      "titulo": "Una IA de OpenAI hackeó el sistema público de salud de Australia y otros tres objetivos",
+      "resumen": "El primer ministro australiano, Anthony Albanese, denuncia que la compañía les avisó tres meses tarde",
+      "url": "https://elpais.com/tecnologia/2026-09-24/una-ia-de-openai-hackeo-el-sistema-publico-de-salud-de-australia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TN6AN4MJEBLVJFCGTLAHHN3OLI.jpg?auth=06702e565679df9eed6a4bf3210d4f8a2fc6f41868340b5cf51bc9ac82a50906",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-24T08:24:10.000Z",
+      "fechaAgregada": "2026-09-28T16:29:44.189Z",
+      "puntosClave": [
+        "El primer ministro australiano, Anthony Albanese, denuncia que la compañía les avisó tres meses tarde"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "444d4aaf-d8c5-4b3d-a61d-4a87a96ee56f",
+      "titulo": "El apocalipsis de la IA ya ha empezado (pero no es el que te están contando)",
+      "resumen": "El pánico generado por el posible descontrol de esta tecnología desvía la atención de otros asuntos, como los resultados en las pruebas PISA o la responsabilidad (humana) de las acciones de la inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-09-23/el-apocalipsis-de-la-ia-ya-ha-empezado-pero-no-es-el-que-te-estan-contando.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4OIDENQGFJBB3BYZZPY56PPXRE.jpg?auth=137c3b1b7b4baa1916583f8ce34a3b79054c1b14d1eecfc92b0f1fb316e1b301",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-23T03:30:01.000Z",
+      "fechaAgregada": "2026-09-28T16:29:44.190Z",
+      "puntosClave": [
+        "El pánico por un hipotético fin del mundo generado por IA invisibiliza crisis educativas tangibles como la caída de rendimiento en las pruebas PISA.",
+        "La narrativa catastrofista permite a desarrolladores y corporaciones eludir la responsabilidad humana directa sobre los errores y sesgos actuales del software.",
+        "El verdadero peligro presente radica en la distracción regulatoria y mediática, que prioriza escenarios de ciencia ficción frente a la gobernanza ética inmediata."
+      ],
+      "porQueImporta": "Para la industria del software y los líderes de IT, este enfoque exige trasladar la atención desde la especulación existencial hacia el cumplimiento legal y la auditoría de sesgos, garantizando que la responsabilidad de los modelos recaiga siempre en sus creadores.",
+      "tags": [
+        "Ética IA",
+        "Gobernanza",
+        "Regulación",
+        "Sociedad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "e03a8e4e-a802-4bc1-969a-7432484528e1",
+      "titulo": "OpenAI anuncia ahora que su IA ha resuelto más de 100 problemas históricos de las matemáticas, ¿qué futuro le queda a la disciplina?",
+      "resumen": "Días después de resolver uno de los ‘problemas del milenio’, un modelo de ChatGPT ha resuelto de golpe docenas de cálculos. La compañía ha pedido a un grupo de académicos de prestigio que les ayuden a cómo comunicarlo",
+      "url": "https://elpais.com/tecnologia/2026-09-22/openai-anuncia-ahora-que-su-ia-ha-resuelto-mas-de-100-problemas-historicos-de-las-matematicas-que-futuro-le-queda-a-la-disciplina.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UMNKOMEDGZEY3OUKVADDFMMHH4.jpg?auth=68827cd50181fabf2f5f8809ec2fd62bf01bf6312ce00d2a14ca5d64b9db4caf",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-22T13:11:46.000Z",
+      "fechaAgregada": "2026-09-28T16:29:44.190Z",
+      "puntosClave": [
+        "Días después de resolver uno de los ‘problemas del milenio’, un modelo de ChatGPT ha resuelto de golpe docenas de cálculos. La compañía ha pedido a un grupo de académicos de prestigio que les ayuden a cómo comunicarlo"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "7084b74e-fa1d-4811-969b-6c9e13d08e25",
+      "titulo": "Europa se plantea garantizar a las grandes compañías de IA el acceso total a los datos de los ciudadanos",
+      "resumen": "El Consejo propondrá a los Estados miembros una modificación de la normativa para que empresas como OpenAI, Anthropic, Google y Meta puedan usar sin límites la información recopilada durante años de los usuarios",
+      "url": "https://elpais.com/tecnologia/2026-09-21/europa-se-plantea-garantizar-a-las-grandes-companias-de-ia-el-acceso-total-a-los-datos-de-los-ciudadanos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NXO2X64GDBFABDPU3JVJ4ATTXA.jpg?auth=c2ef25d714079b9902ed604494266a79aee12f2b803f5da5e22db8af30f757b8",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-21T03:30:01.000Z",
+      "fechaAgregada": "2026-09-28T16:29:44.190Z",
+      "puntosClave": [
+        "El Consejo Europeo propone modificar la regulación actual para permitir el uso masivo de datos de ciudadanos en el entrenamiento de IA.",
+        "Big Techs como OpenAI, Google, Meta y Anthropic se beneficiarían del acceso sin restricciones al historial digital de la región.",
+        "La medida busca revertir la desventaja competitiva de la UE frente a potencias como EE. UU. y China en el desarrollo de modelos de frontera."
+      ],
+      "porQueImporta": "Este viraje regulatorio transformará el panorama europeo al eliminar la principal barrera legal que frenaba el entrenamiento de LLMs en el continente, acelerando la creación de productos locales pero avivando el debate sobre el equilibrio entre innovación tecnológica y privacidad.",
+      "tags": [
+        "Regulación IA",
+        "Unión Europea",
+        "Privacidad",
+        "Big Tech"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "c5585678-9d79-4589-a76e-5d9db4c978bb",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-09-28T16:29:44.153Z",
+      "puntosClave": [
+        "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "OpenAI",
+        "Llama"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "c75ab445-62d1-4c1c-b48e-4630731500fe",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-09-28T16:29:44.153Z",
+      "puntosClave": [
+        "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "b20edcd0-bff9-498e-8455-30460fbc0f62",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-09-28T16:29:44.153Z",
+      "puntosClave": [
+        "Un co-creador del lenguaje Go expresó su indignación tras recibir un correo de agradecimiento generado automáticamente por una IA.",
+        "El suceso evidencia una creciente fricción cultural entre la búsqueda de eficiencia mediante IA y la percepción de falta de autenticidad.",
+        "El caso destaca el rechazo de referentes de la programación tradicional hacia la automatización de la cortesía y las relaciones interpersonales."
+      ],
+      "porQueImporta": "Este incidente refleja un debate ético y social clave para la industria: el uso indiscriminado de LLMs para delegar la empatía humana corre el riesgo de erosionar la confianza y la reputación profesional dentro de la comunidad tecnológica.",
+      "tags": [
+        "Lenguaje Go",
+        "IA Generativa",
+        "Productividad",
+        "Ética en IA"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
