@@ -2,8 +2,9 @@ name: Obtener noticias de IA cada 24 horas
 
 on:
   schedule:
-    # Se ejecuta todos los días a las 8:00 AM UTC (4-5 AM hora latinoamérica)
-    - cron: "0 8 * * *"
+    # Se ejecuta todos los días a las 10:15 AM UTC (6:15 AM hora Venezuela/Atlántico UTC-4)
+    # Se usa el minuto :15 para evitar congestión en la cola compartida de GitHub Actions
+    - cron: "15 10 * * *"
   # Permite ejecutarlo manualmente desde GitHub cuando quieras
   workflow_dispatch:
 

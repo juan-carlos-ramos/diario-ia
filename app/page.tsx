@@ -54,10 +54,14 @@ export default async function Home({ searchParams }: Props) {
             <h1 className="text-xs font-black tracking-[0.16em] uppercase text-[var(--color-accent)]">
               Edición Diaria · Inteligencia Artificial
             </h1>
-            <span className="text-[11px] font-semibold text-[var(--color-muted)] capitalize">
+            <time
+              dateTime={fechaSeleccionada}
+              data-fecha={fechaSeleccionada}
+              className="text-[11px] font-semibold text-[var(--color-muted)] capitalize"
+            >
               <span className="sm:hidden">{formatearFechaCorta(fechaSeleccionada)}</span>
               <span className="hidden sm:inline">{formatearFecha(fechaSeleccionada)}</span>
-            </span>
+            </time>
           </div>
 
           {/* Noticia principal grande */}
