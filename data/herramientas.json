@@ -2,7 +2,7 @@
   {
     "id": "cursor",
     "nombre": "Cursor",
-    "descripcion": "El editor de código impulsado por IA líder para desarrollo y Vibe Coding con Claude Sonnet 5, GPT-5.6 Sol y modo Agent multi-archivo.",
+    "descripcion": "El editor de código para Vibe Coding con modo Agent multi-archivo y soporte nativo para Claude Sonnet 5.5 y GPT-6.1 Sol.",
     "url": "https://cursor.com",
     "categoria": "vibe-coding",
     "icono": "💻",
@@ -40,9 +40,19 @@
     "destacado": true
   },
   {
+    "id": "gemini",
+    "nombre": "Google Gemini 3.8 Flash & Live",
+    "descripcion": "Ecosistema multimodal de Google con Gemini 3.8 Flash, Gemini 3.8 Live y ventana de contexto de 1M de tokens optimizada para agentes.",
+    "url": "https://gemini.google.com",
+    "categoria": "llms",
+    "icono": "✨",
+    "precio": "Freemium",
+    "destacado": true
+  },
+  {
     "id": "claude",
-    "nombre": "Claude 5 (Opus / Sonnet)",
-    "descripcion": "La suite de frontera de Anthropic con Claude Opus 5 y Sonnet 5, líder en razonamiento adaptativo, programación agéntica y contexto de 1M de tokens.",
+    "nombre": "Claude 5.5 (Sonnet / Opus) & Fable 5.1",
+    "descripcion": "La suite de frontera de Anthropic con Claude Sonnet 5.5, Opus 5.5 y Fable 5.1, líder en codificación agéntica y razonamiento de 1M de tokens.",
     "url": "https://claude.ai",
     "categoria": "llms",
     "icono": "🧠",
@@ -51,8 +61,8 @@
   },
   {
     "id": "chatgpt",
-    "nombre": "ChatGPT & GPT-5.6",
-    "descripcion": "El ecosistema insignia de OpenAI con la familia GPT-5.6 (Sol/Terra) y modelos de razonamiento deliberado o3-pro para ciencia, código y análisis.",
+    "nombre": "ChatGPT & GPT-6 (Astra / Sol)",
+    "descripcion": "Ecosistema insignia de OpenAI con la nueva serie GPT-6 (Astra y GPT-6.1 Sol), razonamiento profundo y GPT-Live-1 para voz fluida.",
     "url": "https://chatgpt.com",
     "categoria": "llms",
     "icono": "🤖",
@@ -60,19 +70,9 @@
     "destacado": true
   },
   {
-    "id": "gemini",
-    "nombre": "Google Gemini (3.7 / 3.6)",
-    "descripcion": "Ecosistema multimodal de Google con Gemini 3.7 Flash y 3.1 Pro, razonamiento híbrido en tiempo real y ventana de contexto de 1 millón de tokens.",
-    "url": "https://gemini.google.com",
-    "categoria": "llms",
-    "icono": "✨",
-    "precio": "Freemium",
-    "destacado": true
-  },
-  {
     "id": "deepseek",
-    "nombre": "DeepSeek-V4 Pro",
-    "descripcion": "Modelo de 1.6T de parámetros y APIs ultra-eficientes con arquitectura de atención híbrida, soporte de 1M de tokens y framework agéntico Harness.",
+    "nombre": "DeepSeek-V4.1-Flash & V4-Pro",
+    "descripcion": "Arquitectura de atención híbrida con DeepSeek-V4.1-Flash multimodal y V4-Pro con modo de pensamiento integrado (thinking mode).",
     "url": "https://deepseek.com",
     "categoria": "llms",
     "icono": "🐋",
@@ -82,7 +82,7 @@
   {
     "id": "perplexity",
     "nombre": "Perplexity AI",
-    "descripcion": "Motor de investigación y Deep Research con fuentes verificables en tiempo real, integración Model Council y acceso a GPT-5.6 y Claude Opus 5.",
+    "descripcion": "Motor de investigación Deep Research con fuentes verificadas en vivo y acceso multi-modelo a Claude Sonnet 5.5 y GPT-6.",
     "url": "https://perplexity.ai",
     "categoria": "productividad",
     "icono": "🔍",
@@ -112,7 +112,7 @@
   {
     "id": "midjourney",
     "nombre": "Midjourney v8.2",
-    "descripcion": "Generación artística y fotorrealista de máxima fidelidad con el modelo v8.2, perfiles de personalización visual y control de composición avanzado.",
+    "descripcion": "Generación visual fotorrealista con el modelo v8.2, nuevo Edit Model integrado y personalización estética avanzada.",
     "url": "https://midjourney.com",
     "categoria": "imagen-video",
     "icono": "🎨",
@@ -121,8 +121,8 @@
   },
   {
     "id": "elevenlabs",
-    "nombre": "ElevenLabs",
-    "descripcion": "Plataforma de voz con el modelo Eleven v3, clonación hiperrealista, flujos asíncronos y agentes de voz en tiempo real con baja latencia.",
+    "nombre": "ElevenLabs (Eleven v4)",
+    "descripcion": "Plataforma de audio de voz con el nuevo modelo Eleven v4, clonación instantánea de alta fidelidad y motor musical Music v2.5.",
     "url": "https://elevenlabs.io",
     "categoria": "imagen-video",
     "icono": "🎙️",
@@ -131,8 +131,8 @@
   },
   {
     "id": "runway",
-    "nombre": "Runway Gen-4.5",
-    "descripcion": "Generación y edición de video cinemático con Gen-4.5, edición interactiva Seedream 5.0 Pro y automatización de campañas con Agent Skills.",
+    "nombre": "Runway Gen-4.5 & Solaris",
+    "descripcion": "Generación de video cinemático fotorrealista con Gen-4.5 y generación de interfaces interactivas en tiempo real con Solaris.",
     "url": "https://runwayml.com",
     "categoria": "imagen-video",
     "icono": "🎬",
@@ -142,7 +142,7 @@
   {
     "id": "ollama",
     "nombre": "Ollama",
-    "descripcion": "Ejecuta los últimos modelos de código abierto (Llama 4, Qwen 3.8-27B, Mistral Small 4, DeepSeek-V4) de forma privada y local en tu máquina.",
+    "descripcion": "Ejecuta los modelos abiertos más avanzados (Llama 4, Qwen 3.8, DeepSeek-V4.1) de forma local, privada y sin conexión.",
     "url": "https://ollama.com",
     "categoria": "open-source",
     "icono": "🦙",
@@ -152,7 +152,7 @@
   {
     "id": "hugging-face",
     "nombre": "Hugging Face",
-    "descripcion": "El hub global de inteligencia artificial abierta con miles de modelos (Qwen 3.8, Llama 4), Spaces interactivos y benchmarks de evaluación en vivo.",
+    "descripcion": "El repositorio global de IA abierta con miles de modelos (Qwen, Llama, DeepSeek), Spaces interactivos y benchmarks de evaluación en vivo.",
     "url": "https://huggingface.co",
     "categoria": "open-source",
     "icono": "🤗",
