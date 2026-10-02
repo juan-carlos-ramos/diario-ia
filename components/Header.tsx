@@ -31,10 +31,10 @@ export default function Header() {
           {/* Botón Selector de Modo Claro/Oscuro */}
           <BotonTema />
 
-          {/* Botón Buscador Cmd+K */}
+          {/* Botón Buscador Cmd+K (Desktop) */}
           <button
             onClick={() => window.dispatchEvent(new Event("diarioia_abrir_buscador"))}
-            className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-card-hover)] text-[var(--color-muted)] hover:text-[var(--color-text)] border border-[var(--color-border)] text-xs font-semibold transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap shadow-xs"
+            className="hidden sm:inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-card-hover)] text-[var(--color-muted)] hover:text-[var(--color-text)] border border-[var(--color-border)] text-xs font-semibold transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap shadow-xs"
             aria-label="Abrir buscador global"
           >
             <span className="text-xs">🔍</span>
@@ -44,10 +44,10 @@ export default function Header() {
             </kbd>
           </button>
 
-          {/* Enlace a Herramientas */}
+          {/* Enlace a Herramientas (Desktop) */}
           <Link
             href="/herramientas"
-            className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-bold tracking-wide transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap ${
+            className={`hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-bold tracking-wide transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap ${
               pathname === "/herramientas"
                 ? "bg-[var(--color-accent)] text-white font-extrabold shadow-[0_2px_12px_oklch(54%_0.17_50_/_20%)]"
                 : "bg-[var(--color-surface)] text-[var(--color-muted)] hover:text-[var(--color-text)] border border-[var(--color-border)]"
@@ -55,7 +55,7 @@ export default function Header() {
             aria-label="Ver directorio de herramientas de IA"
           >
             <span>🛠️</span>
-            <span className="hidden sm:inline">Herramientas</span>
+            <span>Herramientas</span>
           </Link>
 
           {/* Enlace a Guardados en Desktop */}
@@ -85,19 +85,18 @@ export default function Header() {
             )}
           </Link>
 
-          {/* Botón Telegram */}
+          {/* Botón Telegram (Desktop) */}
           <a
             href="https://t.me/diariodeia"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-2 px-3 sm:px-4 py-1.5 sm:py-2 border border-[var(--color-accent)] text-[var(--color-accent)] text-xs sm:text-sm font-semibold rounded-full hover:bg-[var(--color-accent)] hover:text-white transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap shadow-xs"
+            className="hidden sm:inline-flex items-center gap-2 px-3 sm:px-4 py-1.5 sm:py-2 border border-[var(--color-accent)] text-[var(--color-accent)] text-xs sm:text-sm font-semibold rounded-full hover:bg-[var(--color-accent)] hover:text-white transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap shadow-xs"
             aria-label="Unirse al canal de Telegram de DiarioIA"
           >
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
               <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.12L8.32 13.617l-2.96-.924c-.643-.204-.657-.643.136-.953l11.57-4.461c.537-.194 1.006.131.828.942z" />
             </svg>
-            <span className="hidden sm:inline">Únete al canal</span>
-            <span className="sm:hidden">Telegram</span>
+            <span>Únete al canal</span>
           </a>
         </div>
       </div>

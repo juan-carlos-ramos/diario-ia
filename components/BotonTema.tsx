@@ -31,7 +31,7 @@ export default function BotonTema() {
     <button
       onClick={alternarTema}
       type="button"
-      className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-card-hover)] text-[var(--color-text)] border border-[var(--color-border)] text-sm transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap shadow-xs cursor-pointer"
+      className="inline-flex items-center justify-center w-9 h-9 sm:w-8 sm:h-8 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-card-hover)] text-[var(--color-text)] border border-[var(--color-border)] text-sm transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap shadow-xs cursor-pointer"
       aria-label={montado && temaOscuro ? "Cambiar a modo claro (papel prensa)" : "Cambiar a modo oscuro (carbón cálido)"}
       title={montado && temaOscuro ? "Modo Claro ☀️" : "Modo Oscuro 🌙"}
       suppressHydrationWarning

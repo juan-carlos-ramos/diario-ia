@@ -1,5 +1,6 @@
 import { obtenerNoticiasDeHoy, leerArchivoPorFecha, listarFechasDisponibles } from "@/lib/noticias";
 import { obtenerHerramientaDelDia } from "@/lib/herramientas";
+import { formatearFecha, formatearFechaCorta } from "@/lib/utils";
 import Header from "@/components/Header";
 import NoticiaCard from "@/components/NoticiaCard";
 import NoticiaHero from "@/components/NoticiaHero";
@@ -45,7 +46,7 @@ export default async function Home({ searchParams }: Props) {
   return (
     <>
       <Header />
-      <main className="max-w-6xl mx-auto px-4 py-8 pb-24 sm:pb-8">
+      <main className="max-w-6xl mx-auto px-4 py-5 sm:py-8 pb-24 sm:pb-8">
 
         {/* Hero */}
         <section className="mb-6">
@@ -53,8 +54,9 @@ export default async function Home({ searchParams }: Props) {
             <h1 className="text-xs font-black tracking-[0.16em] uppercase text-[var(--color-accent)]">
               Edición Diaria · Inteligencia Artificial
             </h1>
-            <span className="text-[11px] font-semibold text-[var(--color-muted)]">
-              {fechaSeleccionada}
+            <span className="text-[11px] font-semibold text-[var(--color-muted)] capitalize">
+              <span className="sm:hidden">{formatearFechaCorta(fechaSeleccionada)}</span>
+              <span className="hidden sm:inline">{formatearFecha(fechaSeleccionada)}</span>
             </span>
           </div>
 
