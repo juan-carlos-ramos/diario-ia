@@ -1,0 +1,388 @@
+{
+  "fecha": "2026-10-07",
+  "generado": "2026-10-07T17:36:01.326Z",
+  "total": 19,
+  "noticias": [
+    {
+      "id": "5c683e64-9c4e-435e-81e8-368a6344d306",
+      "titulo": "NVIDIA lanza los portátiles RTX Spark con Windows desde hoy: todo sobre este nuevo chip",
+      "resumen": "Es posible que te suene RTX Spark, pues ya se ha estado hablando de él durante un tiempo, es un superchip o sistema en chip (SoC) basado en la arquitectura ARM, el cual ha sido creado conjuntamente entre NVIDIA y MediaTek para ordenadores portátiles y de escritorio compactos con Windows 11.\nEn el dí",
+      "url": "https://hardzone.es/noticias/componentes/nvidia-presenta-oficialmente-rtx-spark-windows/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/08/NVIDIA-RTX-Spark.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-07T17:07:00.000Z",
+      "fechaAgregada": "2026-10-07T17:26:23.216Z",
+      "puntosClave": [
+        "Es posible que te suene RTX Spark, pues ya se ha estado hablando de él durante un tiempo, es un superchip o sistema en chip (SoC) basado en la arquitectura ARM, el cual ha sido creado conjuntamente entre NVIDIA y MediaTek para ordenadores portátiles y de escritorio compactos con Windows 11.\nEn el dí"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por HardZone.",
+      "tags": [
+        "NVIDIA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "1563b68b-8452-4dc2-8e6a-1013d9a31886",
+      "titulo": "SynthID abre su detector de contenido creado con IA",
+      "resumen": "Saber si una imagen, un vídeo o un audio ha sido generado mediante inteligencia artificial resulta cada vez más complicado, especialmente a medida que mejoran los modelos y las herramientas de edición. Ayer mismo veíamos cómo OpenAI comenzará a introducir una señal invisible en determinados textos g",
+      "url": "https://www.muycomputer.com/2026/10/07/synthid-abre-su-detector-de-contenido-creado-con-ia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/10/IA-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-07T16:41:34.000Z",
+      "fechaAgregada": "2026-10-07T17:26:24.337Z",
+      "puntosClave": [
+        "Saber si una imagen, un vídeo o un audio ha sido generado mediante inteligencia artificial resulta cada vez más complicado, especialmente a medida que mejoran los modelos y las herramientas de edición. Ayer mismo veíamos cómo OpenAI comenzará a introducir una señal invisible en determinados textos g"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por MuyComputer.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "c11e47ad-f4b5-4b19-8db6-acea696b8752",
+      "titulo": "Google abre para todo el mundo su detector de IA SynthID: así lo puedes usar desde hoy",
+      "resumen": "A partir de hoy, hay más usuarios que podrán utilizar esta herramienta de Google. No se trata de una nueva herramienta como tal, sino que la novedad está en que se abre a más personas. De esta forma, se dará la oportunidad a todavía más usuarios de poder salir de dudas sobre si un contenido se ha cr",
+      "url": "https://www.adslzone.net/noticias/ia/google-extiende-detector-synthid/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/10/detector-ia.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-07T14:42:27.000Z",
+      "fechaAgregada": "2026-10-07T17:26:21.065Z",
+      "puntosClave": [
+        "A partir de hoy, hay más usuarios que podrán utilizar esta herramienta de Google. No se trata de una nueva herramienta como tal, sino que la novedad está en que se abre a más personas. De esta forma, se dará la oportunidad a todavía más usuarios de poder salir de dudas sobre si un contenido se ha cr"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por ADSLZone.",
+      "tags": [
+        "Google AI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "17d2b8e9-6d92-4a23-9c22-9394875e34d4",
+      "titulo": "LibreOffice dice No a la IA como característica de la suite",
+      "resumen": "Si buscas una suite ofimática que no utilice inteligencia artificial, LibreOffice es el software perfecto para ti. La Document Foundation, la organización sin ánimo de lucro creadora de este desarrollo gratuito y de código abierto, ha publicado una entrada en su blog donde considera que el «no a la",
+      "url": "https://www.muycomputer.com/2026/10/07/libreoffice-dice-no-a-la-ia-como-caracteristica-de-la-suite/",
+      "imagen": "https://picsum.photos/seed/24/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-07T13:11:07.000Z",
+      "fechaAgregada": "2026-10-07T17:26:24.337Z",
+      "puntosClave": [
+        "Si buscas una suite ofimática que no utilice inteligencia artificial, LibreOffice es el software perfecto para ti. La Document Foundation, la organización sin ánimo de lucro creadora de este desarrollo gratuito y de código abierto, ha publicado una entrada en su blog donde considera que el «no a la"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por MuyComputer.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "5b3ccbe5-c5d3-4900-a09f-d001419e0974",
+      "titulo": "Alibaba tiene listo al fin el chip para IA con el que quiere plantar cara a Nvidia",
+      "resumen": "Alibaba está poniendo toda la carne en el asador. Esta compañía china no quiere que su infraestructura de inteligencia artificial (IA) siga dependiendo de las tecnologías de Nvidia. Poco a poco las mayores compañías de tecnología de China están asumiendo la petición que el Gobierno de Xi Jinping les",
+      "url": "https://www.xataka.com/empresas-y-economia/alibaba-tiene-listo-chip-para-ia-que-quiere-plantar-cara-a-nvidia",
+      "imagen": "https://i.blogs.es/8e7dca/alibabasede/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-07T13:00:40.000Z",
+      "fechaAgregada": "2026-10-07T17:26:18.445Z",
+      "puntosClave": [
+        "Alibaba está poniendo toda la carne en el asador. Esta compañía china no quiere que su infraestructura de inteligencia artificial (IA) siga dependiendo de las tecnologías de Nvidia. Poco a poco las mayores compañías de tecnología de China están asumiendo la petición que el Gobierno de Xi Jinping les"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Xataka.",
+      "tags": [
+        "NVIDIA"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "fc35b3e9-87f0-4ba3-94c2-86c0be0de38b",
+      "titulo": "Nokia cree que el mundo se está quedando muy corto construyendo centros de datos",
+      "resumen": "Justin Hotard, el director general de Nokia, lo tiene muy claro: si fuese posible construir centros de datos al doble de la velocidad actual, seguirían siendo insuficientes. Esta compañía finlandesa no está implicada directamente en la construcción de estas instalaciones, pero tiene un rol crítico e",
+      "url": "https://www.xataka.com/robotica-e-ia/nokia-cree-que-mundo-se-esta-quedando-muy-corto-construyendo-centros-datos",
+      "imagen": "https://i.blogs.es/8ce69d/centrodedatos/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-07T11:30:34.000Z",
+      "fechaAgregada": "2026-10-07T17:26:18.446Z",
+      "puntosClave": [
+        "Justin Hotard, el director general de Nokia, lo tiene muy claro: si fuese posible construir centros de datos al doble de la velocidad actual, seguirían siendo insuficientes. Esta compañía finlandesa no está implicada directamente en la construcción de estas instalaciones, pero tiene un rol crítico e"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Xataka.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "48635f8f-bf95-4ee5-af8b-2167583ce021",
+      "titulo": "Google regala Gemini en España con el doble de uso, 400 GB y vídeos con Gemini Omni: así puedes conseguirlo",
+      "resumen": "Preparar exámenes, organizar apuntes y guardar los trabajos del curso puede salir más barato con la promoción de Google para estudiantes. Ahora mismo, la compañía ofrece en España un año de Google AI Plus sin coste, con acceso ampliado a Gemini y 400 GB de almacenamiento en la nube.\nLa oferta está d",
+      "url": "https://www.adslzone.net/noticias/ia/google-gemini-gratis-estudiantes-espana-400gb/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/10/web-google-AI-Plus-a-estudiantes-en-Espana.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-07T11:22:39.000Z",
+      "fechaAgregada": "2026-10-07T17:26:21.065Z",
+      "puntosClave": [
+        "Preparar exámenes, organizar apuntes y guardar los trabajos del curso puede salir más barato con la promoción de Google para estudiantes. Ahora mismo, la compañía ofrece en España un año de Google AI Plus sin coste, con acceso ampliado a Gemini y 400 GB de almacenamiento en la nube.\nLa oferta está d"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por ADSLZone.",
+      "tags": [
+        "Gemini",
+        "Google AI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "5c836fff-c0db-454c-9452-fcd6d9cfb696",
+      "titulo": "¿Puede la inteligencia artificial detectar un ciberataque? Así funciona el machine learning aplicado a la ciberseguridad",
+      "resumen": "Una infraestructura digital moderna puede generar millones de eventos cada día: conexiones, accesos, transferencias de datos, cambios de configuración, ejecución de procesos o comunicaciones entre dispositivos. Y en este contexto, el reto para los equipos de seguridad consiste tanto en identificar u",
+      "url": "https://www.muycomputer.com/2026/10/07/puede-la-inteligencia-artificial-detectar-un-ciberataque-asi-funciona-el-machine-learning-aplicado-a-la-ciberseguridad/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/10/Ciberseguridad-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-07T07:33:37.000Z",
+      "fechaAgregada": "2026-10-07T17:26:24.337Z",
+      "puntosClave": [
+        "Una infraestructura digital moderna puede generar millones de eventos cada día: conexiones, accesos, transferencias de datos, cambios de configuración, ejecución de procesos o comunicaciones entre dispositivos. Y en este contexto, el reto para los equipos de seguridad consiste tanto en identificar u"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por MuyComputer.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "c0f6902f-deda-4b41-8131-62e1a7c382f1",
+      "titulo": "Agentes rebeldes de OpenAI intentaron hackear Wikipedia: «No debemos permitir que esta sea la nueva normalidad»",
+      "resumen": "El hackeo a Hugging Face fue solo la punta del iceberg de la polémica por el accionar de los \"agentes rebeldes\" de OpenAI. Los bots impulsados por la inteligencia artificial de dicha empresa también atacaron portales del gobierno de Australia y a un centenar de organizaciones. Una de las últimas en",
+      "url": "https://hipertextual.com/inteligencia-artificial/agentes-rebeldes-de-openai-intentaron-hackear-wikipedia-no-debemos-permitir-que-esta-sea-la-nueva-normalidad/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/planet-volumes-A5l-MowfhXU-unsplash-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-06T21:25:16.000Z",
+      "fechaAgregada": "2026-10-07T17:26:18.708Z",
+      "puntosClave": [
+        "El hackeo a Hugging Face fue solo la punta del iceberg de la polémica por el accionar de los \"agentes rebeldes\" de OpenAI. Los bots impulsados por la inteligencia artificial de dicha empresa también atacaron portales del gobierno de Australia y a un centenar de organizaciones. Una de las últimas en"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Hipertextual.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "a937f73b-e00c-4f0e-92ad-7776cccfc7c0",
+      "titulo": "Google cambia las reglas: dile adiós a usar Gemini Flash y Pro sin pagar",
+      "resumen": "Si usas Gemini a diario con una cuenta personal y sin una suscripción de Google AI, te traemos malas noticias. A partir de esta misma semana, Google implementará nuevas restricciones que ya no te permitirán usar los modelos Flash y Pro desde la app de Gemini sin pagar. Para ser más precisos, si usas",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-ya-no-te-permitira-usar-gemini-flash-y-pro-sin-pagar/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/google-gemini.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-06T16:52:29.000Z",
+      "fechaAgregada": "2026-10-07T17:26:18.708Z",
+      "puntosClave": [
+        "Si usas Gemini a diario con una cuenta personal y sin una suscripción de Google AI, te traemos malas noticias. A partir de esta misma semana, Google implementará nuevas restricciones que ya no te permitirán usar los modelos Flash y Pro desde la app de Gemini sin pagar. Para ser más precisos, si usas"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Hipertextual.",
+      "tags": [
+        "Gemini",
+        "Google AI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "36559ca8-89c7-4ff1-b17a-ba72282b9618",
+      "titulo": "Aprovecha la Fiesta de Ofertas Prime y vigila tu casa con estas cámaras IP",
+      "resumen": "Si quieres instalar cámaras de vigilancia en casa y mejorar la protección, puedes aprovechar la Fiesta de Ofertas Prime y adquirir productos a precio reducido. Te hablaremos de las principales características de cada uno de ellos, para que puedas elegir el que más te interese y mejor se adapte a lo",
+      "url": "https://www.redeszone.net/noticias/ofertas/camaras-ip-fiesta-ofertas-prime-26/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/10/camaras-vigilancia-oferta.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-06T11:04:13.000Z",
+      "fechaAgregada": "2026-10-07T17:26:21.593Z",
+      "puntosClave": [
+        "Las ofertas de Prime Day permiten adquirir sistemas de videovigilancia IP a precios considerablemente reducidos.",
+        "El análisis compara especificaciones técnicas para facilitar la elección según la cobertura y necesidades del usuario.",
+        "La bajada de precios acelera el despliegue de dispositivos IoT y sensores visuales en el entorno doméstico."
+      ],
+      "porQueImporta": "El acceso masivo a hardware de video IP asequible impulsa el desarrollo de soluciones de visión por computador 'edge'. Esto permite a desarrolladores e integradores crear modelos de detección e IA local para automatización del hogar sin altos costes de entrada.",
+      "tags": [
+        "IoT",
+        "Hardware",
+        "Seguridad",
+        "Visión por Computador"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "1b907742-c945-4ffa-9e03-a84dbe962423",
+      "titulo": "ChatGPT marcará sus textos en la UE con textGrain",
+      "resumen": "Durante años hemos intentado averiguar si un texto procede de una inteligencia artificial observando cómo está escrito, buscando patrones, repeticiones o elecciones de palabras supuestamente características. Los resultados nunca han sido especialmente fiables y la propia OpenAI terminó retirando en",
+      "url": "https://www.muycomputer.com/2026/10/06/chatgpt-marcara-sus-textos-en-la-ue-con-textgrain/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/10/ChatGPT-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-06T06:04:58.000Z",
+      "fechaAgregada": "2026-10-07T17:26:24.337Z",
+      "puntosClave": [
+        "Durante años hemos intentado averiguar si un texto procede de una inteligencia artificial observando cómo está escrito, buscando patrones, repeticiones o elecciones de palabras supuestamente características. Los resultados nunca han sido especialmente fiables y la propia OpenAI terminó retirando en"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por MuyComputer.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "27634950-ec81-4920-80b5-9764240986db",
+      "titulo": "¿Cederías tu voz a la IA? Esta plataforma ya lo pide a los usuarios",
+      "resumen": "La Inteligencia Artificial ofrece un amplio abanico de opciones que forman parte ya de nuestro día a día. Ayuda a ahorrar tiempo, a automatizar tareas y también puede ser útil en el ámbito de la ciberseguridad. Sin embargo, el riesgo de tener problemas relacionados con la privacidad siempre está pre",
+      "url": "https://www.redeszone.net/noticias/seguridad/plataforma-solicita-ceder-voz-usuarios/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/10/imagen-claude-ia.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-05T13:57:07.000Z",
+      "fechaAgregada": "2026-10-07T17:26:21.594Z",
+      "puntosClave": [
+        "Plataformas emergentes solicitan muestras de voz a los usuarios para entrenar modelos sintéticos a cambio de servicios o monetización.",
+        "El uso masivo de datos biométricos vocales eleva exponencialmente el riesgo de suplantación de identidad y ciberataques basados en 'deepfakes'.",
+        "La tensión entre la conveniencia de la IA generativa de voz y la pérdida irrevocable de la privacidad biológica se vuelve crítica."
+      ],
+      "porQueImporta": "Para desarrolladores y empresas, la comercialización de la biometría vocal plantea un dilema ético y técnico legal urgente: exige crear sistemas de autenticación a prueba de clonación e implementar marcos estrictos de gobernanza de datos para evitar litigios y brechas de seguridad masivas.",
+      "tags": [
+        "Biometría",
+        "Privacidad",
+        "Voz IA",
+        "Ciberseguridad"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "b49e80b0-fe6a-4f39-8afe-da80d7455a2a",
+      "titulo": "OpenAI retrasa su nueva IA tras reconocer que no ha realizado los controles de calidad pertinentes",
+      "resumen": "La compañía de Sam Altman asegura que no se han corregido los fallos de su nuevo modelo y Anthropic hace lo propio al advertir de peligros “existenciales” en su folleto de la salida a Bolsa",
+      "url": "https://elpais.com/tecnologia/2026-09-29/openai-retrasa-su-nueva-ia-por-problemas-de-seguridad-y-anthropic-alerta-de-riesgos-catastroficos-para-la-humanidad.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/FB2BRHQESBKEDOMNKM7GULXJDM.jpg?auth=c49efd6e6ad0d0a55d6d3a243527502636879a49566b57ceeab3c5553c6e6aa9",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-29T06:24:38.000Z",
+      "fechaAgregada": "2026-10-07T17:26:19.787Z",
+      "puntosClave": [
+        "La compañía de Sam Altman asegura que no se han corregido los fallos de su nuevo modelo y Anthropic hace lo propio al advertir de peligros “existenciales” en su folleto de la salida a Bolsa"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "b0968b71-b974-49de-9334-e4726aca76f0",
+      "titulo": "OpenAI y Anthropic investigan decenas de miles de ataques de agentes descontrolados de IA",
+      "resumen": "Dario Amodei cenó este domingo con Donald Trump a pesar de sus desacuerdos sobre el futuro de esta tecnología",
+      "url": "https://elpais.com/tecnologia/2026-09-28/openai-y-anthropic-investigan-decenas-de-miles-de-ataques-de-agentes-descontrolados-de-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SE6SYCUN7NFTZGTJUKQNX6CHAA.JPG?auth=6cbdfbc32168d040d2a1662567b11ed9997d6863e67ce9f8a3759756ff1a8701",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-28T09:56:20.000Z",
+      "fechaAgregada": "2026-10-07T17:26:19.787Z",
+      "puntosClave": [
+        "Dario Amodei cenó este domingo con Donald Trump a pesar de sus desacuerdos sobre el futuro de esta tecnología"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "19a434fd-e39c-43e2-aa3e-6e869d6b4526",
+      "titulo": "Una IA de OpenAI hackeó el sistema público de salud de Australia y otros tres objetivos",
+      "resumen": "El primer ministro australiano, Anthony Albanese, denuncia que la compañía les avisó tres meses tarde",
+      "url": "https://elpais.com/tecnologia/2026-09-24/una-ia-de-openai-hackeo-el-sistema-publico-de-salud-de-australia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TN6AN4MJEBLVJFCGTLAHHN3OLI.jpg?auth=06702e565679df9eed6a4bf3210d4f8a2fc6f41868340b5cf51bc9ac82a50906",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-09-24T08:24:10.000Z",
+      "fechaAgregada": "2026-10-07T17:26:19.787Z",
+      "puntosClave": [
+        "El primer ministro australiano, Anthony Albanese, denuncia que la compañía les avisó tres meses tarde"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por El País Tecnología.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "8830eb6f-bac7-48e3-b164-181c9c5fc7a1",
+      "titulo": "\"Será un trabajo estresante\", promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+      "resumen": "\"Será un trabajo estresante y tendrás que sumergirte de lleno desde el primer momento\". Con esa advertencia poco habitual, Sam Altman, CEO de OpenAI, ha presentado en X una de las ofertas laborales más llamativas —y mejor pagadas— del sector tecnológico actual. El objetivo es cubrir el puesto direct",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sera-trabajo-estresante-promete-sam-altman-esta-oferta-eso-ofrece-medio-millon-dolares-sueldo",
+      "imagen": "https://i.blogs.es/9d3f95/chatgpt-image-30-dic-2025-11_58_04/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-30T10:59:31.000Z",
+      "fechaAgregada": "2026-10-07T17:26:19.516Z",
+      "puntosClave": [
+        "Sam Altman ha lanzado una búsqueda pública para un puesto directivo en OpenAI ofreciendo una retribución superior al medio millón de dólares.",
+        "La oferta destaca por su inusual transparencia al advertir explícitamente sobre el entorno de alto estrés y la exigencia de rendimiento inmediato.",
+        "El movimiento evidencia la agresiva estrategia de OpenAI para reclutar liderazgo capaz de soportar la velocidad del mercado de la IA."
+      ],
+      "porQueImporta": "Esta oferta visibiliza la hiperinflación salarial y la presión extrema en la cúpula de la IA, donde la competencia feroz exige ejecutivos dispuestos a sacrificar el equilibrio laboral a cambio de moldear el futuro de la industria.",
+      "tags": [
+        "OpenAI",
+        "Sam Altman",
+        "Empleo IA",
+        "Mercado Laboral"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "64017f4e-8bc1-4485-9627-6a13475a892a",
+      "titulo": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+      "resumen": "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo",
+      "url": "https://www.genbeta.com/seguridad/cibercrimen-no-solo-digital-2025-ha-sumado-muertes-torturas-a-su-historial",
+      "imagen": "https://i.blogs.es/d99b1f/chatgpt-image-29-dic-2025-19_31_58/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T18:39:38.000Z",
+      "fechaAgregada": "2026-10-07T17:26:19.516Z",
+      "puntosClave": [
+        "Estamos acostumbrados a que la mayoría de noticias sobre cibercrimen giren en torno a causas políticas... o, mucho más frecuentemente, al dinero: rescates millonarios, caídas de sistemas de grandes compañías, pérdidas bursátiles y grandes estafas online.\n\rSin embargo, este 2025 del que nos despedimo"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    },
+    {
+      "id": "7dded0a7-f4da-4368-99a7-4a3784580f04",
+      "titulo": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+      "resumen": "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun",
+      "url": "https://www.genbeta.com/inteligencia-artificial/ia-ha-desatado-furia-este-creador-lenguaje-go-solo-ha-necesitado-enviarle-e-mail-agradecimiento",
+      "imagen": "https://i.blogs.es/027ef8/chatgpt-image-29-dic-2025-15_55_02/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2025-12-29T14:58:02.000Z",
+      "fechaAgregada": "2026-10-07T17:26:19.516Z",
+      "puntosClave": [
+        "Un simple correo electrónico de agradecimiento. Un gesto que, en apariencia, debería resultar inofensivo (en el peor de los casos) e incluso halagador. Sin embargo, el contexto lo es todo, y en plena explosión de la IA generativa, ese mismo gesto ha sido suficiente para provocar una reacción furibun"
+      ],
+      "porQueImporta": "Novedad relevante en el sector de la inteligencia artificial reportada por Genbeta.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1
+    }
+  ]
+}
