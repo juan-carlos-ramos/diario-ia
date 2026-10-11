@@ -36,7 +36,7 @@ export default function BarraAccionesMovil({ noticia }: Props) {
             href={noticia.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex-1 inline-flex items-center justify-center gap-1.5 px-4 py-2.5 rounded-full bg-[var(--color-accent)] text-white text-xs font-black tracking-wide interactive-tap focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] shadow-[0_2px_12px_oklch(54%_0.17_50_/_20%)]"
+            className="flex-1 inline-flex items-center justify-center gap-1.5 px-4 py-2.5 rounded-full bg-[var(--color-accent)] text-[var(--color-on-accent)] text-xs font-black tracking-wide interactive-tap focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] shadow-[0_2px_12px_oklch(54%_0.17_50_/_20%)]"
             aria-label={`Leer fuente original en ${noticia.fuente}`}
           >
             <span>Fuente original</span>

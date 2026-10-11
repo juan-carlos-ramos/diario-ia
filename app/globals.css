@@ -13,6 +13,7 @@ html.light,
   --color-border-hover: oklch(76% 0.025 75);/* Hover de Bordes */
   --color-accent: oklch(54% 0.17 50);       /* Ámbar Terracota Editorial */
   --color-accent-dim: oklch(66% 0.13 50);   /* Ámbar Atenuado */
+  --color-on-accent: oklch(97.5% 0.008 75); /* Tinta Marfil Legible sobre el Acento (AA 5.00:1 · APCA -75.6) */
   --color-text: oklch(18% 0.015 50);        /* Tinta Carbón Profunda */
   --color-muted: oklch(46% 0.018 50);       /* Ceniza Tostado para Metadatos */
   --color-subtle: oklch(76% 0.015 75);      /* Separadores y Guías de Lectura */
@@ -38,6 +39,7 @@ html.dark,
   --color-border-hover: oklch(34% 0.035 68);/* Hover de Bordes */
   --color-accent: oklch(76% 0.165 72);      /* Ámbar Dorado Noble */
   --color-accent-dim: oklch(62% 0.14 72);   /* Ámbar Atenuado */
+  --color-on-accent: oklch(15% 0.012 55);   /* Tinta Obsidiana Legible sobre el Acento (AA 8.92:1 · APCA +60.6) */
   --color-text: oklch(94% 0.008 60);        /* Blanco Marfil / Pergamino */
   --color-muted: oklch(65% 0.012 55);       /* Ceniza Cálido para Metadatos */
   --color-subtle: oklch(38% 0.012 55);      /* Separadores y Guías de Lectura */

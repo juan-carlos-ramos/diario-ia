@@ -25,7 +25,7 @@ export default function PaginaGuardados() {
             <h1 className="text-2xl sm:text-4xl font-bold font-serif tracking-tight text-[var(--color-text)] flex items-center gap-3">
               Noticias Guardadas
               {montado && totalFavoritos > 0 && (
-                <span className="text-xs px-2.5 py-1 rounded-full bg-[var(--color-accent)] text-black font-extrabold shadow-[0_2px_12px_oklch(76%_0.165_72_/_20%)]">
+                <span className="text-xs px-2.5 py-1 rounded-full bg-[var(--color-accent)] text-[var(--color-on-accent)] font-extrabold shadow-[0_2px_12px_oklch(76%_0.165_72_/_20%)]">
                   {totalFavoritos}
                 </span>
               )}
@@ -64,7 +64,7 @@ export default function PaginaGuardados() {
             </p>
             <Link
               href="/"
-              className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-white text-xs font-bold transition-transform active:scale-95 interactive-tap shadow-[0_2px_12px_oklch(54%_0.17_50_/_20%)]"
+              className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--color-accent)] text-[var(--color-on-accent)] text-xs font-bold transition-transform active:scale-95 interactive-tap shadow-[0_2px_12px_oklch(54%_0.17_50_/_20%)]"
             >
               Explorar noticias de hoy →
             </Link>

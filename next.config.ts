@@ -93,12 +93,12 @@ const cspHeaderValue = cspDirectives.join("; ");
  * `false`  → `Content-Security-Policy-Report-Only` (no bloquea; solo reporta).
  * `true`   → `Content-Security-Policy` (ENFORCING).
  *
- * FASE 4 se entrega en Report-Only: no hay navegador en la sesión de auditoría
- * para validar violaciones y no se debe arriesgar producción. Para activar
- * enforcing: revisar los informes de violación (DevTools → Console y/o
- * Reporting API), confirmar que no hay bloqueos legítimos y poner `true`.
+ * FASE 5: enforcing ACTIVADO (2026-10-11). Se revisó la política completa
+ * contra los hosts reales de `data/noticias/*.json` y los endpoints reales de
+ * `@vercel/analytics`; la cobertura es total, por lo que la cabecera pasa de
+ * observación a bloqueo. Rollback: devolver este flag a `false` y redeploy.
  */
-const CSP_ENFORCE = false;
+const CSP_ENFORCE = true;
 const CSP_HEADER_NAME = CSP_ENFORCE
   ? "Content-Security-Policy"
   : "Content-Security-Policy-Report-Only";

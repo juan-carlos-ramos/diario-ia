@@ -53,7 +53,7 @@ export default function Header() {
             href="/herramientas"
             className={`hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-bold tracking-wide transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap ${
               pathname === "/herramientas"
-                ? "bg-[var(--color-accent)] text-white font-extrabold shadow-[0_2px_12px_oklch(54%_0.17_50_/_20%)]"
+                ? "bg-[var(--color-accent)] text-[var(--color-on-accent)] font-extrabold shadow-[0_2px_12px_oklch(54%_0.17_50_/_20%)]"
                 : "bg-[var(--color-surface)] text-[var(--color-muted)] hover:text-[var(--color-text)] border border-[var(--color-border)]"
             }`}
             aria-label="Ver directorio de herramientas de IA"
@@ -67,7 +67,7 @@ export default function Header() {
             href="/guardados"
             className={`hidden sm:inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full text-xs font-bold tracking-wide transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap ${
               pathname === "/guardados"
-                ? "bg-[var(--color-accent)] text-white font-extrabold shadow-[0_2px_12px_oklch(54%_0.17_50_/_20%)]"
+                ? "bg-[var(--color-accent)] text-[var(--color-on-accent)] font-extrabold shadow-[0_2px_12px_oklch(54%_0.17_50_/_20%)]"
                 : "bg-[var(--color-surface)] text-[var(--color-muted)] hover:text-[var(--color-text)] border border-[var(--color-border)]"
             }`}
             aria-label="Ver noticias guardadas"
@@ -83,7 +83,7 @@ export default function Header() {
             </svg>
             <span>Guardados</span>
             {montado && totalFavoritos > 0 && (
-              <span className="ml-0.5 px-1.5 py-0.2 text-[10px] rounded-full bg-[var(--color-accent)] text-white font-extrabold">
+              <span className="ml-0.5 px-1.5 py-0.2 text-[10px] rounded-full bg-[var(--color-accent)] text-[var(--color-on-accent)] font-extrabold">
                 {totalFavoritos}
               </span>
             )}
@@ -94,7 +94,7 @@ export default function Header() {
             href="https://t.me/diariodeia"
             target="_blank"
             rel="noopener noreferrer"
-            className="hidden sm:inline-flex items-center gap-2 px-3 sm:px-4 py-1.5 sm:py-2 border border-[var(--color-accent)] text-[var(--color-accent)] text-xs sm:text-sm font-semibold rounded-full hover:bg-[var(--color-accent)] hover:text-white transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap shadow-xs"
+            className="hidden sm:inline-flex items-center gap-2 px-3 sm:px-4 py-1.5 sm:py-2 border border-[var(--color-accent)] text-[var(--color-accent)] text-xs sm:text-sm font-semibold rounded-full hover:bg-[var(--color-accent)] hover:text-[var(--color-on-accent)] transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] interactive-tap shadow-xs"
             aria-label="Unirse al canal de Telegram de DiarioIA"
           >
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">

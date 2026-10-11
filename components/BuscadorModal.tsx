@@ -232,7 +232,7 @@ export default function BuscadorModal() {
                       setQuery(tema);
                       setIndiceSeleccionado(0);
                     }}
-                    className="px-3 py-1.5 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-accent)] hover:text-white text-[var(--color-text)] border border-[var(--color-border)] text-xs font-semibold tracking-wide transition-all interactive-tap cursor-pointer"
+                    className="px-3 py-1.5 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-accent)] hover:text-[var(--color-on-accent)] text-[var(--color-text)] border border-[var(--color-border)] text-xs font-semibold tracking-wide transition-all interactive-tap cursor-pointer"
                   >
                     #{tema}
                   </button>

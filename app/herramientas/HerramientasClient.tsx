@@ -47,7 +47,7 @@ export default function HerramientasClient({ herramientasIniciales, categorias }
               onClick={() => setCategoriaActiva(cat.id)}
               className={`inline-flex items-center gap-1.5 px-4 py-2 rounded-full text-xs font-extrabold whitespace-nowrap transition-all interactive-tap ${
                 categoriaActiva === cat.id
-                  ? "bg-[var(--color-accent)] text-black shadow-[0_2px_12px_oklch(76%_0.165_72_/_20%)]"
+                  ? "bg-[var(--color-accent)] text-[var(--color-on-accent)] shadow-[0_2px_12px_oklch(76%_0.165_72_/_20%)]"
                   : "bg-[var(--color-surface)] text-[var(--color-muted)] hover:text-white border border-[var(--color-border)]"
               }`}
             >
@@ -121,7 +121,7 @@ export default function HerramientasClient({ herramientasIniciales, categorias }
                   href={herramienta.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-accent)] text-[var(--color-text)] hover:text-white border border-[var(--color-border)] text-xs font-bold transition-all interactive-tap"
+                  className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full bg-[var(--color-surface)] hover:bg-[var(--color-accent)] text-[var(--color-text)] hover:text-[var(--color-on-accent)] border border-[var(--color-border)] text-xs font-bold transition-all interactive-tap"
                   aria-label={`Abrir sitio de ${herramienta.nombre}`}
                 >
                   Probar ↗

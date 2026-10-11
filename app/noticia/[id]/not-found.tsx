@@ -15,7 +15,7 @@ export default function NoticiaNoEncontrada() {
         </p>
         <Link
           href="/"
-          className="inline-flex items-center gap-2 px-6 py-3 bg-[var(--color-accent)] text-white text-sm font-bold rounded-full hover:scale-[1.02] transition-all duration-150 interactive-tap shadow-xs"
+          className="inline-flex items-center gap-2 px-6 py-3 bg-[var(--color-accent)] text-[var(--color-on-accent)] text-sm font-bold rounded-full hover:scale-[1.02] transition-all duration-150 interactive-tap shadow-xs"
         >
           ← Volver a DiarioIA
         </Link>

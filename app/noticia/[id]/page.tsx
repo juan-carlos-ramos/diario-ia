@@ -223,7 +223,7 @@ export default async function PaginaDetalle({ params }: Props) {
               href={noticia.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-2.5 px-7 py-3.5 bg-[var(--color-accent)] text-white text-sm font-black rounded-full transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] focus:ring-offset-2 interactive-tap shadow-[0_4px_16px_oklch(54%_0.17_50_/_20%)] hover:scale-[1.02]"
+              className="inline-flex items-center justify-center gap-2.5 px-7 py-3.5 bg-[var(--color-accent)] text-[var(--color-on-accent)] text-sm font-black rounded-full transition-all duration-150 focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] focus:ring-offset-2 interactive-tap shadow-[0_4px_16px_oklch(54%_0.17_50_/_20%)] hover:scale-[1.02]"
               aria-label={`Leer artículo completo en ${noticia.fuente}`}
             >
               Leer artículo completo en {noticia.fuente} →

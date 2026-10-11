@@ -95,7 +95,7 @@ export default function AvisoActualizacion() {
                 activacionPedida.current = true;
                 serwist?.messageSkipWaiting();
               }}
-              className="interactive-tap inline-flex items-center rounded-full bg-[var(--color-accent)] px-4 py-2 text-xs font-bold tracking-wide text-[var(--color-bg)] transition-[filter,transform] duration-150 hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-accent)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--color-card)]"
+              className="interactive-tap inline-flex items-center rounded-full bg-[var(--color-accent)] px-4 py-2 text-xs font-bold tracking-wide text-[var(--color-on-accent)] transition-[filter,transform] duration-150 hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-accent)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--color-card)]"
             >
               Actualizar ahora
             </button>

@@ -55,7 +55,7 @@ export default function HerramientaDelDia({ herramienta }: Props) {
           href={herramienta.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center justify-center gap-2 px-6 py-2.5 rounded-full bg-[var(--color-accent)] text-white text-xs font-black tracking-wide transition-all hover:scale-[1.02] shadow-[0_4px_16px_oklch(54%_0.17_50_/_25%)] interactive-tap order-1 sm:order-2"
+          className="inline-flex items-center justify-center gap-2 px-6 py-2.5 rounded-full bg-[var(--color-accent)] text-[var(--color-on-accent)] text-xs font-black tracking-wide transition-all hover:scale-[1.02] shadow-[0_4px_16px_oklch(54%_0.17_50_/_25%)] interactive-tap order-1 sm:order-2"
           aria-label={`Probar herramienta ${herramienta.nombre}`}
         >
           <span>Probar {herramienta.nombre}</span>
