@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useFavoritos } from "@/lib/favoritos";
+import BotonInstalar from "./BotonInstalar";
 import BotonTema from "./BotonTema";
 
 export default function Header() {
@@ -30,6 +31,9 @@ export default function Header() {
         <div className="flex items-center gap-2 sm:gap-3">
           {/* Botón Selector de Modo Claro/Oscuro */}
           <BotonTema />
+
+          {/* Botón "Instalar DiarioIA" (PWA) — solo aparece si es instalable */}
+          <BotonInstalar />
 
           {/* Botón Buscador Cmd+K (Desktop) */}
           <button

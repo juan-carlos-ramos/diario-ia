@@ -1,30 +1,24 @@
 "use client";
 import { useState, useEffect } from "react";
 
+import { aplicarTemaAlDOM, leerTema } from "@/lib/tema";
+
 export default function BotonTema() {
   const [montado, setMontado] = useState(false);
   const [temaOscuro, setTemaOscuro] = useState(false);
 
   useEffect(() => {
-    const oscuro = localStorage.getItem("diarioia_tema") === "dark";
+    const oscuro = leerTema() === "dark";
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setTemaOscuro(oscuro);
-    // eslint-disable-next-line react-hooks/set-state-in-effect
     setMontado(true);
   }, []);
 
   const alternarTema = () => {
     const nuevoEstado = !temaOscuro;
     setTemaOscuro(nuevoEstado);
-    if (nuevoEstado) {
-      document.documentElement.classList.add("dark");
-      document.documentElement.setAttribute("data-theme", "dark");
-      localStorage.setItem("diarioia_tema", "dark");
-    } else {
-      document.documentElement.classList.remove("dark");
-      document.documentElement.setAttribute("data-theme", "light");
-      localStorage.setItem("diarioia_tema", "light");
-    }
+    // Aplica clase .dark, data-theme, localStorage Y sincroniza <meta theme-color>.
+    aplicarTemaAlDOM(nuevoEstado ? "dark" : "light");
   };
 
   return (

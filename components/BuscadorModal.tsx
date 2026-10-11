@@ -92,6 +92,17 @@ export default function BuscadorModal() {
     };
   }, [abierto, abrirModal, cerrarModal]);
 
+  // Atajo del manifiesto PWA: "/#buscar" abre el buscador global al aterrizar.
+  useEffect(() => {
+    if (window.location.hash === "#buscar") {
+      // Reutiliza el mecanismo existente (evento global) en lugar de mutar estado
+      // directamente dentro del efecto (evita renders en cascada).
+      window.dispatchEvent(new Event("diarioia_abrir_buscador"));
+      // Limpia el hash para no reabrir en navegaciones posteriores dentro de la app.
+      window.history.replaceState(null, "", window.location.pathname + window.location.search);
+    }
+  }, []);
+
   // Filtrar resultados de forma minimalista solo cuando el usuario escribe
   const resultados: ResultadoBusqueda[] = useMemo(() => {
     if (!query.trim()) {

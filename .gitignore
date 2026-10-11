@@ -50,6 +50,7 @@ yarn-error.log*
 next-env.d.ts
 
 # AI context & clean root policy
+.agentignore
 AI_CONTEXT.md
 CONTEXTO_PROYECTO.md
 AGENTS.md

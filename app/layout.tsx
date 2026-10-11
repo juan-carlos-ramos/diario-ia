@@ -21,10 +21,18 @@ const sansFont = Plus_Jakarta_Sans({
 });
 
 export const viewport: Viewport = {
-  themeColor: "#F6F4EE",
+  // Color de la barra del sistema por defecto (el script theme-bootstrap lo
+  // sobreescribe con el tema REAL del usuario, que es manual).
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#F7F4EF" },
+    { media: "(prefers-color-scheme: dark)", color: "#0C0705" },
+  ],
   width: "device-width",
   initialScale: 1,
   maximumScale: 5,
+  // Activa los márgenes de seguridad (env(safe-area-inset-*)) del notch en modo standalone.
+  viewportFit: "cover",
+  colorScheme: "light dark",
 };
 
 export const metadata: Metadata = {
@@ -76,7 +84,7 @@ export default function RootLayout({
           id="theme-bootstrap"
           strategy="beforeInteractive"
           dangerouslySetInnerHTML={{
-            __html: `(function(){try{var t=localStorage.getItem("diarioia_tema");if(t==="dark"){document.documentElement.classList.add("dark");document.documentElement.setAttribute("data-theme","dark");}else{document.documentElement.setAttribute("data-theme","light");}}catch(e){}})();`,
+            __html: `(function(){try{var t=localStorage.getItem("diarioia_tema"),dark=t==="dark",root=document.documentElement;if(dark){root.classList.add("dark");root.setAttribute("data-theme","dark");}else{root.classList.remove("dark");root.setAttribute("data-theme","light");}var color=dark?"#0C0705":"#F7F4EF";var sync=function(){var metas=document.querySelectorAll('meta[name="theme-color"]');if(!metas.length){var m=document.createElement("meta");m.setAttribute("name","theme-color");m.setAttribute("content",color);document.head.appendChild(m);return;}for(var i=0;i<metas.length;i++){metas[i].removeAttribute("media");metas[i].setAttribute("content",color);}};sync();if(document.readyState==="loading"){document.addEventListener("DOMContentLoaded",sync);}}catch(e){}})();`,
           }}
         />
         <BuscadorModal />
