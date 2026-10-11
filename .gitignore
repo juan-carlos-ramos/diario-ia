@@ -29,6 +29,9 @@ dist/
 *.sqlite
 *.sql
 
+# backups (respaldos locales con marca temporal, ej. archivo.ts.bak-20261011-185538)
+*.bak-*
+
 # debug
 npm-debug.log*
 yarn-debug.log*
