@@ -1,11 +1,16 @@
+import { SerwistProvider } from "@serwist/turbopack/react";
+import { Analytics } from "@vercel/analytics/react";
 import type { Metadata, Viewport } from "next";
 import { Newsreader, Plus_Jakarta_Sans } from "next/font/google";
-import { Analytics } from "@vercel/analytics/react";
 import Script from "next/script";
-import "./globals.css";
+import { Suspense } from "react";
+
+import AvisoActualizacion from "@/components/AvisoActualizacion";
 import BottomNav from "@/components/BottomNav";
 import BuscadorModal from "@/components/BuscadorModal";
-import { Suspense } from "react";
+import CachearGuardadosOffline from "@/components/CachearGuardadosOffline";
+
+import "./globals.css";
 
 const serifFont = Newsreader({
   subsets: ["latin"],
@@ -87,11 +92,16 @@ export default function RootLayout({
             __html: `(function(){try{var t=localStorage.getItem("diarioia_tema"),dark=t==="dark",root=document.documentElement;if(dark){root.classList.add("dark");root.setAttribute("data-theme","dark");}else{root.classList.remove("dark");root.setAttribute("data-theme","light");}var color=dark?"#0C0705":"#F7F4EF";var sync=function(){var metas=document.querySelectorAll('meta[name="theme-color"]');if(!metas.length){var m=document.createElement("meta");m.setAttribute("name","theme-color");m.setAttribute("content",color);document.head.appendChild(m);return;}for(var i=0;i<metas.length;i++){metas[i].removeAttribute("media");metas[i].setAttribute("content",color);}};sync();if(document.readyState==="loading"){document.addEventListener("DOMContentLoaded",sync);}}catch(e){}})();`,
           }}
         />
-        <BuscadorModal />
-        {children}
-        <Suspense fallback={null}>
-          <BottomNav />
-        </Suspense>
+        <SerwistProvider swUrl="/serwist/sw.js" options={{ updateViaCache: "none" }}>
+          <BuscadorModal />
+          {children}
+          <Suspense fallback={null}>
+            <BottomNav />
+          </Suspense>
+          {/* Infraestructura offline: ¿hay versión nueva del SW? y precarga de guardados */}
+          <AvisoActualizacion />
+          <CachearGuardadosOffline />
+        </SerwistProvider>
         <Analytics />
       </body>
     </html>
