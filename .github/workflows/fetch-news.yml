@@ -2,9 +2,14 @@ name: Obtener noticias de IA cada 24 horas
 
 on:
   schedule:
-    # Se ejecuta todos los días a las 10:15 AM UTC (6:15 AM hora Venezuela/Atlántico UTC-4)
-    # Se usa el minuto :15 para evitar congestión en la cola compartida de GitHub Actions
-    - cron: "15 10 * * *"
+    # Disparo principal: 05:23 AM UTC (01:23 AM hora Venezuela/Atlántico UTC-4).
+    # Absorbe las 4 a 5 horas de demora habitual de la cola compartida de GitHub Actions,
+    # garantizando que las noticias se publiquen entre las 05:30 y las 06:30 AM local (siempre antes de las 7:00 AM).
+    # Se utiliza el minuto no estándar :23 para evitar las horas pico congestionadas (:00, :15, :30, :45).
+    - cron: "23 5 * * *"
+    # Disparo de contingencia anti-starvation: 08:37 AM UTC (04:37 AM hora Venezuela/Atlántico UTC-4).
+    # Respaldo por si GitHub Actions omite o retrasa severamente el primer turno en días pico.
+    - cron: "37 8 * * *"
   # Permite ejecutarlo manualmente desde GitHub cuando quieras
   workflow_dispatch:
 
@@ -58,9 +63,9 @@ jobs:
           FECHA_HOY=$(date +'%Y-%m-%d')
           URL="https://diario-ia.vercel.app"
           
-          # Esperar hasta 180 segundos (18 intentos cada 10s) para que Vercel termine de compilar la nueva edición
+          # Esperar hasta 300 segundos (30 intentos cada 10s) para que Vercel termine de compilar la nueva edición
           DESPLEGADO=false
-          for i in {1..18}; do
+          for i in {1..30}; do
             sleep 10
             echo "Verificación #$i: Comprobando si $URL ya sirve la edición de $FECHA_HOY..."
             if curl -sL "$URL" | grep -q "$FECHA_HOY"; then
@@ -81,4 +86,14 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
+
+      - name: 5. Actualizar registro de noticias enviadas a Telegram en el repositorio
+        if: steps.git_push.outputs.pushed == 'true'
+        run: |
+          git add data/telegram-enviados.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: actualizar registro de enviados a telegram $(date +'%Y-%m-%d')"
+            git pull --rebase origin main || true
+            git push
+          fi
 
