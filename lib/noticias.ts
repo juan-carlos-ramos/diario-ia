@@ -17,6 +17,13 @@ export interface Noticia {
   porQueImporta?: string;
   tags?: string[];
   tiempoLecturaMin?: number;
+  /**
+   * Indica si la noticia fue enriquecida por IA real (Gemini).
+   * `true` = síntesis generada por IA; `false` = fallback local (viñetas
+   * derivadas del resumen sin llamada a API). La UI puede usarlo para
+   * señalizar la procedencia del análisis.
+   */
+  enriquecidoConIA?: boolean;
 }
 
 /**
@@ -33,6 +40,8 @@ export interface ArchivoNoticias {
   fecha: string;
   generado: string;
   total: number;
+  /** Número de noticias del archivo que fueron enriquecidas por IA real. */
+  enriquecidasConIA?: number;
   noticias: Noticia[];
 }
 

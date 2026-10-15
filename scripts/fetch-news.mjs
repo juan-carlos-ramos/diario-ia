@@ -5,6 +5,13 @@ import Parser from "rss-parser";
 import { v4 as uuidv4 } from "uuid";
 import fs from "fs";
 import path from "path";
+import { fileURLToPath } from "url";
+
+// Se ejecuta main() SOLO si el script se invoca directamente (node scripts/fetch-news.mjs).
+// Permite importarlo en pruebas sin disparar llamadas reales ni escrituras.
+const esEjecucionDirecta =
+  !!process.argv[1] &&
+  path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
 
 const parser = new Parser({
   headers: {
@@ -277,16 +284,180 @@ async function guardarNoticias(noticias) {
     fs.mkdirSync(carpeta, { recursive: true });
   }
 
+  const enriquecidasConIA = noticias.filter(
+    (n) => n.enriquecidoConIA === true,
+  ).length;
+
   const contenido = {
     fecha: hoy,
     generado: new Date().toISOString(),
     total: noticias.length,
+    enriquecidasConIA,
     noticias,
   };
 
   fs.writeFileSync(archivo, JSON.stringify(contenido, null, 2), "utf-8");
-  console.log(`✅ ${noticias.length} noticias guardadas en ${archivo}`);
+  console.log(
+    `✅ ${noticias.length} noticias guardadas en ${archivo} (${enriquecidasConIA} con IA).`,
+  );
   return noticias;
+}
+
+// Regex de fecha válida. Mismo contrato anti path-traversal que usa lib/noticias.ts
+// (leerArchivoPorFecha). Evita que un valor como "../../etc/passwd" escape la carpeta.
+const RE_FECHA_VALIDA = /^\d{4}-\d{2}-\d{2}$/;
+
+// Plantillas de `porQueImporta` genéricas que delatan un enriquecimiento NO editorial.
+// Provienen del default del camino IA y del texto del fallback local (enriquecerFallback).
+const RE_PORQUE_GENERICO =
+  /^(Novedad relevante( en el sector de la inteligencia artificial)? reportada por .+\.|«.+» según .+: análisis en profundidad pendiente de síntesis editorial\.)$/;
+
+// Detecta si una noticia quedó sin enriquecimiento editorial real (cayó al fallback)
+// por cualquiera de sus huellas: flag explícito, ausencia o texto genérico.
+function esEnriquecimientoGenerico(noticia) {
+  if (!noticia || typeof noticia !== "object") return false;
+  if (noticia.enriquecidoConIA === false) return true;
+  const porQue = (noticia.porQueImporta || "").trim();
+  if (!porQue) return true;
+  return RE_PORQUE_GENERICO.test(porQue);
+}
+
+// Fusiona la noticia original con el resultado del enriquecimiento reemplazando
+// ÚNICAMENTE los campos derivados. Preserva intacto id/titulo/resumen/url/imagen/
+// fuente/categoria/fechaPublicacion/fechaAgregada (y cualquier otro campo no derivado).
+function fusionarEnriquecimiento(original, enriquecida) {
+  return {
+    ...original,
+    puntosClave: enriquecida.puntosClave,
+    porQueImporta: enriquecida.porQueImporta,
+    tags: enriquecida.tags,
+    tiempoLecturaMin: enriquecida.tiempoLecturaMin,
+    enriquecidoConIA: enriquecida.enriquecidoConIA,
+  };
+}
+
+// Re-enriquece ediciones PASADAS ya guardadas en data/noticias/<fecha>.json.
+// No descarga RSS: reutiliza el motor existente (enriquecerNoticias → mismo pacing
+// de 4.5s y mismo resumen de observabilidad `🧠 IA: X/Y`).
+// - dryRun: solo planifica y reporta (no llama a la API, no escribe, no exige clave).
+// - Escritura atómica: temporal `<fecha>.json.tmp` + rename (nunca deja JSON a medias).
+// Devuelve true si todo fue correcto.
+async function reenriquecerEdiciones(fechas, { dryRun = false } = {}) {
+  const carpeta = path.join(process.cwd(), "data", "noticias");
+
+  // 1) Validación estricta de fechas (anti path-traversal)
+  const fechasValidas = [];
+  for (const fechaRaw of fechas) {
+    const fecha = (fechaRaw || "").trim();
+    if (!RE_FECHA_VALIDA.test(fecha)) {
+      console.error(
+        `❌ Fecha inválida «${fechaRaw}». Formato requerido: YYYY-MM-DD.`,
+      );
+      continue;
+    }
+    fechasValidas.push(fecha);
+  }
+  if (fechasValidas.length === 0) {
+    console.error("❌ No hay fechas válidas para re-enriquecer.");
+    return false;
+  }
+
+  // 2) Guard de clave: re-enriquecer EXIGE IA real. Sin clave no tiene sentido:
+  //    caer en silencio al fallback fabricaría una falsa apariencia de mejora.
+  const apiKey = (process.env.GEMINI_API_KEY || "").trim();
+  if (!dryRun && !apiKey) {
+    console.error("❌ GEMINI_API_KEY no está configurada.");
+    console.error(
+      "   Re-enriquecer exige IA real: sin clave el proceso no aporta valor y se rechaza.",
+    );
+    console.error(
+      "   Define GEMINI_API_KEY o usa --dry-run para ver el plan sin llamar a la API.",
+    );
+    return false;
+  }
+
+  let huboErrores = false;
+
+  for (const fecha of fechasValidas) {
+    const archivo = path.join(carpeta, `${fecha}.json`);
+    if (!fs.existsSync(archivo)) {
+      console.warn(`⚠️ No existe ${archivo}. Se omite.`);
+      huboErrores = true;
+      continue;
+    }
+
+    let contenido;
+    try {
+      contenido = JSON.parse(fs.readFileSync(archivo, "utf-8"));
+    } catch (e) {
+      console.error(`❌ JSON ilegible en ${archivo}: ${e.message}. Se omite.`);
+      huboErrores = true;
+      continue;
+    }
+
+    const noticias = Array.isArray(contenido.noticias) ? contenido.noticias : [];
+    const enFallback = noticias.filter(esEnriquecimientoGenerico).length;
+
+    if (dryRun) {
+      console.log(
+        `🧪 [DRY-RUN] ${fecha}: ${noticias.length} noticias, ${enFallback} en fallback → se re-enriquecerían ${noticias.length}.`,
+      );
+      continue;
+    }
+
+    if (noticias.length === 0) {
+      console.warn(`⚠️ ${fecha}: sin noticias para re-enriquecer. Se omite.`);
+      continue;
+    }
+
+    console.log(
+      `♻️ Re-enriqueciendo ${fecha}: ${noticias.length} noticias (${enFallback} en fallback).`,
+    );
+    // Reutiliza el motor y su pacing/observabilidad. NO duplicamos lógica de IA.
+    const enriquecidas = await enriquecerNoticias(noticias);
+
+    const noticiasFinales = noticias.map((original, i) =>
+      fusionarEnriquecimiento(original, enriquecidas[i] ?? original),
+    );
+
+    const enriquecidasConIA = noticiasFinales.filter(
+      (n) => n.enriquecidoConIA === true,
+    ).length;
+
+    const salida = {
+      ...contenido,
+      fecha,
+      generado: new Date().toISOString(),
+      total: noticiasFinales.length,
+      enriquecidasConIA,
+      noticias: noticiasFinales,
+    };
+
+    // Escritura atómica: primero el temporal, luego rename (no corrompe el JSON).
+    const tmp = `${archivo}.tmp`;
+    try {
+      fs.writeFileSync(tmp, JSON.stringify(salida, null, 2), "utf-8");
+      fs.renameSync(tmp, archivo);
+      console.log(
+        `✅ ${fecha} actualizada: ${enriquecidasConIA}/${noticiasFinales.length} con IA.`,
+      );
+    } catch (e) {
+      console.error(`❌ Error escribiendo ${archivo}: ${e.message}`);
+      try {
+        if (fs.existsSync(tmp)) fs.unlinkSync(tmp);
+      } catch {
+        /* limpieza best-effort */
+      }
+      huboErrores = true;
+    }
+  }
+
+  if (dryRun) {
+    console.log(
+      "🧪 DRY-RUN completado. No se llamó a la API ni se escribió ningún archivo.",
+    );
+  }
+  return !huboErrores;
 }
 
 // Ruta del archivo que registra los IDs ya enviados a Telegram
@@ -405,28 +576,87 @@ function extraerJSONValido(texto) {
   }
 }
 
+// Deriva LOCALMENTE hasta 3 viñetas cortas a partir de las oraciones del resumen.
+// Garantiza que el resultado NUNCA sea idéntico al resumen completo (contrato de UI).
+function derivarPuntosClaveLocales(resumen) {
+  const texto = (resumen || "").replace(/\s+/g, " ").trim();
+  if (!texto) return [];
+
+  const recortar = (s) =>
+    s.length > 140 ? s.slice(0, 139).trimEnd() + "…" : s;
+
+  let fragmentos = texto
+    .split(/(?<=[.!?…])\s+/)
+    .map((f) => f.trim())
+    .filter(Boolean);
+
+  // Si todo el resumen es una única oración, subdividir por pausas internas
+  if (fragmentos.length === 1) {
+    const porPausas = fragmentos[0]
+      .split(/[,;:]\s+/)
+      .map((f) => f.trim())
+      .filter((f) => f.length > 12);
+    if (porPausas.length > 1) fragmentos = porPausas;
+  }
+
+  let puntos = fragmentos.slice(0, 3).map(recortar);
+
+  // Garantía dura: jamás devolver un único punto idéntico al resumen completo
+  if (puntos.length === 1 && puntos[0] === texto) {
+    const recortado = recortar(texto.slice(0, 120));
+    puntos = [recortado === texto ? texto.slice(0, 120).trimEnd() + "…" : recortado];
+  }
+
+  return puntos.filter(Boolean);
+}
+
 // Fallback de enriquecimiento local sin llamada a API
 function enriquecerFallback(noticia) {
   const palabras = (noticia.resumen || "").split(/\s+/).length;
   const tiempoLecturaMin = Math.max(1, Math.ceil(palabras / 200));
   const tags = generarTagsLocales(noticia.titulo, noticia.resumen);
+  const puntosClave = derivarPuntosClaveLocales(noticia.resumen);
+  const tituloCorto = (noticia.titulo || "").slice(0, 80);
 
   return {
     ...noticia,
-    puntosClave: [noticia.resumen],
-    porQueImporta: `Novedad relevante en el sector de la inteligencia artificial reportada por ${noticia.fuente}.`,
+    puntosClave:
+      puntosClave.length > 0 ? puntosClave : [noticia.titulo.trim()],
+    porQueImporta:
+      `«${tituloCorto}» según ${noticia.fuente}: análisis en profundidad ` +
+      `pendiente de síntesis editorial.`,
     tags,
     tiempoLecturaMin,
+    enriquecidoConIA: false,
   };
 }
 
-// Modelos activos y rápidos de Gemini
+// Modelos vivos de Gemini. 3.8 es el principal (GA); 3.6 el fallback real.
+// NO incluir 3.5: está deprecado y enruta en silencio a 3.6 (falso fallback).
 const MODELOS_GEMINI = [
-  "gemini-3.5-flash",
+  "gemini-3.8-flash",
   "gemini-3.6-flash",
 ];
 
-// Enriquecer una noticia individual con Google Gemini Flash
+// Intentos máximos por modelo ante errores transitorios (429 / 5xx / red)
+const MAX_INTENTOS_MODELO = 4;
+
+// Calcula la espera de backoff exponencial respetando el header Retry-After.
+// 429/5xx → 2s, 4s, 8s, 16s (tope 30s). Retry-After tiene prioridad si existe.
+function calcularEsperaBackoff(res, intento) {
+  const retryAfter = res?.headers?.get?.("retry-after");
+  if (retryAfter) {
+    const segundos = Number.parseInt(retryAfter, 10);
+    if (Number.isFinite(segundos) && segundos > 0) {
+      return Math.min(segundos, 60) * 1000;
+    }
+  }
+  const base = 2000;
+  return Math.min(base * 2 ** (intento - 1), 30000);
+}
+
+// Enriquecer una noticia individual con Google Gemini Flash.
+// Devuelve la noticia con `enriquecidoConIA: true` en éxito o el fallback local.
 async function enriquecerConGemini(noticia, rawApiKey) {
   const apiKey = (rawApiKey || "").trim();
   if (!apiKey) return enriquecerFallback(noticia);
@@ -455,14 +685,21 @@ Responde ÚNICAMENTE con este JSON:
   "tags": ["Tag1", "Tag2"]
 }`;
 
+  // La clave viaja SIEMPRE en el header, nunca en la URL (evita filtrarla en logs)
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/PLACEHOLDER:generateContent`;
+
   for (const modelo of MODELOS_GEMINI) {
-    for (let intento = 1; intento <= 2; intento++) {
+    const endpoint = url.replace("PLACEHOLDER", modelo);
+    let motivoSalto = "agotó sus intentos";
+
+    for (let intento = 1; intento <= MAX_INTENTOS_MODELO; intento++) {
+      let res;
       try {
-        const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelo}:generateContent?key=${apiKey}`;
-        const res = await fetchWithTimeout(url, {
+        res = await fetchWithTimeout(endpoint, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
+            "x-goog-api-key": apiKey,
           },
           body: JSON.stringify({
             contents: [{ parts: [{ text: prompt }] }],
@@ -474,46 +711,122 @@ Responde ÚNICAMENTE con este JSON:
           }),
           timeout: 25000,
         });
-
-        if (res.status === 429) {
-          console.warn(`⏳ Rate limit en ${modelo} (intento ${intento}). Esperando 6s para reintentar...`);
-          await new Promise((r) => setTimeout(r, 6000));
-          continue;
-        }
-
-        if (!res.ok) {
-          const errBody = await res.text().catch(() => "");
-          console.warn(`⚠️ Modelo ${modelo} retornó error (${res.status}): ${errBody.slice(0, 100)}`);
-          break;
-        }
-
-        const data = await res.json();
-        const candidateText = data?.candidates?.[0]?.content?.parts?.[0]?.text;
-        if (!candidateText) break;
-
-        const parsed = extraerJSONValido(candidateText);
-        if (!parsed) break;
-
-        const palabras = (noticia.resumen || "").split(/\s+/).length;
-
-        return {
-          ...noticia,
-          puntosClave: Array.isArray(parsed.puntosClave) && parsed.puntosClave.length > 0
-            ? parsed.puntosClave
-            : [noticia.resumen],
-          porQueImporta: parsed.porQueImporta || `Novedad relevante reportada por ${noticia.fuente}.`,
-          tags: Array.isArray(parsed.tags) && parsed.tags.length > 0
-            ? parsed.tags
-            : generarTagsLocales(noticia.titulo, noticia.resumen),
-          tiempoLecturaMin: Math.max(1, Math.ceil(palabras / 200)),
-        };
       } catch (err) {
-        console.warn(`⚠️ Error conectando a ${modelo}:`, err.message);
+        // Timeout / error de red → reintentar; si se agotan, saltar al siguiente modelo
+        console.warn(
+          `⚠️ ${modelo} (intento ${intento}/${MAX_INTENTOS_MODELO}) error de red/timeout: ${err.message}`,
+        );
+        motivoSalto = "error de red persistente";
+        if (intento < MAX_INTENTOS_MODELO) {
+          await new Promise((r) =>
+            setTimeout(r, calcularEsperaBackoff(null, intento)),
+          );
+        }
+        continue;
+      }
+
+      // 404 / modelo apagado → NO reintentar; saltar al siguiente modelo del array
+      if (res.status === 404) {
+        const errBody = await res.text().catch(() => "");
+        console.warn(
+          `🛑 ${modelo} no disponible (404 model_not_found). Siguiente modelo. ${errBody.slice(0, 120)}`,
+        );
+        motivoSalto = "modelo no encontrado (404)";
         break;
       }
+
+      // 429 / rate limit → backoff exponencial real, respetando Retry-After
+      if (res.status === 429) {
+        const espera = calcularEsperaBackoff(res, intento);
+        console.warn(
+          `⏳ ${modelo} rate limit 429 (intento ${intento}/${MAX_INTENTOS_MODELO}). Esperando ${(espera / 1000).toFixed(1)}s...`,
+        );
+        motivoSalto = "rate limit 429 persistente";
+        if (intento < MAX_INTENTOS_MODELO) {
+          await new Promise((r) => setTimeout(r, espera));
+        }
+        continue;
+      }
+
+      // 5xx → reintentar con backoff
+      if (res.status >= 500) {
+        const espera = calcularEsperaBackoff(res, intento);
+        console.warn(
+          `🔥 ${modelo} error servidor ${res.status} (intento ${intento}/${MAX_INTENTOS_MODELO}). Reintentando en ${(espera / 1000).toFixed(1)}s...`,
+        );
+        motivoSalto = `error servidor ${res.status} persistente`;
+        if (intento < MAX_INTENTOS_MODELO) {
+          await new Promise((r) => setTimeout(r, espera));
+        }
+        continue;
+      }
+
+      // Otros 4xx (p. ej. 400 por config inválida) → saltar al siguiente modelo
+      if (!res.ok) {
+        const errBody = await res.text().catch(() => "");
+        console.warn(
+          `⚠️ ${modelo} retornó HTTP ${res.status}. Siguiente modelo. ${errBody.slice(0, 120)}`,
+        );
+        motivoSalto = `HTTP ${res.status}`;
+        break;
+      }
+
+      // 200 → intentar extraer JSON válido
+      let data;
+      try {
+        data = await res.json();
+      } catch (jsonErr) {
+        console.warn(
+          `⚠️ ${modelo} respuesta 200 con JSON ilegible: ${jsonErr.message}. Siguiente modelo.`,
+        );
+        motivoSalto = "JSON de respuesta ilegible";
+        break;
+      }
+
+      const candidateText = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+      if (!candidateText || !candidateText.trim()) {
+        console.warn(
+          `⚠️ ${modelo} respuesta 200 sin contenido utilizable. Siguiente modelo.`,
+        );
+        motivoSalto = "respuesta vacía";
+        break;
+      }
+
+      const parsed = extraerJSONValido(candidateText);
+      if (!parsed) {
+        console.warn(
+          `⚠️ ${modelo} JSON irrecuperable en la respuesta. Siguiente modelo.`,
+        );
+        motivoSalto = "JSON irrecuperable";
+        break;
+      }
+
+      const palabras = (noticia.resumen || "").split(/\s+/).length;
+      const puntosIA =
+        Array.isArray(parsed.puntosClave) && parsed.puntosClave.length > 0
+          ? parsed.puntosClave
+          : derivarPuntosClaveLocales(noticia.resumen);
+
+      return {
+        ...noticia,
+        puntosClave: puntosIA,
+        porQueImporta:
+          parsed.porQueImporta || `Novedad relevante reportada por ${noticia.fuente}.`,
+        tags:
+          Array.isArray(parsed.tags) && parsed.tags.length > 0
+            ? parsed.tags
+            : generarTagsLocales(noticia.titulo, noticia.resumen),
+        tiempoLecturaMin: Math.max(1, Math.ceil(palabras / 200)),
+        enriquecidoConIA: true,
+      };
     }
+
+    console.warn(`➡️ Descartando ${modelo}: ${motivoSalto}.`);
   }
 
+  console.warn(
+    `🆘 Todos los modelos fallaron para «${noticia.titulo.slice(0, 45)}…». Aplicando fallback local.`,
+  );
   return enriquecerFallback(noticia);
 }
 
@@ -524,7 +837,11 @@ async function enriquecerNoticias(noticias) {
 
   if (!apiKey) {
     console.log("ℹ️ GEMINI_API_KEY no configurada. Aplicando enriquecimiento algorítmico local.");
-    return noticias.map(enriquecerFallback);
+    const locales = noticias.map(enriquecerFallback);
+    console.log(
+      `🧠 IA: 0/${locales.length} noticias enriquecidas; ${locales.length} cayeron al fallback (sin API key).`,
+    );
+    return locales;
   }
 
   console.log(`🧠 GEMINI_API_KEY detectada. Enriqueciendo ${noticias.length} noticias con espaciado de 4.5s...`);
@@ -541,7 +858,11 @@ async function enriquecerNoticias(noticias) {
     }
   }
 
-  console.log(`✅ ${enriquecidas.length} noticias procesadas con éxito.`);
+  const conIA = enriquecidas.filter((n) => n.enriquecidoConIA === true).length;
+  const fallback = enriquecidas.length - conIA;
+  console.log(
+    `🧠 IA: ${conIA}/${enriquecidas.length} noticias enriquecidas; ${fallback} cayeron al fallback.`,
+  );
   return enriquecidas;
 }
 
@@ -736,6 +1057,33 @@ async function main() {
   const args = process.argv.slice(2);
   const soloFetch = args.includes("--fetch-only");
   const soloTelegram = args.includes("--telegram-only");
+  const dryRun = args.includes("--dry-run");
+  const idxReenriquecer = args.indexOf("--reenriquecer");
+
+  // Modo re-enriquecimiento de ediciones PASADAS (tiene precedencia sobre fetch/telegram).
+  if (idxReenriquecer !== -1) {
+    const valor = (args[idxReenriquecer + 1] || "").trim();
+    if (!valor || valor.startsWith("--")) {
+      console.error(
+        "❌ Falta el argumento de fechas: --reenriquecer <YYYY-MM-DD>[,<YYYY-MM-DD>...]",
+      );
+      process.exit(1);
+    }
+    const fechas = valor
+      .split(",")
+      .map((f) => f.trim())
+      .filter(Boolean);
+    console.log(
+      `♻️ Modo re-enriquecimiento${dryRun ? " (dry-run)" : ""}: ${fechas.join(", ")}`,
+    );
+    const ok = await reenriquecerEdiciones(fechas, { dryRun });
+    console.log(
+      ok
+        ? "🎉 Re-enriquecimiento finalizado con éxito."
+        : "⚠️ Re-enriquecimiento finalizado con incidencias.",
+    );
+    process.exit(ok ? 0 : 1);
+  }
 
   if (soloTelegram) {
     console.log("📨 Modo Telegram únicamente: cargando noticias existentes para notificar...");
@@ -763,9 +1111,24 @@ async function main() {
   process.exit(0);
 }
 
-main().catch((err) => {
-  console.error("Error fatal en script de noticias:", err);
-  process.exit(1);
-});
+if (esEjecucionDirecta) {
+  main().catch((err) => {
+    console.error("Error fatal en script de noticias:", err);
+    process.exit(1);
+  });
+}
+
+// Exports para pruebas aisladas (no disparan main ni llamadas reales a la API)
+export {
+  derivarPuntosClaveLocales,
+  enriquecerFallback,
+  calcularEsperaBackoff,
+  MODELOS_GEMINI,
+  MAX_INTENTOS_MODELO,
+  esEnriquecimientoGenerico,
+  fusionarEnriquecimiento,
+  reenriquecerEdiciones,
+  RE_FECHA_VALIDA,
+};
 
 
