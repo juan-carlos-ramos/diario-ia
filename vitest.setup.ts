@@ -1,4 +1,10 @@
 import "@testing-library/jest-dom";
+import { AsyncLocalStorage } from "node:async_hooks";
+
+// Polyfill de AsyncLocalStorage para módulos de servidor Next.js en entorno jsdom
+if (typeof globalThis.AsyncLocalStorage === "undefined") {
+  globalThis.AsyncLocalStorage = AsyncLocalStorage;
+}
 
 // Mock de localStorage para entorno jsdom / Node 22+
 const store: Record<string, string> = {};
@@ -21,8 +27,9 @@ const localStorageMock = {
   },
 };
 
-Object.defineProperty(window, "localStorage", {
-  value: localStorageMock,
-  writable: true,
-});
-
+if (typeof window !== "undefined") {
+  Object.defineProperty(window, "localStorage", {
+    value: localStorageMock,
+    writable: true,
+  });
+}

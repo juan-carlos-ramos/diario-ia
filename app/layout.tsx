@@ -6,6 +6,7 @@ import Script from "next/script";
 import { Suspense } from "react";
 
 import AvisoActualizacion from "@/components/AvisoActualizacion";
+import BannerInstalarPWA from "@/components/BannerInstalarPWA";
 import BottomNav from "@/components/BottomNav";
 import BuscadorModal from "@/components/BuscadorModal";
 import CachearGuardadosOffline from "@/components/CachearGuardadosOffline";
@@ -98,6 +99,8 @@ export default function RootLayout({
           <Suspense fallback={null}>
             <BottomNav />
           </Suspense>
+          {/* Banner flotante de instalación PWA */}
+          <BannerInstalarPWA />
           {/* Infraestructura offline: ¿hay versión nueva del SW? y precarga de guardados */}
           <AvisoActualizacion />
           <CachearGuardadosOffline />

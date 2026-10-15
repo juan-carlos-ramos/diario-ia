@@ -1,27 +1,69 @@
 import { NextResponse } from "next/server";
-import { obtenerNoticiasDeHoy, listarFechasDisponibles, leerArchivoPorFecha } from "@/lib/noticias";
+import {
+  listarFechasDisponibles,
+  leerArchivoPorFecha,
+  obtenerNoticiasDeHoy,
+} from "@/lib/noticias";
+import type { Noticia } from "@/lib/noticias";
 import { obtenerTodasHerramientas } from "@/lib/herramientas";
+import type { HerramientaIA } from "@/lib/herramientas";
 
+export const revalidate = 3600;
+
+/**
+ * Route handler GET /api/buscar
+ *
+ * Alimenta al componente BuscadorModal (Cmd+K) con el catálogo completo
+ * de herramientas de IA y las noticias de las últimas ediciones publicadas.
+ */
 export async function GET() {
   try {
-    // Obtener noticias recientes (de hoy y fechas anteriores)
-    const todasLasNoticias = [];
-    const fechas = listarFechasDisponibles().slice(0, 3); // Últimos 3 días
+    const fechas = listarFechasDisponibles();
+    const noticiasMap = new Map<string, Noticia>();
 
-    for (const fecha of fechas) {
+    // Cargar las noticias de las últimas 14 ediciones disponibles
+    const fechasRecientes = fechas.slice(0, 14);
+    for (const fecha of fechasRecientes) {
       const archivo = leerArchivoPorFecha(fecha);
-      if (archivo) {
-        todasLasNoticias.push(...archivo.noticias);
+      if (archivo?.noticias) {
+        for (const noticia of archivo.noticias) {
+          if (!noticiasMap.has(noticia.id)) {
+            noticiasMap.set(noticia.id, noticia);
+          }
+        }
       }
     }
 
-    const herramientas = obtenerTodasHerramientas();
+    // Fallback si no se encontraron archivos en las fechas listadas
+    if (noticiasMap.size === 0) {
+      const archivoHoy = obtenerNoticiasDeHoy();
+      if (archivoHoy?.noticias) {
+        for (const noticia of archivoHoy.noticias) {
+          noticiasMap.set(noticia.id, noticia);
+        }
+      }
+    }
 
-    return NextResponse.json({
-      noticias: todasLasNoticias,
-      herramientas,
-    });
+    const noticias: Noticia[] = Array.from(noticiasMap.values());
+    const herramientas: HerramientaIA[] = obtenerTodasHerramientas();
+
+    return NextResponse.json(
+      { noticias, herramientas },
+      {
+        headers: {
+          "Cache-Control": "public, s-maxage=3600, stale-while-revalidate=86400",
+        },
+      }
+    );
   } catch (error) {
-    return NextResponse.json({ noticias: [], herramientas: [] }, { status: 500 });
+    console.error("Error al generar respuesta de /api/buscar:", error);
+    return NextResponse.json(
+      {
+        noticias: [],
+        herramientas: [],
+        error: "Error interno al recuperar los datos de búsqueda",
+      },
+      { status: 500 }
+    );
   }
 }

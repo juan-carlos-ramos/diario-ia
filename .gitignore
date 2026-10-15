@@ -21,15 +21,23 @@ dist/
 # production
 /build
 
-# misc
+# misc & secrets
 .DS_Store
 *.pem
 *.key
+id_rsa*
+secrets.*
 *.log
 *.sqlite
 *.sql
 
-# backups (respaldos locales con marca temporal, ej. archivo.ts.bak-20261011-185538)
+# python & virtualenvs
+.venv/
+venv/
+__pycache__/
+
+# backups (respaldos locales con marca temporal)
+*.bak
 *.bak-*
 
 # debug
@@ -55,9 +63,16 @@ next-env.d.ts
 # AI context & clean root policy
 .agentignore
 AI_CONTEXT.md
+INFORME_AUDITORIA_QA.md
+prompt*.txt
+chat_history.*
+scratch/
 CONTEXTO_PROYECTO.md
 AGENTS.md
 CLAUDE.md
 .skills/
 .claude/
+.gemini/
+.codex/
+.superpowers/
 .system_generated/

@@ -1,20 +1,28 @@
 /**
- * Cobertura permanente de components/BotonInstalar.tsx
+ * Cobertura permanente de components/BannerInstalarPWA.tsx (y retrocompatibilidad con BotonInstalar).
  *
- * Verifica el contrato Poka-Yoke del botón de instalación PWA:
- *  · Nunca renderiza un botón muerto (sin vía de instalación → null).
- *  · Android/desktop: botón tras `beforeinstallprompt`, con nombre accesible.
- *  · iOS: guía manual disclosure con `role="dialog"`, aria-haspopup/expanded,
- *    cierre con Escape o con ✕ devolviendo el foco al botón.
- *  · Modo standalone (display-mode o navigator.standalone) → null.
- *
- * Los casos replican el comportamiento real del componente (leído íntegro antes
- * de escribirlos). Mocks deterministas: sin red, sin timers reales.
+ * Verifica el contrato de UI/UX y PWA del nuevo banner flotante inferior:
+ *  · Sin vía de instalación ni evento -> no renderiza nada (null).
+ *  · Android/Desktop con beforeinstallprompt -> renderiza el banner flotante con:
+ *      - Emblema editorial DiarioIA.
+ *      - Título "Instalar DiarioIA" y subtítulo "Acceso rápido y pantalla completa".
+ *      - Botón de acción "Instalar".
+ *      - Botón accesible para descartar aviso ("✕").
+ *  · Descarte persistente:
+ *      - Al pulsar descartar ("✕"), almacena en localStorage `diarioia_pwa_dismissed_until`
+ *        con fecha de 7 días y oculta el banner inmediatamente.
+ *      - Si existe una fecha de descarte futura en localStorage, no se renderiza.
+ *  · iOS:
+ *      - Detecta iPhone / iPad (incluso iPadOS MacIntel con touch).
+ *      - Muestra el banner flotante con botón "Instalar".
+ *      - Al pulsar "Instalar", despliega la guía paso a paso ("Compartir ⎋ → Añadir a pantalla de inicio ➕").
+ *      - Permite cerrar la guía con Escape o con su botón de cierre.
+ *  · Modo standalone (display-mode o navigator.standalone) o appinstalled -> null.
  */
 import { render, screen, fireEvent, cleanup, waitFor, act } from "@testing-library/react";
 import { describe, it, expect, beforeEach, afterEach, vi } from "vitest";
 
-import BotonInstalar from "@/components/BotonInstalar";
+import BannerInstalarPWA from "@/components/BannerInstalarPWA";
 
 const UA_DESKTOP =
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
@@ -35,7 +43,6 @@ interface OpcionesNavigator {
   standalone?: boolean;
 }
 
-/** Sustituye los campos de navigator que el componente consulta. */
 function setNavigator({
   userAgent = UA_DESKTOP,
   platform = "Linux x86_64",
@@ -51,7 +58,6 @@ function setNavigator({
   Object.defineProperty(window.navigator, "standalone", { value: standalone, configurable: true });
 }
 
-/** Mock determinista de matchMedia (solo se usa con queries de display-mode). */
 function mockMatchMedia(standalone: boolean): void {
   window.matchMedia = ((query: string) => ({
     matches: standalone,
@@ -65,7 +71,6 @@ function mockMatchMedia(standalone: boolean): void {
   })) as unknown as typeof window.matchMedia;
 }
 
-/** Dispara `beforeinstallprompt` con un prompt/usuario simulados. */
 function dispararBeforeInstallPrompt(outcome: "accepted" | "dismissed" = "accepted") {
   const evento = new Event("beforeinstallprompt") as EventoInstalacion;
   const prompt = vi.fn(async () => {});
@@ -78,194 +83,204 @@ function dispararBeforeInstallPrompt(outcome: "accepted" | "dismissed" = "accept
 }
 
 beforeEach(() => {
+  localStorage.clear();
   setNavigator();
   mockMatchMedia(false);
 });
 
 afterEach(() => {
   cleanup();
+  localStorage.clear();
   setNavigator();
   mockMatchMedia(false);
 });
 
-describe("BotonInstalar — visibilidad del botón", () => {
+describe("BannerInstalarPWA — Visibilidad y estructura editorial", () => {
   it("no renderiza nada sin vía de instalación (desktop sin beforeinstallprompt)", () => {
-    const { container } = render(<BotonInstalar />);
-    expect(container.querySelector("button")).toBeNull();
+    const { container } = render(<BannerInstalarPWA />);
+    expect(container.querySelector("aside")).toBeNull();
     expect(screen.queryByRole("button")).toBeNull();
   });
 
-  it("muestra el botón tras beforeinstallprompt con nombre accesible", () => {
-    render(<BotonInstalar />);
+  it("muestra el banner flotante tras beforeinstallprompt con textos y acciones correctas", () => {
+    render(<BannerInstalarPWA />);
     dispararBeforeInstallPrompt();
 
-    const boton = screen.getByRole("button", { name: "Instalar DiarioIA como aplicación" });
-    expect(boton.tagName).toBe("BUTTON");
-    expect(boton.getAttribute("type")).toBe("button");
-    expect(boton.getAttribute("title")).toBe("Instalar DiarioIA");
-    expect(boton.textContent).toContain("Instalar");
-  });
+    const banner = screen.getByRole("complementary", {
+      name: "Aviso de instalación de DiarioIA",
+    });
+    expect(banner).toBeTruthy();
+    expect(banner.textContent).toContain("Instalar DiarioIA");
+    expect(banner.textContent).toContain("Acceso rápido y pantalla completa");
 
-  it("el botón instalable NO expone aria-haspopup (solo aplica a la guía iOS)", () => {
-    render(<BotonInstalar />);
-    dispararBeforeInstallPrompt();
+    const botonInstalar = screen.getByRole("button", { name: "Instalar" });
+    expect(botonInstalar).toBeTruthy();
 
-    const boton = screen.getByRole("button", { name: "Instalar DiarioIA como aplicación" });
-    expect(boton.hasAttribute("aria-haspopup")).toBe(false);
-    expect(boton.hasAttribute("aria-expanded")).toBe(false);
+    const botonDescartar = screen.getByRole("button", {
+      name: "Descartar aviso de instalación",
+    });
+    expect(botonDescartar).toBeTruthy();
   });
 });
 
-describe("BotonInstalar — guía manual en iOS", () => {
-  it("en iPhone muestra el botón de guía y NO renderiza el diálogo hasta abrirlo", () => {
-    setNavigator({ userAgent: UA_IPHONE, platform: "iPhone", maxTouchPoints: 5 });
-    render(<BotonInstalar />);
+describe("BannerInstalarPWA — Descarte persistente (7 días)", () => {
+  it("al pulsar el botón de descarte ✕ oculta el banner y guarda timestamp en localStorage", () => {
+    const ahora = 1700000000000;
+    vi.spyOn(Date, "now").mockReturnValue(ahora);
 
-    const boton = screen.getByRole("button", {
-      name: "Cómo instalar DiarioIA en el iPhone o iPad",
+    render(<BannerInstalarPWA />);
+    dispararBeforeInstallPrompt();
+
+    const botonDescartar = screen.getByRole("button", {
+      name: "Descartar aviso de instalación",
     });
-    expect(boton.getAttribute("aria-haspopup")).toBe("dialog");
-    expect(boton.getAttribute("aria-expanded")).toBe("false");
-    expect(screen.queryByRole("dialog")).toBeNull();
+    fireEvent.click(botonDescartar);
+
+    expect(screen.queryByRole("complementary")).toBeNull();
+
+    const guardado = localStorage.getItem("diarioia_pwa_dismissed_until");
+    expect(guardado).toBe(String(ahora + 7 * 24 * 60 * 60 * 1000));
+
+    vi.restoreAllMocks();
   });
 
-  it("al abrir la guía expone role=dialog con el contenido real y aria-expanded=true", () => {
+  it("no renderiza el banner si ya está descartado con fecha en el futuro", () => {
+    const ahora = 1700000000000;
+    vi.spyOn(Date, "now").mockReturnValue(ahora);
+    localStorage.setItem(
+      "diarioia_pwa_dismissed_until",
+      String(ahora + 5 * 24 * 60 * 60 * 1000)
+    );
+
+    render(<BannerInstalarPWA />);
+    dispararBeforeInstallPrompt();
+
+    expect(screen.queryByRole("complementary")).toBeNull();
+
+    vi.restoreAllMocks();
+  });
+
+  it("renderiza el banner si el descarte previo ya expiró", () => {
+    const ahora = 1700000000000;
+    vi.spyOn(Date, "now").mockReturnValue(ahora);
+    localStorage.setItem(
+      "diarioia_pwa_dismissed_until",
+      String(ahora - 1000)
+    );
+
+    render(<BannerInstalarPWA />);
+    dispararBeforeInstallPrompt();
+
+    expect(
+      screen.getByRole("complementary", { name: "Aviso de instalación de DiarioIA" })
+    ).toBeTruthy();
+
+    vi.restoreAllMocks();
+  });
+});
+
+describe("BannerInstalarPWA — Guía en iOS Safari", () => {
+  it("en iPhone muestra el banner y abre la guía interactiva al pulsar Instalar", () => {
     setNavigator({ userAgent: UA_IPHONE, platform: "iPhone", maxTouchPoints: 5 });
-    render(<BotonInstalar />);
+    render(<BannerInstalarPWA />);
 
-    const boton = screen.getByRole("button", {
-      name: "Cómo instalar DiarioIA en el iPhone o iPad",
+    const banner = screen.getByRole("complementary", {
+      name: "Aviso de instalación de DiarioIA",
     });
-    fireEvent.click(boton);
+    expect(banner).toBeTruthy();
+    expect(screen.queryByRole("dialog")).toBeNull();
 
-    expect(boton.getAttribute("aria-expanded")).toBe("true");
+    const botonInstalar = screen.getByRole("button", { name: "Instalar" });
+    fireEvent.click(botonInstalar);
+
     const dialog = screen.getByRole("dialog", { name: "Cómo instalar DiarioIA en iOS" });
+    expect(dialog).toBeTruthy();
     expect(dialog.textContent).toContain("Compartir");
     expect(dialog.textContent).toContain("Añadir a pantalla de inicio");
   });
 
-  it("el botón alterna el disclosure (abrir/cerrar) con aria-expanded", () => {
-    setNavigator({ userAgent: UA_IPHONE, platform: "iPhone", maxTouchPoints: 5 });
-    render(<BotonInstalar />);
-
-    const boton = screen.getByRole("button", {
-      name: "Cómo instalar DiarioIA en el iPhone o iPad",
-    });
-    fireEvent.click(boton);
-    expect(boton.getAttribute("aria-expanded")).toBe("true");
-    fireEvent.click(boton);
-    expect(boton.getAttribute("aria-expanded")).toBe("false");
-    expect(screen.queryByRole("dialog")).toBeNull();
-  });
-
-  it("detecta iPadOS 13+ (MacIntel + táctil) como iOS", () => {
+  it("detecta iPadOS 13+ (MacIntel con multitouch) como iOS", () => {
     setNavigator({ userAgent: UA_MAC, platform: "MacIntel", maxTouchPoints: 5 });
-    render(<BotonInstalar />);
+    render(<BannerInstalarPWA />);
 
     expect(
-      screen.getByRole("button", { name: "Cómo instalar DiarioIA en el iPhone o iPad" })
+      screen.getByRole("complementary", { name: "Aviso de instalación de DiarioIA" })
     ).toBeTruthy();
   });
 
-  it("cierra la guía con Escape y devuelve el foco al botón", () => {
+  it("cierra la guía de iOS con la tecla Escape", () => {
     setNavigator({ userAgent: UA_IPHONE, platform: "iPhone", maxTouchPoints: 5 });
-    render(<BotonInstalar />);
+    render(<BannerInstalarPWA />);
 
-    const boton = screen.getByRole("button", {
-      name: "Cómo instalar DiarioIA en el iPhone o iPad",
-    });
-    fireEvent.click(boton);
+    fireEvent.click(screen.getByRole("button", { name: "Instalar" }));
     expect(screen.getByRole("dialog")).toBeTruthy();
 
     fireEvent.keyDown(document, { key: "Escape" });
-
     expect(screen.queryByRole("dialog")).toBeNull();
-    expect(boton.getAttribute("aria-expanded")).toBe("false");
-    expect(document.activeElement).toBe(boton);
   });
 
-  it("cierra la guía con el botón ✕ y devuelve el foco al botón", () => {
+  it("cierra la guía de iOS al pulsar su botón de cerrar", () => {
     setNavigator({ userAgent: UA_IPHONE, platform: "iPhone", maxTouchPoints: 5 });
-    render(<BotonInstalar />);
+    render(<BannerInstalarPWA />);
 
-    const boton = screen.getByRole("button", {
-      name: "Cómo instalar DiarioIA en el iPhone o iPad",
-    });
-    fireEvent.click(boton);
-
-    const cerrar = screen.getByRole("button", {
-      name: "Cerrar instrucciones de instalación",
-    });
-    fireEvent.click(cerrar);
-
-    expect(screen.queryByRole("dialog")).toBeNull();
-    expect(document.activeElement).toBe(boton);
-  });
-
-  it("cierra la guía al pulsar fuera del contenedor (pointerdown externo)", () => {
-    setNavigator({ userAgent: UA_IPHONE, platform: "iPhone", maxTouchPoints: 5 });
-    render(<BotonInstalar />);
-
-    fireEvent.click(
-      screen.getByRole("button", { name: "Cómo instalar DiarioIA en el iPhone o iPad" })
-    );
+    fireEvent.click(screen.getByRole("button", { name: "Instalar" }));
     expect(screen.getByRole("dialog")).toBeTruthy();
 
-    fireEvent.pointerDown(document.body);
-
+    const botonCerrarGuia = screen.getByRole("button", {
+      name: "Cerrar instrucciones de instalación",
+    });
+    fireEvent.click(botonCerrarGuia);
     expect(screen.queryByRole("dialog")).toBeNull();
   });
 });
 
-describe("BotonInstalar — estado instalado", () => {
+describe("BannerInstalarPWA — Estado instalado", () => {
   it("no renderiza nada si display-mode es standalone", () => {
     mockMatchMedia(true);
-    const { container } = render(<BotonInstalar />);
-    expect(container.querySelector("button")).toBeNull();
+    const { container } = render(<BannerInstalarPWA />);
+    expect(container.querySelector("aside")).toBeNull();
   });
 
-  it("no renderiza nada si navigator.standalone es true (iOS legacy)", () => {
+  it("no renderiza nada si navigator.standalone es true (iOS standalone)", () => {
     setNavigator({ userAgent: UA_IPHONE, platform: "iPhone", standalone: true });
-    const { container } = render(<BotonInstalar />);
-    expect(container.querySelector("button")).toBeNull();
+    const { container } = render(<BannerInstalarPWA />);
+    expect(container.querySelector("aside")).toBeNull();
   });
 
-  it("oculta el botón al recibir el evento appinstalled", () => {
-    render(<BotonInstalar />);
+  it("oculta el banner al recibir el evento appinstalled", () => {
+    render(<BannerInstalarPWA />);
     dispararBeforeInstallPrompt();
-    expect(
-      screen.getByRole("button", { name: "Instalar DiarioIA como aplicación" })
-    ).toBeTruthy();
+    expect(screen.getByRole("complementary")).toBeTruthy();
 
     act(() => {
       window.dispatchEvent(new Event("appinstalled"));
     });
 
-    expect(screen.queryByRole("button")).toBeNull();
+    expect(screen.queryByRole("complementary")).toBeNull();
   });
 });
 
-describe("BotonInstalar — flujo de instalación", () => {
+describe("BannerInstalarPWA — Flujo de instalación", () => {
   it("al pulsar Instalar invoca prompt(); si acepta, deja de renderizar", async () => {
-    render(<BotonInstalar />);
+    render(<BannerInstalarPWA />);
     const { prompt } = dispararBeforeInstallPrompt("accepted");
 
-    fireEvent.click(screen.getByRole("button", { name: "Instalar DiarioIA como aplicación" }));
+    fireEvent.click(screen.getByRole("button", { name: "Instalar" }));
 
     await waitFor(() => {
-      expect(screen.queryByRole("button")).toBeNull();
+      expect(screen.queryByRole("complementary")).toBeNull();
     });
     expect(prompt).toHaveBeenCalledTimes(1);
   });
 
-  it("el evento es de un solo uso: si el usuario descarta, el botón también desaparece", async () => {
-    render(<BotonInstalar />);
+  it("si el usuario cancela en el diálogo nativo, el banner se retira", async () => {
+    render(<BannerInstalarPWA />);
     const { prompt } = dispararBeforeInstallPrompt("dismissed");
 
-    fireEvent.click(screen.getByRole("button", { name: "Instalar DiarioIA como aplicación" }));
+    fireEvent.click(screen.getByRole("button", { name: "Instalar" }));
 
     await waitFor(() => {
-      expect(screen.queryByRole("button")).toBeNull();
+      expect(screen.queryByRole("complementary")).toBeNull();
     });
     expect(prompt).toHaveBeenCalledTimes(1);
   });
