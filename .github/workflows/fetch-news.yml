@@ -2,14 +2,14 @@ name: Obtener noticias de IA cada 24 horas
 
 on:
   schedule:
-    # Disparo principal: 05:23 AM UTC (01:23 AM hora Venezuela/Atlántico UTC-4).
+    # ÚNICA corrida diaria programada: 05:23 AM UTC (01:23 AM hora Venezuela/Atlántico UTC-4).
     # Absorbe las 4 a 5 horas de demora habitual de la cola compartida de GitHub Actions,
-    # garantizando que las noticias se publiquen entre las 05:30 y las 06:30 AM local (siempre antes de las 7:00 AM).
+    # garantizando que las noticias se publiquen entre las 06:00 y las 06:30 AM local (dentro del objetivo 6-7 AM).
     # Se utiliza el minuto no estándar :23 para evitar las horas pico congestionadas (:00, :15, :30, :45).
     - cron: "23 5 * * *"
-    # Disparo de contingencia anti-starvation: 08:37 AM UTC (04:37 AM hora Venezuela/Atlántico UTC-4).
-    # Respaldo por si GitHub Actions omite o retrasa severamente el primer turno en días pico.
-    - cron: "37 8 * * *"
+    # NOTA: se eliminó el cron de contingencia "37 8 * * *". Ese segundo turno llegaba ~09:39 AM local
+    # (ya fuera del objetivo 6-7 AM) y, sobre todo, consumía la cuota diaria de Gemini antes de la corrida útil:
+    # el enriquecimiento con IA se agotaba y las noticias caían al fallback sin valor añadido.
   # Permite ejecutarlo manualmente desde GitHub cuando quieras
   workflow_dispatch:
     inputs:
