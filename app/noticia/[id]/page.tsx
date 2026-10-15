@@ -9,12 +9,24 @@ import {
   buscarNoticiaPorId,
   listarFechasDisponibles,
   leerArchivoPorFecha,
+  type Noticia,
 } from "@/lib/noticias";
+import {
+  esPorQueImportaSignificativo,
+  obtenerPuntosClaveValidos,
+  titularPuntosClave,
+} from "@/lib/puntos-clave";
 import { formatearFecha } from "@/lib/utils";
 
 interface Props {
   params: Promise<{ id: string }>;
 }
+
+/**
+ * Contrato compartido con el backend: la bandera `enriquecidoConIA` es
+ * opcional y puede no existir todavía. Se trata de forma tolerante.
+ */
+type NoticiaEnriquecida = Noticia & { enriquecidoConIA?: boolean };
 
 export const revalidate = 3600;
 
@@ -97,9 +109,21 @@ export default async function PaginaNoticia({ params }: Props) {
     notFound();
   }
 
-  const tienePuntosClave =
-    Array.isArray(noticia.puntosClave) && noticia.puntosClave.length > 0;
-  const tienePorQueImporta = Boolean(noticia.porQueImporta);
+  // Degradación honesta: si el backend marca la noticia como NO enriquecida,
+  // los bloques de análisis se ocultan. Nunca se disfraza relleno de editorial.
+  const enriquecidoConIA = (noticia as NoticiaEnriquecida).enriquecidoConIA;
+  const fueEnriquecida = enriquecidoConIA !== false;
+
+  // Solo se muestran puntos realmente informativos (sin duplicar el resumen).
+  const puntosClave = fueEnriquecida
+    ? obtenerPuntosClaveValidos(noticia.puntosClave, noticia.resumen)
+    : [];
+  const mostrarPuntosClave = puntosClave.length > 0;
+  const tituloPuntos = titularPuntosClave(puntosClave.length);
+
+  const mostrarPorQueImporta =
+    fueEnriquecida && esPorQueImportaSignificativo(noticia.porQueImporta);
+
   const tieneTags = Array.isArray(noticia.tags) && noticia.tags.length > 0;
 
   return (
@@ -128,9 +152,9 @@ export default async function PaginaNoticia({ params }: Props) {
         </nav>
 
         {/* Artículo principal */}
-        <article className="article-sheet">
+        <article className="article-sheet space-y-8 sm:space-y-10">
           {/* Metadatos editoriales de imprenta */}
-          <header className="mb-6 border-b border-[var(--color-border)] pb-4">
+          <header className="border-b border-[var(--color-border)] pb-4">
             <div className="flex flex-wrap items-center gap-2 sm:gap-3 text-xs mb-3">
               <span className="font-extrabold tracking-[0.14em] uppercase text-[var(--color-accent)] px-2 py-0.5 rounded-md bg-[var(--color-surface)] border border-[var(--color-border)]">
                 {noticia.categoria}
@@ -153,14 +177,14 @@ export default async function PaginaNoticia({ params }: Props) {
             </div>
 
             {/* Titular periodístico en Newsreader serif */}
-            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-serif tracking-tight text-[var(--color-text)] leading-[1.18] mt-2">
+            <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-serif tracking-tight text-[var(--color-text)] leading-[1.18] mt-2 text-balance">
               {noticia.titulo}
             </h1>
           </header>
 
           {/* Fotografía editorial si está disponible */}
           {noticia.imagen && (
-            <figure className="mb-8 rounded-2xl overflow-hidden border border-[var(--color-border)] bg-[var(--color-card)] shadow-[0_4px_24px_rgba(0,0,0,0.05)]">
+            <figure className="rounded-2xl overflow-hidden border border-[var(--color-border)] bg-[var(--color-card)] shadow-[0_4px_24px_rgba(0,0,0,0.05)]">
               <img
                 src={noticia.imagen}
                 alt={noticia.titulo}
@@ -176,22 +200,36 @@ export default async function PaginaNoticia({ params }: Props) {
             </figure>
           )}
 
-          {/* Bloque destacado: En 3 Puntos Clave */}
-          {tienePuntosClave && (
+          {/* Bloque destacado: puntos clave (solo si hay análisis real) */}
+          {mostrarPuntosClave && (
             <section
-              aria-label="En 3 Puntos Clave"
-              className="mb-8 p-5 sm:p-6 rounded-2xl bg-[var(--color-card)] border-l-4 border-l-[var(--color-accent)] border border-[var(--color-border)] shadow-xs"
+              aria-labelledby="puntos-clave-titulo"
+              className="p-5 sm:p-6 rounded-2xl bg-[var(--color-card)] border border-[var(--color-border)] border-l-4 border-l-[var(--color-accent)] shadow-xs"
             >
-              <div className="flex items-center gap-2 mb-3">
-                <span className="text-base text-[var(--color-accent)]">⚡</span>
-                <h2 className="text-xs font-black tracking-[0.14em] uppercase text-[var(--color-accent)]">
-                  En 3 Puntos Clave
+              <div className="flex items-center gap-2 mb-4">
+                <span
+                  className="text-base text-[var(--color-accent)]"
+                  aria-hidden="true"
+                >
+                  ⚡
+                </span>
+                <h2
+                  id="puntos-clave-titulo"
+                  className="text-xs font-black tracking-[0.14em] uppercase text-[var(--color-accent)]"
+                >
+                  {tituloPuntos}
                 </h2>
               </div>
-              <ul className="space-y-3 text-sm sm:text-base text-[var(--color-text)] leading-relaxed">
-                {noticia.puntosClave!.map((punto, index) => (
-                  <li key={index} className="flex items-start gap-3">
-                    <span className="flex-shrink-0 w-5 h-5 rounded-full bg-[oklch(76%_0.165_72_/_20%)] text-[var(--color-accent)] text-xs font-extrabold flex items-center justify-center mt-0.5">
+              <ul className="space-y-3.5 text-sm sm:text-base text-[var(--color-text)] leading-relaxed">
+                {puntosClave.map((punto, index) => (
+                  <li
+                    key={index}
+                    className="flex items-start gap-3 text-pretty"
+                  >
+                    <span
+                      aria-hidden="true"
+                      className="flex-shrink-0 w-5 h-5 rounded-full bg-[oklch(76%_0.165_72_/_20%)] text-[var(--color-accent)] text-xs font-extrabold flex items-center justify-center mt-0.5"
+                    >
                       {index + 1}
                     </span>
                     <span className="flex-1 font-normal">{punto}</span>
@@ -201,30 +239,38 @@ export default async function PaginaNoticia({ params }: Props) {
             </section>
           )}
 
-          {/* Bloque de contexto: ¿Por qué importa? */}
-          {tienePorQueImporta && (
+          {/* Bloque de contexto: ¿Por qué importa? (solo si aporta criterio real) */}
+          {mostrarPorQueImporta && (
             <section
-              aria-label="¿Por qué importa?"
-              className="mb-8 p-5 sm:p-6 rounded-2xl bg-[var(--color-surface)] border border-[var(--color-border)] shadow-xs"
+              aria-labelledby="por-que-importa-titulo"
+              className="p-5 sm:p-6 rounded-2xl bg-[var(--color-surface)] border border-[var(--color-border)] shadow-xs"
             >
               <div className="flex items-center gap-2 mb-2">
-                <span className="text-base text-[var(--color-accent)]">💡</span>
-                <h2 className="text-xs font-black tracking-[0.14em] uppercase text-[var(--color-accent)]">
+                <span
+                  className="text-base text-[var(--color-accent)]"
+                  aria-hidden="true"
+                >
+                  💡
+                </span>
+                <h2
+                  id="por-que-importa-titulo"
+                  className="text-xs font-black tracking-[0.14em] uppercase text-[var(--color-accent)]"
+                >
                   ¿Por qué importa?
                 </h2>
               </div>
-              <p className="text-sm sm:text-base text-[var(--color-text)] font-normal leading-relaxed italic font-serif">
+              <p className="text-sm sm:text-base text-[var(--color-text)] font-normal leading-relaxed italic font-serif text-pretty">
                 &ldquo;{noticia.porQueImporta}&rdquo;
               </p>
             </section>
           )}
 
-          {/* Cuerpo y resumen de la noticia */}
+          {/* Cuerpo de la noticia */}
           <section
             aria-label="Contenido de la noticia"
-            className="mb-10 text-base sm:text-lg text-[var(--color-text)] leading-relaxed font-normal space-y-4"
+            className="text-base sm:text-lg text-[var(--color-text)] leading-relaxed font-normal"
           >
-            <p className="first-letter:text-4xl first-letter:font-serif first-letter:font-black first-letter:mr-2 first-letter:float-left first-letter:text-[var(--color-accent)] leading-relaxed">
+            <p className="first-letter:text-4xl first-letter:font-serif first-letter:font-black first-letter:mr-2 first-letter:float-left first-letter:text-[var(--color-accent)] leading-relaxed text-pretty">
               {noticia.resumen}
             </p>
           </section>
@@ -233,7 +279,7 @@ export default async function PaginaNoticia({ params }: Props) {
           {noticia.url && (
             <section
               aria-label="Fuente original"
-              className="mb-10 p-5 sm:p-6 rounded-2xl bg-[var(--color-card)] border border-[var(--color-border)] flex flex-col sm:flex-row items-center justify-between gap-4 shadow-xs"
+              className="p-5 sm:p-6 rounded-2xl bg-[var(--color-card)] border border-[var(--color-border)] flex flex-col sm:flex-row items-center justify-between gap-4 shadow-xs"
             >
               <div>
                 <h3 className="text-sm font-bold text-[var(--color-text)] font-serif">
@@ -260,7 +306,7 @@ export default async function PaginaNoticia({ params }: Props) {
           {tieneTags && (
             <section
               aria-label="Etiquetas temáticas"
-              className="mb-10 pt-6 border-t border-[var(--color-border)]"
+              className="pt-6 border-t border-[var(--color-border)]"
             >
               <h3 className="text-[11px] font-bold text-[var(--color-muted)] uppercase tracking-wider mb-3">
                 Temas relacionados
@@ -279,7 +325,7 @@ export default async function PaginaNoticia({ params }: Props) {
           )}
 
           {/* Barra inferior de acciones del lector */}
-          <footer className="flex flex-wrap items-center justify-between gap-4 py-4 px-5 rounded-2xl bg-[var(--color-surface)] border border-[var(--color-border)] mb-12 shadow-xs">
+          <footer className="flex flex-wrap items-center justify-between gap-4 py-4 px-5 rounded-2xl bg-[var(--color-surface)] border border-[var(--color-border)] shadow-xs">
             <div className="flex items-center gap-2">
               <BotonFavorito noticia={noticia} size="md" mostrarTexto />
               <BotonCompartir noticia={noticia} size="md" mostrarTexto />

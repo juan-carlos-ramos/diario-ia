@@ -130,3 +130,29 @@ h1, h2, h3, .font-serif {
   background-color: oklch(54% 0.17 50 / 20%);
   color: var(--color-accent);
 }
+
+/* 🗞️ Hoja editorial "The Modern Broadsheet": contenedor de lectura */
+.article-sheet {
+  background-color: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius-card);
+  padding: clamp(1.25rem, 4vw, 2.75rem);
+  box-shadow: 0 8px 32px oklch(18% 0.02 50 / 5%);
+}
+
+html.dark .article-sheet,
+.dark .article-sheet,
+[data-theme="dark"] .article-sheet {
+  box-shadow: 0 8px 32px oklch(0% 0 0 / 35%);
+}
+
+/* ✨ Entrada editorial de página (degrada sin animación con reduce-motion) */
+.stagger-entry {
+  opacity: 1;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .stagger-entry {
+    animation: fadeSlideUp 420ms var(--ease-out) both;
+  }
+}
