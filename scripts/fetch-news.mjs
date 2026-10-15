@@ -641,6 +641,22 @@ const MODELOS_GEMINI = [
 // Intentos máximos por modelo ante errores transitorios (429 / 5xx / red)
 const MAX_INTENTOS_MODELO = 4;
 
+// Umbral de noticias CONSECUTIVAS en las que TODOS los intentos de TODOS los
+// modelos fallan por causa de 429. Al alcanzarlo se asume CUOTA AGOTADA (no un
+// rate limit transitorio) y se aborta el enriquecimiento: la cuota agotada no se
+// recupera en segundos, así que reintentar solo desperdicia tiempo y riesgo de
+// sobrescribir una edición buena con datos de fallback.
+const UMBRAL_429_CONSECUTIVOS = 3;
+
+// Error tipado que señala cuota agotada. Permite distinguir este caso (abortar)
+// de un fallo local recuperable (fallback puntual).
+class ErrorCuotaAgotada extends Error {
+  constructor(mensaje) {
+    super(mensaje);
+    this.name = "ErrorCuotaAgotada";
+  }
+}
+
 // Calcula la espera de backoff exponencial respetando el header Retry-After.
 // 429/5xx → 2s, 4s, 8s, 16s (tope 30s). Retry-After tiene prioridad si existe.
 function calcularEsperaBackoff(res, intento) {
@@ -657,9 +673,11 @@ function calcularEsperaBackoff(res, intento) {
 
 // Enriquecer una noticia individual con Google Gemini Flash.
 // Devuelve la noticia con `enriquecidoConIA: true` en éxito o el fallback local.
-async function enriquecerConGemini(noticia, rawApiKey) {
+async function enriquecerConGemini(noticia, rawApiKey, opciones = {}) {
+  // Permite inyectar una función de espera propia (tests: 0ms). Reutiliza la real por defecto.
+  const calcularEspera = opciones.calcularEsperaBackoff || calcularEsperaBackoff;
   const apiKey = (rawApiKey || "").trim();
-  if (!apiKey) return enriquecerFallback(noticia);
+  if (!apiKey) return { noticia: enriquecerFallback(noticia), cuotaAgotada: false };
 
   const prompt = `Eres un periodista tecnológico y redactor jefe para el portal de noticias de Inteligencia Artificial "DiarioIA".
 Analiza la siguiente noticia y genera un micro-análisis exclusivo, inteligente y original.
@@ -688,9 +706,14 @@ Responde ÚNICAMENTE con este JSON:
   // La clave viaja SIEMPRE en el header, nunca en la URL (evita filtrarla en logs)
   const url = `https://generativelanguage.googleapis.com/v1beta/models/PLACEHOLDER:generateContent`;
 
+  // Rastrea si TODOS los modelos se descartaron EXCLUSIVAMENTE por 429.
+  // Solo entonces se declara cuota agotada (un 404/red/JSON en medio lo desmiente).
+  let todosLosModelosPor429 = true;
+
   for (const modelo of MODELOS_GEMINI) {
     const endpoint = url.replace("PLACEHOLDER", modelo);
     let motivoSalto = "agotó sus intentos";
+    let modeloPor429 = true;
 
     for (let intento = 1; intento <= MAX_INTENTOS_MODELO; intento++) {
       let res;
@@ -717,10 +740,9 @@ Responde ÚNICAMENTE con este JSON:
           `⚠️ ${modelo} (intento ${intento}/${MAX_INTENTOS_MODELO}) error de red/timeout: ${err.message}`,
         );
         motivoSalto = "error de red persistente";
+        modeloPor429 = false;
         if (intento < MAX_INTENTOS_MODELO) {
-          await new Promise((r) =>
-            setTimeout(r, calcularEsperaBackoff(null, intento)),
-          );
+          await new Promise((r) => setTimeout(r, calcularEspera(null, intento)));
         }
         continue;
       }
@@ -732,12 +754,13 @@ Responde ÚNICAMENTE con este JSON:
           `🛑 ${modelo} no disponible (404 model_not_found). Siguiente modelo. ${errBody.slice(0, 120)}`,
         );
         motivoSalto = "modelo no encontrado (404)";
+        modeloPor429 = false;
         break;
       }
 
       // 429 / rate limit → backoff exponencial real, respetando Retry-After
       if (res.status === 429) {
-        const espera = calcularEsperaBackoff(res, intento);
+        const espera = calcularEspera(res, intento);
         console.warn(
           `⏳ ${modelo} rate limit 429 (intento ${intento}/${MAX_INTENTOS_MODELO}). Esperando ${(espera / 1000).toFixed(1)}s...`,
         );
@@ -750,11 +773,12 @@ Responde ÚNICAMENTE con este JSON:
 
       // 5xx → reintentar con backoff
       if (res.status >= 500) {
-        const espera = calcularEsperaBackoff(res, intento);
+        const espera = calcularEspera(res, intento);
         console.warn(
           `🔥 ${modelo} error servidor ${res.status} (intento ${intento}/${MAX_INTENTOS_MODELO}). Reintentando en ${(espera / 1000).toFixed(1)}s...`,
         );
         motivoSalto = `error servidor ${res.status} persistente`;
+        modeloPor429 = false;
         if (intento < MAX_INTENTOS_MODELO) {
           await new Promise((r) => setTimeout(r, espera));
         }
@@ -768,6 +792,7 @@ Responde ÚNICAMENTE con este JSON:
           `⚠️ ${modelo} retornó HTTP ${res.status}. Siguiente modelo. ${errBody.slice(0, 120)}`,
         );
         motivoSalto = `HTTP ${res.status}`;
+        modeloPor429 = false;
         break;
       }
 
@@ -780,6 +805,7 @@ Responde ÚNICAMENTE con este JSON:
           `⚠️ ${modelo} respuesta 200 con JSON ilegible: ${jsonErr.message}. Siguiente modelo.`,
         );
         motivoSalto = "JSON de respuesta ilegible";
+        modeloPor429 = false;
         break;
       }
 
@@ -789,6 +815,7 @@ Responde ÚNICAMENTE con este JSON:
           `⚠️ ${modelo} respuesta 200 sin contenido utilizable. Siguiente modelo.`,
         );
         motivoSalto = "respuesta vacía";
+        modeloPor429 = false;
         break;
       }
 
@@ -798,6 +825,7 @@ Responde ÚNICAMENTE con este JSON:
           `⚠️ ${modelo} JSON irrecuperable en la respuesta. Siguiente modelo.`,
         );
         motivoSalto = "JSON irrecuperable";
+        modeloPor429 = false;
         break;
       }
 
@@ -808,30 +836,39 @@ Responde ÚNICAMENTE con este JSON:
           : derivarPuntosClaveLocales(noticia.resumen);
 
       return {
-        ...noticia,
-        puntosClave: puntosIA,
-        porQueImporta:
-          parsed.porQueImporta || `Novedad relevante reportada por ${noticia.fuente}.`,
-        tags:
-          Array.isArray(parsed.tags) && parsed.tags.length > 0
-            ? parsed.tags
-            : generarTagsLocales(noticia.titulo, noticia.resumen),
-        tiempoLecturaMin: Math.max(1, Math.ceil(palabras / 200)),
-        enriquecidoConIA: true,
+        noticia: {
+          ...noticia,
+          puntosClave: puntosIA,
+          porQueImporta:
+            parsed.porQueImporta || `Novedad relevante reportada por ${noticia.fuente}.`,
+          tags:
+            Array.isArray(parsed.tags) && parsed.tags.length > 0
+              ? parsed.tags
+              : generarTagsLocales(noticia.titulo, noticia.resumen),
+          tiempoLecturaMin: Math.max(1, Math.ceil(palabras / 200)),
+          enriquecidoConIA: true,
+        },
+        cuotaAgotada: false,
       };
     }
 
     console.warn(`➡️ Descartando ${modelo}: ${motivoSalto}.`);
+    todosLosModelosPor429 = todosLosModelosPor429 && modeloPor429;
   }
 
   console.warn(
     `🆘 Todos los modelos fallaron para «${noticia.titulo.slice(0, 45)}…». Aplicando fallback local.`,
   );
-  return enriquecerFallback(noticia);
+  return { noticia: enriquecerFallback(noticia), cuotaAgotada: todosLosModelosPor429 };
 }
 
-// Procesa la lista completa de noticias con IA respetando cuotas de 15 RPM
-async function enriquecerNoticias(noticias) {
+// Procesa la lista completa de noticias con IA respetando cuotas de 15 RPM.
+// Guardián de cuota: si N noticias CONSECUTIVAS agotan TODOS los intentos de
+// TODOS los modelos por 429, se asume cuota agotada y se ABORTA (throw) sin
+// escribir nada. Un éxito resetea el contador (un 429 aislado no aborta).
+// `opciones` permite inyectar pacing/espera en pruebas (pausaMs, calcularEsperaBackoff).
+async function enriquecerNoticias(noticias, opciones = {}) {
+  const pausaMs = opciones.pausaMs ?? 4500;
   const rawKey = process.env.GEMINI_API_KEY;
   const apiKey = (rawKey || "").trim();
 
@@ -846,15 +883,39 @@ async function enriquecerNoticias(noticias) {
 
   console.log(`🧠 GEMINI_API_KEY detectada. Enriqueciendo ${noticias.length} noticias con espaciado de 4.5s...`);
   const enriquecidas = [];
+  let fallos429Consecutivos = 0;
 
   for (let i = 0; i < noticias.length; i++) {
     const noticia = noticias[i];
     console.log(`✨ [${i + 1}/${noticias.length}] Procesando con IA: ${noticia.titulo.slice(0, 45)}...`);
-    const enriquecida = await enriquecerConGemini(noticia, apiKey);
+    const { noticia: enriquecida, cuotaAgotada } = await enriquecerConGemini(
+      noticia,
+      apiKey,
+      opciones,
+    );
     enriquecidas.push(enriquecida);
-    // Pausa de 4.5 segundos entre llamadas para mantenerse dentro del límite gratuito de 15 RPM
-    if (i < noticias.length - 1) {
-      await new Promise((r) => setTimeout(r, 4500));
+
+    if (enriquecida.enriquecidoConIA === true) {
+      // Un éxito (aunque sea tardío) demuestra que la cuota NO está agotada.
+      fallos429Consecutivos = 0;
+    } else if (cuotaAgotada) {
+      fallos429Consecutivos += 1;
+      if (fallos429Consecutivos >= UMBRAL_429_CONSECUTIVOS) {
+        console.error(
+          "🛑 Cuota de Gemini agotada: abortando para no desperdiciar tiempo ni sobrescribir datos con fallback.",
+        );
+        throw new ErrorCuotaAgotada(
+          `Cuota de Gemini agotada: ${fallos429Consecutivos} noticias consecutivas con 429 persistente.`,
+        );
+      }
+    } else {
+      // Fallback por otra causa (red/404/JSON): rompe la racha de 429.
+      fallos429Consecutivos = 0;
+    }
+
+    // Pausa entre llamadas para mantenerse dentro del límite gratuito de 15 RPM
+    if (i < noticias.length - 1 && pausaMs > 0) {
+      await new Promise((r) => setTimeout(r, pausaMs));
     }
   }
 
@@ -1052,12 +1113,31 @@ function obtenerNoticiasGuardadasHoy() {
   return [];
 }
 
+// Decide si el flujo diario debe OMITIR fetch+enriquecimiento por idempotencia:
+// si la edición de HOY ya existe y tiene al menos una noticia enriquecida con IA,
+// re-ejecutar gastaría cuota sin aportar valor. `--force` anula la omisión.
+// `carpeta` es inyectable en pruebas (por defecto data/noticias del cwd).
+function debeOmitirEdicionDeHoy(hoy, { force = false, carpeta } = {}) {
+  if (force) return false;
+  const carpetaBase = carpeta || path.join(process.cwd(), "data", "noticias");
+  const archivo = path.join(carpetaBase, `${hoy}.json`);
+  if (!fs.existsSync(archivo)) return false;
+  try {
+    const contenido = JSON.parse(fs.readFileSync(archivo, "utf-8"));
+    return Number(contenido?.enriquecidasConIA) > 0;
+  } catch {
+    // Archivo ilegible → no omitir; el flujo normal intentará recomponerlo.
+    return false;
+  }
+}
+
 // Ejecutar
 async function main() {
   const args = process.argv.slice(2);
   const soloFetch = args.includes("--fetch-only");
   const soloTelegram = args.includes("--telegram-only");
   const dryRun = args.includes("--dry-run");
+  const force = args.includes("--force");
   const idxReenriquecer = args.indexOf("--reenriquecer");
 
   // Modo re-enriquecimiento de ediciones PASADAS (tiene precedencia sobre fetch/telegram).
@@ -1097,6 +1177,15 @@ async function main() {
     process.exit(0);
   }
 
+  // Guard de idempotencia: si hoy ya se generó y enriqueció, no gastar cuota de nuevo.
+  const hoy = new Date().toISOString().split("T")[0];
+  if (debeOmitirEdicionDeHoy(hoy, { force })) {
+    console.log(
+      "ℹ️ La edición de hoy ya existe y está enriquecida; omitiendo re-enriquecimiento (idempotente).",
+    );
+    process.exit(0);
+  }
+
   const noticiasCrudas = await obtenerNoticias();
   const noticiasEnriquecidas = await enriquecerNoticias(noticiasCrudas);
   await guardarNoticias(noticiasEnriquecidas);
@@ -1125,6 +1214,11 @@ export {
   calcularEsperaBackoff,
   MODELOS_GEMINI,
   MAX_INTENTOS_MODELO,
+  UMBRAL_429_CONSECUTIVOS,
+  ErrorCuotaAgotada,
+  enriquecerConGemini,
+  enriquecerNoticias,
+  debeOmitirEdicionDeHoy,
   esEnriquecimientoGenerico,
   fusionarEnriquecimiento,
   reenriquecerEdiciones,
