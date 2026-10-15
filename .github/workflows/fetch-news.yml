@@ -12,11 +12,18 @@ on:
     - cron: "37 8 * * *"
   # Permite ejecutarlo manualmente desde GitHub cuando quieras
   workflow_dispatch:
+    inputs:
+      reenriquecer_fechas:
+        description: "Fechas a re-enriquecer (YYYY-MM-DD separadas por coma). Vacío = corrida diaria normal."
+        type: string
+        required: false
+        default: ""
 
 permissions: {}
 
 jobs:
   fetch-news:
+    if: github.event_name != 'workflow_dispatch' || inputs.reenriquecer_fechas == ''
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
@@ -95,5 +102,43 @@ jobs:
             git commit -m "chore: actualizar registro de enviados a telegram $(date +'%Y-%m-%d')"
             git pull --rebase origin main || true
             git push
+          fi
+
+  reenriquecer-ediciones:
+    if: github.event_name == 'workflow_dispatch' && inputs.reenriquecer_fechas != ''
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Re-enriquecer ediciones pasadas con IA
+        run: node scripts/fetch-news.mjs --reenriquecer "${{ inputs.reenriquecer_fechas }}"
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Guardar cambios en el repositorio
+        run: |
+          git config --local user.email "carlosfrei8899@gmail.com"
+          git config --local user.name "Juan Carlos Ramos"
+          git add data/
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: re-enriquecimiento editorial ${{ inputs.reenriquecer_fechas }} ($(date +'%Y-%m-%d'))"
+            git pull --rebase origin main || true
+            git push
+          else
+            echo "Sin cambios para guardar."
           fi
 
