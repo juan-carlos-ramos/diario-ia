@@ -6,6 +6,7 @@ import { v4 as uuidv4 } from "uuid";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import { recortarPorPalabra } from "./lib/recortar.mjs";
 
 // Se ejecuta main() SOLO si el script se invoca directamente (node scripts/fetch-news.mjs).
 // Permite importarlo en pruebas sin disparar llamadas reales ni escrituras.
@@ -247,7 +248,7 @@ async function obtenerNoticias() {
         todasLasNoticias.push({
           id: uuidv4(),
           titulo: titulo.trim(),
-          resumen: resumen.slice(0, 300).trim(),
+          resumen: recortarPorPalabra(resumen, 300),
           url: esUrlHttpValida(item.link) ? item.link.trim() : "https://diario-ia.vercel.app",
           imagen: extraerImagen(item),
           fuente: fuente.nombre,
@@ -583,7 +584,7 @@ function derivarPuntosClaveLocales(resumen) {
   if (!texto) return [];
 
   const recortar = (s) =>
-    s.length > 140 ? s.slice(0, 139).trimEnd() + "…" : s;
+    recortarPorPalabra(s, 140);
 
   let fragmentos = texto
     .split(/(?<=[.!?…])\s+/)
@@ -603,7 +604,7 @@ function derivarPuntosClaveLocales(resumen) {
 
   // Garantía dura: jamás devolver un único punto idéntico al resumen completo
   if (puntos.length === 1 && puntos[0] === texto) {
-    const recortado = recortar(texto.slice(0, 120));
+    const recortado = recortarPorPalabra(texto, 120);
     puntos = [recortado === texto ? texto.slice(0, 120).trimEnd() + "…" : recortado];
   }
 
@@ -616,7 +617,7 @@ function enriquecerFallback(noticia) {
   const tiempoLecturaMin = Math.max(1, Math.ceil(palabras / 200));
   const tags = generarTagsLocales(noticia.titulo, noticia.resumen);
   const puntosClave = derivarPuntosClaveLocales(noticia.resumen);
-  const tituloCorto = (noticia.titulo || "").slice(0, 80);
+  const tituloCorto = recortarPorPalabra(noticia.titulo || "", 80);
 
   return {
     ...noticia,

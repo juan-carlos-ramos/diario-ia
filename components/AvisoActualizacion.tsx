@@ -3,6 +3,9 @@
 import { useSerwist } from "@serwist/turbopack/react";
 import { useEffect, useRef, useState } from "react";
 
+const CLAVE_DESCARTE = "diarioia_aviso_sw_descartado_hasta";
+const DESCARTE_MS = 24 * 60 * 60 * 1000;
+
 /**
  * Aviso de actualización del service worker.
  *
@@ -51,6 +54,36 @@ export default function AvisoActualizacion() {
     };
   }, [serwist]);
 
+  // La marca de descarte se lee SOLO tras montar (nunca en el render) para no
+  // romper SSR ni la hidratación. try/catch por modo privado / storage bloqueado.
+  useEffect(() => {
+    try {
+      const hasta = Number(window.localStorage.getItem(CLAVE_DESCARTE));
+      if (Number.isFinite(hasta) && hasta > Date.now()) setDescartado(true);
+    } catch {
+      /* sin storage: el aviso se comporta como antes */
+    }
+  }, []);
+
+  const descartar = () => {
+    setDescartado(true);
+    try {
+      window.localStorage.setItem(CLAVE_DESCARTE, String(Date.now() + DESCARTE_MS));
+    } catch {
+      /* modo privado: el descarte vale solo para esta sesión */
+    }
+  };
+
+  const actualizarAhora = () => {
+    try {
+      window.localStorage.removeItem(CLAVE_DESCARTE);
+    } catch {
+      /* ignorar */
+    }
+    activacionPedida.current = true;
+    serwist?.messageSkipWaiting();
+  };
+
   const visible = hayActualizacion && !descartado;
 
   return (
@@ -83,7 +116,7 @@ export default function AvisoActualizacion() {
                 Nueva versión lista
               </p>
               <p className="mt-1 text-xs leading-relaxed text-[var(--color-muted)]">
-                Actualiza para cargar las últimas noticias y mejoras.
+                Hay mejoras de la app disponibles.
               </p>
             </div>
           </div>
@@ -91,17 +124,14 @@ export default function AvisoActualizacion() {
           <div className="mt-3.5 flex items-center gap-2 pl-7">
             <button
               type="button"
-              onClick={() => {
-                activacionPedida.current = true;
-                serwist?.messageSkipWaiting();
-              }}
+              onClick={actualizarAhora}
               className="interactive-tap inline-flex items-center rounded-full bg-[var(--color-accent)] px-4 py-2 text-xs font-bold tracking-wide text-[var(--color-on-accent)] transition-[filter,transform] duration-150 hover:brightness-110 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-accent)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--color-card)]"
             >
               Actualizar ahora
             </button>
             <button
               type="button"
-              onClick={() => setDescartado(true)}
+              onClick={descartar}
               className="interactive-tap inline-flex items-center rounded-full border border-[var(--color-border)] px-3.5 py-2 text-xs font-bold tracking-wide text-[var(--color-muted)] transition-colors duration-150 hover:text-[var(--color-text)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-accent)]"
             >
               Ahora no

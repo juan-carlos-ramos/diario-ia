@@ -17,6 +17,7 @@ import {
   titularPuntosClave,
 } from "@/lib/puntos-clave";
 import { formatearFecha } from "@/lib/utils";
+import { recortarResumenLimpio } from "@/lib/texto";
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -200,6 +201,24 @@ export default async function PaginaNoticia({ params }: Props) {
             </figure>
           )}
 
+          {/* Resumen de la noticia (texto limpio, sin capitular) */}
+          {recortarResumenLimpio(noticia.resumen ?? "") && (
+            <section
+              aria-labelledby="resumen-titulo"
+              className="p-5 sm:p-6 rounded-2xl bg-[var(--color-card)] border border-[var(--color-border)] shadow-xs"
+            >
+              <h2
+                id="resumen-titulo"
+                className="text-xs font-black tracking-[0.14em] uppercase text-[var(--color-muted)] mb-2"
+              >
+                Resumen
+              </h2>
+              <p className="font-sans text-base sm:text-lg text-[var(--color-text)] font-normal leading-relaxed text-pretty">
+                {recortarResumenLimpio(noticia.resumen ?? "")}
+              </p>
+            </section>
+          )}
+
           {/* Bloque destacado: puntos clave (solo si hay análisis real) */}
           {mostrarPuntosClave && (
             <section
@@ -264,16 +283,6 @@ export default async function PaginaNoticia({ params }: Props) {
               </p>
             </section>
           )}
-
-          {/* Cuerpo de la noticia */}
-          <section
-            aria-label="Contenido de la noticia"
-            className="text-base sm:text-lg text-[var(--color-text)] leading-relaxed font-normal"
-          >
-            <p className="first-letter:text-4xl first-letter:font-serif first-letter:font-black first-letter:mr-2 first-letter:float-left first-letter:text-[var(--color-accent)] leading-relaxed text-pretty">
-              {noticia.resumen}
-            </p>
-          </section>
 
           {/* Enlace a la noticia original */}
           {noticia.url && (

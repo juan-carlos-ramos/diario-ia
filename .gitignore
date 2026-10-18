@@ -62,6 +62,7 @@ next-env.d.ts
 
 # AI context & clean root policy
 .agentignore
+PLAN_MAESTRO.md
 AI_CONTEXT.md
 INFORME_AUDITORIA_QA.md
 prompt*.txt
