@@ -50,8 +50,8 @@ jobs:
       - name: 2. Guardar noticias en el repositorio
         id: git_push
         run: |
-          git config --local user.email "carlosfrei8899@gmail.com"
-          git config --local user.name "Juan Carlos Ramos"
+          git config --local user.email "229259263+juan-carlos-ramos@users.noreply.github.com"
+          git config --local user.name "juan-carlos-ramos"
           git add data/
           if ! git diff --staged --quiet; then
             git commit -m "chore: actualización automática de noticias $(date +'%Y-%m-%d')"
@@ -131,8 +131,8 @@ jobs:
 
       - name: Guardar cambios en el repositorio
         run: |
-          git config --local user.email "carlosfrei8899@gmail.com"
-          git config --local user.name "Juan Carlos Ramos"
+          git config --local user.email "229259263+juan-carlos-ramos@users.noreply.github.com"
+          git config --local user.name "juan-carlos-ramos"
           git add data/
           if ! git diff --staged --quiet; then
             git commit -m "chore: re-enriquecimiento editorial ${{ inputs.reenriquecer_fechas }} ($(date +'%Y-%m-%d'))"
