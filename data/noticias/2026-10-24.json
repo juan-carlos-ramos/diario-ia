@@ -1,0 +1,454 @@
+{
+  "fecha": "2026-10-24",
+  "generado": "2026-10-24T09:52:07.176Z",
+  "total": 18,
+  "enriquecidasConIA": 17,
+  "noticias": [
+    {
+      "id": "23fa3df1-ac24-46c1-a38b-191639d714ee",
+      "titulo": "Microsoft recula con la IA en Windows 11 y retira 8 funciones de Copilot",
+      "resumen": "Microsoft continúa ajustando su estrategia de inteligencia artificial en Windows 11. A unos meses de prometer cambios estructurales, el gigante tecnológico confirmó que retirará varias acciones de Copilot integradas en el Explorador de archivos.",
+      "url": "https://hipertextual.com/inteligencia-artificial/microsoft-elimina-funciones-copilot-windows-11/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/01/tecla-copilot-windows-microsoft.jpg?fit=1024%2C570&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T20:46:00.000Z",
+      "fechaAgregada": "2026-10-24T09:38:45.586Z",
+      "puntosClave": [
+        "Microsoft elimina ocho acciones directas de Copilot que estaban integradas en el Explorador de archivos de Windows 11.",
+        "El movimiento refleja un reajuste en la estrategia de la compañía para frenar la saturación de funciones de IA en el sistema operativo.",
+        "La decisión evidencia que la integración precipitada de modelos de lenguaje en la interfaz básica del usuario no siempre aporta valor real."
+      ],
+      "porQueImporta": "Este retroceso marca un punto de inflexión en la industria: demuestra que saturar la experiencia de usuario (UX) con herramientas de IA no garantiza la adopción. Para desarrolladores y empresas, señala la necesidad de priorizar utilidades verdaderamente integradas y fluidas en lugar de forzar asistentes generativos en cada rincón del software.",
+      "tags": [
+        "Microsoft",
+        "Windows11",
+        "Copilot",
+        "UX"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "f673612f-4dab-4e1b-b78a-3f0632445aa0",
+      "titulo": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
+      "resumen": "La carrera por la inteligencia artificial lleva tiempo girando alrededor de una pregunta: quién tiene el modelo más capaz. Cada nueva generación busca resolver tareas más complejas, mientras las comparaciones suelen mirar hacia lo más alto de las clasificaciones.",
+      "url": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
+      "imagen": "https://i.blogs.es/52f9cc/arvind-krishna-ceo-de-ibm/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T19:30:07.000Z",
+      "fechaAgregada": "2026-10-24T09:38:45.437Z",
+      "puntosClave": [
+        "IBM desafía la hegemonía de la IA cerrada demostrando que la máxima potencia bruta no siempre justifica sus elevados costes.",
+        "Las métricas de la compañía prometen alcanzar el 90% del rendimiento de los modelos líderes reduciendo el gasto por token al 10%.",
+        "El mercado empieza a priorizar la eficiencia operativa y la rentabilidad por encima de ganar los benchmarks de capacidad absoluta."
+      ],
+      "porQueImporta": "Para las empresas y desarrolladores, esta drástica reducción de costes demuestra que la viabilidad financiera de la IA no exige el modelo más grande, permitiendo escalar aplicaciones comerciales de forma sostenible sin arruinarse en el intento.",
+      "tags": [
+        "IBM",
+        "LLMs",
+        "Eficiencia",
+        "Costes IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c702655f-0b01-41ca-989d-30e7efa992fd",
+      "titulo": "NVIDIA dispara el precio de las RTX 5080 y RTX 5070 Ti: la nueva RTX 5080 de 24 GB apunta a los 3.000 dólares",
+      "resumen": "Parece ser que la subida de precios en diferentes componentes de ordenador no ha llegado a su fin, y no solo SSDs o memorias RAM siguen creciendo, sino que las tarjetas gráficas también, como es el caso de NVIDIA, que habría disparado el precio de algunos modelos.",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/nvidia-precio-rtx-5080-rtx-5070-rtx/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/04/RTX-5080-Slim-PNY.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T18:55:25.000Z",
+      "fechaAgregada": "2026-10-24T09:38:49.951Z",
+      "puntosClave": [
+        "NVIDIA prevé una fuerte subida en la arquitectura Blackwell, situando la RTX 5080 de 24 GB cerca de los 3.000 dólares.",
+        "La escalada inflacionaria golpea a toda la cadena de componentes, encareciendo la memoria VRAM, las memorias RAM y los SSD.",
+        "Gamas interactivas como la RTX 5070 Ti también verán incrementado su precio, elevando el umbral de entrada al hardware de alto rendimiento."
+      ],
+      "porQueImporta": "Contar con 24 GB de VRAM es vital para entrenar y ejecutar modelos de lenguaje en local. Este incremento desorbitado eleva las barreras de entrada para desarrolladores e investigadores independientes, obligándoles a depender de costosos servicios en la nube.",
+      "tags": [
+        "NVIDIA",
+        "Hardware",
+        "GPU",
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "982e4ed9-714d-4be6-83c3-414bcf2b52d1",
+      "titulo": "Chrome recurre a Gemini para detectar estafas antes de que caigas en ellas",
+      "resumen": "Chrome continúa reforzando sus herramientas de seguridad para hacer frente a unas estafas online cada vez más sofisticadas. Los ciberdelincuentes ya no se limitan a crear páginas fraudulentas que imitan servicios conocidos, sino que utilizan engaños capaces de convencer a los usuarios de realizar…",
+      "url": "https://www.muycomputer.com/2026/10/23/chrome-recurre-a-gemini-para-detectar-estafas-antes-de-que-caigas-en-ellas/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/10/Chrome-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T16:41:15.000Z",
+      "fechaAgregada": "2026-10-24T09:38:50.926Z",
+      "puntosClave": [
+        "Google integra el modelo Gemini en Chrome para identificar en tiempo real engaños analizando el contexto de las páginas web.",
+        "La tecnología va más allá de los filtros tradicionales para neutralizar tácticas complejas de ingeniería social e imitación de sitios.",
+        "El navegador adopta un enfoque de seguridad proactivo que intercepta la estafa antes de que el usuario interactúe con el contenido malicioso."
+      ],
+      "porQueImporta": "Esta integración marca el paso de una ciberseguridad reactiva basada en listas negras a un modelo predictivo impulsado por IA en el cliente. Para la industria, consolida a los LLMs como el nuevo estándar en la capa de navegación web, elevando la barra de complejidad para los vectores de ataque sofisticados.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "Ciberseguridad",
+        "Navegadores"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "117e4a10-2246-4046-9b58-7194897d2942",
+      "titulo": "ChatGPT estrena una función para bloquear conversaciones con PIN y ocultarlas del historial: así funciona",
+      "resumen": "Los usuarios de ChatGPT ya pueden proteger sus conversaciones más sensibles frente a miradas ajenas. OpenAI ha puesto en marcha una función que permite bloquear chats concretos con un código PIN y mantenerlos fuera del historial general, de los chats fijados y de los resultados de búsqueda.",
+      "url": "https://www.adslzone.net/noticias/ia/chatgpt-chats-bloqueados-pin/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/10/chatgpt-smartphone-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T16:17:23.000Z",
+      "fechaAgregada": "2026-10-24T09:38:48.301Z",
+      "puntosClave": [
+        "Los usuarios de ChatGPT ya pueden proteger sus conversaciones más sensibles frente a miradas ajenas.",
+        "OpenAI ha puesto en marcha una función que permite bloquear chats concretos con un código PIN y mantenerlos fuera del historial general…"
+      ],
+      "porQueImporta": "«ChatGPT estrena una función para bloquear conversaciones con PIN y ocultarlas…» según ADSLZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "ec5abfb7-2b3a-43b7-9cb3-db72d51891ca",
+      "titulo": "La carrera entre China y EEUU por los humanoides entra en otra fase: Unitree quiere que sus robots aprendan a mejorarse solos",
+      "resumen": "Unitree Robotics quiere que la IA haga gran parte del trabajo que sus ingenieros hacen hoy en día, ya sea buscar investigaciones, escribir código de control, probarlo y aprender de los resultados.",
+      "url": "https://www.xataka.com/robotica-e-ia/carrera-china-eeuu-humanoides-entra-otra-fase-unitree-quiere-que-sus-robots-aprendan-a-mejorarse-solos",
+      "imagen": "https://i.blogs.es/7342ec/unitree/1024_2000.png",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T15:00:11.000Z",
+      "fechaAgregada": "2026-10-24T09:38:45.438Z",
+      "puntosClave": [
+        "Unitree busca automatizar el desarrollo robótico delegando en la IA la búsqueda de investigaciones y la generación de código de control.",
+        "El nuevo enfoque implementa un bucle cerrado donde los algoritmos prueban sus propias actualizaciones y aprenden de los errores en tiempo real.",
+        "Esta estrategia acelera la competencia entre China y EE. UU. al reducir drásticamente los tiempos de iteración en el software de robótica humanoide."
+      ],
+      "porQueImporta": "Representa un cambio de paradigma hacia la 'auto-mejora' del hardware mediante IA, donde los ingenieros pasan de escribir código a supervisar sistemas autónomos. Esto acelerará exponencialmente la llegada de robots comerciales avanzados, redefiniendo los perfiles laborales en robótica.",
+      "tags": [
+        "Robótica",
+        "Unitree",
+        "IA Autónoma",
+        "Geopolítica"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "365957c4-1126-428d-870a-5a08ecaac9ff",
+      "titulo": "Sam Altman: \"No encuentro una palabra lo bastante dramática para describir el problema que se nos viene encima\"",
+      "resumen": "Con la resaca por la amenaza de los ataques a los sistemas basados en PHP todavía reciente en las cabezas de los responsables de seguridad de las empresas, Sam Altman añade un poco más de incertidumbre a sus vidas señalando que lo vivido en los últimos días es un juego de niños comparado…",
+      "url": "https://www.xataka.com/robotica-e-ia/sam-altman-no-encuentro-palabra-bastante-dramatica-para-describir-problema-que-se-nos-viene-encima",
+      "imagen": "https://i.blogs.es/0810a5/magnific__recupera-el-color-original-para-el-recorte-del-pro__57584/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T13:00:00.000Z",
+      "fechaAgregada": "2026-10-24T09:38:45.439Z",
+      "puntosClave": [
+        "Sam Altman califica las vulnerabilidades cibernéticas actuales como 'juegos de niños' frente a las futuras amenazas que potenciará la IA.",
+        "La advertencia surge tras recientes ciberataques masivos a sistemas basados en PHP, elevando la tensión en la industria del software.",
+        "El CEO de OpenAI anticipa un escenario crítico donde las defensas tradicionales resultarían insuficientes ante nuevos vectores de ataque."
+      ],
+      "porQueImporta": "La alerta del máximo referente de la IA generativa desplaza la atención de los parches de seguridad tradicionales hacia una reestructuración urgente de la infraestructura digital. Para los desarrolladores y empresas, implica actualizar no solo el software antiguo, sino prepararse para ciberataques automatizados con una escala y sofisticación nunca antes vistas.",
+      "tags": [
+        "Sam Altman",
+        "Ciberseguridad",
+        "OpenAI",
+        "Seguridad IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "7c5943b9-470c-44d0-88ac-78b0a3a8e5f9",
+      "titulo": "Al contrario que Amazon, el mayor supermercado de EEUU permitirá a los agentes IA comprar en nombre de sus usuarios",
+      "resumen": "Vamos a tener que acostumbrarnos a los agentes de IA. En lugar de limitarse a responder preguntas, los agentes son programas que ejecutan tareas de varios pasos encadenados, como buscar un producto, comparar precios y completar la compra.",
+      "url": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
+      "imagen": "https://i.blogs.es/7e7237/upscalemedia-transformed-1-/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T11:30:00.000Z",
+      "fechaAgregada": "2026-10-24T09:38:45.440Z",
+      "puntosClave": [
+        "El mayor minorista de EE.UU. autorizará que agentes autónomos de IA gestionen y completen transacciones en representación de los consumidores.",
+        "Esta apertura estratégica contrasta con la postura restrictiva de Amazon, dividiendo la industria del retail ante el comercio delegado.",
+        "El movimiento marca el salto definitivo de la IA conversacional hacia sistemas ejecutivos capaces de realizar flujos de compra complejos."
+      ],
+      "porQueImporta": "Inaugura oficialmente la era del e-commerce orientado a agentes, obligando a los desarrolladores a construir APIs y optimizar catálogos para compradores algorítmicos en lugar de interfaces para humanos, transformando radicalmente las estrategias de conversión y SEO.",
+      "tags": [
+        "Agentes IA",
+        "E-commerce",
+        "Automatización"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "63526d93-d16d-48a8-9db0-8dda14a04fcd",
+      "titulo": "La compañía de gafas neerlandesa es el primer minorista en retirar las gafas inteligentes Ray-Ban de Meta de más de 400 tiendas debido a “preguntas que se han planteado” sobre la tecnología",
+      "resumen": "Hans Anders ha detenido la venta de las gafas inteligentes Ray-Ban de Meta en los Países Bajos y Bélgica. Quieren esperar hasta que se aclare cómo se pueden utilizar estos dispositivos que pueden captar a las personas que les rodean sin que estas se den cuenta, ha declarado un portavoz…",
+      "url": "https://www.genbeta.com/actualidad/compania-gafas-neerlandesa-primer-minorista-retirar-gafas-inteligentes-ray-ban-meta-400-tiendas-debido-a-preguntas-que-se-han-planteado-tecnologia",
+      "imagen": "https://i.blogs.es/30a63f/hans-anders-y-meta/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-23T10:00:12.000Z",
+      "fechaAgregada": "2026-10-24T09:38:46.010Z",
+      "puntosClave": [
+        "La cadena óptica Hans Anders suspende la comercialización de las Ray-Ban Meta en más de 400 establecimientos de Países Bajos y Bélgica.",
+        "La decisión responde a la incertidumbre sobre la privacidad de los transeúntes, vulnerada por el registro no intencionado de imágenes y datos.",
+        "El minorista mantendrá la congelación de ventas hasta que se defina un marco claro sobre el uso de sensores biomeétricos e IA en espacios públicos."
+      ],
+      "porQueImporta": "Este boicot comercial sienta un precedente crítico para el hardware con IA integrada: demuestra que el rechazo ético y regulatorio en la cadena de distribución puede frenar el despliegue masivo de wearables antes de que se consoliden en el mercado.",
+      "tags": [
+        "Hardware",
+        "Privacidad",
+        "Regulación",
+        "Wearables"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "7943de4c-633e-41f5-ad7d-1f7b1f14ca36",
+      "titulo": "Consigue Windows 11 por 15 euros y Gemini Pro por 15 euros, y aprende a delegar en la IA sin perder el control",
+      "resumen": "El gran reto de la inteligencia artificial ya no consiste en descubrir todo lo que puede hacer, sino en aprender a utilizarla sin cederle aquello que sigue dependiendo de nosotros.",
+      "url": "https://www.muycomputer.com/2026/10/23/consigue-windows-11-por-15-euros-y-gemini-pro-por-15-euros-y-aprende-a-delegar-en-la-ia-sin-perder-el-control/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/10/Licencias-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T08:01:16.000Z",
+      "fechaAgregada": "2026-10-24T09:38:50.926Z",
+      "puntosClave": [
+        "Ofertas destacadas facilitan el acceso económico a software base como Windows 11 y a modelos avanzados como Gemini Pro por 15 euros.",
+        "El enfoque de la industria se desplaza de la mera experimentación técnica hacia la integración práctica y supervisada en el entorno laboral.",
+        "Se enfatiza la importancia de la gobernanza humana para delegar tareas automatizables sin perder la supervisión crítica sobre los resultados."
+      ],
+      "porQueImporta": "La reducción de barreras de entrada para herramientas como Gemini Pro acelera la adopción masiva, trasladando el reto competitivo de las empresas hacia el desarrollo de directrices claras de delegación, donde la IA potencia la productividad sin comprometer el criterio humano.",
+      "tags": [
+        "Gemini Pro",
+        "Productividad",
+        "Software",
+        "Gobernanza IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c7c3370e-cadf-47ef-9f0c-0de63091614f",
+      "titulo": "AMD revela el verdadero motivo tras el regreso del Ryzen 7 5800X3D: no fue por la crisis de la RAM",
+      "resumen": "El regreso del Ryzen 7 5800X3D al mercado supuso una excelente noticia para los usuarios que siguen confiando en la plataforma AM4 de AMD, ya que les permite mejorar el rendimiento de su equipo manteniendo tanto la placa base como la memoria y el almacenamiento.",
+      "url": "https://hardzone.es/noticias/procesadores/motivo-regreso-mercado-ryzen-7-5800x3d/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/10/amd-ryzen-7-5800x3d.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T07:01:12.000Z",
+      "fechaAgregada": "2026-10-24T09:38:49.952Z",
+      "puntosClave": [
+        "AMD desmiente que la escasez o crisis de memorias haya sido el detonante para reintroducir el chip Ryzen 7 5800X3D.",
+        "La estrategia busca prolongar la competitividad del socket AM4 facilitando mejoras de potencia sin cambiar placa o memoria.",
+        "La decisión permite a los usuarios maximizar el rendimiento en cargas de trabajo intensivas sin asumir los costos de migrar a una nueva arquitectura."
+      ],
+      "porQueImporta": "Para desarrolladores y profesionales del sector tecnológico, la continuidad del socket AM4 frena los costes de actualización de infraestructura local, permitiendo mantener estaciones de trabajo de alto rendimiento sin forzar una inversión inmediata en plataformas de nueva generación.",
+      "tags": [
+        "AMD",
+        "Hardware",
+        "Procesadores",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c2b29973-53cd-4588-b4b5-747320fe39ba",
+      "titulo": "Cuidado con la versión de LiteLLM que usas: han comprometido una versión y han incorporado malware para hackearte",
+      "resumen": "Un nuevo problema de seguridad afecta a algo muy utilizado por los usuarios. Se trata, en este caso, de LiteLLM. Ha distribuido una versión maliciosa, diseñada para poder robar credenciales y contraseñas. Concretamente, se trata de la versión LiteLLM 1.107.0 en el registro de Docker y en PyPI.",
+      "url": "https://www.redeszone.net/noticias/seguridad/version-litellm-comprometida-malware/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/10/logo-litellm.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-22T09:22:19.000Z",
+      "fechaAgregada": "2026-10-24T09:38:49.820Z",
+      "puntosClave": [
+        "La versión 1.107.0 del orquestador de modelos LiteLLM fue comprometida mediante un ataque a su cadena de suministro.",
+        "El malware, distribuido a través de PyPI y Docker Hub, tiene como objetivo principal la extracción y robo de credenciales de acceso.",
+        "Se exige a los equipos de desarrollo auditar urgentemente sus entornos e ignorar o degradar dicha versión de sus dependencias."
+      ],
+      "porQueImporta": "Este incidente evidencia la creciente vulnerabilidad en la cadena de suministro del software para IA, donde la infección de herramientas clave puede exponer las claves API de proveedores como OpenAI o Anthropic y comprometer la infraestructura de producción de cientos de empresas.",
+      "tags": [
+        "Ciberseguridad",
+        "LiteLLM",
+        "LLMs",
+        "Desarrollo"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "302693cf-f046-4246-9ea9-41da01a1a692",
+      "titulo": "Android XR llegará a las primeras gafas de Samsung en noviembre",
+      "resumen": "Samsung prepara el lanzamiento de sus primeras gafas con Android XR para noviembre de 2026. Un responsable de la empresa ha confirmado a The Korea Herald que tienen previsto lanzar productos de este tipo a finales de este año (hace unos meses fijaron el lanzamiento en otoño, aunque aún no han…",
+      "url": "https://www.genbeta.com/actualidad/android-xr-llegara-a-primeras-gafas-samsung-noviembre",
+      "imagen": "https://i.blogs.es/0fe254/gafas-de-samsung/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-22T07:01:36.000Z",
+      "fechaAgregada": "2026-10-24T09:38:46.011Z",
+      "puntosClave": [
+        "Samsung fija para finales de este año el debut comercial de sus primeras gafas de realidad extendida basadas en Android XR.",
+        "La confirmación ejecutiva sitúa la presentación en noviembre, ajustando levemente los plazos de lanzamiento previstos inicialmente para otoño.",
+        "El dispositivo supone la materialización del ecosistema inmersivo desarrollado en alianza estratégica entre Samsung, Google y Qualcomm."
+      ],
+      "porQueImporta": "Representa la ofensiva definitiva del ecosistema Android para frenar el dominio de Apple Vision Pro, abriendo a los desarrolladores una plataforma estandarizada para integrar agentes de IA multimodal en visores XR de consumo masivo.",
+      "tags": [
+        "Android XR",
+        "Samsung",
+        "Realidad Mixta",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "fbc8a7a6-eeeb-40b2-be8c-07ee49b91e41",
+      "titulo": "Olvídate de Android Auto: la IA de Gemini llega a CarPlay para que hables con tu coche",
+      "resumen": "A un día de anunciar la llegada de la Inteligencia Personalizada a Android Auto, Google vuelve a la carga. El gigante tecnológico confirmó que la integración de Gemini en Google Maps ya está disponible para Apple CarPlay.",
+      "url": "https://hipertextual.com/apple/gemini-google-maps-carplay-ia-navegacion/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/06/CarPlay-iOS-26.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-21T21:33:25.000Z",
+      "fechaAgregada": "2026-10-24T09:38:45.587Z",
+      "puntosClave": [
+        "Google expande la presencia de Gemini al ecosistema de Apple mediante la integración de su IA en Google Maps para CarPlay.",
+        "El movimiento ocurre inmediatamente después de potenciar Android Auto, demostrando una estrategia centrada en el software por encima del sistema operativo.",
+        "Los conductores ahora pueden utilizar capacidades conversacionales avanzadas para la navegación sin importar la plataforma de su smartphone."
+      ],
+      "porQueImporta": "Esta decisión refleja cómo Google prioriza la adopción masiva de Gemini frente a la exclusividad de ecosistema, metiendo presión directa a Apple para que acelere la llegada de su propia IA conversacional al salpicadero del coche.",
+      "tags": [
+        "Google",
+        "Apple",
+        "Gemini",
+        "Automoción"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "99d03c73-ce8f-4e80-8157-e26b78f3646c",
+      "titulo": "Inteligencia artificial y manipulación: nuevas claves para interpretar lo que vemos en internet",
+      "resumen": "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes. Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-10-21/inteligencia-artificial-y-manipulacion-nuevas-claves-para-interpretar-lo-que-vemos-en-internet.html",
+      "imagen": "https://picsum.photos/seed/496/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-21T15:53:30.000Z",
+      "fechaAgregada": "2026-10-24T09:38:46.088Z",
+      "puntosClave": [
+        "La IA generativa ha acelerado y refinado la creación de fraudes digitales, haciendo que las amenazas de ingeniería social sean casi indistinguibles de la realidad.",
+        "El factor humano se mantiene como el eslabón más vulnerable, requiriendo un sesgo de escepticismo deliberado ante contenidos digitales sospechosos.",
+        "El marco metodológico recomendado se centra en la verificación activa y la pausa consciente antes de interactuar con enlaces o solicitudes de datos."
+      ],
+      "porQueImporta": "El aumento de fraudes hiperrealistas impulsados por IA trasciende la seguridad personal: fuerza a las empresas de ciberseguridad a integrar detección sintética avanzada y exige a los desarrolladores diseñar interfaces que autentiquen el origen y la integridad del contenido.",
+      "tags": [
+        "Ciberseguridad",
+        "IA Generativa",
+        "Deepfakes",
+        "Seguridad Digital"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "022bdf2d-dc36-4215-9341-1e38b1f49635",
+      "titulo": "Yaiza Canosa, exitosa empresaria española: “Conozco más fontaneros bajándose de un Land Rover que a desarrolladores”",
+      "resumen": "Yaiza Canosa, en una entrevista en Actitud Constante, compara a los fontaneros con los programadores informáticos, afirmando: “Conozco a más fontaneros bajándose de un Land Rover que a desarrolladores de IT”.",
+      "url": "https://www.genbeta.com/laboral/yaiza-canosa-exitosa-empresaria-espanola-conozco-fontaneros-bajandose-land-rover-que-a-desarrolladores",
+      "imagen": "https://i.blogs.es/1fa02b/yaiza-canosa/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-21T14:01:41.000Z",
+      "fechaAgregada": "2026-10-24T09:38:46.011Z",
+      "puntosClave": [
+        "La empresaria Yaiza Canosa cuestiona el mito de que el sector de la programación sea la única vía garante de un alto nivel adquisitivo.",
+        "La pronunciada escasez de profesionales en oficios técnicos tradicionales está disparando la rentabilidad de estas actividades mano de obra dependientes.",
+        "El contraste evidencia un cambio en la percepción del mercado laboral ante la saturación de perfiles informáticos básicos."
+      ],
+      "porQueImporta": "Desmitifica la hegemonía económica del sector tecnológico justo cuando la IA generativa empieza a commoditizar el código básico, revalorizando los trabajos físicos especializados que la automatización aún no puede reemplazar.",
+      "tags": [
+        "Mercado Laboral",
+        "Desarrollo de Software",
+        "Tendencias",
+        "Economía Digital"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "b88476a1-bad5-4d44-aa50-9c2e8493b4ba",
+      "titulo": "El Pentágono deja de utilizar las herramientas de IA de Anthropic tras incluir a la empresa en una lista negra, según pudo saber la BBC",
+      "resumen": "El Departamento de Defensa de Estados Unidos ya no utiliza la herramienta de inteligencia artificial Claude, según declaró el pasado 5 de octubre un funcionario del Pentágono, que indicó que el departamento “ha dejado de utilizar los productos de Anthropic”.",
+      "url": "https://www.genbeta.com/inteligencia-artificial/pentagono-deja-utilizar-herramientas-ia-anthropic-incluir-a-empresa-lista-negra-pudo-saber-bbc",
+      "imagen": "https://i.blogs.es/aba8d6/pulso-anthopic-y-eeuu/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-20T07:01:54.000Z",
+      "fechaAgregada": "2026-10-24T09:38:46.012Z",
+      "puntosClave": [
+        "El Departamento de Defensa de EE. UU. interrumpió el uso de Claude tras vetar a Anthropic como proveedor militar.",
+        "La decisión veta de forma inmediata el despliegue de cualquier producto de la startup en sistemas de la defensa estadounidense.",
+        "El movimiento evidencia un conflicto entre las salvaguardas éticas impuestas por Anthropic y los requisitos normativos del Pentágono."
+      ],
+      "porQueImporta": "El veto sienta un precedente crítico para el sector B2B y gubernamental: demuestra que las políticas de alineación y seguridad interna de las empresas de IA pueden chocar frontalmente con los requisitos de contratación pública, abriendo una brecha que competidores como OpenAI o Google podrían aprovechar en el sector de defensa.",
+      "tags": [
+        "Anthropic",
+        "Pentágono",
+        "LLMs",
+        "Geopolítica"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "6164c41e-8e21-4424-9222-3568dfa0c327",
+      "titulo": "Una grabadora oculta en OpenAI: el FBI detiene a un empleado por espiar reuniones confidenciales",
+      "resumen": "El Departamento de Justicia de Estados Unidos asegura que este ciudadano saudí pretendía captar “comunicaciones sensibles” sobre inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-10-14/una-grabadora-oculta-en-openai-el-fbi-detiene-a-un-empleado-acusado-de-espiar-reuniones-confidenciales.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QQKX3OUFPBLGTGJBPP6GCACPBY.jpg?auth=36035dfb7a29e82b9b1944d28574fbf2934cd393e1ea0ce099699c778ac52bcf",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-14T06:45:45.000Z",
+      "fechaAgregada": "2026-10-24T09:38:46.088Z",
+      "puntosClave": [
+        "Un empleado de OpenAI de nacionalidad saudí fue arrestado por el FBI tras instalar un dispositivo de escucha en reuniones internas de la compañía.",
+        "Las autoridades estadounidenses intervinieron al detectar un intento deliberado de sustraer información estratégica sobre el desarrollo de inteligencia artificial.",
+        "El suceso expone la creciente amenaza del espionaje industrial y las brechas de seguridad física en las firmas líderes del sector."
+      ],
+      "porQueImporta": "El incidente confirma que los modelos de IA avanzada son considerados activos de seguridad nacional, lo que obligará a las empresas a implementar auditorías extremas de personal y restringir drásticamente el acceso a sus investigaciones más sensibles.",
+      "tags": [
+        "OpenAI",
+        "Ciberseguridad",
+        "Espionaje Industrial",
+        "Seguridad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
