@@ -1,0 +1,308 @@
+{
+  "fecha": "2026-10-25",
+  "generado": "2026-10-25T10:09:30.808Z",
+  "total": 12,
+  "enriquecidasConIA": 12,
+  "noticias": [
+    {
+      "id": "0c91cea4-df57-4322-bfbe-0f6603814154",
+      "titulo": "Casi todo internet se sostiene en PHP. Resulta que en su fundación solo trabaja una persona a jornada completa",
+      "resumen": "Esta semana hemos comprobado (otra vez) que internet pende de un hilo: dos fallos graves en PHP han desatado una carrera contrarreloj para proteger una web que se apoya en buena parte en ese veterano lenguaje de código abierto.",
+      "url": "https://www.xataka.com/aplicaciones/mayoria-internet-se-apoya-php-resulta-que-su-fundacion-solo-trabaja-persona-a-jornada-completa",
+      "imagen": "https://i.blogs.es/0c23a3/pexels-divinetechygirl-1181354/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-25T08:30:08.000Z",
+      "fechaAgregada": "2026-10-25T09:56:54.136Z",
+      "puntosClave": [
+        "La detección de dos fallos críticos de seguridad en PHP ha puesto en alerta a la mayor parte de los servidores web globales.",
+        "A pesar de ser el motor invisible de internet, la Fundación PHP solo cuenta con un único desarrollador contratado a tiempo completo.",
+        "El incidente expone la fragilidad estructural del ecosistema digital, dependiente del trabajo no remunerado o infrafinanciado de la comunidad 'open source'."
+      ],
+      "porQueImporta": "Evidencia una paradoja crítica en la industria: corporaciones multimillonarias construyen sus servicios sobre software libre cuyos cimientos dependen de recursos humanos mínimos, convirtiendo la falta de financiación en ciberseguridad en un riesgo sistémico global.",
+      "tags": [
+        "Ciberseguridad",
+        "Open Source",
+        "PHP",
+        "Desarrollo Web"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c043850e-2181-41ad-a314-00ee4e42f443",
+      "titulo": "Elon Musk contra Jeff Bezos: \"Hasta los planes futuros de los rivales de SpaceX van por detrás de Starship\"",
+      "resumen": "2026 está siendo un gran año para SpaceX. Su cohete Starship ha alcanzado la órbita terrestre por primera vez cargado con 26 satélites para la nueva megaconstelación V3 de Starlink, su fusión con xAI disparó su valor económico, salió a Bolsa con muy buenos resultados, Starlink superó la marca…",
+      "url": "https://www.xataka.com/espacio/elon-musk-jeff-bezos-planes-futuros-rivales-spacex-van-detras-starship",
+      "imagen": "https://i.blogs.es/3f65c2/bezos-y-musk/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-24T15:00:11.000Z",
+      "fechaAgregada": "2026-10-25T09:56:54.137Z",
+      "puntosClave": [
+        "Starship consolida el liderazgo de SpaceX al orbitar con la nueva generación de satélites Starlink V3.",
+        "La integración estratégica entre SpaceX y xAI potencia la valoración de mercado de la compañía tras su debut bursátil.",
+        "Musk desestima la competencia aeroespacial, asegurando que ni las proyecciones a largo plazo de Blue Origin igualan sus capacidades actuales."
+      ],
+      "porQueImporta": "La convergencia entre infraestructura aeroespacial y xAI acelera el despliegue de cómputo y conectividad de baja latencia a escala global, abriendo la puerta a centros de datos orbitales y capacidades de entrenamiento distribuido inaccesibles para el resto del sector.",
+      "tags": [
+        "SpaceX",
+        "xAI",
+        "Infraestructura",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "983a2086-2d1c-4da4-8ffd-f740cfff0aaf",
+      "titulo": "\"¿Podrías votar por Eliska?\": el inofensivo mensaje de WhatsApp diseñado para robar tu cuenta",
+      "resumen": "Si estos días uno de tus contactos quiere pedirte un favorcito por WhatsApp, mejor que le digas: gracias pero no, gracias. Cuando alguien nos pide dinero es fácil desconfiar, incluso aunque se haga pasar por nuestro hijo y supuestamente su teléfono se haya roto (que no tengas descendencia simplifica…",
+      "url": "https://www.xataka.com/seguridad/podrias-votar-eliska-mensaje-inocente-que-puede-robarte-whatsapp",
+      "imagen": "https://i.blogs.es/45aadf/mensaje-sospechoso-en-un-paraiso-neon-1-/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-24T10:56:00.000Z",
+      "fechaAgregada": "2026-10-25T09:56:54.139Z",
+      "puntosClave": [
+        "Ciberdelincuentes despliegan una campaña de ingeniería social en WhatsApp solicitando votos para un supuesto concurso.",
+        "El engaño persuade a las víctimas para reenviar un código de verificación que permite el secuestro completo de la cuenta.",
+        "La táctica explota la confianza entre contactos previamente comprometidos para expandir la red de contagio de forma exponencial."
+      ],
+      "porQueImporta": "Evidencia cómo la ingeniería social sofisticada supera las barreras de autenticación técnica, obligando a los desarrolladores de ciberseguridad a integrar modelos de IA capaces de detectar patrones anómalos de conducta en tiempo real dentro de las plataformas de mensajería.",
+      "tags": [
+        "Ciberseguridad",
+        "Ingeniería Social",
+        "WhatsApp",
+        "Privacidad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "56ab44cd-0586-469e-8eeb-e457def244da",
+      "titulo": "Microsoft recula con la IA en Windows 11 y retira 8 funciones de Copilot",
+      "resumen": "Microsoft continúa ajustando su estrategia de inteligencia artificial en Windows 11. A unos meses de prometer cambios estructurales, el gigante tecnológico confirmó que retirará varias acciones de Copilot integradas en el Explorador de archivos.",
+      "url": "https://hipertextual.com/inteligencia-artificial/microsoft-elimina-funciones-copilot-windows-11/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/01/tecla-copilot-windows-microsoft.jpg?fit=1024%2C570&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T20:46:00.000Z",
+      "fechaAgregada": "2026-10-25T09:56:54.360Z",
+      "puntosClave": [
+        "Microsoft elimina ocho acciones automáticas de Copilot que estaban integradas directamente en el Explorador de archivos de Windows 11.",
+        "El movimiento representa un giro estratégico tras meses de promoción agresiva para convertir la IA en el núcleo del sistema operativo.",
+        "La medida busca depurar la interfaz y optimizar la estabilidad del sistema frente a funciones de baja adopción por parte de los usuarios."
+      ],
+      "porQueImporta": "Esta reculada de Microsoft evidencia el fin de la fase de 'IA por todas partes' en el software de consumo. Para la industria, señala que la integración de LLMs en sistemas operativos debe priorizar la utilidad real y el rendimiento sobre la acumulación apresurada de funciones.",
+      "tags": [
+        "Microsoft",
+        "Windows 11",
+        "Copilot",
+        "Sistemas Operativos"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "d252623a-be3f-4b05-a79c-45367499fa62",
+      "titulo": "NVIDIA dispara el precio de las RTX 5080 y RTX 5070 Ti: la nueva RTX 5080 de 24 GB apunta a los 3.000 dólares",
+      "resumen": "Parece ser que la subida de precios en diferentes componentes de ordenador no ha llegado a su fin, y no solo SSDs o memorias RAM siguen creciendo, sino que las tarjetas gráficas también, como es el caso de NVIDIA, que habría disparado el precio de algunos modelos.",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/nvidia-precio-rtx-5080-rtx-5070-rtx/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/04/RTX-5080-Slim-PNY.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T18:55:25.000Z",
+      "fechaAgregada": "2026-10-25T09:56:59.444Z",
+      "puntosClave": [
+        "NVIDIA proyecta un encarecimiento severo en la arquitectura Blackwell, posicionando la futura RTX 5080 de 24 GB en un umbral cercano a los 3.000 dólares.",
+        "La escalada de precios golpeará de lleno a la gama media-alta, afectando directamente a modelos clave como la RTX 5070 Ti.",
+        "El alza responde a la constante tensión en la cadena de suministro de memorias de alto ancho de banda y la alta demanda de procesamiento gráfico."
+      ],
+      "porQueImporta": "Este encarecimiento dificulta el acceso a GPUs de alta memoria VRAM para startups, investigadores y desarrolladores independientes, elevando barreras económicas críticas para la ejecución, refinamiento y despliegue local de modelos de IA sin depender exclusivamente de costosas infraestructuras en la nube.",
+      "tags": [
+        "NVIDIA",
+        "Hardware",
+        "GPUs",
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "3b206ef0-6dc0-4b15-a2bb-8f0f6ee190da",
+      "titulo": "Chrome recurre a Gemini para detectar estafas antes de que caigas en ellas",
+      "resumen": "Chrome continúa reforzando sus herramientas de seguridad para hacer frente a unas estafas online cada vez más sofisticadas. Los ciberdelincuentes ya no se limitan a crear páginas fraudulentas que imitan servicios conocidos, sino que utilizan engaños capaces de convencer a los usuarios de realizar…",
+      "url": "https://www.muycomputer.com/2026/10/23/chrome-recurre-a-gemini-para-detectar-estafas-antes-de-que-caigas-en-ellas/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/10/Chrome-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T16:41:15.000Z",
+      "fechaAgregada": "2026-10-25T09:57:00.924Z",
+      "puntosClave": [
+        "Google integra la IA de Gemini en Chrome para analizar patrones de comportamiento y contenido sospechoso en tiempo real.",
+        "El sistema evoluciona más allá de las listas negras estáticas para neutralizar tácticas dinámicas de ingeniería social.",
+        "La protección se ejecuta con modelos optimizados que buscan frenar el fraude sin comprometer la latencia ni la privacidad del usuario."
+      ],
+      "porQueImporta": "Marca un punto de inflexión en la ciberseguridad para desarrolladores web y usuarios: el análisis heurístico tradicional es insuficiente frente a estafas generadas por IA, obligando a los navegadores a convertirse en entornos activos de inferencia defensiva.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "Ciberseguridad",
+        "Navegadores"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "03bf3b41-e856-4ef8-b1e6-1bde7f0bb4a4",
+      "titulo": "La compañía de gafas neerlandesa es el primer minorista en retirar las gafas inteligentes Ray-Ban de Meta de más de 400 tiendas debido a “preguntas que se han planteado” sobre la tecnología",
+      "resumen": "Hans Anders ha detenido la venta de las gafas inteligentes Ray-Ban de Meta en los Países Bajos y Bélgica. Quieren esperar hasta que se aclare cómo se pueden utilizar estos dispositivos que pueden captar a las personas que les rodean sin que estas se den cuenta, ha declarado un portavoz…",
+      "url": "https://www.genbeta.com/actualidad/compania-gafas-neerlandesa-primer-minorista-retirar-gafas-inteligentes-ray-ban-meta-400-tiendas-debido-a-preguntas-que-se-han-planteado-tecnologia",
+      "imagen": "https://i.blogs.es/30a63f/hans-anders-y-meta/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-23T10:00:12.000Z",
+      "fechaAgregada": "2026-10-25T09:56:55.184Z",
+      "puntosClave": [
+        "Hans Anders suspende la venta de las gafas inteligentes Ray-Ban Meta en más de 400 tiendas de Países Bajos y Bélgica.",
+        "La decisión responde a dudas éticas y legales sobre cómo estos dispositivos graban a terceros sin una señalización clara ni consentimiento.",
+        "Es la primera vez que una gran cadena minorista retira de sus escaparates un 'wearable' masivo equipado con IA y cámara integrada."
+      ],
+      "porQueImporta": "Este movimiento sienta un precedente crítico para los fabricantes de hardware con IA: demuestra que el verdadero cuello de botella para la adopción masiva no es la capacidad técnica del dispositivo, sino el cumplimiento normativo y la aceptación social respecto a la privacidad en el espacio público.",
+      "tags": [
+        "Wearables",
+        "Meta",
+        "Privacidad",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "1eae7234-efd2-49c5-830a-d2831cd82618",
+      "titulo": "Consigue Windows 11 por 15 euros y Gemini Pro por 15 euros, y aprende a delegar en la IA sin perder el control",
+      "resumen": "El gran reto de la inteligencia artificial ya no consiste en descubrir todo lo que puede hacer, sino en aprender a utilizarla sin cederle aquello que sigue dependiendo de nosotros.",
+      "url": "https://www.muycomputer.com/2026/10/23/consigue-windows-11-por-15-euros-y-gemini-pro-por-15-euros-y-aprende-a-delegar-en-la-ia-sin-perder-el-control/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/10/Licencias-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T08:01:16.000Z",
+      "fechaAgregada": "2026-10-25T09:57:00.924Z",
+      "puntosClave": [
+        "Ofertas promocionales facilitan el acceso económico a software clave como Windows 11 y la versión avanzada de Gemini Pro.",
+        "El debate formativo se desplaza de la fascinación por la IA hacia la capacitación en delegación estratégica y control humano.",
+        "Se promueve la integración de la IA en los flujos diarios priorizando la supervisión crítica sobre la automatización ciega."
+      ],
+      "porQueImporta": "La democratización en el coste de herramientas avanzadas como Gemini Pro acelera su adopción, exigiendo a profesionales y empresas rediseñar sus flujos de trabajo para que la eficiencia de la IA no comprometa el criterio humano.",
+      "tags": [
+        "Gemini Pro",
+        "Productividad",
+        "IA Generativa",
+        "Windows 11"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "d896ac7e-c89e-438b-b557-79ebcfb033e3",
+      "titulo": "Android XR llegará a las primeras gafas de Samsung en noviembre",
+      "resumen": "Samsung prepara el lanzamiento de sus primeras gafas con Android XR para noviembre de 2026. Un responsable de la empresa ha confirmado a The Korea Herald que tienen previsto lanzar productos de este tipo a finales de este año (hace unos meses fijaron el lanzamiento en otoño, aunque aún no han…",
+      "url": "https://www.genbeta.com/actualidad/android-xr-llegara-a-primeras-gafas-samsung-noviembre",
+      "imagen": "https://i.blogs.es/0fe254/gafas-de-samsung/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-22T07:01:36.000Z",
+      "fechaAgregada": "2026-10-25T09:56:55.185Z",
+      "puntosClave": [
+        "Samsung lanzará sus primeras gafas de realidad extendida equipadas con el nuevo sistema Android XR hacia el mes de noviembre.",
+        "Ejecutivos de la firma surcoreana confirmaron la ventana de comercialización a medios locales, alineándose con los plazos previstos para el otoño.",
+        "El dispositivo marcará la llegada oficial de la plataforma XR de Google al mercado de hardware masivo en alianza con el gigante asiático."
+      ],
+      "porQueImporta": "Representa el verdadero inicio de la batalla entre Google y Apple por la computación espacial, ofreciendo a los desarrolladores la primera plataforma abierta masiva para crear aplicaciones de IA e interfaces inmersivas fuera del ecosistema cerrado de iOS.",
+      "tags": [
+        "Android XR",
+        "Samsung",
+        "Hardware",
+        "Realidad Mixta"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "2d6a0b9d-1897-420c-8eec-4d4d7b18b40a",
+      "titulo": "Inteligencia artificial y manipulación: nuevas claves para interpretar lo que vemos en internet",
+      "resumen": "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes. Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-10-21/inteligencia-artificial-y-manipulacion-nuevas-claves-para-interpretar-lo-que-vemos-en-internet.html",
+      "imagen": "https://picsum.photos/seed/299/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-21T15:53:30.000Z",
+      "fechaAgregada": "2026-10-25T09:56:55.308Z",
+      "puntosClave": [
+        "La integración de herramientas de IA generativa ha hiperacelerado la escala y el realismo de los ciberfraudes en la red.",
+        "La sofisticación de los engaños desplaza el foco de la detección puramente técnica hacia la higiene digital del usuario.",
+        "El sesgo de inmediatez en la navegación emerge como el factor crítico que explotan los nuevos ataques automatizados."
+      ],
+      "porQueImporta": "Para la industria tecnológica y de ciberseguridad, este escenario exige transicionar de defensas reactivas hacia arquitecturas de verificación sintética en tiempo real y la adopción masiva de estándares de autenticación de contenido como C2PA.",
+      "tags": [
+        "Ciberseguridad",
+        "Deepfakes",
+        "IA Generativa",
+        "Ciberfraude"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "703031db-aa25-4c80-9fd9-0114907ef8a7",
+      "titulo": "Yaiza Canosa, exitosa empresaria española: “Conozco más fontaneros bajándose de un Land Rover que a desarrolladores”",
+      "resumen": "Yaiza Canosa, en una entrevista en Actitud Constante, compara a los fontaneros con los programadores informáticos, afirmando: “Conozco a más fontaneros bajándose de un Land Rover que a desarrolladores de IT”.",
+      "url": "https://www.genbeta.com/laboral/yaiza-canosa-exitosa-empresaria-espanola-conozco-fontaneros-bajandose-land-rover-que-a-desarrolladores",
+      "imagen": "https://i.blogs.es/1fa02b/yaiza-canosa/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-21T14:01:41.000Z",
+      "fechaAgregada": "2026-10-25T09:56:55.185Z",
+      "puntosClave": [
+        "La empresaria Yaiza Canosa cuestiona la narrativa del éxito financiero exclusivo en la tecnología, equiparando la rentabilidad de oficios manuales con el sector IT.",
+        "El contraste evidencia la creciente demanda y escasez de profesionales técnicos calificados fuera del entorno digital.",
+        "La declaración refleja un cambio de percepción sobre el valor de mercado real entre la programación tradicional y los servicios esenciales no automatizables."
+      ],
+      "porQueImporta": "En una era donde la IA amenaza con democratizar y abaratar el código básico, este análisis revalora los oficios físicos no automatizables y desafía a la industria tecnológica a justificar sus salarios frente a la saturación de perfiles juniors.",
+      "tags": [
+        "Empleo IT",
+        "Mercado Laboral",
+        "Productividad",
+        "Tendencias"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "59e41aaf-de6f-4cd0-8be3-53cefdc44e5a",
+      "titulo": "El Pentágono deja de utilizar las herramientas de IA de Anthropic tras incluir a la empresa en una lista negra, según pudo saber la BBC",
+      "resumen": "El Departamento de Defensa de Estados Unidos ya no utiliza la herramienta de inteligencia artificial Claude, según declaró el pasado 5 de octubre un funcionario del Pentágono, que indicó que el departamento “ha dejado de utilizar los productos de Anthropic”.",
+      "url": "https://www.genbeta.com/inteligencia-artificial/pentagono-deja-utilizar-herramientas-ia-anthropic-incluir-a-empresa-lista-negra-pudo-saber-bbc",
+      "imagen": "https://i.blogs.es/aba8d6/pulso-anthopic-y-eeuu/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-20T07:01:54.000Z",
+      "fechaAgregada": "2026-10-25T09:56:55.186Z",
+      "puntosClave": [
+        "El Departamento de Defensa de EE. UU. vetó el uso de Claude y canceló cualquier despliegue tecnológico de Anthropic.",
+        "La decisión responde a la inclusión formal de la startup en una lista de restricción gubernamental.",
+        "El movimiento frena abruptamente las aspiraciones de Anthropic en el sector de la seguridad nacional y la defensa."
+      ],
+      "porQueImporta": "Este veto sienta un peligroso precedente para los proveedores de IA, demostrando que los alineamientos regulatorios y de seguridad del gobierno estadounidense pueden aislar de la noche a la mañana a grandes modelos del jugoso mercado de contratos públicos.",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Ciberseguridad",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
