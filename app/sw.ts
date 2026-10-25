@@ -64,10 +64,11 @@ const reglasDiarioIA: RuntimeCaching[] = [
 
 const serwist = new Serwist({
   precacheEntries: self.__SW_MANIFEST,
-  // Actualización NO automática: el SW nuevo queda en "waiting" y el aviso
-  // `components/AvisoActualizacion.tsx` pide al usuario que decida. Así nunca
-  // se mutila a un cliente que está leyendo (perdería sus chunks JS hasheados).
-  skipWaiting: false,
+  // Actualización silenciosa en segundo plano: estándar de DiarioIA.
+  // El Service Worker se activa inmediatamente (skipWaiting: true) y reclama
+  // los clientes (clientsClaim: true) para precargar la edición del día y refrescar
+  // recursos sin interrumpir al lector con alertas o diálogos intrusivos.
+  skipWaiting: true,
   clientsClaim: true,
   navigationPreload: true,
   runtimeCaching: [...reglasDiarioIA, ...defaultCache],

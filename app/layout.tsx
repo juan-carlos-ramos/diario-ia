@@ -5,7 +5,6 @@ import { Newsreader, Plus_Jakarta_Sans } from "next/font/google";
 import Script from "next/script";
 import { Suspense } from "react";
 
-import AvisoActualizacion from "@/components/AvisoActualizacion";
 import BannerInstalarPWA from "@/components/BannerInstalarPWA";
 import BottomNav from "@/components/BottomNav";
 import BuscadorModal from "@/components/BuscadorModal";
@@ -101,8 +100,7 @@ export default function RootLayout({
           </Suspense>
           {/* Banner flotante de instalación PWA */}
           <BannerInstalarPWA />
-          {/* Infraestructura offline: ¿hay versión nueva del SW? y precarga de guardados */}
-          <AvisoActualizacion />
+          {/* Infraestructura offline: precarga de guardados */}
           <CachearGuardadosOffline />
         </SerwistProvider>
         <Analytics />
