@@ -1,0 +1,304 @@
+{
+  "fecha": "2026-10-26",
+  "generado": "2026-10-26T11:31:11.699Z",
+  "total": 12,
+  "enriquecidasConIA": 11,
+  "noticias": [
+    {
+      "id": "98be0a80-b529-4a37-8b0c-6fcbb3ed82f9",
+      "titulo": "Antonio Domenech Picó, administrador de sistemas: “Detecté que mi teléfono se estaba comunicando de madrugada con un dominio al cual yo no conocía”",
+      "resumen": "Antonio Domenech Picó estuvo analizando los comportamientos nocturnos de su móvil OPPO en el momento en el que se propuso realizar una comprobación más exhaustiva con dos teléfonos móviles y una tablet.",
+      "url": "https://www.genbeta.com/movil/antonio-domenech-pico-administrador-sistemas-detecte-que-mi-telefono-se-estaba-comunicando-madrugada-dominio-al-cual-yo-no-conocia",
+      "imagen": "https://i.blogs.es/1aa914/movil-en-mesita-de-noche/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-26T10:31:29.000Z",
+      "fechaAgregada": "2026-10-26T11:18:31.468Z",
+      "puntosClave": [
+        "Un administrador de sistemas detectó tráfico de red nocturno no identificado desde su smartphone OPPO hacia un servidor desconocido.",
+        "El hallazgo se produjo durante un análisis comparativo del comportamiento en segundo plano de tres dispositivos móviles.",
+        "El incidente pone bajo la lupa las prácticas de telemetría y recolección opaca de datos por parte de los fabricantes de hardware."
+      ],
+      "porQueImporta": "Evidencia la creciente falta de transparencia en las capas de software móvil, lo que representa un riesgo crítico de ciberseguridad para empresas que gestionan datos sensibles en dispositivos corporativos sin supervisión de red adecuada.",
+      "tags": [
+        "Ciberseguridad",
+        "Privacidad",
+        "Telemetría",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "77ab326e-d254-4518-b8a6-6e32964fb0fa",
+      "titulo": "Microsoft Teams se prepara para detectar deepfakes en las reuniones",
+      "resumen": "Microsoft Teams quiere hacer frente a una amenaza que, hasta hace poco, parecía más propia de la ciencia ficción que de una reunión de trabajo. La inteligencia artificial generativa ha avanzado hasta permitir la creación de voces y rostros falsificados con un realismo que dificulta distinguirlos…",
+      "url": "https://www.muycomputer.com/2026/10/25/microsoft-teams-se-prepara-para-detectar-deepfakes-en-las-reuniones/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/10/Microsoft-teams-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-25T17:31:33.000Z",
+      "fechaAgregada": "2026-10-26T11:18:36.943Z",
+      "puntosClave": [
+        "Microsoft integrará herramientas de detección en tiempo real dentro de Teams para identificar identidades sintéticas en videollamadas.",
+        "La medida responde al vertiginoso avance de la IA generativa, capaz de clonar rostro y voz con precisión fotorrealista.",
+        "Esta función busca blindar las comunicaciones corporativas frente a suplantaciones de identidad y fraudes en entornos de trabajo."
+      ],
+      "porQueImporta": "La validación de identidad en reuniones remotas se convierte en un nuevo estándar de ciberseguridad corporativa. Este movimiento obligará a la industria a integrar capas de autenticación biométrica continua para mitigar ataques de ingeniería social potenciados por IA.",
+      "tags": [
+        "Microsoft",
+        "Ciberseguridad",
+        "Deepfakes",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "8385d258-432a-40a6-81fe-c42cf49dca4a",
+      "titulo": "Joe Tsai, presidente de Alibaba: \"La única forma de que Europa alcance la soberanía tecnológica es con la IA open source\"",
+      "resumen": "Ante un futuro donde la IA tengo un papel esencial en la mayoría de procesos productivos, ¿dónde querría tener una empresa europea sus datos? Joe Tsai, presidente y cofundador de Alibaba, lo tiene claro: no en una API cerrada probablemente suministrada por una empresa externa, sino en un modelo…",
+      "url": "https://www.xataka.com/robotica-e-ia/presidente-alibaba-tiene-claro-unica-forma-que-europa-alcance-soberania-tecnologica-ia-open-source",
+      "imagen": "https://i.blogs.es/11c6aa/retrato-pop-art-con-estrellas-europeas/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-25T17:30:11.000Z",
+      "fechaAgregada": "2026-10-26T11:18:30.758Z",
+      "puntosClave": [
+        "El presidente de Alibaba defiende el código abierto como la única vía real para proteger la privacidad de los datos empresariales en Europa.",
+        "La excesiva dependencia de APIs cerradas y proveedores estadounidenses amenaza la independencia digital del tejido productivo europeo.",
+        "El modelo open source se posiciona como la infraestructura estratégica clave para permitir el entrenamiento local y la personalización del software."
+      ],
+      "porQueImporta": "Para las empresas y desarrolladores europeos, apostar por el open source deja de ser una preferencia técnica para convertirse en una estrategia geopolítica: evita el bloqueo comercial con grandes tecnológicas y garantiza la custodia total sobre el activo más valioso de la era de la IA, los datos corporativos.",
+      "tags": [
+        "Open Source",
+        "Soberanía Digital",
+        "Alibaba",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "eb039d61-f049-460d-830b-b6f68c4d9d6c",
+      "titulo": "Respirar de cierta manera tiene efectos similares al LSD, abriendo un posible nuevo recurso para la medicina",
+      "resumen": "Una sesión de respiración excesiva reduce en un 45 % el flujo sanguíneo hacia el cerebro humano, alterando la comunicación entre las redes neuronales en personas expertas en estado físico y mental óptimo.",
+      "url": "https://www.xatakaciencia.com/psicologia/respirar-cierta-manera-tiene-efectos-similares-al-lsd-abriendo-posible-nuevo-recurso-para-medicina",
+      "imagen": "https://i.blogs.es/cbf8f9/xtc_respira/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-10-25T16:16:08.000Z",
+      "fechaAgregada": "2026-10-26T11:18:32.976Z",
+      "puntosClave": [
+        "La hiperventilación controlada reduce hasta un 45 % el riego sanguíneo en el cerebro, reconfigurando temporalmente la comunicación neuronal.",
+        "Las alteraciones en la conectividad cerebral generadas por esta técnica de respiración imitan los efectos neurológicos de psicodélicos como el LSD.",
+        "El hallazgo valida mecanismos fisiológicos no invasivos que podrían integrarse en terapias médicas y optimización cognitiva."
+      ],
+      "porQueImporta": "Este avance abre nuevas fronteras para la neurotecnología y el biohacking, permitiendo a desarrolladores e investigadores diseñar wearables e interfaces cerebro-computadora que monitoricen e induzcan estados alterados de conciencia y alto rendimiento sin recurrir a sustancias químicas.",
+      "tags": [
+        "Neurotecnología",
+        "Biohacking",
+        "Salud Digital",
+        "Ciencia"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "3e51ee7b-e7fc-4041-bc0c-f79344e079cf",
+      "titulo": "Qué hardware necesitas según el tamaño del modelo de IA que quieras ejecutar",
+      "resumen": "La mayoría de usuarios usan las IA que podemos encontrar de forma online, como ChatGPT, Gemini, Grok, etc. Sin embargo, también existe la opción de ejecutarla en local, es decir, en nuestro propio equipo, pero, ¿qué hardware me hace falta para que funcione bien?",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/hardware-necesario-tamano-modelo-ia-ejecutar/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/02/chip-ia.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-25T13:04:57.000Z",
+      "fechaAgregada": "2026-10-26T11:18:35.198Z",
+      "puntosClave": [
+        "Ejecutar modelos en local exige dimensionar principalmente la memoria VRAM de la GPU y la RAM del sistema según los parámetros del modelo.",
+        "Los modelos reducidos (3B a 7B) corren en GPUs de consumo estándar, mientras que arquitecturas mayores requieren hardware profesional o cuantización agresiva.",
+        "La transición hacia la IA local traslada el coste de computación de la nube a la infraestructura física propia, priorizando privacidad y latencia."
+      ],
+      "porQueImporta": "Comprender los requisitos de hardware es fundamental para que empresas y desarrolladores adopten la IA local con éxito, garantizando la soberanía de sus datos y optimizando costes de infraestructura sin realizar inversiones a ciegas.",
+      "tags": [
+        "Hardware",
+        "LLMs",
+        "IA Local",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "11174187-0a9e-4fa9-af2c-d4ba76f36778",
+      "titulo": "Chrome recurre a Gemini para detectar estafas antes de que caigas en ellas",
+      "resumen": "Chrome continúa reforzando sus herramientas de seguridad para hacer frente a unas estafas online cada vez más sofisticadas. Los ciberdelincuentes ya no se limitan a crear páginas fraudulentas que imitan servicios conocidos, sino que utilizan engaños capaces de convencer a los usuarios de realizar…",
+      "url": "https://www.muycomputer.com/2026/10/23/chrome-recurre-a-gemini-para-detectar-estafas-antes-de-que-caigas-en-ellas/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/10/Chrome-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T16:41:15.000Z",
+      "fechaAgregada": "2026-10-26T11:18:36.943Z",
+      "puntosClave": [
+        "Google integra la IA de Gemini en Chrome para analizar e identificar patrones de estafas complejas en tiempo real.",
+        "La medida responde al aumento de ataques de ingeniería social sofisticados que burlan los filtros de seguridad tradicionales.",
+        "El navegador pasa de actuar de forma puramente reactiva a convertirse en un agente de defensa proactivo y predictivo."
+      ],
+      "porQueImporta": "Marca el cambio de paradigma donde la IA generativa no solo genera contenido, sino que actúa como escudo de ciberseguridad a nivel de cliente. Para la industria, establece un nuevo estándar donde la navegación web requerirá modelos de IA locales o en la nube para validar la legitimidad de las interacciones en tiempo real.",
+      "tags": [
+        "Google Gemini",
+        "Ciberseguridad",
+        "Chrome",
+        "IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "f19feeb2-4da1-4553-add8-b1d363e03990",
+      "titulo": "La compañía de gafas neerlandesa es el primer minorista en retirar las gafas inteligentes Ray-Ban de Meta de más de 400 tiendas debido a “preguntas que se han planteado” sobre la tecnología",
+      "resumen": "Hans Anders ha detenido la venta de las gafas inteligentes Ray-Ban de Meta en los Países Bajos y Bélgica. Quieren esperar hasta que se aclare cómo se pueden utilizar estos dispositivos que pueden captar a las personas que les rodean sin que estas se den cuenta, ha declarado un portavoz…",
+      "url": "https://www.genbeta.com/actualidad/compania-gafas-neerlandesa-primer-minorista-retirar-gafas-inteligentes-ray-ban-meta-400-tiendas-debido-a-preguntas-que-se-han-planteado-tecnologia",
+      "imagen": "https://i.blogs.es/30a63f/hans-anders-y-meta/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-23T10:00:12.000Z",
+      "fechaAgregada": "2026-10-26T11:18:31.469Z",
+      "puntosClave": [
+        "Hans Anders paraliza la venta de las gafas inteligentes de Meta en más de 400 tiendas de Países Bajos y Bélgica.",
+        "La retirada responde a dudas éticas y legales sobre la capacidad del dispositivo para grabar a terceros de forma inadvertida.",
+        "Supone el primer freno comercial masivo en el canal minorista europeo para los wearables de IA de la tecnológica."
+      ],
+      "porQueImporta": "Este movimiento sienta un precedente crítico para los fabricantes de hardware con IA: demuestra que la privacidad pasiva de terceros no es solo un debate ético, sino un riesgo operativo real capaz de bloquear canales de distribución física y desacelerar la adopción masiva de wearables.",
+      "tags": [
+        "Meta",
+        "Hardware",
+        "Privacidad",
+        "Regulación"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "4b686810-9800-4855-a14e-3909cd38496c",
+      "titulo": "Consigue Windows 11 por 15 euros y Gemini Pro por 15 euros, y aprende a delegar en la IA sin perder el control",
+      "resumen": "El gran reto de la inteligencia artificial ya no consiste en descubrir todo lo que puede hacer, sino en aprender a utilizarla sin cederle aquello que sigue dependiendo de nosotros.",
+      "url": "https://www.muycomputer.com/2026/10/23/consigue-windows-11-por-15-euros-y-gemini-pro-por-15-euros-y-aprende-a-delegar-en-la-ia-sin-perder-el-control/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/10/Licencias-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-23T08:01:16.000Z",
+      "fechaAgregada": "2026-10-26T11:18:36.943Z",
+      "puntosClave": [
+        "Oferta promocional que facilita el acceso a licencias de Windows 11 y a la suscripción del modelo Gemini Pro a un precio reducido de 15 euros.",
+        "Evolución en la adopción de la IA, desplazando el foco desde la experimentación técnica hacia la integración práctica y responsable.",
+        "Énfasis en la capacitación del usuario para automatizar flujos de trabajo sin delegar la toma de decisiones ni el criterio humano."
+      ],
+      "porQueImporta": "La bajada de barreras económicas en herramientas clave como Gemini Pro acelera la adopción masiva, obligando a profesionales y empresas a definir marcos de gobernanza interna donde la IA potencie la eficiencia sin mermar la supervisión ni la calidad crítica de los proyectos.",
+      "tags": [
+        "Gemini Pro",
+        "Productividad",
+        "Gobernanza IA",
+        "Software"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "5f2e985d-4ff3-4e6f-bc2d-0460ef1a4f56",
+      "titulo": "Android XR llegará a las primeras gafas de Samsung en noviembre",
+      "resumen": "Samsung prepara el lanzamiento de sus primeras gafas con Android XR para noviembre de 2026. Un responsable de la empresa ha confirmado a The Korea Herald que tienen previsto lanzar productos de este tipo a finales de este año (hace unos meses fijaron el lanzamiento en otoño, aunque aún no han…",
+      "url": "https://www.genbeta.com/actualidad/android-xr-llegara-a-primeras-gafas-samsung-noviembre",
+      "imagen": "https://i.blogs.es/0fe254/gafas-de-samsung/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-22T07:01:36.000Z",
+      "fechaAgregada": "2026-10-26T11:18:31.470Z",
+      "puntosClave": [
+        "Samsung prepara el lanzamiento de sus primeras gafas con Android XR para noviembre de 2026.",
+        "Un responsable de la empresa ha confirmado a The Korea Herald que tienen previsto lanzar productos de este tipo a finales de este año (hace…"
+      ],
+      "porQueImporta": "«Android XR llegará a las primeras gafas de Samsung en noviembre» según Genbeta: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "ed23c6fc-27b4-4b99-995e-2622ec3f0fae",
+      "titulo": "Inteligencia artificial y manipulación: nuevas claves para interpretar lo que vemos en internet",
+      "resumen": "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes. Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-10-21/inteligencia-artificial-y-manipulacion-nuevas-claves-para-interpretar-lo-que-vemos-en-internet.html",
+      "imagen": "https://picsum.photos/seed/165/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-21T15:53:30.000Z",
+      "fechaAgregada": "2026-10-26T11:18:32.400Z",
+      "puntosClave": [
+        "La democratización de la IA generativa permite a los ciberdelincuentes escalar y sofisticar los ataques de ingeniería social a velocidad récord.",
+        "El hiperrealismo del contenido sintético exige trascender la detección visual básica y adoptar protocolos stándar de verificación activa.",
+        "La respuesta más efectiva a corto plazo combina la concienciación del usuario final con la implementación de filtros de seguridad en plataformas."
+      ],
+      "porQueImporta": "Para la industria y los desarrolladores, esta ola de fraudes hiperconvincentes acelera la necesidad de integrar mecanismos nativos de marca de agua y trazabilidad de origen (como C2PA), convirtiendo la autenticación de contenido en un pilar crítico de la ciberseguridad empresarial.",
+      "tags": [
+        "Ciberseguridad",
+        "IA Generativa",
+        "Deepfakes",
+        "Fraude Digital"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "13fe3613-bee5-436d-bcc0-e35aafaa43f3",
+      "titulo": "Yaiza Canosa, exitosa empresaria española: “Conozco más fontaneros bajándose de un Land Rover que a desarrolladores”",
+      "resumen": "Yaiza Canosa, en una entrevista en Actitud Constante, compara a los fontaneros con los programadores informáticos, afirmando: “Conozco a más fontaneros bajándose de un Land Rover que a desarrolladores de IT”.",
+      "url": "https://www.genbeta.com/laboral/yaiza-canosa-exitosa-empresaria-espanola-conozco-fontaneros-bajandose-land-rover-que-a-desarrolladores",
+      "imagen": "https://i.blogs.es/1fa02b/yaiza-canosa/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-21T14:01:41.000Z",
+      "fechaAgregada": "2026-10-26T11:18:31.470Z",
+      "puntosClave": [
+        "La empresaria Yaiza Canosa cuestiona la narrativa sobre la superioridad salarial del sector tecnológico frente a los oficios tradicionales.",
+        "La alta demanda y escasez de profesionales en trabajos manuales técnicos ha elevado exponencialmente sus ingresos respecto a desarrolladores de nivel medio.",
+        "El análisis plantea un cambio de paradigma en la percepción del éxito profesional en la era digital."
+      ],
+      "porQueImporta": "Anticipa una reconfiguración del mercado laboral donde la irrupción de la IA generativa puede commoditieszar el código básico, revalorizando los trabajos físicos no automatizables y obligando a los desarrolladores a escalar en la cadena de valor.",
+      "tags": [
+        "Mercado Laboral",
+        "IA y Empleo",
+        "Desarrollo de Software",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "7c647e49-cd18-47c8-8877-9f84436a7d13",
+      "titulo": "El Pentágono deja de utilizar las herramientas de IA de Anthropic tras incluir a la empresa en una lista negra, según pudo saber la BBC",
+      "resumen": "El Departamento de Defensa de Estados Unidos ya no utiliza la herramienta de inteligencia artificial Claude, según declaró el pasado 5 de octubre un funcionario del Pentágono, que indicó que el departamento “ha dejado de utilizar los productos de Anthropic”.",
+      "url": "https://www.genbeta.com/inteligencia-artificial/pentagono-deja-utilizar-herramientas-ia-anthropic-incluir-a-empresa-lista-negra-pudo-saber-bbc",
+      "imagen": "https://i.blogs.es/aba8d6/pulso-anthopic-y-eeuu/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-20T07:01:54.000Z",
+      "fechaAgregada": "2026-10-26T11:18:31.471Z",
+      "puntosClave": [
+        "El Departamento de Defensa de EE. UU. ha rescindido el uso de la familia de modelos Claude tras vetar formalmente a la firma Anthropic.",
+        "La decisión bloquea la presencia de una de las alternativas más avanzadas del mercado en operaciones y análisis dentro del estamento militar estadounidense.",
+        "El movimiento evidencia la creciente tensión entre los criterios éticos de las startups de IA y las exigencias de cumplimiento para contratos de seguridad nacional."
+      ],
+      "porQueImporta": "Este veto sienta un precedente crítico sobre cómo las restricciones normativas o de seguridad nacional pueden privar a las empresas de IA de los contratos públicos más lucrativos del mundo, forzando al sector a reevaluar sus políticas de alineamiento para no perder el mercado gubernamental.",
+      "tags": [
+        "Anthropic",
+        "Pentágono",
+        "LLMs",
+        "Seguridad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
