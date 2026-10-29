@@ -1,0 +1,354 @@
+{
+  "fecha": "2026-10-29",
+  "generado": "2026-10-29T11:50:17.174Z",
+  "total": 14,
+  "enriquecidasConIA": 13,
+  "noticias": [
+    {
+      "id": "794debe0-5bb7-41d5-9bf5-11fa2f14eb58",
+      "titulo": "¿Has comprado algo por internet? Chrome ya busca tu número de pedido en Gmail, pero todavía no en España",
+      "resumen": "Comprar por internet es sencillo, pero encontrar después el número de un pedido, recuperar un código de seguimiento o localizar cualquier tipo de información puede no serlo tanto, sobre todo si nuestro email está repleto de mensajes. Por eso, Google Chrome quiere poner fin al problema.",
+      "url": "https://www.adslzone.net/noticias/ia/google-chrome-gmail-gemini-autocompletar/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/10/Google-Gemini-Gmail.jpeg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-29T10:02:53.000Z",
+      "fechaAgregada": "2026-10-29T11:37:35.022Z",
+      "puntosClave": [
+        "Google Chrome integra una función que rastrea automáticamente números de pedido y seguimientos analizando los correos de Gmail.",
+        "La herramienta busca centralizar la información postventa directamente en el navegador sin necesidad de búsquedas manuales.",
+        "Esta actualización ya se está desplegando progresivamente, aunque su llegada a España y otros mercados europeos aún no está activa."
+      ],
+      "porQueImporta": "Esta función anticipa la era de los navegadores contextuales con agentes de IA integrados capaces de cruzar datos entre servicios sin fricción. Para el e-commerce y los desarrolladores web, redefine cómo interactuarán los usuarios con el estado de sus compras, desplazando la gestión postventa del panel de las tiendas directamente al cliente de navegación.",
+      "tags": [
+        "Google",
+        "Chrome",
+        "Productividad",
+        "E-commerce"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "0da6e5f7-5331-479d-837b-d18aacffb184",
+      "titulo": "Stephen Hawking imprimió humildad en la cosmología. A esto se refería con que \"visitamos solo una ínfima parte del universo\"",
+      "resumen": "Levantamos los ojos y el cielo parece infinito, pero en realidad, tiene frontera. La luz más antigua que llega hasta nosotros lleva viajando 13.800 millones de años, y con ella dibujamos una burbuja de 93.000 millones de años luz de diámetro.",
+      "url": "https://www.xatakaciencia.com/astronomia/stephen-hawking-imprimio-humildad-cosmologia-a-esto-se-referia-que-visitamos-solo-infima-parte-universo",
+      "imagen": "https://i.blogs.es/789ed8/gemini_generated_image_sl05oosl05oosl05/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-10-29T08:01:28.000Z",
+      "fechaAgregada": "2026-10-29T11:37:34.011Z",
+      "puntosClave": [
+        "El universo observable está delimitado físicamente por la velocidad de la luz y una antigüedad de 13.800 millones de años.",
+        "La expansión cósmica sitúa el diámetro de nuestra burbuja visible en unos 93.000 millones de años luz, restringiendo nuestro campo de estudio.",
+        "La visión de Hawking recuerda que la ciencia opera con una fracción mínima de datos sobre la totalidad real del cosmos."
+      ],
+      "porQueImporta": "Para la computación científica y los modelos de IA cosmológicos, subraya el sesgo inherente de entrenar algoritmos con datos limitados a nuestra burbuja observable, impulsando el desarrollo de modelos generativos que simulen escenarios más allá de los datos empíricos disponibles.",
+      "tags": [
+        "Astrofísica",
+        "Big Data",
+        "Simulación",
+        "Modelos Predictivos"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "67910b33-17f9-497e-b25f-a728c645a9b4",
+      "titulo": "Una popular salsa picante China tiene ingresos récord gracias a la IA. Y también una enorme crisis reputacional",
+      "resumen": "Cuando una empresa saca pecho de que la IA le funciona y, a la vez, de que ha tenido su mejor año, no debería extrañarle de que alguien sume uno más uno.",
+      "url": "https://www.xataka.com/magnet/fabricante-chili-presume-ia-ingresos-record-china-ha-tocado-nervio-miedo-a-que-ia-quite-trabajos",
+      "imagen": "https://i.blogs.es/5468af/tarro/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-29T06:01:27.000Z",
+      "fechaAgregada": "2026-10-29T11:37:32.348Z",
+      "puntosClave": [
+        "Una marca tradicional de salsas en China alcanzó cifras récord de facturación tras optimizar sus operaciones con inteligencia artificial.",
+        "El anuncio desató un fuerte rechazo público y una crisis de imagen ante la sospecha del reemplazo masivo de personal e ingeniería de producto deshumanizada.",
+        "El episodio expone el choque cultural y reputacional que enfrentan las empresas de consumo masivo al atribuir abiertamente su éxito comercial a la IA."
+      ],
+      "porQueImporta": "Demuestra que en la era de la automatización, la implementación de IA exige una estrategia de comunicación ética tan rigurosa como la técnica; optimizar costes e ingresos sin medir la percepción del consumidor puede destruir el valor intangible de la marca.",
+      "tags": [
+        "IA Corporativa",
+        "Ética en IA",
+        "Negocios",
+        "Estrategia Digital"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "536a579b-d047-437c-9e8d-a4b1961a4ce2",
+      "titulo": "OpenAI da una sorpresa y comienza a regalar hasta 500 dólares al mes en créditos de API a los usuarios de ChatGPT Pro y Business",
+      "resumen": "A OpenAI le está persiguiendo Anthropic a una velocidad sobrehumana digna de la IA. Por ello, la empresa de Sam Altman ha decidido mover ficha con la intención de poner ChatGPT a la altura de una de las últimas novedades de Claude.",
+      "url": "https://www.adslzone.net/noticias/ia/openai-creditos-api-gratis-chatgpt-pro-business/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/10/ChatGPT-logo-OpenAI-creditos-gratis.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-29T05:00:39.000Z",
+      "fechaAgregada": "2026-10-29T11:37:35.022Z",
+      "puntosClave": [
+        "OpenAI subvenciona con hasta 500 dólares mensuales en API a sus suscripciones Pro y Business para frenar el avance de Claude.",
+        "La medida busca incentivar la creación de agentes y flujos de trabajo avanzados directamente sobre la infraestructura de Sam Altman.",
+        "Esta estrategia transforma ChatGPT en un puente directo para que empresas y desarrolladores prueben sus modelos sin coste adicional."
+      ],
+      "porQueImporta": "Esta bonificación reduce la barrera financiera para probar entornos de desarrollo en la API de OpenAI, obligando a competidores como Anthropic a replantear la monetización de sus herramientas empresariales.",
+      "tags": [
+        "OpenAI",
+        "API",
+        "Estrategia Empresarial",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c9db8577-4b89-4ea9-b1fa-1299e704c62a",
+      "titulo": "Google lanza Gemini 4 Carbon, una IA que puede detectar fallos antes que los hackers",
+      "resumen": "A unas semanas del lanzamiento de Gemini 4 Argon, Google ha presentado un nuevo modelo de IA que la compañía describe como el más potente a la fecha. Conocido como Gemini 4 Carbon, esta variante cuenta con capacidades de programación y razonamiento avanzado, así como funciones especializadas…",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-4-carbon-google-ciberseguridad-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/gemini-4-carbon.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-28T19:40:00.000Z",
+      "fechaAgregada": "2026-10-29T11:37:32.592Z",
+      "puntosClave": [
+        "Google amplía la familia Gemini con la variante 4 Carbon, superando en razonamiento y capacidad analítica a la versión Argon.",
+        "El modelo integra funciones especializadas en auditoría de código para identificar vulnerabilidades de seguridad antes de su explotación.",
+        "Esta iteración combina programación avanzada y lógica compleja para ofrecer un entorno preventivo en el desarrollo de software."
+      ],
+      "porQueImporta": "La ciberseguridad corporativa pasa de un enfoque reactivo a uno predictivo; automatizar la detección de brechas críticas a nivel de código acelera los despliegues y reduce drásticamente los costes por incidentes de seguridad en la industria.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "Ciberseguridad",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "ee66b41d-8b74-43ea-93cc-9d468a9aec84",
+      "titulo": "Un hacker reventó toda la seguridad de PS5. Ahora otro ha cobrado 50.000 dólares por contar a Sony cómo lo hizo",
+      "resumen": "Sony acaba de pagar 50.000 dólares a un hacker. Es la cantidad máxima de su programa de recompensas por encontrar fallos en PlayStation 5, pero en esta ocasión a la cifra le faltan ceros si tenemos en cuenta la magnitud del error que este hacker había encontrado usando la IA.",
+      "url": "https://www.xataka.com/videojuegos/hacker-revento-toda-seguridad-ps5-ahora-otro-ha-cobrado-50-000-dolares-contar-a-sony-como-hizo",
+      "imagen": "https://i.blogs.es/5c2365/captura-de-pantalla-2026-10-28-a-las-14.56.45/1024_2000.png",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-28T19:01:27.000Z",
+      "fechaAgregada": "2026-10-29T11:37:32.349Z",
+      "puntosClave": [
+        "Sony pagó 50.000 dólares, la recompensa máxima de su programa de ciberseguridad, tras la neutralización de un fallo crítico en el firmware de PS5.",
+        "El hallazgo de la vulnerabilidad destaca por haber sido identificado mediante herramientas de inteligencia artificial, acelerando el proceso de ingeniería inversa.",
+        "El importe del incentivo resulta simbólico frente al valor de mercado que un exploit de esta magnitud habría alcanzado en el mercado negro."
+      ],
+      "porQueImporta": "Demuestra cómo la inteligencia artificial está democratizando y acelerando la auditoría de seguridad en hardware cerrado, obligando a los gigantes tecnológicos a reestructurar sus presupuestos de ciberseguridad para competir contra la efectividad de las herramientas asistidas por IA.",
+      "tags": [
+        "Ciberseguridad",
+        "Inteligencia Artificial",
+        "Hardware",
+        "PlayStation 5"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "d7046f31-1039-4ec9-a139-ba77d6060214",
+      "titulo": "NVIDIA RTX Spark: tú decides cuánta potencia reciben tus agentes de IA",
+      "resumen": "NVIDIA RTX Spark quiere que podamos trabajar con inteligencia artificial en nuestro ordenador sin tener que dejar de utilizarlo para todo lo demás. La idea resulta especialmente interesante cuando pensamos en agentes capaces de analizar documentos, investigar o desarrollar tareas por su cuenta…",
+      "url": "https://www.muycomputer.com/2026/10/28/nvidia-rtx-spark-tu-decides-cuanta-potencia-reciben-tus-agentes-de-ia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/10/NVIDIA-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-28T18:34:40.000Z",
+      "fechaAgregada": "2026-10-29T11:37:37.824Z",
+      "puntosClave": [
+        "NVIDIA RTX Spark permite asignar y limitar manualmente la potencia de GPU dedicada a la ejecución de agentes de IA.",
+        "Facilita la ejecución de tareas autónomas pesadas en segundo plano —como análisis o investigación— sin congelar el equipo.",
+        "Optimiza la gestión de recursos locales para lograr un equilibrio eficiente entre asistentes virtuales y el trabajo diario del usuario."
+      ],
+      "porQueImporta": "Elimina la saturación del sistema como principal barrera del cómputo local. Esto permite a desarrolladores y profesionales desplegar agentes autónomos continuos en sus propios equipos sin sacrificar la fluidez del flujo de trabajo diario ni depender obligatoriamente de la nube.",
+      "tags": [
+        "NVIDIA",
+        "Hardware",
+        "Agentes IA",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "afc74bab-d991-4ad2-8511-d08b9b5dacd3",
+      "titulo": "Las tecnológicas han encontrado una nueva forma de crecer: despedir a 197.000 empleados mientras baten récords de ingresos",
+      "resumen": "Uno de los primeros síntomas de crisis financiera en una empresa era el despido de sus trabajadores. Ante los primeros indicios de falta de solvencia, las empresas se contraían para reducir el gasto y dedicar más recursos a invertir en mejorar la productividad y mejorar sus ingresos.",
+      "url": "https://www.xataka.com/empresas-y-economia/despidos-tecnologicos-2026-rozan-197-000-pleno-giro-capital-ia",
+      "imagen": "https://i.blogs.es/a9ffbc/miguel-angel-hernandez-ycrwjwlgi-c-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-28T18:30:00.000Z",
+      "fechaAgregada": "2026-10-29T11:37:32.349Z",
+      "puntosClave": [
+        "Las Big Tech han roto la regla histórica del mercado: ejecutan recortes masivos de plantilla no por crisis, sino como estrategia para maximizar sus márgenes de beneficio.",
+        "La industria acumula 197.000 despidos en un periodo paradójico marcado por facturaciones récord y alta liquidez.",
+        "El ajuste laboral responde a una reestructuración estratégica para liberar capital e invertir agresivamente en infraestructura de Inteligencia Artificial."
+      ],
+      "porQueImporta": "Esta dinámica redefine el perfil del desarrollador: las grandes firmas ya no buscan hipercrecimiento mediante contratación masiva, sino plantillas hiperfocalizadas en IA y automatización, exigiendo a los profesionales reconvertirse hacia la integración de modelos generativos.",
+      "tags": [
+        "Big Tech",
+        "Mercado Laboral",
+        "Productividad",
+        "Inversión IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "26224f2c-1a79-487e-9085-b6f4b413e9ac",
+      "titulo": "Samsung lanza sus nuevos auriculares tipo clip que no se meten en la oreja y llevan la IA de Gemini",
+      "resumen": "Samsung ha lanzado un nuevo integrante de su familia de auriculares. El gigante surcoreano presentó los Galaxy Buds On, sus primeros auriculares con diseño abierto que buscan ofrecer una experiencia diferente a los tradicionales modelos intraaurales.",
+      "url": "https://hipertextual.com/tecnologia/samsung-galaxy-buds-on-auriculares-abiertos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/galaxy-buds-on-2.jpg?fit=1024%2C591&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-28T18:11:00.000Z",
+      "fechaAgregada": "2026-10-29T11:37:32.592Z",
+      "puntosClave": [
+        "Samsung presenta los Galaxy Buds On, su primer modelo de auriculares abiertos tipo clip que no se insertan en el canal auditivo.",
+        "El dispositivo integra de forma nativa el asistente Google Gemini para ejecutar tareas e interacciones inteligentes mediante comandos de voz.",
+        "El formato busca ofrecer mayor comodidad prolongada permitiendo escuchar el entorno mientras se aprovechan las funciones de IA."
+      ],
+      "porQueImporta": "Este lanzamiento consolida la transición del hardware hacia dispositivos de audio contextuales como la interfaz primaria para asistentes de IA. Para la industria, demuestra cómo las grandes tecnológicas apuestan por la computación ambiental donde los modelos como Gemini operan sin necesidad de mirar una pantalla.",
+      "tags": [
+        "Samsung",
+        "Gemini",
+        "Hardware",
+        "IA Conversacional"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c2455d08-0532-49b9-8b79-7ea4acb6dbde",
+      "titulo": "NVIDIA RTX Spark se dispara: más IA, agentes inteligentes y juegos con DLSS 4.5",
+      "resumen": "NVIDIA RTX Spark nos presenta novedades menos de dos semanas después de su lanzamiento. Llegan nuevos modelos de IA, herramientas para usar agentes personales y opciones para crear contenido directamente desde el portátil, entre otras cosas.",
+      "url": "https://hardzone.es/noticias/equipos/nvidia-rtx-spark-novedades-dlss/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/10/NVIDIA-RTX-Spark.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-28T15:00:41.000Z",
+      "fechaAgregada": "2026-10-29T11:37:36.640Z",
+      "puntosClave": [
+        "NVIDIA RTX Spark nos presenta novedades menos de dos semanas después de su lanzamiento.",
+        "Llegan nuevos modelos de IA, herramientas para usar agentes personales y opciones para crear contenido directamente desde el portátil…"
+      ],
+      "porQueImporta": "«NVIDIA RTX Spark se dispara: más IA, agentes inteligentes y juegos con DLSS 4.5» según HardZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "NVIDIA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "084196fc-d2f0-4628-a3b0-27fd282b5ad2",
+      "titulo": "Nuevos buscadores inteligentes rastrean objetivos a velocidades hipersónicas sin GPS ni señales de radio",
+      "resumen": "OKSI ha presentado cabezas buscadoras de misiles capaces de reconocer y seguir un objetivo sin necesidad de GPS, designación láser ni radio, afirmó la empresa, que cuenta con algoritmos capaces de funcionar tanto a velocidad subsónica como hipersónica.",
+      "url": "https://www.genbeta.com/seguridad/nuevos-buscadores-inteligentes-rastrean-objetivos-a-velocidades-hipersonicas-gps-senales-radio",
+      "imagen": "https://i.blogs.es/55ccdb/oksi/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-28T11:01:28.000Z",
+      "fechaAgregada": "2026-10-29T11:37:33.240Z",
+      "puntosClave": [
+        "OKSI ha desarrollado cabezas buscadoras de misiles guiadas por visión artificial que operan sin depender de sistemas de navegación externos.",
+        "El sistema prescinde de GPS, ondas de radio o designación láser, haciéndolo inmune a las tácticas habituales de guerra electrónica y *jamming*.",
+        "Los algoritmos de procesamiento visual son capaces de reconocer y rastrear objetivos en tiempo real desde velocidades subsónicas hasta escalas hipersónicas."
+      ],
+      "porQueImporta": "Representa un hito crítico en el desarrollo de *Edge AI* y visión por computador, demostrando que los modelos de aprendizaje profundo pueden tomar decisiones autónomas de alta precisión a velocidades extremas y en entornos con desconexión total de red.",
+      "tags": [
+        "Visión por Computador",
+        "Edge AI",
+        "Defensa",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "a794deed-c0dc-45dc-aa6b-5c755d92b0a9",
+      "titulo": "Vigila todo lo que ocurra en tu ausencia con estas cámaras IP en oferta",
+      "resumen": "Si quieres vigilar todo lo que ocurra en tu vivienda o negocio, contar con una cámara de seguridad es una buena opción. Vamos a mostrarte algunos modelos que puedes adquirir en oferta.",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-ip-1026/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/10/camara-seguridad-pared-2.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-28T10:31:28.000Z",
+      "fechaAgregada": "2026-10-29T11:37:36.151Z",
+      "puntosClave": [
+        "Rebajas temporales en cámaras IP facilitan la adquisición de hardware de videovigilancia accesible para usuarios y pymes.",
+        "Los dispositivos ofertados permiten monitorización remota continua de espacios físicos a través de conexiones de red.",
+        "El descenso de precios acelera la penetración de equipos de seguridad conectados dentro del ecosistema IoT doméstico."
+      ],
+      "porQueImporta": "La democratización de cámaras IP de bajo coste amplía la red de sensores físicos en el borde (Edge), lo que permite a desarrolladores e industrias integrar algoritmos locales de visión por computador y analítica de vídeo sin grandes inversiones en infraestructura.",
+      "tags": [
+        "Hardware",
+        "IoT",
+        "Visión por Computador",
+        "Ciberseguridad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "782e436f-36de-4ad8-b2e4-49047dac0717",
+      "titulo": "Chrome corrige 52 vulnerabilidades, 4 de ellas críticas, y debes actualizar lo antes posible",
+      "resumen": "Google Chrome ha corregido una serie de vulnerabilidades que afectan a este navegador y es fundamental actualizar cuanto antes. En total son 52 fallos los que ha detectado, de los cuales 4 han sido calificados como críticos.",
+      "url": "https://www.redeszone.net/noticias/seguridad/chrome-corrige-vulnerabilidaes-importantes-actualizar/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/10/logo-navegador-chrome.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-28T08:22:54.000Z",
+      "fechaAgregada": "2026-10-29T11:37:36.151Z",
+      "puntosClave": [
+        "Google parchea de urgencia un total de 52 fallos de seguridad en Chrome, enfocándose en neutralizar cuatro brechas de gravedad máxima.",
+        "La actualización es prioritaria para mitigar riesgos de ejecución remota de código y secuestro de datos en el navegador más utilizado del mercado.",
+        "El despliegue masivo busca blindar los entornos informáticos antes de que los vectores de ataque sean explotados públicamente."
+      ],
+      "porQueImporta": "Para las organizaciones y desarrolladores que ejecutan agentes de IA o automatizaciones sobre headless Chrome, estas vulnerabilidades representan un punto ciego masivo que podría exfiltrar credenciales corporativas o comprometer la infraestructura si no se aplican los parches de inmediato.",
+      "tags": [
+        "Ciberseguridad",
+        "Google Chrome",
+        "Seguridad Web",
+        "Software"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "67992ad7-02bb-4828-bab1-f3a21828b6aa",
+      "titulo": "MacBook Pro 14 M6: Apple estrena una nueva generación de potencia e IA",
+      "resumen": "El MacBook Pro 14 M6 da el siguiente paso en la nueva generación de Apple Silicon, con la que Apple quiere seguir ampliando las posibilidades de sus ordenadores profesionales, especialmente en aquellos escenarios donde el rendimiento tradicional debe convivir con cargas de trabajo cada vez más…",
+      "url": "https://www.muycomputer.com/2026/10/27/macbook-pro-14-m6-apple-estrena-una-nueva-generacion-de-potencia-e-ia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/10/MacBook-Pro-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-27T18:22:07.000Z",
+      "fechaAgregada": "2026-10-29T11:37:37.824Z",
+      "puntosClave": [
+        "Apple hace evolucionar la arquitectura de sus procesadores con la llegada del chip M6, optimizado para ejecutar tareas complejas y modelos de IA de forma local.",
+        "El nuevo MacBook Pro de 14 pulgadas combina un alto rendimiento gráfico con aceleración dedicada para cargas de trabajo de aprendizaje automático.",
+        "El lanzamiento consolida la estrategia de la marca para transformar sus equipos portátiles en estaciones de trabajo avanzadas preparadas para el desarrollo con IA."
+      ],
+      "porQueImporta": "La integración de hardware optimizado para IA en portátiles profesionales permite a desarrolladores y empresas ejecutar y ajustar modelos avanzados en local, reduciendo la dependencia de la nube, mejorando la privacidad y optimizando los costes operativos de infraestructura.",
+      "tags": [
+        "Apple",
+        "Hardware",
+        "Inteligencia Artificial",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
