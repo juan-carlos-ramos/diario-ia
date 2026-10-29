@@ -152,6 +152,34 @@ const PALABRAS_CLAVE_EXCLUIR = [
   "hipoteca",
 ];
 
+// Tope editorial diario de noticias a procesar y enriquecer.
+// Protege contra rate limits de Gemini (4.5s/noticia) y previene timeouts en GitHub Actions.
+const MAX_NOTICIAS_DIARIAS = 14;
+
+/**
+ * Aplica el tope editorial a las noticias detectadas, ordenadas previamente por frescura.
+ * Garantiza que no se sobrepase el límite diario para enriquecimiento y publicación.
+ *
+ * @param {Array} noticias - Noticias filtradas y ordenadas por fecha.
+ * @param {number} [max=MAX_NOTICIAS_DIARIAS] - Tope máximo de noticias.
+ * @returns {Array} Lista acotada al tope editorial.
+ */
+function aplicarTopeEditorial(noticias, max = MAX_NOTICIAS_DIARIAS) {
+  if (!Array.isArray(noticias)) return [];
+  const total = noticias.length;
+  if (total > max) {
+    const seleccionadas = noticias.slice(0, max);
+    console.log(
+      `[Editorial] Detectadas ${total} noticias. Aplicando tope editorial: seleccionadas las ${seleccionadas.length} noticias más relevantes del día por frescura.`,
+    );
+    return seleccionadas;
+  }
+  console.log(
+    `[Editorial] Seleccionadas las ${total} noticias más relevantes del día.`,
+  );
+  return noticias;
+}
+
 function esRelevante(titulo, resumen) {
   const texto = `${titulo} ${resumen}`.toLowerCase();
 
@@ -1188,7 +1216,8 @@ async function main() {
   }
 
   const noticiasCrudas = await obtenerNoticias();
-  const noticiasEnriquecidas = await enriquecerNoticias(noticiasCrudas);
+  const noticiasParaProcesar = aplicarTopeEditorial(noticiasCrudas);
+  const noticiasEnriquecidas = await enriquecerNoticias(noticiasParaProcesar);
   await guardarNoticias(noticiasEnriquecidas);
 
   if (!soloFetch) {
@@ -1210,6 +1239,9 @@ if (esEjecucionDirecta) {
 
 // Exports para pruebas aisladas (no disparan main ni llamadas reales a la API)
 export {
+  MAX_NOTICIAS_DIARIAS,
+  aplicarTopeEditorial,
+  obtenerNoticias,
   derivarPuntosClaveLocales,
   enriquecerFallback,
   calcularEsperaBackoff,

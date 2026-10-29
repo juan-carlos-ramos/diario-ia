@@ -11,6 +11,8 @@ import {
   ErrorCuotaAgotada,
   UMBRAL_429_CONSECUTIVOS,
   debeOmitirEdicionDeHoy,
+  MAX_NOTICIAS_DIARIAS,
+  aplicarTopeEditorial,
 } from "../scripts/fetch-news.mjs";
 
 // ─────────────────────────────────────────────────────────────
@@ -239,5 +241,56 @@ describe("fetch-news · CLI idempotente (sin red, sin API)", () => {
     );
     expect(salida).toMatch(/omit(iendo|iendo)/i);
     expect(salida).toMatch(/idempotente/i);
+  });
+});
+
+describe("fetch-news · tope editorial inteligente", () => {
+  it("define MAX_NOTICIAS_DIARIAS en 14 para blindar tiempo y rate limit", () => {
+    expect(MAX_NOTICIAS_DIARIAS).toBe(14);
+  });
+
+  it("mantiene intacta la lista si hay menos o igual de 14 noticias", () => {
+    const noticias = Array.from({ length: 8 }, (_, i) => ({
+      id: `id-${i}`,
+      titulo: `Noticia ${i}`,
+      fechaPublicacion: `2026-10-28T10:0${i}:00Z`,
+    }));
+    const resultado = aplicarTopeEditorial(noticias);
+    expect(resultado).toHaveLength(8);
+    expect(resultado[0].titulo).toBe("Noticia 0");
+  });
+
+  it("aplica el tope de 14 cuando se detectan más noticias, preservando el orden de frescura", () => {
+    const noticias = Array.from({ length: 22 }, (_, i) => ({
+      id: `id-${i}`,
+      titulo: `Noticia ${i}`,
+      fechaPublicacion: `2026-10-28T10:${i.toString().padStart(2, "0")}:00Z`,
+    }));
+    const resultado = aplicarTopeEditorial(noticias);
+    expect(resultado).toHaveLength(14);
+    expect(resultado[0].titulo).toBe("Noticia 0");
+    expect(resultado[13].titulo).toBe("Noticia 13");
+  });
+
+  it("emite logs informativos con el prefijo [Editorial]", () => {
+    const spy = vi.spyOn(console, "log").mockImplementation(() => {});
+    const muchas = Array.from({ length: 16 }, (_, i) => ({ id: `${i}` }));
+    aplicarTopeEditorial(muchas);
+    expect(spy).toHaveBeenCalledWith(
+      expect.stringContaining("[Editorial] Detectadas 16 noticias. Aplicando tope editorial"),
+    );
+
+    const pocas = Array.from({ length: 5 }, (_, i) => ({ id: `${i}` }));
+    aplicarTopeEditorial(pocas);
+    expect(spy).toHaveBeenCalledWith(
+      expect.stringContaining("[Editorial] Seleccionadas las 5 noticias más relevantes"),
+    );
+    spy.mockRestore();
+  });
+
+  it("maneja entradas no válidas devolviendo array vacío", () => {
+    expect(aplicarTopeEditorial(null)).toEqual([]);
+    expect(aplicarTopeEditorial(undefined)).toEqual([]);
+    expect(aplicarTopeEditorial("invalido")).toEqual([]);
   });
 });
