@@ -1,0 +1,226 @@
+{
+  "fecha": "2026-10-30",
+  "generado": "2026-10-30T11:38:55.248Z",
+  "total": 9,
+  "enriquecidasConIA": 7,
+  "noticias": [
+    {
+      "id": "772d6552-bc31-458c-b87c-7c9f77ff685d",
+      "titulo": "Bethesda cierra un juego fan de Fallout generado por IA",
+      "resumen": "El proyecto de Fallout: New York estuvo poco tiempo abierto al público. El 28 de septiembre de 2026, Chris First publicaba un juego online (construido, según su autor, con Claude Opus 5.5) que llevaba al mundo de Fallout a Nueva York. No era necesario instalar nada.",
+      "url": "https://www.genbeta.com/actualidad/bethesda-cierra-juego-fan-fallout-generado-ia",
+      "imagen": "https://i.blogs.es/7c1f39/fallout-new-york/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-30T11:01:31.000Z",
+      "fechaAgregada": "2026-10-30T11:29:06.217Z",
+      "puntosClave": [
+        "El proyecto de Fallout: New York estuvo poco tiempo abierto al público.",
+        "El 28 de septiembre de 2026, Chris First publicaba un juego online (construido, según su autor, con Claude Opus 5.5) que llevaba al mundo…",
+        "No era necesario instalar nada."
+      ],
+      "porQueImporta": "«Bethesda cierra un juego fan de Fallout generado por IA» según Genbeta: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Claude"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "023dcf93-e364-458f-89a4-bde43e03b528",
+      "titulo": "Sam Altman, creador de ChatGPT: \"El mundo debería aceptar que sucedan algunas cosas malas\" en aras de los beneficios de la IA",
+      "resumen": "Sam Altman, director ejecutivo de OpenAI, cree que el mundo tendrá que convivir con algunos daños de la inteligencia artificial para aprovechar sus ventajas, y lo presenta como uno de los puntos que le separan de Anthropic.",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sam-altman-creador-chatgpt-mundo-deberia-aceptar-que-sucedan-algunas-cosas-malas-aras-beneficios-ia",
+      "imagen": "https://i.blogs.es/170096/53472125825_8aeabe1e25_k/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-30T09:01:29.000Z",
+      "fechaAgregada": "2026-10-30T11:29:06.218Z",
+      "puntosClave": [
+        "Sam Altman sostiene que la sociedad debe asumir ciertos riesgos y daños colaterales de la IA para no frenar sus beneficios masivos.",
+        "Esta postura pragmática de OpenAI marca una brecha estratégica con Anthropic, que prioriza la seguridad y la mitigación de riesgos antes del despliegue.",
+        "El liderazgo de OpenAI aboga por corregir fallos sobre la marcha en el mundo real en lugar de buscar un modelo ético perfecto e inactivo."
+      ],
+      "porQueImporta": "Esta divergencia ideológica forzará a las empresas y desarrolladores a elegir bando: apostar por el ritmo acelerado e innovador de OpenAI aceptando margen de error, o por la infraestructura prudente y blindada de Anthropic.",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Sam Altman",
+        "Seguridad IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "7325a78f-024b-4a4c-a112-7f425be91bbf",
+      "titulo": "Estados Unidos cree que el CEO de NVIDIA fue blanco de una espía china",
+      "resumen": "Jensen Huang, el CEO de NVIDIA, está siendo noticia y no por los avances de su compañía en materia de hardware para inteligencia artificial o gaming. Un reporte de The New York Times afirma que el líder de la tecnológica desarrolló una \"relación cercana\" con una supuesta espía china.",
+      "url": "https://hipertextual.com/actualidad/jensen-huang-nvidia-fue-blanco-de-una-espia-china-cree-eeuu/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/11/nvidia-a100-scaled.jpg?fit=1024%2C664&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-29T15:29:32.000Z",
+      "fechaAgregada": "2026-10-30T11:29:05.335Z",
+      "puntosClave": [
+        "Jensen Huang habría sido objetivo de una presunta operadora de inteligencia vinculada a Pekín mediante un vínculo cercano.",
+        "El reporte expone la vulnerabilidad del liderazgo de NVIDIA ante operaciones de contrainteligencia y guerra comercial.",
+        "El incidente intensifica la presión de seguridad nacional sobre las cadenas de suministro de hardware crítico para IA."
+      ],
+      "porQueImporta": "El asedio de inteligencia sobre NVIDIA confirma que los semiconductores son el activo geopolítico más codiciado, lo que acelerará restricciones estatales aún más severas sobre la exportación de silicio y la transferencia técnica hacia China.",
+      "tags": [
+        "NVIDIA",
+        "Hardware",
+        "Ciberseguridad",
+        "Geopolítica"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "25e48d4f-8bfc-4fe7-a86e-1e38948212bc",
+      "titulo": "Stephen Hawking imprimió humildad en la cosmología. A esto se refería con que \"visitamos solo una ínfima parte del universo\"",
+      "resumen": "Levantamos los ojos y el cielo parece infinito, pero en realidad, tiene frontera. La luz más antigua que llega hasta nosotros lleva viajando 13.800 millones de años, y con ella dibujamos una burbuja de 93.000 millones de años luz de diámetro.",
+      "url": "https://www.xatakaciencia.com/astronomia/stephen-hawking-imprimio-humildad-cosmologia-a-esto-se-referia-que-visitamos-solo-infima-parte-universo",
+      "imagen": "https://i.blogs.es/789ed8/gemini_generated_image_sl05oosl05oosl05/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-10-29T08:01:28.000Z",
+      "fechaAgregada": "2026-10-30T11:29:07.419Z",
+      "puntosClave": [
+        "El universo observable está delimitado físicamente por la velocidad de la luz y el tiempo transcurrido desde el Big Bang.",
+        "Nuestra ventana cósmica actual abarca una esfera teórica de 93.000 millones de años luz de diámetro debido a la expansión del espacio.",
+        "Hawking postuló que el sesgo de observación humana limita profundamente la comprensión de las leyes fundamentales del cosmos."
+      ],
+      "porQueImporta": "Este límite observacional desafía a la computación científica y a los modelos de IA astronómica a inferir física fundamental a partir de datos intrínsecamente incompletos, impulsando nuevas arquitecturas de aprendizaje autosupervisado.",
+      "tags": [
+        "Ciencia",
+        "Astrofísica",
+        "Big Data",
+        "Computación"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "8e6bace5-1764-4ffd-ab33-4fc7528050e1",
+      "titulo": "NVIDIA RTX Spark: tú decides cuánta potencia reciben tus agentes de IA",
+      "resumen": "NVIDIA RTX Spark quiere que podamos trabajar con inteligencia artificial en nuestro ordenador sin tener que dejar de utilizarlo para todo lo demás. La idea resulta especialmente interesante cuando pensamos en agentes capaces de analizar documentos, investigar o desarrollar tareas por su cuenta…",
+      "url": "https://www.muycomputer.com/2026/10/28/nvidia-rtx-spark-tu-decides-cuanta-potencia-reciben-tus-agentes-de-ia/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/10/NVIDIA-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-28T18:34:40.000Z",
+      "fechaAgregada": "2026-10-30T11:29:11.454Z",
+      "puntosClave": [
+        "NVIDIA RTX Spark quiere que podamos trabajar con inteligencia artificial en nuestro ordenador sin tener que dejar de utilizarlo para todo…",
+        "La idea resulta especialmente interesante cuando pensamos en agentes capaces de analizar documentos, investigar o desarrollar tareas…"
+      ],
+      "porQueImporta": "«NVIDIA RTX Spark: tú decides cuánta potencia reciben tus agentes de IA» según MuyComputer: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "NVIDIA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "4987e3cc-fff3-4901-9adf-3db13893b999",
+      "titulo": "Nuevos buscadores inteligentes rastrean objetivos a velocidades hipersónicas sin GPS ni señales de radio",
+      "resumen": "OKSI ha presentado cabezas buscadoras de misiles capaces de reconocer y seguir un objetivo sin necesidad de GPS, designación láser ni radio, afirmó la empresa, que cuenta con algoritmos capaces de funcionar tanto a velocidad subsónica como hipersónica.",
+      "url": "https://www.genbeta.com/seguridad/nuevos-buscadores-inteligentes-rastrean-objetivos-a-velocidades-hipersonicas-gps-senales-radio",
+      "imagen": "https://i.blogs.es/55ccdb/oksi/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-28T11:01:28.000Z",
+      "fechaAgregada": "2026-10-30T11:29:06.219Z",
+      "puntosClave": [
+        "OKSI ha desarrollado sistemas de guiado óptico autónomo para misiles que prescinden totalmente de redes GPS, radiofrecuencia y marcado láser.",
+        "La tecnología integra algoritmos de visión computacional diseñados para identificar y perseguir objetivos a velocidades extremas, incluyendo el rango hipersónico.",
+        "El avance permite operar con precisión quirúrgica en entornos de combate con guerra electrónica densa y bloqueo total de comunicaciones."
+      ],
+      "porQueImporta": "Demuestra el avance crítico de la computación en el borde (Edge AI) aplicada a la defensa, donde algoritmos de visión autónoma procesan información en milisegundos sin conectividad externa, marcando un precedente en sistemas robóticos capaces de operar en entornos denegados.",
+      "tags": [
+        "IA Militar",
+        "Visión Computacional",
+        "Edge AI",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "74e528d9-5579-4a95-b880-c535db7c5f8c",
+      "titulo": "Vigila todo lo que ocurra en tu ausencia con estas cámaras IP en oferta",
+      "resumen": "Si quieres vigilar todo lo que ocurra en tu vivienda o negocio, contar con una cámara de seguridad es una buena opción. Vamos a mostrarte algunos modelos que puedes adquirir en oferta.",
+      "url": "https://www.redeszone.net/noticias/ofertas/tiendas-varias-camaras-ip-1026/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/10/camara-seguridad-pared-2.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-28T10:31:28.000Z",
+      "fechaAgregada": "2026-10-30T11:29:09.486Z",
+      "puntosClave": [
+        "RedesZone destaca una selección de cámaras IP con descuentos temporales para la protección de hogares y pequeños negocios.",
+        "Los dispositivos permiten la supervisión remota en tiempo real mediante conectividad a Internet y aplicaciones móviles.",
+        "La bajada de precios facilita el acceso a hardware de videovigilancia básico para optimizar la seguridad en espacios físicos."
+      ],
+      "porQueImporta": "La proliferación de cámaras IP asequibles acelera la adopción masiva de dispositivos IoT en el borde (Edge Computing), lo que amplía la superficie de datos visuales aprovechables para futuros sistemas de visión por computador y analítica de seguridad automatizada.",
+      "tags": [
+        "IoT",
+        "Hardware",
+        "Ciberseguridad",
+        "Visión por Computador"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "acefc78b-0f28-4f13-89b3-d32d019e8712",
+      "titulo": "Chrome corrige 52 vulnerabilidades, 4 de ellas críticas, y debes actualizar lo antes posible",
+      "resumen": "Google Chrome ha corregido una serie de vulnerabilidades que afectan a este navegador y es fundamental actualizar cuanto antes. En total son 52 fallos los que ha detectado, de los cuales 4 han sido calificados como críticos.",
+      "url": "https://www.redeszone.net/noticias/seguridad/chrome-corrige-vulnerabilidaes-importantes-actualizar/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/10/logo-navegador-chrome.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-28T08:22:54.000Z",
+      "fechaAgregada": "2026-10-30T11:29:09.486Z",
+      "puntosClave": [
+        "Google despliega un parche masivo que subsana 52 brechas de seguridad en el ecosistema de su navegador.",
+        "Cuatro de las fallas han sido clasificadas con nivel crítico, lo que eleva el riesgo de ejecución remota de código.",
+        "Se requiere la actualización inmediata del software para mitigar el aprovechamiento activo de estas vulnerabilidades."
+      ],
+      "porQueImporta": "En un entorno corporativo donde el navegador es la puerta de acceso principal a herramientas SaaS y entornos de desarrollo, no aplicar este parche expone la infraestructura a ciberataques que podrían comprometer credenciales y datos sensibles.",
+      "tags": [
+        "Ciberseguridad",
+        "Google Chrome",
+        "Seguridad Web",
+        "Software"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "7685e054-f291-4f99-ac22-43e37a2819e5",
+      "titulo": "Inteligencia artificial y manipulación: nuevas claves para interpretar lo que vemos en internet",
+      "resumen": "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes. Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-10-21/inteligencia-artificial-y-manipulacion-nuevas-claves-para-interpretar-lo-que-vemos-en-internet.html",
+      "imagen": "https://picsum.photos/seed/212/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-21T15:53:30.000Z",
+      "fechaAgregada": "2026-10-30T11:29:06.376Z",
+      "puntosClave": [
+        "La maduración de la IA generativa permite a los cibercriminales escalar fraudes hiperrealistas a una velocidad sin precedentes.",
+        "El principal vector de ataque ya no es el fallo técnico, sino la manipulación de la percepción y la urgencia emocional del usuario.",
+        "La respuesta más efectiva a corto plazo combina la alfabetización digital básica con el freno consciente antes de interactuar con contenido sospechoso."
+      ],
+      "porQueImporta": "Impulsa a los desarrolladores y empresas a priorizar la implementación de estándares de autenticidad (como C2PA) y marcas de agua invisibles, ya que la erosión de la confianza digital del usuario amenaza de manera directa la adopción masiva de soluciones basadas en IA generativa.",
+      "tags": [
+        "Ciberseguridad",
+        "IA Generativa",
+        "Deepfakes",
+        "Confianza Digital"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
