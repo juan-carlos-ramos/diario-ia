@@ -1,0 +1,158 @@
+{
+  "fecha": "2026-10-31",
+  "generado": "2026-10-31T11:09:37.820Z",
+  "total": 6,
+  "enriquecidasConIA": 6,
+  "noticias": [
+    {
+      "id": "59a1ce60-0fa9-4b41-8411-85f311a41e92",
+      "titulo": "Por qué el dolor de espalda crónico se siente tan personal: el cerebro lo trata como parte de quiénes somos",
+      "resumen": "Las personas que conviven con el dolor de espalda crónico saben bien que, de un modo u otro, se ha convertido en parte de su personalidad. Despiertan cada mañana atentos a las sensaciones del nuevo día, cancelan planes por los dolores, dejan de practicar deportes que adoraban o incluso de coger…",
+      "url": "https://www.xataka.com/medicina-y-salud/que-dolor-espalda-cronico-se-siente-personal-cerebro-trata-como-parte-quienes-somos",
+      "imagen": "https://i.blogs.es/1853aa/dolor-de-espalda/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-30T19:31:27.000Z",
+      "fechaAgregada": "2026-10-31T11:00:21.220Z",
+      "puntosClave": [
+        "El dolor crónico altera la percepción neurológica, haciendo que el cerebro integre el malestar continuo como un elemento central de la identidad del individuo.",
+        "Esta condición condiciona severamente la toma de decisiones diarias, provocando el aislamiento social y la cancelación sistemática de actividades físicas o de ocio.",
+        "Comprender la neurobiología del dolor abre la puerta a intervenciones médicas y tecnológicas más personalizadas para desvincular la dolencia del autoconcepto."
+      ],
+      "porQueImporta": "En un sector tecnológico dominado por el trabajo sedentario, comprender el impacto neurológico del dolor crónico impulsa el desarrollo de soluciones de IA médica, neurotecnología aplicada y herramientas ergogénicas para mejorar el bienestar de desarrolladores y trabajadores digitales.",
+      "tags": [
+        "Neurociencia",
+        "Salud Digital",
+        "Tecnología Médica",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "dd6a9934-fa2e-4537-b6d2-f526895dff3f",
+      "titulo": "Brotes verdes en el mercado de SSD: China registra una caída del 13% en su precio",
+      "resumen": "Durante los últimos meses, e incluso años, hemos visto cómo el precio de las unidades de almacenamiento SSD subía y subía, hasta el punto en el que cambiar o ampliar nuestro equipo era casi inviable, debido al coste que tenía un simple terabyte de espacio.",
+      "url": "https://hardzone.es/noticias/componentes/china-ssd-precio-bajada-semana/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2025/12/ssd-wd-black.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-30T18:33:39.000Z",
+      "fechaAgregada": "2026-10-31T11:00:24.911Z",
+      "puntosClave": [
+        "El mercado de SSD en China experimenta una rebaja del 13%, marcando el primer alivio económico tras meses de constantes subidas de precio.",
+        "La escalada de costes previa había paralizado la actualización de equipos y la ampliación de capacidad en almacenamiento masivo.",
+        "Esta corrección en el mercado asiático suele actuar como indicador adelantado de una estabilización global en los precios de componentes de almacenamiento."
+      ],
+      "porQueImporta": "El abaratamiento del almacenamiento SSD es crucial para reducir los costes operativos en data centers e infraestructura local de Inteligencia Artificial, donde la ingesta masiva de datos requiere almacenamiento ultrarrápido y accesible.",
+      "tags": [
+        "Hardware",
+        "Almacenamiento",
+        "Infraestructura",
+        "Mercados"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "feff0118-2800-4f5e-9069-776b5d415a18",
+      "titulo": "Spotify quiere que cambies tus canciones favoritas con IA, pero hay un problema",
+      "resumen": "Spotify está pensando en llevar aún más lejos su apuesta por la inteligencia artificial. Un reporte afirma que la plataforma trabaja en una nueva función que permitirá crear remixes personalizados de canciones mediante IA.",
+      "url": "https://hipertextual.com/inteligencia-artificial/spotify-remixes-inteligencia-artificial-suscripcion/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/spotify.jpg?fit=1024%2C652&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-30T18:15:00.000Z",
+      "fechaAgregada": "2026-10-31T11:00:21.512Z",
+      "puntosClave": [
+        "Spotify trabaja en una función que permitirá a los usuarios alterar y remezclar canciones del catálogo mediante IA generativa.",
+        "La propuesta busca transformar la escucha pasiva en una experiencia interactiva y personalizada dentro de la propia plataforma.",
+        "El proyecto enfrenta un gran obstáculo legal debido a las estrictas licencias de derechos de autor e intermediación con las discográficas."
+      ],
+      "porQueImporta": "Esta iniciativa presiona a la industria musical a redefinir la propiedad intelectual en la era sintética. Para los desarrolladores de IA, supone el reto de crear entornos de edición generativa que garanticen una atribución de derechos técnica y comercialmente viable.",
+      "tags": [
+        "Spotify",
+        "IA Generativa",
+        "Música",
+        "Derechos de Autor"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "147c2a7f-a8a5-4d9e-a7d3-fece52173dd5",
+      "titulo": "Bethesda cierra un juego fan de Fallout generado por IA",
+      "resumen": "El proyecto de Fallout: New York estuvo poco tiempo abierto al público. El 28 de septiembre de 2026, Chris First publicaba un juego online (construido, según su autor, con Claude Opus 5.5) que llevaba al mundo de Fallout a Nueva York. No era necesario instalar nada.",
+      "url": "https://www.genbeta.com/actualidad/bethesda-cierra-juego-fan-fallout-generado-ia",
+      "imagen": "https://i.blogs.es/7c1f39/fallout-new-york/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-30T11:01:31.000Z",
+      "fechaAgregada": "2026-10-31T11:00:22.204Z",
+      "puntosClave": [
+        "Un desarrollador lanzó 'Fallout: New York', una experiencia jugable en navegador creada usando el modelo Claude Opus 5.5.",
+        "Bethesda reaccionó con rapidez ordenando el cierre inmediato del proyecto para proteger los derechos de su franquicia.",
+        "El incidente demuestra la capacidad actual de los LLMs para generar software funcional interactivo sin necesidad de código tradicional."
+      ],
+      "porQueImporta": "Este caso visibiliza el inminente conflicto entre la democratización en la creación de videojuegos impulsada por IA y las leyes de propiedad intelectual, sentando un precedente sobre la postura inflexible que adoptarán las grandes distribuidoras ante el software no oficial asistido por LLMs.",
+      "tags": [
+        "IA Generativa",
+        "LLMs",
+        "Videojuegos",
+        "Propiedad Intelectual"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "9a019184-463d-423a-9c4c-22f203682627",
+      "titulo": "Sam Altman, creador de ChatGPT: \"El mundo debería aceptar que sucedan algunas cosas malas\" en aras de los beneficios de la IA",
+      "resumen": "Sam Altman, director ejecutivo de OpenAI, cree que el mundo tendrá que convivir con algunos daños de la inteligencia artificial para aprovechar sus ventajas, y lo presenta como uno de los puntos que le separan de Anthropic.",
+      "url": "https://www.genbeta.com/inteligencia-artificial/sam-altman-creador-chatgpt-mundo-deberia-aceptar-que-sucedan-algunas-cosas-malas-aras-beneficios-ia",
+      "imagen": "https://i.blogs.es/170096/53472125825_8aeabe1e25_k/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-10-30T09:01:29.000Z",
+      "fechaAgregada": "2026-10-31T11:00:22.204Z",
+      "puntosClave": [
+        "Sam Altman defiende tolerar externalidades negativas de la IA como un peaje inevitable para desbloquear su potencial transformador.",
+        "El CEO de OpenAI utiliza esta postura pragmática para marcar distancias frente al enfoque hiperprudente de rivales como Anthropic.",
+        "La visión prioriza el despliegue iterativo y masivo sobre la contención preventiva, asumiendo riesgos operativos en el mundo real."
+      ],
+      "porQueImporta": "Esta postura define el ritmo de lanzamientos de OpenAI frente a competidores más cautelosos, anticipando que las empresas accederán a modelos cada vez más potentes pero con mayores cargas de responsabilidad ética y técnica en su implementación.",
+      "tags": [
+        "OpenAI",
+        "Sam Altman",
+        "Seguridad IA",
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "ac91b5f3-1726-4b11-9817-8944b1b6fdff",
+      "titulo": "Inteligencia artificial y manipulación: nuevas claves para interpretar lo que vemos en internet",
+      "resumen": "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes. Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-10-21/inteligencia-artificial-y-manipulacion-nuevas-claves-para-interpretar-lo-que-vemos-en-internet.html",
+      "imagen": "https://picsum.photos/seed/276/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-21T15:53:30.000Z",
+      "fechaAgregada": "2026-10-31T11:00:22.421Z",
+      "puntosClave": [
+        "La sofisticación de las herramientas generativas ha elevado la verosimilitud de las estafas digitales, reduciendo drásticamente el tiempo de ejecución de los cibercriminales.",
+        "El frente defensivo principal está desplazándose del software a la alfabetización digital, promoviendo pausas analíticas antes de interactuar con contenido sospechoso.",
+        "La proliferación de fraudes hiperrealistas exige una revisión urgente de los protocolos de verificación de identidad en plataformas web y redes sociales."
+      ],
+      "porQueImporta": "Obliga a la industria del software a priorizar la arquitectura de seguridad *Zero Trust* y el desarrollo de APIs de detección de medios sintéticos, mientras las empresas deben rediseñar sus flujos de atención al cliente para evitar la suplantación de identidad por IA.",
+      "tags": [
+        "Ciberseguridad",
+        "Deepfakes",
+        "Seguridad IA",
+        "Fraude Digital"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
