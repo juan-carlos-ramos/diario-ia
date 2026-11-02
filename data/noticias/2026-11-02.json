@@ -1,0 +1,258 @@
+{
+  "fecha": "2026-11-02",
+  "generado": "2026-11-02T13:48:51.440Z",
+  "total": 10,
+  "enriquecidasConIA": 10,
+  "noticias": [
+    {
+      "id": "03e47b2a-febf-46da-bc26-9368cca2a828",
+      "titulo": "Sam Altman no quiere que ejecutes IA en tu PC. La subida de las gráficas que provoca su propia industria se lo está poniendo fácil",
+      "resumen": "Llevo bastante tiempo detrás de una tarjeta gráfica potente no solo para subir de calidad mis juegos en el PC, también para tener un banco de pruebas para IA local. Y es imposible.",
+      "url": "https://www.xataka.com/robotica-e-ia/sam-altman-no-quiere-que-ejecutes-ia-tu-pc-subida-graficas-que-provoca-su-propia-industria-se-esta-poniendo-facil",
+      "imagen": "https://i.blogs.es/b45d5d/rtx-5090-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-02T11:45:00.000Z",
+      "fechaAgregada": "2026-11-02T13:41:15.746Z",
+      "puntosClave": [
+        "La voraz demanda de hardware por parte de la industria de la IA masiva ha disparado los precios y reducido el stock de GPUs de gama alta para el consumidor.",
+        "El encarecimiento del hardware frena la adopción del software de código abierto y la ejecución de modelos de IA de forma local y privada.",
+        "La barrera de entrada al hardware consolida involuntariamente el modelo de negocio en la nube promovido por OpenAI y otros gigantes tecnológicos."
+      ],
+      "porQueImporta": "La imposibilidad de acceder a hardware asequible limita la soberanía tecnológica de desarrolladores e investigadores, centralizando el control de la IA en unos pocos proveedores de la nube y ahogando la experimentación independiente fuera del ecosistema corporativo.",
+      "tags": [
+        "OpenAI",
+        "Hardware",
+        "GPUs",
+        "IA Local"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "28965820-7145-4e17-92c9-f03c600867ce",
+      "titulo": "Alguien ha conseguido lo que parecía imposible: un Redmi Note 12 ejecutando iOS. Con ayuda de Claude, claro",
+      "resumen": "A lo largo de todos estos años hemos visto mil y un ejemplos de modders intentando ejecutar iOS en teléfonos Android y viceversa. Han sido proyectos que, en su mayoría, han acabado en balde, pero en un contexto en el que existe la IA generativa (y mucho tiempo libre), ahora una oleada de aficionados…",
+      "url": "https://www.xataka.com/moviles/alguien-ha-conseguido-que-parecia-imposible-redmi-note-12-ejecutando-ios-ayuda-claude-claro",
+      "imagen": "https://i.blogs.es/f2d046/android-ios/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-02T11:01:28.000Z",
+      "fechaAgregada": "2026-11-02T13:41:15.747Z",
+      "puntosClave": [
+        "Comunidad de modders logra ejecutar iOS en un terminal Android (Redmi Note 12), superando complejas barreras históricas de compatibilidad.",
+        "El asistente de código Claude actuó como catalizador clave para resolver incompatibilidades de kernel y arquitectura en tiempo récord.",
+        "El caso sienta un precedente sobre el uso de LLMs para acelerar proyectos complejos de ingeniería inversa en hardware de consumo."
+      ],
+      "porQueImporta": "Este hito demuestra que los LLMs están democratizando la ingeniería inversa avanzada, permitiendo a desarrolladores individuales resolver fricciones de bajo nivel entre arquitecturas rivales. Para la industria, anticipa un futuro donde la portabilidad de software propietario dependerá menos de gigantes tecnológicos y más de la asistencia por IA.",
+      "tags": [
+        "Claude",
+        "Hardware",
+        "LLMs",
+        "Ingeniería Inversa"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "a89e25b0-1984-42c3-9f0f-115a4a62432f",
+      "titulo": "Si pagas ChatGPT, atento al cambio de límites que llega en diciembre: “Una misma cuota para todo”",
+      "resumen": "Si utilizas ChatGPT para trabajar y también recurres a Codex para programar, a partir de diciembre tendrás que controlar muy bien el uso que haces de cada una de las herramientas.",
+      "url": "https://www.adslzone.net/noticias/ia/openai-chatgpt-codex-misma-asignacion-uso-diciembre/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/11/cambio-cuota-uso-chatgpt.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-02T09:00:16.000Z",
+      "fechaAgregada": "2026-11-02T13:41:17.481Z",
+      "puntosClave": [
+        "OpenAI unificará los límites de consumo entre ChatGPT y Codex bajo un mismo techo tarifario a partir de diciembre.",
+        "Los usuarios suscritos deberán gestionar un consumo compartido, evitando que el uso intensivo de una herramienta agote la cuota de la otra.",
+        "La medida busca optimizar la asignación de recursos de cómputo en la plataforma ante la creciente demanda de flujos de trabajo mixtos."
+      ],
+      "porQueImporta": "Esta integración fuerza a los desarrolladores y empresas a auditar sus flujos de trabajo automatizados para evitar interrupciones operativas, marcando un cambio clave en la monetización de la infraestructura compartida de IA.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Productividad",
+        "Codex"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "43e708e6-b7de-4eda-9615-a8d25353dd23",
+      "titulo": "José y Sandra, la pareja catalana que dejó la ciudad por el campo: \"Nuestros hijos no van al colegio, los educamos en casa\"",
+      "resumen": "José y Sandra vivían en Girona en una casa grande y moderna, tenían una empresa y una familia, pero la convivencia se les estaba haciendo cuesta arriba. “Vivíamos insatisfechos”, recuerda Sandra en una entrevista con Arnau Serrado.",
+      "url": "https://www.genbeta.com/actualidad/jose-sandra-pareja-catalana-que-dejo-ciudad-campo-nuestros-hijos-no-van-al-colegio-educamos-casa",
+      "imagen": "https://i.blogs.es/772540/porta/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-02T08:43:59.000Z",
+      "fechaAgregada": "2026-11-02T13:41:16.310Z",
+      "puntosClave": [
+        "Una pareja emprendedora abandona la ciudad y la educación convencional buscando un modelo de vida alternativo.",
+        "El agotamiento del estilo de vida urbano y la insatisfacción profesional actuaron como detonantes del cambio al entorno rural.",
+        "El caso evidencia una transición radical hacia la autosuficiencia familiar combinada con la educación en el hogar."
+      ],
+      "porQueImporta": "Este éxodo urbano consolida la descentralización del talento técnico y ejecutivo, impulsando la demanda de infraestructuras EdTech avanzadas, aprendizaje asistido por IA y soluciones tecnológicas para el trabajo remoto asíncrono fuera de los grandes núcleos tecnológicos.",
+      "tags": [
+        "Teletrabajo",
+        "EdTech",
+        "Productividad",
+        "Estilo de Vida Digital"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "f3a41410-b894-445c-8103-62a920b5229b",
+      "titulo": "La Luna tendrá su propio superordenador: procesar datos en la Tierra no es una opción",
+      "resumen": "La mayoría de misiones no tripuladas comparten un mismo hándicap: las muestras o los datos deben enviarse a la Tierra para su análisis. Esto es algo que se está solucionando poco a poco. Ya existen rovers dotados con laboratorios internos que realizan todo tipo de pruebas in situ.",
+      "url": "https://www.xataka.com/espacio/luna-tendra-su-propio-superordenador-procesar-datos-tierra-no-opcion",
+      "imagen": "https://i.blogs.es/8dd4b8/ordenador-lunar/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-01T20:01:27.000Z",
+      "fechaAgregada": "2026-11-02T13:41:15.748Z",
+      "puntosClave": [
+        "La latencia y la saturación del ancho de banda hacen inviable el envío de volúmenes masivos de datos crudos desde la superficie lunar hacia servidores terrestres.",
+        "El despliegue de supercomputación local permitirá procesar imágenes y muestras en tiempo real directamente en la Luna.",
+        "Este cambio de paradigma transforma a los rovers en unidades autónomas capaces de tomar decisiones analíticas sin intervención ni espera de órdenes humanas."
+      ],
+      "porQueImporta": "Impulsa la consolidación del *Space Edge Computing*, obligando a la industria a desarrollar modelos de IA ultraeficientes y tolerantes a fallos extremos. Para desarrolladores y empresas, abre la frontera del código optimizado para infraestructura espacial distribuida fuera de la Tierra.",
+      "tags": [
+        "Edge Computing",
+        "Hardware",
+        "Exploración Espacial",
+        "IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "43763d59-7262-4ce8-be4f-efb7d944649d",
+      "titulo": "Harto de la basura en las carreteras, un desarrollador ha creado una “dashcam” con IA que la detecta, clasifica e informa",
+      "resumen": "Harto de ver cómo la gente tiraba basura en las carreteras, un desarrollador de software se las ha ingeniado para convertir su móvil en un monitor de basura inteligente para carreteras.",
+      "url": "https://www.xataka.com/aplicaciones/harto-basura-carreteras-desarrollador-ha-creado-dashcam-ia-que-detecta-clasifica-e-informa",
+      "imagen": "https://i.blogs.es/c2040c/matthias-gellissen-kbuwy08bwpi-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-01T16:31:27.000Z",
+      "fechaAgregada": "2026-11-02T13:41:15.749Z",
+      "puntosClave": [
+        "Un desarrollador ha transformado un smartphone en un monitor vial inteligente capaz de identificar residuos mientras conduce.",
+        "El sistema de visión por computador clasifica los tipos de basura detectados y automatiza el envío de reportes geolocalizados.",
+        "La iniciativa demuestra el potencial del desarrollo independiente para resolver problemas comunitarios mediante IA accesible."
+      ],
+      "porQueImporta": "Este proyecto ilustra el auge de la 'Civic Tech' impulsada por Edge AI: demuestra cómo la inteligencia artificial procesada en dispositivos cotidianos puede descentralizar la supervisión urbana y ambiental, ofreciendo a los municipios alternativas de bajo coste para la gestión de infraestructuras frente a las costosas redes de sensores tradicionales.",
+      "tags": [
+        "Visión por Computador",
+        "Edge AI",
+        "Civic Tech",
+        "Sostenibilidad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "cb9fd984-9787-4159-90aa-9f85b8cf75b8",
+      "titulo": "China ofrece sueldos de un millón de yuanes por el ingeniero de IA que también buscan Anthropic y OpenAI",
+      "resumen": "Un millón de yuanes al año (unos 134.000 euros). Ese es el sueldo que las grandes tecnologícas chinas, entre ellas ByteDance, Tencent y Alibaba, están ofreciendo a un perfil técnico muy concreto, como explica el South China Morning Post: el forward-deployed engineer o ingeniero desplegado…",
+      "url": "https://www.xataka.com/empresas-y-economia/china-ofrece-sueldos-millon-yuanes-ingeniero-ia-que-tambien-buscan-anthropic-openai",
+      "imagen": "https://i.blogs.es/94188a/china/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-01T14:01:28.000Z",
+      "fechaAgregada": "2026-11-02T13:41:15.750Z",
+      "puntosClave": [
+        "Gigantes chinos como Tencent, Alibaba y ByteDance han iniciado una agresiva caza de talento ofreciendo sueldos de 1M de yuanes (~134.000 €) anuales.",
+        "El objeto de deseo es el 'Forward-Deployed Engineer', un perfil técnico altamente codiciado también por líderes occidentales como OpenAI y Anthropic.",
+        "Esta posición híbrida exige no solo crear modelos de IA, sino liderar su implementación real y personalizada en la infraestructura del cliente."
+      ],
+      "porQueImporta": "Esta pugna salarial evidencia que el verdadero cuello de botella del sector ha pasado de la investigación teórica a la ejecución práctica. Para los desarrolladores, consolida al ingeniero de despliegue como el perfil más lucrativo del mercado, capaz de monetizar la IA conectando el modelo con el negocio real.",
+      "tags": [
+        "Empleo IA",
+        "China",
+        "OpenAI",
+        "Mercado Laboral"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "99808fa9-ebea-4de4-b7f3-e85c04c3816d",
+      "titulo": "Una herramienta revela que tus chats de IA borrados podrían seguir en el móvil",
+      "resumen": "La mayoría de las personas asume que eliminar una conversación con ChatGPT equivale a hacerla desaparecer para siempre. Si bien empresas como OpenAI o Anthropic mantienen los chats en sus servidores por cuestiones legales, estos se eliminan después de un tiempo.",
+      "url": "https://hipertextual.com/inteligencia-artificial/recuperar-chats-ia-borrados-android/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/chats-eliminados-01.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-31T18:00:00.000Z",
+      "fechaAgregada": "2026-11-02T13:41:15.888Z",
+      "puntosClave": [
+        "Una herramienta forense revela que los chats de IA eliminados por el usuario aún permanecen almacenados en el caché local del teléfono.",
+        "A diferencia del borrado temporal en servidores por motivos legales, la persistencia de datos en el dispositivo expone información confidencial no cifrada.",
+        "El hallazgo evidencia una brecha entre la gestión de privacidad en la nube y el tratamiento del almacenamiento físico en las aplicaciones móviles de IA."
+      ],
+      "porQueImporta": "Este problema redefine las prioridades de ciberseguridad en el desarrollo de software de IA, obligando a las empresas a implementar protocolos de sanitización local rigurosos para evitar la extracción forense de datos sensibles de sus usuarios.",
+      "tags": [
+        "Privacidad",
+        "Seguridad",
+        "ChatGPT",
+        "Ciberseguridad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "7f894d0c-ad05-4536-90bc-5b78bbc34c70",
+      "titulo": "Cómo funcionan las IA que eliminan ruido de fondo en tiempo real",
+      "resumen": "Entre todas las opciones que nos permite realizar una IA, nos encontramos la de eliminar el ruido de fondo en tiempo real, algo muy interesante en ciertas ocasiones, pero que puede que no lleguemos a comprender cómo es capaz de hacerlo, y de una manera tan exacta.",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/como-funcionan-ia-eliminan-ruido-fondo-tiempo-real/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/funcionamiento-ia-tokens-contexto.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-31T15:31:11.000Z",
+      "fechaAgregada": "2026-11-02T13:41:19.220Z",
+      "puntosClave": [
+        "La supresión de ruido por IA procesa señales de audio en milisegundos mediante redes neuronales entrenadas para aislar la frecuencia de la voz humana.",
+        "Supera los filtros acústicos tradicionales al diferenciar patrones complejos de fondo sin degradar el timbre ni generar latencia perceptible.",
+        "Su implementación actual aprovecha el procesamiento en el borde (Edge AI) para ejecutarse de forma local sin saturar la CPU principal."
+      ],
+      "porQueImporta": "Esta tecnología democratiza la producción audiovisual y mejora la comunicación remota sin necesidad de hardware de estudio costoso. Para los desarrolladores, representa un caso de uso masivo para optimizar modelos ligeros en las NPU de procesadores de última generación.",
+      "tags": [
+        "Audio IA",
+        "Procesamiento de Voz",
+        "Hardware",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "d21a5511-a96e-4a58-810e-24f5284a5ccb",
+      "titulo": "Inteligencia artificial y manipulación: nuevas claves para interpretar lo que vemos en internet",
+      "resumen": "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes. Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-10-21/inteligencia-artificial-y-manipulacion-nuevas-claves-para-interpretar-lo-que-vemos-en-internet.html",
+      "imagen": "https://picsum.photos/seed/459/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-21T15:53:30.000Z",
+      "fechaAgregada": "2026-11-02T13:41:16.443Z",
+      "puntosClave": [
+        "La democratización de herramientas de IA ha incrementado drásticamente la escala, velocidad y nivel de realismo en los ciberfraudes actuales.",
+        "Las metodologías tradicionales de detección fallan ante la sofisticación del contenido sintético, exigiendo nuevos enfoques de defensa.",
+        "La primera línea de protección se traslada al factor humano mediante el pensamiento crítico y protocolos inmediatos de verificación."
+      ],
+      "porQueImporta": "Para la industria tecnológica y de la ciberseguridad, este fenómeno exige acelerar el desarrollo de algoritmos de detección de contenido sintético y sistemas de marca de agua digital, mientras que las empresas deben reforzar urgentemente sus protocolos de autenticación ante ataques de ingeniería social cada vez más convincentes.",
+      "tags": [
+        "Ciberseguridad",
+        "Deepfakes",
+        "IngenieríaSocial",
+        "SeguridadIA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
