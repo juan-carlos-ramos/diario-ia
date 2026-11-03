@@ -1,0 +1,350 @@
+{
+  "fecha": "2026-11-03",
+  "generado": "2026-11-03T13:11:36.213Z",
+  "total": 14,
+  "enriquecidasConIA": 11,
+  "noticias": [
+    {
+      "id": "2fd3505d-ac24-4807-bb71-e9562fff7666",
+      "titulo": "Brett Adcock, CEO de Figure AI y joven gurú de la IA: “Estamos creando una nueva especie”",
+      "resumen": "“Estamos creando una nueva especie”, dijo Brett Adcock, fundador y CEO de Figure AI. Lo decía en una conversación que mantuvo con Marc Benioff (Salesforce) en la que hablaban de los robots humanoides. “Estamos creando una nueva especie”. Esto fue en Dreamforce 2025.",
+      "url": "https://www.genbeta.com/inteligencia-artificial/brett-adcock-ceo-figure-ai-joven-guru-ia-estamos-creando-nueva-especie",
+      "imagen": "https://i.blogs.es/1a61d5/brett-adcock-fundador-y-ceo-de-figure-ai./1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-03T12:01:28.000Z",
+      "fechaAgregada": "2026-11-03T12:54:30.643Z",
+      "puntosClave": [
+        "El CEO de Figure AI catalogó a los robots humanoides como el surgimiento de una 'nueva especie' capaz de transformar la sociedad.",
+        "El anuncio se produjo durante un debate estratégico sobre el futuro de la automatización junto a Marc Benioff en Dreamforce 2025.",
+        "La declaración consolida la apuesta de la industria por acelerar la convergencia entre grandes modelos de lenguaje y robótica avanzada."
+      ],
+      "porQueImporta": "Esta visión marca la transición crítica de la IA desde el software conceptual hacia la 'IA encarnada' (embodied AI). Para empresas y desarrolladores, anticipa un cambio radical donde la programación ya no se limitará a entornos digitales, sino a la automatización física de la fuerza laboral en el mundo real.",
+      "tags": [
+        "Robótica",
+        "Figure AI",
+        "IA Encarnada",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "fcb9a720-a739-4eda-9f3f-632dbe8a3074",
+      "titulo": "Arriba la antena. Entrevista a Neil Harbisson, el primer cíborg reconocido del mundo",
+      "resumen": "“El riesgo no es volvernos menos humanos, sino perder la libertad de decidir si seguimos siéndolo”, así define Neil Harbisson el terreno que explora, según la entrevista en D, de La Repubblica.",
+      "url": "https://www.xatakaciencia.com/robotica/arriba-antena-entrevista-a-neil-harbisson-primer-ciborg-reconocido-mundo",
+      "imagen": "https://i.blogs.es/da107f/neil-harbis-primer-ciborg/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-11-03T12:01:28.000Z",
+      "fechaAgregada": "2026-11-03T12:54:31.483Z",
+      "puntosClave": [
+        "Neil Harbisson redefine el transhumanismo al integrarse biológica y legalmente con tecnología para expandir sus sentidos.",
+        "El foco del debate se desplaza desde la pérdida de humanidad hacia la preservación de la autonomía para decidir nuestra evolución biológica.",
+        "La fusión entre cibernética y biología plantea un cambio paradigmático sobre la identidad humana y los derechos del cuerpo tecnológico."
+      ],
+      "porQueImporta": "Para la industria tecnológica y de interfaces cerebro-computador (BCI), este paradigma redefine la interacción hombre-máquina, impulsando a los desarrolladores a crear hardware implantable donde la soberanía de los datos biológicos y la ciberseguridad personal serán la máxima prioridad.",
+      "tags": [
+        "Cibernética",
+        "Transhumanismo",
+        "BCI",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "33993f4c-16a4-4040-8749-94485aa0e432",
+      "titulo": "Llegan las primeras campañas del Black Friday con el Google Pixel 11 de oferta, nuevo y ahora más barato",
+      "resumen": "MediaMarkt, el Corte Inglés y otras tiendas han dado comienzo a las primeras campañas por el Black Friday, por lo que va siendo un buen momento para renovar el móvil.",
+      "url": "https://www.xataka.com/seleccion/llegan-primeras-campanas-black-friday-google-pixel-11-oferta-nuevo-ahora-barato",
+      "imagen": "https://i.blogs.es/4b8f3e/google-pixel-11/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-03T11:01:28.000Z",
+      "fechaAgregada": "2026-11-03T12:54:30.034Z",
+      "puntosClave": [
+        "Las principales cadenas de distribución en España anticipan sus campañas de Black Friday con descuentos en telefonía móvil.",
+        "El flaghsip de Google entra en promoción previa, facilitando el acceso a su ecosistema de hardware más reciente.",
+        "El adelanto comercial busca captar el gasto del consumidor antes del periodo oficial de compras de fin de año."
+      ],
+      "porQueImporta": "La bajada de precio en la gama alta de Google facilita el acceso a hardware con NPU dedicada, permitiendo a los desarrolladores probar y masificar aplicaciones con ejecución de modelos de IA en el dispositivo (*on-device*) sin depender de la nube.",
+      "tags": [
+        "Google",
+        "Hardware",
+        "Smartphones",
+        "IA On-Device"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "d3a91843-f503-4d09-b998-5810c902da8e",
+      "titulo": "Una IA ha hecho mejor a otra IA con un método inesperado: recortarle lo que le estorbaba",
+      "resumen": "Conseguir un nuevo modelo de lenguaje no es una tarea trivial. Este proceso abarca un largo plan de entrenamiento y altas capacidades de cómputo hasta afinar el LLM y conseguir que pueda procesar las consultas y resolverlas lo más efectiva y eficientemente posible.",
+      "url": "https://www.xataka.com/robotica-e-ia/ia-ha-hecho-mejor-a-otra-ia-metodo-inesperado-recortarle-que-le-estorbaba",
+      "imagen": "https://i.blogs.es/20a6af/recortar-ia-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-03T11:01:28.000Z",
+      "fechaAgregada": "2026-11-03T12:54:30.034Z",
+      "puntosClave": [
+        "Se ha utilizado un algoritmo de IA para identificar y eliminar parámetros innecesarios en otro modelo mediante técnicas avanzadas de depuración y poda.",
+        "Este enfoque optimiza el rendimiento y la velocidad del LLM sin necesidad de gastar recursos masivos en un reentrenamiento desde cero.",
+        "Demuestra que la autorrefinación y la colaboración entre modelos es clave para obtener arquitecturas más ágiles y precisas."
+      ],
+      "porQueImporta": "La optimización mediante depuración de parámetros permite reducir drásticamente los costes de cómputo e infraestructura, facilitando que pequeñas empresas y desarrolladores desplieguen modelos de alto rendimiento en hardware modesto sin sacrificar precisión.",
+      "tags": [
+        "LLMs",
+        "Optimización",
+        "Modelos de Lenguaje"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "ae15dc00-934a-478d-b574-b9901ee84f5a",
+      "titulo": "Elon Musk aconseja a niños y jóvenes: “Obtén una educación lo más amplia posible: artes, ciencias, ingeniería y un amplio conocimiento general”",
+      "resumen": "Elon Musk recomienda que los jóvenes mezclen sus estudios. Así podrán desenvolverse, según él, en un mundo de inteligencia artificial y robots. En concreto, deben recibir “una educación lo más amplia posible: artes, ciencias, ingeniería y un amplio conocimiento general”.",
+      "url": "https://www.genbeta.com/actualidad/elon-musk-aconseja-a-ninos-jovenes-obten-educacion-amplia-posible-artes-ciencias-ingenieria-amplio-conocimiento-general",
+      "imagen": "https://i.blogs.es/1ac3f5/elon-musk/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-03T08:01:30.000Z",
+      "fechaAgregada": "2026-11-03T12:54:30.644Z",
+      "puntosClave": [
+        "Elon Musk insta a las nuevas generaciones a priorizar una formación interdisciplinaria que combine STEM con disciplinas humanísticas.",
+        "La estrategia busca preparar a los futuros profesionales para un mercado laboral profundamente automatizado por la robótica y la IA.",
+        "El enfoque enfatiza la adaptabilidad y el pensamiento crítico general sobre la hiperespecialización técnica técnica tradicional."
+      ],
+      "porQueImporta": "Para la industria tecnológica, esto señala una transición inevitable: a medida que la IA asume la codificación y el análisis puro, el valor humano migrará hacia perfiles 'híbridos' capaces de conectar contextos abstractos, ética y diseño conceptual con la ingeniería.",
+      "tags": [
+        "Educación",
+        "Futuro Del Trabajo",
+        "Robótica",
+        "Elon Musk"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "f5dc810d-4c1b-4172-b6aa-12de4cd69522",
+      "titulo": "Elon Musk predice un futuro sin necesidad de ahorrar, pero Grok no puede permitírselo",
+      "resumen": "Grok se ha convertido en el último recordatorio de que las predicciones económicas de Elon Musk no siempre encajan demasiado bien con la realidad de sus propias empresas.",
+      "url": "https://www.muycomputer.com/2026/11/03/elon-musk-predice-un-futuro-sin-necesidad-de-ahorrar-pero-grok-no-puede-permitirselo/",
+      "imagen": "https://picsum.photos/seed/136/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-03T07:04:48.000Z",
+      "fechaAgregada": "2026-11-03T12:54:34.147Z",
+      "puntosClave": [
+        "Elon Musk proyecta un futuro utópico impulsado por la IA donde la escasez desaparece y el ahorro personal se vuelve obsoleto.",
+        "En contraste con la visión del magnate, xAI necesita monetizar a Grok agresivamente para sufragar sus exorbitantes costes de infraestructura.",
+        "La discrepancia evidencia la brecha entre la narrativa post-capitalista de los líderes tecnológicos y la cruda realidad financiera de los LLMs."
+      ],
+      "porQueImporta": "Esta contradicción remarca la presión financiera real que sufre la industria de la IA: independientemente de las promesas sobre la abundancia futura, los desarrolladores y empresas necesitan modelos de negocio rentables y rentabilidad inmediata para financiar el cómputo actual.",
+      "tags": [
+        "xAI",
+        "Grok",
+        "Elon Musk",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "d6a7f6a7-1af8-4026-9247-2e19dcc4acb5",
+      "titulo": "Olvídate de usar Claude Code para clonar tus juegos favoritos: Anthropic cambia las reglas por la piratería",
+      "resumen": "Si pensabas pedirle a Claude Code que te ayude a crear tu propio GTA 6 sin saber programar y sin gastar miles de millones de dólares, ve pensando en una idea mejor. Anthropic ha cambiado las reglas del funcionamiento de su plataforma de programación con IA para impedir la piratería.",
+      "url": "https://hipertextual.com/inteligencia-artificial/olvidate-de-usar-claude-code-para-clonar-tus-juegos-favoritos/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-code-app-portada.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-02T20:23:57.000Z",
+      "fechaAgregada": "2026-11-03T12:54:30.149Z",
+      "puntosClave": [
+        "Anthropic actualiza los límites de Claude Code para impedir la replicación no autorizada de videojuegos y software con derechos de autor.",
+        "La restricción busca frenar el uso de comandos simples para generar clones de franquicias millonarias como GTA sin conocimientos previos de programación.",
+        "Esta medida sienta un precedente de autoregulación en asistentes de desarrollo para evitar demandas masivas por infracción de propiedad intelectual."
+      ],
+      "porQueImporta": "El movimiento frena la ilusión del 'desarrollo a un clic' de grandes títulos y marca el fin de la neutralidad en los generadores de código, obligando a las empresas de IA a blindarse legalmente mientras la industria del software exige mayor protección sobre sus activos clave.",
+      "tags": [
+        "Anthropic",
+        "Claude Code",
+        "Propiedad Intelectual",
+        "Videojuegos"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "b261eb07-f2d2-4e17-a0ca-1bde6a41ae26",
+      "titulo": "La Raspberry Pi 5 vuelve a subir de precio: ahora cuesta el triple que en 2025",
+      "resumen": "En menos de 2 años, la Raspberry Pi 5 habría subido tantas veces de precio que ya valdría más del triple que en enero de 2025, cuando la pudimos adquirir por primera vez. Esto hace que un dispositivo que destacaba por su precio, ya no sea una compra atractiva.",
+      "url": "https://hardzone.es/noticias/equipos/raspberry-sube-precio-385-dolares/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/02/fabricacion-raspberry-pi.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-02T20:02:49.000Z",
+      "fechaAgregada": "2026-11-03T12:54:33.441Z",
+      "puntosClave": [
+        "El coste de la Raspberry Pi 5 se ha triplicado desde su lanzamiento en enero de 2025 tras sucesivos incrementos.",
+        "La escalada ininterrumpida de precio destruye la propuesta de valor histórica del dispositivo como hardware accesible.",
+        "El encarecimiento resta competitividad al formato frente a minipc y placas alternativas del mercado."
+      ],
+      "porQueImporta": "El encarecimiento drástico de este estándar dificulta el desarrollo de proyectos de robótica y Edge AI de bajo coste, obligando a startups y desarrolladores a migrar hacia alternativas x86 o procesadores especializados en IA con mejor relación rendimiento-precio.",
+      "tags": [
+        "Hardware",
+        "Edge AI",
+        "Raspberry Pi",
+        "Robótica"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "30d8c3f3-d2c9-4cdb-b1c3-4f3fce9c08ab",
+      "titulo": "Google ha dado un paso clave hacia los centros de datos espaciales: acaba de ejecutar IA en órbita",
+      "resumen": "Nos hemos acostumbrado a utilizar la inteligencia artificial para tareas tan cotidianas como resolver una duda o traducir un texto. Lo hacemos desde el móvil o el ordenador, sin detenernos demasiado en los enormes recursos informáticos que hacen posible cada respuesta.",
+      "url": "https://www.xataka.com/robotica-e-ia/google-ha-dado-paso-clave-centros-datos-espaciales-acaba-ejecutar-ia-orbita",
+      "imagen": "https://i.blogs.es/d4a681/google-ia-espacio2/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-02T20:01:24.000Z",
+      "fechaAgregada": "2026-11-03T12:54:30.036Z",
+      "puntosClave": [
+        "Google ha logrado validar la ejecución de modelos de IA directamente en hardware ubicado en la órbita terrestre.",
+        "El hito demuestra la viabilidad técnica de procesar datos en el espacio sin depender constantemente de servidores en la Tierra.",
+        "Este avance sienta las bases para mitigar la saturación de los centros de datos terrestres y reducir la latencia en misiones espaciales."
+      ],
+      "porQueImporta": "Para la industria tecnológica y de infraestructura, esto marca el inicio de la computación orbital descentralizada, permitiendo a las empresas procesar información satelital en tiempo real sin saturar el ancho de banda orbital ni depender exclusivamente de la infraestructura energética terrestre.",
+      "tags": [
+        "Google",
+        "Hardware",
+        "Infraestructura",
+        "Computación Espacial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "b825a7b0-93b4-4553-8262-b6e0b8ae5881",
+      "titulo": "Juan Castro, electricista: “La IA hará que los electricistas y el sector oficio seamos los mejor pagados”",
+      "resumen": "Para Juan Castro, la IA es una buena oportunidad. En el vídeo que publicó, señala que los oficios van a ser de los trabajos mejor pagados. Según cuenta, tiene más trabajo del que puede hacer y hay demanda de profesionales cualificados. En la descripción de YouTube agrega otros aspectos.",
+      "url": "https://www.genbeta.com/inteligencia-artificial/juan-castro-electricista-ia-hara-que-electricistas-sector-oficio-seamos-mejor-pagados",
+      "imagen": "https://i.blogs.es/8aab18/electricista/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-02T19:01:30.000Z",
+      "fechaAgregada": "2026-11-03T12:54:30.645Z",
+      "puntosClave": [
+        "La automatización del trabajo cognitivo está revalorizando los oficios manuales que requieren presencia en el mundo físico.",
+        "Existe una brecha creciente entre la alta demanda de servicios técnicos cualificados y la escasez de profesionales disponibles.",
+        "El sector del software y la IA podría enfrentarse a un cambio en la jerarquía salarial a favor de los trabajos no digitalizables."
+      ],
+      "porQueImporta": "Esta perspectiva evidencia la paradoja del mercado laboral actual: mientras los modelos de lenguaje presionan a la baja el valor del trabajo puramente digital, aceleran la revalorización de los oficios físicos, lo que impulsará a la industria tecnológica a priorizar la robótica aplicada para suplir esta escasez.",
+      "tags": [
+        "Futuro del Trabajo",
+        "Automatización",
+        "Mercado Laboral",
+        "Robótica"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "90034c03-a9e4-411c-8454-5c1acfc836b0",
+      "titulo": "OpenAI combinará Chat y Work y hará realidad lo que muchos temían: ChatGPT y Codex compartirán los límites de uso",
+      "resumen": "Durante mucho tiempo, nuestra principal preocupación al abrir ChatGPT era conseguir una buena respuesta. Ahora hay otra pregunta que empieza a acompañar a quienes lo utilizan para algo más que conversar: cuánto margen queda antes de encontrarse con un límite.",
+      "url": "https://www.xataka.com/robotica-e-ia/openai-combinara-chat-work-hara-realidad-que-muchos-temian-chatgpt-codex-compartiran-limites-uso",
+      "imagen": "https://i.blogs.es/70a579/photo-1684493735679-359868df0e18/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-02T18:00:00.000Z",
+      "fechaAgregada": "2026-11-03T12:54:30.036Z",
+      "puntosClave": [
+        "OpenAI unificará el consumo de ChatGPT y Codex bajo una misma cuota global de uso.",
+        "Los usuarios ya no tendrán cupos independientes para tareas de conversación general y de programación.",
+        "La restricción obligará a gestionar con más rigor las peticiones diarias para no agotar el límite prematuramente."
+      ],
+      "porQueImporta": "Esta integración penaliza directamente a los desarrolladores y equipos que dependen de la IA para flujos de trabajo mixtos, reduciendo su productividad efectiva y forzando a las empresas a replantearse la rentabilidad de sus suscripciones actuales o escalar a planes superiores.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Codex",
+        "Productividad",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "bda4ce11-8865-4363-902d-83f9ce600912",
+      "titulo": "Se acabó rehacer juegos con IA: Claude bloquea las copias de títulos conocidos",
+      "resumen": "La llegada de la IA ha servido para múltiples cosas, entre las cuales vemos algunas que no son del todo legales, o al menos que tienen cierto tipo de contenido que podría infringir leyes de copyright, por lo que Claude ha sido una de las primeras que ha comenzado a bloquear títulos conocidos.",
+      "url": "https://hardzone.es/noticias/juegos/claude-bloquea-copias-juegos-conocidos/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/Claude-Code.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-02T16:59:56.000Z",
+      "fechaAgregada": "2026-11-03T12:54:33.441Z",
+      "puntosClave": [
+        "La llegada de la IA ha servido para múltiples cosas",
+        "entre las cuales vemos algunas que no son del todo legales",
+        "o al menos que tienen cierto tipo de contenido que podría infringir leyes de copyright"
+      ],
+      "porQueImporta": "«Se acabó rehacer juegos con IA: Claude bloquea las copias de títulos conocidos» según HardZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Claude"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "c4878fde-a518-4fc1-a940-03ee717880db",
+      "titulo": "ChatGPT copia a Claude con un cambio clave: su app de escritorio será mucho mejor",
+      "resumen": "OpenAI ha comenzado a probar un cambio que simplificará y mejorará significativamente la app de escritorio de ChatGPT. Según reporta TechCrunch, la empresa va a fusionar las pestañas de Chat y Work, de un modo similar al que recientemente implementó Anthropic en Claude.",
+      "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-fusionara-chat-y-work-apps-escritorio/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/chatgpt-work.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-02T16:05:00.000Z",
+      "fechaAgregada": "2026-11-03T12:54:30.149Z",
+      "puntosClave": [
+        "OpenAI ha comenzado a probar un cambio que simplificará y mejorará significativamente la app de escritorio de ChatGPT.",
+        "Según reporta TechCrunch, la empresa va a fusionar las pestañas de Chat y Work, de un modo similar al que recientemente implementó Anthropic…"
+      ],
+      "porQueImporta": "«ChatGPT copia a Claude con un cambio clave: su app de escritorio será mucho…» según Hipertextual: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Claude",
+        "Anthropic"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "1f36c07c-7646-447c-9410-b4d154e2d32b",
+      "titulo": "José y Sandra, la pareja catalana que dejó la ciudad por el campo: \"Nuestros hijos no van al colegio, los educamos en casa\"",
+      "resumen": "José y Sandra vivían en Girona en una casa grande y moderna, tenían una empresa y una familia, pero la convivencia se les estaba haciendo cuesta arriba. “Vivíamos insatisfechos”, recuerda Sandra en una entrevista con Arnau Serrado.",
+      "url": "https://www.genbeta.com/actualidad/jose-sandra-pareja-catalana-que-dejo-ciudad-campo-nuestros-hijos-no-van-al-colegio-educamos-casa",
+      "imagen": "https://i.blogs.es/772540/porta/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-02T08:43:59.000Z",
+      "fechaAgregada": "2026-11-03T12:54:30.645Z",
+      "puntosClave": [
+        "José y Sandra vivían en Girona en una casa grande y moderna, tenían una empresa y una familia, pero la convivencia se les estaba haciendo…",
+        "“Vivíamos insatisfechos”, recuerda Sandra en una entrevista con Arnau Serrado."
+      ],
+      "porQueImporta": "«José y Sandra, la pareja catalana que dejó la ciudad por el campo: \"Nuestros…» según Genbeta: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    }
+  ]
+}
