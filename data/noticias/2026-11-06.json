@@ -1,0 +1,355 @@
+{
+  "fecha": "2026-11-06",
+  "generado": "2026-11-06T13:15:54.754Z",
+  "total": 14,
+  "enriquecidasConIA": 13,
+  "noticias": [
+    {
+      "id": "963264a5-ec7d-49db-8b43-7926a18c64a1",
+      "titulo": "En medio de una crisis de ciberseguridad, OpenAI estrena GPT-6 Cyber, su nuevo modelo \"crítico\"",
+      "resumen": "Los modelos de inteligencia artificial son cada vez más capaces y se está viendo que se usan para atacar dispositivos que, hasta ahora, no estaban en el punto de mira bien por pereza o por los motivos que fueran.",
+      "url": "https://www.xataka.com/robotica-e-ia/medio-crisis-ciberseguridad-openai-estrena-gpt-6-cyber-su-nuevo-modelo-critico",
+      "imagen": "https://i.blogs.es/8cc86c/emblema-luminoso-sobre-horizonte-ambar/1024_2000.png",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-06T11:01:08.000Z",
+      "fechaAgregada": "2026-11-06T13:04:57.713Z",
+      "puntosClave": [
+        "OpenAI lanza GPT-6 Cyber, una herramienta avanzada orientada a la infraestructura crítica en un contexto de crecientes amenazas digitales.",
+        "El auge de la IA ha democratizado la automatización de ciberataques, permitiendo a actores maliciosos vulnerar dispositivos que antes se consideraban poco atractivos o complejos.",
+        "El nuevo modelo busca posicionarse como un escudo defensivo estratégico, aunque eleva el debate sobre el uso dual de la IA en la ciberguerra."
+      ],
+      "porQueImporta": "Para las empresas y equipos de DevSecOps, el despliegue de GPT-6 Cyber marca una transición forzada: la defensa tradicional basada en reglas ya no basta y será imprescindible integrar modelos de lenguaje autónomos para mitigar ataques automatizados a escala.",
+      "tags": [
+        "OpenAI",
+        "Ciberseguridad",
+        "LLMs",
+        "SeguridadInformática"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "768a241f-ec11-4b47-a12d-321c1c181856",
+      "titulo": "Bill Gates advierte de la inteligencia artificial sin regular: espera un fuerte aumento de los ciberataques",
+      "resumen": "Bill Gates, cofundador de Microsoft, cree que la inteligencia artificial (IA) sin regulación es una amenaza que no deja de crecer, y es que en una entrevista en octubre anticipó una escalada de ciberataques impulsados por IA en los próximos doce mese. El riesgo inmediato.",
+      "url": "https://www.genbeta.com/inteligencia-artificial/bill-gates-advierte-inteligencia-artificial-regular-espera-fuerte-aumento-ciberataques",
+      "imagen": "https://i.blogs.es/9d2256/bill-gates-en-conversacion-en-la-oficina/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-06T09:01:08.000Z",
+      "fechaAgregada": "2026-11-06T13:04:58.785Z",
+      "puntosClave": [
+        "Bill Gates señala la falta de un marco regulatorio global como el principal catalizador de una inminente crisis de seguridad digital.",
+        "Se proyecta una escalada sin precedentes en la sofisticación y frecuencia de los ciberataques impulsados por IA en un plazo de 12 meses.",
+        "El cofundador de Microsoft urge a priorizar la contención de riesgos inmediatos frente al avance descontrolado de herramientas ofensivas."
+      ],
+      "porQueImporta": "Esta advertencia obliga a las empresas y desarrolladores a acelerar la adopción de defensas basadas en IA y arquitecturas 'Zero Trust', ya que los vectores de ataque automatizados inutilizarán los sistemas de ciberseguridad tradicionales mucho antes de lo previsto.",
+      "tags": [
+        "Ciberseguridad",
+        "Regulación IA",
+        "Bill Gates",
+        "Seguridad Digital"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "4d636656-ef55-4313-afa1-caef225180bc",
+      "titulo": "Más de 2.000 euros por un mini PC: así es el nuevo miniordenador de ASUS ya disponible en España",
+      "resumen": "ASUS acaba de poner a la venta en España un nuevo mini PC diseñado para las empresas y particulares que buscan una solución de Inteligencia Artificial de forma local sin tener que invertir una gran cantidad de dinero a pesar de que su precio supera los 2.000 euros.",
+      "url": "https://hardzone.es/noticias/equipos/nuevo-mini-pc-asus-qualcomm-snapdragon-x2-elite/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/mini-pc-asus-ascent-qn10.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-06T07:53:33.000Z",
+      "fechaAgregada": "2026-11-06T13:05:00.976Z",
+      "puntosClave": [
+        "ASUS despliega en España un mini PC optimizado para la ejecución de cargas de trabajo de IA de forma 100% local.",
+        "El equipo busca posicionarse como una solución compacta frente a la costosa infraestructura de servidores tradicionales.",
+        "Pese a superar los 2.000 euros, se enfoca en democratizar la inferencia privada tanto para el sector corporativo como para profesionales."
+      ],
+      "porQueImporta": "Impulsa la adopción del 'Edge AI' en el tejido empresarial, permitiendo a desarrolladores y pymes ejecutar modelos propios con absoluta privacidad de datos y sin incurrir en los costes recurrentes ni en las latencias de la nube.",
+      "tags": [
+        "Hardware",
+        "Edge AI",
+        "ASUS",
+        "Inferencia Local"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "4dc6261f-c839-4484-af01-10b98ce44e0d",
+      "titulo": "OpenAI desvela su gran secreto para salvar Linux de cientos de vulnerabilidades: así es GPT-6 Cyber",
+      "resumen": "Que su IA se convierta en una pieza clave en la seguridad y en la búsqueda de vulnerabilidades se ha transformado en una de las prioridades de OpenAI.",
+      "url": "https://www.adslzone.net/noticias/ia/openai-gpt-cyber-vulnerabilidades-linux-firefox/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/11/GPT-6-Cyber-logo.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-06T05:00:21.000Z",
+      "fechaAgregada": "2026-11-06T13:05:00.147Z",
+      "puntosClave": [
+        "OpenAI sitúa la ciberseguridad defensiva como una prioridad estratégica clave en el desarrollo de sus próximos modelos.",
+        "El objetivo principal se centra en blindar el ecosistema Linux identificando y mitigando vulnerabilidades críticas de forma automatizada.",
+        "La hipotética llegada de 'GPT-6 Cyber' marcaría la transición hacia agentes capaces de auditar código complejo a escala masiva."
+      ],
+      "porQueImporta": "Linux constituye la columna vertebral de la infraestructura cloud global y la supercomputación. Automatizar la detección y corrección de sus fallos mediante IA reducirá drásticamente la ventana de oportunidad para los ciberataques, cambiando las reglas del juego en la ciberseguridad defensiva.",
+      "tags": [
+        "OpenAI",
+        "Ciberseguridad",
+        "Linux",
+        "GPT-6"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "a00c5324-f4e5-4044-bfd9-484612dbd41a",
+      "titulo": "OpenAI presenta GPT-6 Cyber, una IA capaz de encontrar y explotar cientos de vulnerabilidades",
+      "resumen": "La búsqueda de vulnerabilidades puede llevar semanas de trabajo, pero OpenAI acaba de demostrar hasta qué punto la inteligencia artificial puede acelerar ese proceso. Su nuevo modelo, GPT-6 Cyber, está especializado en analizar código, comprobar si los fallos son explotables y ayudar a corregirlos.",
+      "url": "https://www.muycomputer.com/2026/11/05/openai-presenta-gpt-6-cyber-una-ia-capaz-de-encontrar-y-explotar-cientos-de-vulnerabilidades/",
+      "imagen": "https://picsum.photos/seed/270/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-05T19:03:58.000Z",
+      "fechaAgregada": "2026-11-06T13:05:02.289Z",
+      "puntosClave": [
+        "OpenAI presenta GPT-6 Cyber, un modelo diseñado para automatizar la auditoría de código y detectar fallos de seguridad a gran escala.",
+        "El sistema evalúa si las brechas son realmente explotables en la práctica y genera soluciones automatizadas para corregirlas.",
+        "Comprime procesos de análisis de ciberseguridad que antes requerían semanas de trabajo humano a solo unos minutos."
+      ],
+      "porQueImporta": "Representa un salto crítico en la ciberseguridad defensiva que permitirá a las empresas blindar su software a velocidad récord, aunque también redefine la carrera armamentística digital al poner capacidades ofensivas avanzadas a disposición de la automatización por IA.",
+      "tags": [
+        "OpenAI",
+        "Ciberseguridad",
+        "GPT-6",
+        "Desarrollo de Software"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "f72cdff9-b24f-4113-8ec3-7e53def70fd3",
+      "titulo": "En 1992, 28.800 patitos de goma cayeron al mar. La ciencia aún sigue dándoles caza",
+      "resumen": "El 10 de enero de 1992, 12 contenedores del buque de mercancías Ever Laurel cayeron al mar durante un temporal en el Pacífico Norte, cerca de la línea internacional del cambio de fecha.",
+      "url": "https://www.xatakaciencia.com/clima/1992-28-800-patitos-goma-cayeron-al-mar-ciencia-sigue-dandoles-caza",
+      "imagen": "https://i.blogs.es/cc58b4/gemini_generated_image_xs3hvxs3hvxs3hvx/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-11-05T18:31:06.000Z",
+      "fechaAgregada": "2026-11-06T13:04:59.930Z",
+      "puntosClave": [
+        "Un accidente de carga en 1992 liberó cerca de 29.000 patitos de plástico en medio del Pacífico Norte.",
+        "El suceso transformó un vertido masivo en el mayor experimento natural sobre corrientes oceánicas de la historia.",
+        "Más de tres décadas después, el rastreo de estos objetos sigue aportando valiosos datos de deriva marina."
+      ],
+      "porQueImporta": "Este evento histórico ofrece una base de datos real e insustituible para entrenar y calibrar algoritmos predictivos de IA, modelos oceanográficos y simulaciones del impacto de la contaminación por plásticos.",
+      "tags": [
+        "Ciencia de Datos",
+        "Simulación",
+        "IA Climática",
+        "Modelado de Datos"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "d1abe5ed-59ed-4ffc-bfa0-43da6afaca2d",
+      "titulo": "¿Tu Ordenador Agente está poniendo en riesgo tu red? Conoce cómo un router ASUS te protegerá",
+      "resumen": "La IA ya no solamente son LLM con los que podemos hablar en forma de asistentes, como ChatGPT que es el más popular de todos, Claude e incluso Gemini de Google.",
+      "url": "https://www.redeszone.net/marcas/asus/ordenador-agente-riesgo-red-asus-router-proteger/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/ASUS_Routers_openclaw_seguridad_destacada.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-05T18:05:44.000Z",
+      "fechaAgregada": "2026-11-06T13:05:00.635Z",
+      "puntosClave": [
+        "La evolución de la IA desde chatbox pasivos hacia agentes autónomos que interactúan con el sistema operativo introduce vectores de riesgo inéditos en redes locales.",
+        "Los fabricantes de infraestructura, como ASUS, comienzan a integrar capas de defensa específicas en sus routers para monitorear el comportamiento de los agentes.",
+        "El auge de la ejecución local de modelos IA traslada la responsabilidad de la ciberseguridad desde el software de usuario hacia los periféricos de red."
+      ],
+      "porQueImporta": "El despliegue masivo de agentes autónomos con permisos de ejecución transforma la seguridad de la red en el nuevo cuello de botella de la ciberseguridad. Para desarrolladores y empresas, esto implica que el control de las acciones de la IA debe fiscalizarse desde la propia infraestructura de red antes de permitir su adopción corporativa.",
+      "tags": [
+        "Ciberseguridad",
+        "Agentes IA",
+        "Hardware",
+        "Redes"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "079d01c7-62c4-4655-bd6f-0b5ac9f2279f",
+      "titulo": "Científicos crean un cilindro lleno de esferas de acero que puede reducir el impacto de los terremotos en edificios y puentes sin necesitar electricidad",
+      "resumen": "¿Qué ocurre cuando llega un terremoto fuerte y, a la vez, se va la luz? A esa pregunta intenta responder, con algo sorprendentemente sencillo, un dispositivo compuesto de un cilindro hueco relleno de bolas macizas de acero y atravesado por un eje que se mueve.",
+      "url": "https://www.xatakaciencia.com/fisica/cientificos-crean-cilindro-lleno-esferas-acero-que-puede-reducir-impacto-terremotos-edificios-puentes-necesitar-electricidad",
+      "imagen": "https://i.blogs.es/8145c0/cilindro-esferas-acero-reducir-terremotoso/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-11-05T15:01:06.000Z",
+      "fechaAgregada": "2026-11-06T13:04:59.931Z",
+      "puntosClave": [
+        "Desarrollan un dispositivo disipador de energía sísmica basado en un cilindro hueco con esferas macizas de acero y un eje móvil.",
+        "El mecanismo funciona de manera 100% mecánica y pasiva, eliminando la dependencia de componentes electrónicos o baterías durante un desastre.",
+        "El diseño permite mitigar daños estructurales severos en edificios y puentes incluso si colapsa la red eléctrica de la zona."
+      ],
+      "porQueImporta": "Demuestra que la resiliencia en infraestructura crítica a menudo requiere soluciones de hardware mecánico pasivo que no dependan de la red eléctrica. Para la industria tecnológica y de ingeniería, este avance abre nuevas vías para proteger centros de datos, sensores y estructuras clave mediante física aplicada sin añadir complejidad de software.",
+      "tags": [
+        "Hardware",
+        "Infraestructura",
+        "Ingeniería",
+        "Resiliencia"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "fa687562-b2c7-48b1-9e39-ed9134cbee31",
+      "titulo": "Utiliza estas cámaras de seguridad en oferta para vigilar todo lo que ocurra en tu vivienda",
+      "resumen": "La cámara TP-Link Tapo C410 Kit baja de 79,99 euros a 59,99 euros en Amazon, un descuento del 25% que destaca dentro de una selección de cinco cámaras de seguridad con ofertas activas en Amazon y PcComponentes.",
+      "url": "https://www.redeszone.net/noticias/ofertas/camaras-seguridad-oferta-vigilancia-casa/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/apertura-10.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-05T14:12:26.000Z",
+      "fechaAgregada": "2026-11-06T13:05:00.635Z",
+      "puntosClave": [
+        "Amazon reduce un 25% el precio del kit de vigilancia TP-Link Tapo C410, situándolo en 59,99 euros.",
+        "La rebaja se enmarca en una campaña promocional conjunta que abarca a minoristas como Amazon y PcComponentes.",
+        "La oferta destaca dentro de un catálogo de cinco dispositivos de seguridad doméstica con descuentos temporales."
+      ],
+      "porQueImporta": "La democratización del hardware de vigilancia asequible acelera la adopción del Internet de las Cosas (IoT) y crea un ecosistema masivo de datos locales listo para ser procesado por algoritmos de visión por computador y modelos de IA en el borde (Edge AI).",
+      "tags": [
+        "Hardware",
+        "IoT",
+        "Ciberseguridad",
+        "Domótica"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "6d73ac74-2f89-45a4-8ed9-f37a2a6b7873",
+      "titulo": "ONLYOFFICE renueva su alternativa a Microsoft Office y Google Docs",
+      "resumen": "ONLYOFFICE ha renovado su oferta para profesionales y empresas con el lanzamiento de ONLYOFFICE Docs 10 y la transformación de DocSpace en Apps. A las mejoras en sus editores se suman nuevas funciones de inteligencia artificial y una reorganización del trabajo compartido, con opciones para utilizar…",
+      "url": "https://www.muycomputer.com/2026/11/05/onlyoffice-renueva-su-alternativa-a-microsoft-office-y-google-docs/",
+      "imagen": "https://picsum.photos/seed/148/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-05T12:27:22.000Z",
+      "fechaAgregada": "2026-11-06T13:05:02.289Z",
+      "puntosClave": [
+        "Lanzamiento de ONLYOFFICE Docs 10 con potentes funciones de IA integradas directamente en sus editores.",
+        "Evolución estratégica del entorno colaborativo al transformar la plataforma DocSpace en un modelo basado en aplicaciones.",
+        "Refuerzo de la suite profesional para estrechar la brecha competitiva frente al dominio de Microsoft 365 y Google Workspace."
+      ],
+      "porQueImporta": "Evidencia cómo la integración masiva de IA y la modularidad software se han convertido en requisitos indispensables para que las suites ofimáticas alternativas puedan disputear el mercado empresarial a los gigantes tecnológicos.",
+      "tags": [
+        "Productividad",
+        "Inteligencia Artificial",
+        "Software Libre",
+        "ONLYOFFICE"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "aef250c4-d225-470c-929b-bc944ee2e28f",
+      "titulo": "Esta actualización hace que tus juegos de Xbox Series S|X funcionen mejor que en la PS5 Pro",
+      "resumen": "AMD acaba de dar un paso muy importante para mejorar la calidad gráfica de los videojuegos de las consolas Xbox y que se puede interpretar como una forma de alargar la vida útil de las consolas de Microsoft en el mercado ya que, según multitud de rumores, la nueva generación, conocida como Project…",
+      "url": "https://hardzone.es/noticias/equipos/amd-actualiza-fsr-xbox-series-x-s-mejorar-rendimiento/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/consolas-xbox-series-s-x.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-05T11:30:51.000Z",
+      "fechaAgregada": "2026-11-06T13:05:00.977Z",
+      "puntosClave": [
+        "AMD acaba de dar un paso muy importante para mejorar la calidad gráfica de los videojuegos de las consolas Xbox y que se puede interpretar…",
+        "según multitud de rumores",
+        "la nueva generación"
+      ],
+      "porQueImporta": "«Esta actualización hace que tus juegos de Xbox Series S|X funcionen mejor…» según HardZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Microsoft"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "b52d2956-e934-486f-bca1-0c12de19208f",
+      "titulo": "Bluetooth High Data Throughput (HDT): la nueva especificación que lleva Bluetooth LE a 7,5 Mbps",
+      "resumen": "El Bluetooth SIG ha adoptado esta semana Bluetooth High Data Throughput (HDT), una especificación que multiplica casi por cuatro la velocidad máxima de Bluetooth LE y la sitúa en 7,5 Mbps.",
+      "url": "https://www.redeszone.net/noticias/lanzamientos/bluetooth-high-data-throughput-hdt-7-5-mbps/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/apertura-8.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-05T11:11:42.000Z",
+      "fechaAgregada": "2026-11-06T13:05:00.636Z",
+      "puntosClave": [
+        "El Bluetooth SIG adopta oficialmente la especificación High Data Throughput (HDT) para la norma Low Energy.",
+        "La velocidad máxima de transmisión se cuadruplica frente a versiones previas, alcanzando un techo de 7,5 Mbps.",
+        "El estándar optimiza el rendimiento inalámbrico sin disparar el consumo energético en dispositivos pequeños."
+      ],
+      "porQueImporta": "Este incremento de ancho de banda transforma el ecosistema del IoT y el *Edge AI*, permitiendo transmitir métricas de sensores complejos, audio en alta fidelidad y datos para modelos de IA locales en tiempo real sin penalizar la batería.",
+      "tags": [
+        "Hardware",
+        "IoT",
+        "Bluetooth",
+        "Edge AI"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "921971cd-608e-4330-a8e7-ebe330b35c8b",
+      "titulo": "Shigeru Miyamoto (73 años), sobre la inteligencia artificial generativa: “Si la IA llegara a encargarse de todo, siempre habrá un papel para nosotros”",
+      "resumen": "Shigeru Miyamoto cree que, aunque la inteligencia artificial tome más funciones, los creadores tienen algo que ofrecer. “Si la IA llegara a encargarse de todo, siempre habrá un papel para nosotros”, ha dicho el diseñador de Nintendo.",
+      "url": "https://www.genbeta.com/actualidad/shigeru-miyamoto-73-anos-inteligencia-artificial-generativa-ia-llegara-a-encargarse-todo-siempre-habra-papel-para-nosotros",
+      "imagen": "https://i.blogs.es/9ca92c/shigeru-miyamoto/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-05T08:01:24.000Z",
+      "fechaAgregada": "2026-11-06T13:04:58.786Z",
+      "puntosClave": [
+        "Shigeru Miyamoto reivindica la chispa y el criterio humano frente al avance imparable de la IA generativa en el desarrollo de videojuegos.",
+        "Nintendo mantiene una postura cauta, priorizando la creatividad artesanal por encima de la automatización masiva de activos o guiones.",
+        "El veterano diseñador sugiere que la tecnología debe ser una herramienta de apoyo, sin sustituir la identidad ni la visión de los creadores."
+      ],
+      "porQueImporta": "En una industria del videojuego obsesionada con reducir costes mediante IA, la postura del padre de Mario reafirma que el valor diferencial de las empresas seguirá residiendo en el diseño de experiencia puramente humano y la autenticidad creativa.",
+      "tags": [
+        "Nintendo",
+        "IA Generativa",
+        "Videojuegos",
+        "Creatividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "0d54f639-0018-4eee-b9f6-548c1ce3dc21",
+      "titulo": "OpenAI prepara la compra de Pierre para convertir Codex en una plataforma de desarrollo más completa",
+      "resumen": "OpenAI lleva meses ampliando las capacidades de Codex para que sus agentes no se limiten a escribir código, sino que también ayuden a trabajar con proyectos completos.",
+      "url": "https://www.muycomputer.com/2026/11/04/openai-prepara-la-compra-de-pierre-para-convertir-codex-en-una-plataforma-de-desarrollo-mas-completa/",
+      "imagen": "https://picsum.photos/seed/149/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-04T18:02:23.000Z",
+      "fechaAgregada": "2026-11-06T13:05:02.290Z",
+      "puntosClave": [
+        "OpenAI planea adquirir Pierre para integrar sus capacidades y robustecer su arquitectura de programación con IA.",
+        "El objetivo es transformar Codex en una plataforma integral capaz de gestionar proyectos de software completos, no solo fragmentos de código.",
+        "La estrategia refuerza el despliegue de agentes autónomos orientados a automatizar el ciclo de vida completo del desarrollo."
+      ],
+      "porQueImporta": "Este movimiento marca la transición de los asistentes de código hacia entornos de desarrollo autónomos. Para la industria, implica que la IA no solo autocompletará sintaxis, sino que gestionará la arquitectura y los flujos de trabajo completos, elevando el rol del programador a supervisión estratégica.",
+      "tags": [
+        "OpenAI",
+        "Codex",
+        "Desarrollo de Software",
+        "Agentes de IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
