@@ -1,0 +1,353 @@
+{
+  "fecha": "2026-11-07",
+  "generado": "2026-11-07T12:01:50.962Z",
+  "total": 14,
+  "enriquecidasConIA": 13,
+  "noticias": [
+    {
+      "id": "1276be7c-e345-47a4-af65-2b95f8c5d7bf",
+      "titulo": "Que el cuero más antiguo del mundo tenga 7.200 años no es sorpresa. Que esté en Granada, sí",
+      "resumen": "Hace aproximadamente 7.200 años, alguien curtió una piel de cabra y le hizo cuatro agujeros. No se sabe bien cómo, pero acabó en la cueva prehistórica de los Murciélagos, en el municipio granadino de Albuñol, un lugar que durante milenios sirvió como cementerio.",
+      "url": "https://www.xataka.com/magnet/cuero-antiguo-mundo-esta-granada-tiene-7-200-anos-conserva-adn-cabra-neolitica",
+      "imagen": "https://i.blogs.es/88c620/gemini_generated_image_fvlhx2fvlhx2fvlh/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-07T07:00:00.000Z",
+      "fechaAgregada": "2026-11-07T11:50:18.604Z",
+      "puntosClave": [
+        "Identifican en la Cueva de los Murciélagos (Granada) una piel de cabra procesada con más de 7.200 años de antigüedad.",
+        "El fragmento destaca por su preservación excepcional y por presentar cuatro perforaciones realizadas intencionadamente.",
+        "El hallazgo sitúa a la Península Ibérica como un referente clave en el estudio de las primeras tecnologías de manufactura textil y del cuero."
+      ],
+      "porQueImporta": "Para el sector tecnológico y de la IA, este hito valida el uso de modelos analíticos avanzados y biotecnología aplicada a la datación histórica. Impulsa el desarrollo de herramientas de visión por computador y gemelos digitales orientadas a la conservación predictiva del patrimonio arqueológico mundial.",
+      "tags": [
+        "IA y Ciencia",
+        "Arqueología Digital",
+        "Biotecnología"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "f873eb0c-8196-4bf9-9ccc-806ded408764",
+      "titulo": "India anuncia planes para desarrollar GPU nacionales en 24 meses mientras busca dar salida comercial a sus chips RISC-V",
+      "resumen": "India lleva años consolidando su posición en la industria tecnológica mundial, especialmente en el desarrollo de software y la prestación de servicios informáticos.",
+      "url": "https://www.xataka.com/robotica-e-ia/india-anuncia-planes-para-desarrollar-gpu-nacionales-24-meses-busca-dar-salida-comercial-a-sus-chips-risc-v",
+      "imagen": "https://i.blogs.es/4624bc/semicon/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-06T20:31:05.000Z",
+      "fechaAgregada": "2026-11-07T11:50:18.605Z",
+      "puntosClave": [
+        "India establece un plazo de 24 meses para desarrollar sus propias GPU de soberanía nacional.",
+        "El proyecto busca llevar al mercado comercial su ecosistema de chips basados en la arquitectura abierta RISC-V.",
+        "La estrategia pretende transformar el rol del país, pasando de ser un gigante del software a un actor clave en hardware de IA."
+      ],
+      "porQueImporta": "Este movimiento acelera la búsqueda global de soberanía en hardware y desafía el monopolio de Nvidia. Para la industria, la combinación de GPU nacionales y arquitectura RISC-V representa una vía estratégica para abaratar los costes de cómputo y democratizar la infraestructura necesaria para entrenar modelos de IA.",
+      "tags": [
+        "Hardware",
+        "GPU",
+        "RISC-V",
+        "Soberanía Tecnológica"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "7cc09e9e-8a5b-4727-ad74-676ea10e4934",
+      "titulo": "TSMC podría comenzar a fabricar RAM, pero no te ilusiones con que baje de precio",
+      "resumen": "Con una crisis de memoria RAM que aún no habría mostrado su peor cara, la industria de los semiconductores busca alternativas para tratar de cubrir la brutal demanda impulsada por la inteligencia artificial.",
+      "url": "https://hipertextual.com/hardware/tsmc-podria-fabricar-memoria-3d-ram/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/10/tsmc-001-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-06T17:44:27.000Z",
+      "fechaAgregada": "2026-11-07T11:50:18.738Z",
+      "puntosClave": [
+        "TSMC contempla diversificar su producción hacia la memoria RAM para responder al desabastecimiento global.",
+        "El auge de la infraestructura para inteligencia artificial está consumiendo la oferta disponible de semiconductores.",
+        "La incorporación del gigante taiwanés busca estabilizar el suministro, pero no logrará abaratar los costes a corto plazo."
+      ],
+      "porQueImporta": "La escasez de memoria especializada amenaza con encarecer la infraestructura cloud y los equipos de cómputo para desarrollo de IA. Aunque la entrada de TSMC asegura volumen para grandes centros de datos, mantendrá los costes operativos elevados para empresas y creadores de tecnología.",
+      "tags": [
+        "TSMC",
+        "Hardware",
+        "Semiconductores",
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "2e3b8e78-d869-42e0-9b5d-9b03fa18171a",
+      "titulo": "Desarrollador frustrado de Adobe crea Photoshop, Premiere y otros con IA como código abierto",
+      "resumen": "Como las suscripciones de Adobe no convencen a todo el mundo, Brandon Thomas (un desarrollador con 15 años de experiencia) ha decidido llevar su descontento un paso más allá.",
+      "url": "https://www.genbeta.com/actualidad/desarrollador-frustrado-adobe-crea-photoshop-premiere-otros-ia-como-codigo-abierto",
+      "imagen": "https://i.blogs.es/22395b/genbeta-6-photoshop/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-06T17:01:08.000Z",
+      "fechaAgregada": "2026-11-07T11:50:19.173Z",
+      "puntosClave": [
+        "Brandon Thomas, un desarrollador con 15 años de experiencia, ha lanzado alternativas de código abierto a la suite de Adobe usando IA.",
+        "El proyecto nace como respuesta directa al rechazo que generan las tarifas por suscripción y las restricciones del software propietario.",
+        "La iniciativa busca replicar herramientas como Photoshop y Premiere integrando modelos generativos para democratizar la edición profesional."
+      ],
+      "porQueImporta": "Evidencia cómo la IA generativa permite a programadores independientes crear alternativas viables frente a monopolios de software consolidados. Este movimiento no solo impulsa el ecosistema de código abierto, sino que podría presionar a gigantes como Adobe a replantear sus agresivos modelos de monetización.",
+      "tags": [
+        "Código Abierto",
+        "Adobe",
+        "IA Generativa",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c215a72d-dade-44b5-952e-640bc6909052",
+      "titulo": "Corea del Sur se ha convertido en el termómetro de la IA: sus fabricantes de chips están pagando las dudas de Wall Street",
+      "resumen": "Hoy la bolsa surcoreana se ha pegado un batacazo enorme. El principal indicador bursátil de este país asiático es el KOSPI, y durante 2026 ha sido el protagonista de una de las mayores subidas de los grandes mercados internacionales impulsado principalmente por dos empresas: Samsung y SK hynix.",
+      "url": "https://www.xataka.com/robotica-e-ia/corea-sur-se-ha-convertido-termometro-ia-sus-fabricantes-chips-estan-pagando-dudas-wall-street",
+      "imagen": "https://i.blogs.es/da9f85/samsung/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-06T16:31:08.000Z",
+      "fechaAgregada": "2026-11-07T11:50:18.606Z",
+      "puntosClave": [
+        "La bolsa de Seúl sufre una fuerte corrección tras liderar los mercados globales impulsada por el boom de los semiconductores.",
+        "Gigantes clave como Samsung y SK hynix absorben el impacto del creciente escepticismo de los inversores sobre el retorno financiero de la IA.",
+        "Corea del Sur se consolida como el indicador temprano para evaluar la estabilidad de la cadena de suministro global de hardware."
+      ],
+      "porQueImporta": "Este ajuste bursátil anticipa una posible desaceleración en el gasto de infraestructura para IA. Si Wall Street reduce el flujo de capital por falta de rentabilidad a corto plazo, la disponibilidad y los costes de la memoria de alto ancho de banda (HBM) afectarán directamente los planes de escalado de los desarrolladores de modelos.",
+      "tags": [
+        "Hardware",
+        "Semiconductores",
+        "Finanzas IA",
+        "Mercados"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "b66bc3b1-56b7-4304-8927-3a8012830f32",
+      "titulo": "El enteroscopio robótico flexible ofrece un nuevo enfoque para la exploración del intestino delgado",
+      "resumen": "El intestino delgado mide más de seis metros, está plegado sobre sí mismo y su pared es resbaladiza, así que explorarlo entero es mucho más difícil que mirar el estómago o el colon.",
+      "url": "https://www.xatakaciencia.com/biologia/enteroscopio-robotico-flexible-ofrece-nuevo-enfoque-para-exploracion-intestino-delgado",
+      "imagen": "https://i.blogs.es/604cb9/enteroscopio-robotico-flexible-intestino-delgado/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-11-06T13:01:08.000Z",
+      "fechaAgregada": "2026-11-07T11:50:19.617Z",
+      "puntosClave": [
+        "La anatomía del intestino delgado, con más de seis metros de pliegues resbaladizos, ha sido históricamente uno de los mayores desafíos para la endoscopia tradicional.",
+        "El desarrollo de robótica flexible introduce un sistema de navegación adaptativo capaz de recorrer cavidades biológicas complejas sin causar traumatismos.",
+        "Este avance abre la puerta a diagnósticos gastrointestinales completos, precisos y sustancialmente menos invasivos para el paciente."
+      ],
+      "porQueImporta": "Representa un hito en la robótica médica blanda que exige a la industria desarrollar nuevos algoritmos de visión computacional y control háptico, abriendo un mercado clave para la IA aplicada al guiado asistido en tiempo real dentro del sector MedTech.",
+      "tags": [
+        "Robótica",
+        "MedTech",
+        "Salud",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "3dbf6a0c-252c-4d4c-936f-3a0d8dc9a13e",
+      "titulo": "Tenniix Pro, analizamos el robot de tenis con IA que revoluciona los entrenamientos",
+      "resumen": "La inteligencia artificial continúa ampliando sus posibilidades más allá de los ordenadores y los smartphones. Tenniix Pro es un buen ejemplo de ello: un robot de entrenamiento que combina cámaras, sensores y algoritmos inteligentes para convertirse en un compañero de tenis capaz de adaptar…",
+      "url": "https://www.muycomputer.com/2026/11/06/tenniix-pro-robot-tenis-ia-entrenamientos/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/11/IMG20261020132703.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-06T11:44:32.000Z",
+      "fechaAgregada": "2026-11-07T11:50:22.228Z",
+      "puntosClave": [
+        "La inteligencia artificial continúa ampliando sus posibilidades más allá de los ordenadores y los smartphones.",
+        "Tenniix Pro es un buen ejemplo de ello: un robot de entrenamiento que combina cámaras, sensores y algoritmos inteligentes para convertirse…"
+      ],
+      "porQueImporta": "«Tenniix Pro, analizamos el robot de tenis con IA que revoluciona…» según MuyComputer: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Robótica"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "76a1ff34-5b42-47d1-87ea-6d2455551182",
+      "titulo": "Bill Gates advierte de la inteligencia artificial sin regular: espera un fuerte aumento de los ciberataques",
+      "resumen": "Bill Gates, cofundador de Microsoft, cree que la inteligencia artificial (IA) sin regulación es una amenaza que no deja de crecer, y es que en una entrevista en octubre anticipó una escalada de ciberataques impulsados por IA en los próximos doce mese. El riesgo inmediato.",
+      "url": "https://www.genbeta.com/inteligencia-artificial/bill-gates-advierte-inteligencia-artificial-regular-espera-fuerte-aumento-ciberataques",
+      "imagen": "https://i.blogs.es/9d2256/bill-gates-en-conversacion-en-la-oficina/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-06T09:01:08.000Z",
+      "fechaAgregada": "2026-11-07T11:50:19.174Z",
+      "puntosClave": [
+        "Bill Gates alerta sobre un crecimiento acelerado de ofensivas informáticas sofisticadas facilitadas por herramientas de IA.",
+        "El cofundador de Microsoft proyecta que este incremento en la violencia digital se manifestará intensamente durante el próximo año.",
+        "La falta de un marco normativo global actual deja desprotegidas las infraestructuras clave frente al uso destructivo de la tecnología."
+      ],
+      "porQueImporta": "Para los equipos de ciberseguridad y desarrolladores, esto exige abandonar la defensa tradicional e integrar sistemas defensivos autónomos basados en IA para mitigar exploits generados a velocidad sobrehumana antes de que paralicen operaciones corporativas.",
+      "tags": [
+        "Ciberseguridad",
+        "Seguridad IA",
+        "Regulación IA",
+        "Microsoft"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "6402e600-72fd-4912-b0b9-bdc9a89fde86",
+      "titulo": "Black Friday en GVGmall: hasta un 91 % de descuento, Gemini Pro 6 meses por 15€ y Windows 11 Pro por 22€",
+      "resumen": "Hablar de inteligencia artificial en el PC suele llevarnos inmediatamente a pensar en los nuevos equipos con chips que integran una NPU, tarjetas gráficas de alto rendimiento, etc., pero renovar el hardware no es la única manera de acceder a estas posibilidades.",
+      "url": "https://www.muycomputer.com/2026/11/06/black-friday-en-gvgmall-hasta-un-91-de-descuento-gemini-pro-6-meses-por-15e-y-windows-11-pro-por-22e/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/11/Licencias-2b.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-06T08:58:03.000Z",
+      "fechaAgregada": "2026-11-07T11:50:22.228Z",
+      "puntosClave": [
+        "Las promociones del Black Friday democratizan el acceso a software y modelos de IA avanzados sin requerir una inversión inmediata en nuevo hardware.",
+        "Se ofrecen licencias clave como Gemini Pro durante seis meses por 15€ y Windows 11 Pro a 22€ a través de la plataforma GVGmall.",
+        "El mercado demuestra que la optimización de costes en licencias es una vía accesible para integrar herramientas de IA en equipos ya existentes."
+      ],
+      "porQueImporta": "Esta rebaja drástica en las barreras financieras permite a desarrolladores y PYMEs probar capacidades de IA generativa de nivel profesional como Gemini Pro sin asumir grandes costes operativos ni renovar infraestructura.",
+      "tags": [
+        "Gemini Pro",
+        "Hardware",
+        "Productividad",
+        "Software"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "afbd5b80-c2ca-490d-8bbb-76472af0f09d",
+      "titulo": "Más de 2.000 euros por un mini PC: así es el nuevo miniordenador de ASUS ya disponible en España",
+      "resumen": "ASUS acaba de poner a la venta en España un nuevo mini PC diseñado para las empresas y particulares que buscan una solución de Inteligencia Artificial de forma local sin tener que invertir una gran cantidad de dinero a pesar de que su precio supera los 2.000 euros.",
+      "url": "https://hardzone.es/noticias/equipos/nuevo-mini-pc-asus-qualcomm-snapdragon-x2-elite/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/mini-pc-asus-ascent-qn10.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-06T07:53:33.000Z",
+      "fechaAgregada": "2026-11-07T11:50:21.489Z",
+      "puntosClave": [
+        "ASUS lanza en el mercado español un mini PC optimizado para la ejecución de modelos de Inteligencia Artificial en local.",
+        "El equipo está orientado a profesionales y empresas que requieren capacidad de procesamiento rápido sin depender de la nube.",
+        "Pese a superar los 2.000 euros, se posiciona como una alternativa económica frente a las grandes infraestructuras de servidores tradicionales."
+      ],
+      "porQueImporta": "Esta apuesta consolida la tendencia hacia la 'IA Edge' o local, donde la privacidad de datos y la latencia cero son prioritarias para las pymes. Demuestra cómo los fabricantes están democratizando el hardware dedicado a IA, ofreciendo potencia empresarial en formatos compactos de consumo.",
+      "tags": [
+        "Hardware",
+        "IA Local",
+        "ASUS",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "e305c749-734e-4746-8e27-34e05b8e3620",
+      "titulo": "OpenAI presenta GPT-6 Cyber, una IA capaz de encontrar y explotar cientos de vulnerabilidades",
+      "resumen": "La búsqueda de vulnerabilidades puede llevar semanas de trabajo, pero OpenAI acaba de demostrar hasta qué punto la inteligencia artificial puede acelerar ese proceso. Su nuevo modelo, GPT-6 Cyber, está especializado en analizar código, comprobar si los fallos son explotables y ayudar a corregirlos.",
+      "url": "https://www.muycomputer.com/2026/11/05/openai-presenta-gpt-6-cyber-una-ia-capaz-de-encontrar-y-explotar-cientos-de-vulnerabilidades/",
+      "imagen": "https://picsum.photos/seed/300/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-05T19:03:58.000Z",
+      "fechaAgregada": "2026-11-07T11:50:22.228Z",
+      "puntosClave": [
+        "OpenAI lanza un modelo especializado en auditoría de código que reduce análisis de semanas a solo unos minutos.",
+        "La herramienta no solo identifica brechas de seguridad, sino que evalúa su capacidad de ataque y genera correcciones automáticas.",
+        "Plantea un reto crucial para la industria: agiliza la ciberdefensa pero eleva el riesgo si cae en manos de actores maliciosos."
+      ],
+      "porQueImporta": "Esta tecnología transforma radicalmente la ciberseguridad al acortar drásticamente la ventana de tiempo para parchear errores; las empresas deberán implementar defensas automatizadas en tiempo real antes de que los vectores de ataque impulsados por IA sean explotados masivamente.",
+      "tags": [
+        "OpenAI",
+        "Ciberseguridad",
+        "LLMs",
+        "Desarrollo de Software"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "77ba92f2-3ffe-41eb-9daa-0f5ae02cd0cb",
+      "titulo": "¿Tu Ordenador Agente está poniendo en riesgo tu red? Conoce cómo un router ASUS te protegerá",
+      "resumen": "La IA ya no solamente son LLM con los que podemos hablar en forma de asistentes, como ChatGPT que es el más popular de todos, Claude e incluso Gemini de Google.",
+      "url": "https://www.redeszone.net/marcas/asus/ordenador-agente-riesgo-red-asus-router-proteger/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/ASUS_Routers_openclaw_seguridad_destacada.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-05T18:05:44.000Z",
+      "fechaAgregada": "2026-11-07T11:50:20.111Z",
+      "puntosClave": [
+        "La transición de simples chatbots a agentes autónomos de IA ejecuta acciones en segundo plano que abren nuevos vectores de riesgo en las redes locales.",
+        "La seguridad de la IA empieza a trasladarse al hardware de red, donde fabricantes como ASUS implementan filtros para supervisar este tipo de tráfico.",
+        "El control perimetral a nivel de router se vuelve crítico para prevenir la exfiltración involuntaria de datos provocada por agentes locales."
+      ],
+      "porQueImporta": "A medida que los desarrolladores despliegan agentes de IA capaces de tomar decisiones autónomas en la máquina del usuario, el hardware de red debe evolucionar para actuar como un cortafuegos inteligente capaz de contener acciones imprevistas sin comprometer la productividad.",
+      "tags": [
+        "Agentes IA",
+        "Ciberseguridad",
+        "Hardware",
+        "Redes"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c116f694-848a-4266-9262-fed0f7b67aa9",
+      "titulo": "Utiliza estas cámaras de seguridad en oferta para vigilar todo lo que ocurra en tu vivienda",
+      "resumen": "La cámara TP-Link Tapo C410 Kit baja de 79,99 euros a 59,99 euros en Amazon, un descuento del 25% que destaca dentro de una selección de cinco cámaras de seguridad con ofertas activas en Amazon y PcComponentes.",
+      "url": "https://www.redeszone.net/noticias/ofertas/camaras-seguridad-oferta-vigilancia-casa/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/apertura-10.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-05T14:12:26.000Z",
+      "fechaAgregada": "2026-11-07T11:50:20.111Z",
+      "puntosClave": [
+        "TP-Link encabeza una serie de rebajas en videovigilancia al reducir un 25% el precio de su kit Tapo C410 en Amazon.",
+        "La oferta forma parte de una campaña coordinada de descuentos en dispositivos de monitoreo en distribuidores clave como Amazon y PcComponentes.",
+        "El coste de entrada para desplegar infraestructura de seguridad en el hogar digital alcanza mínimos altamente competitivos."
+      ],
+      "porQueImporta": "La democratización del hardware de vigilancia acelera la adopción masiva del IoT en el hogar, creando un terreno fértil para la integración de modelos de visión por computador y analítica de IA en el borde (Edge AI) sin depender de grandes inversiones iniciales.",
+      "tags": [
+        "Hardware",
+        "Domótica",
+        "IoT",
+        "Ciberseguridad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "183e0a64-7e1a-40fc-990c-73d02cc45a4b",
+      "titulo": "ONLYOFFICE renueva su alternativa a Microsoft Office y Google Docs",
+      "resumen": "ONLYOFFICE ha renovado su oferta para profesionales y empresas con el lanzamiento de ONLYOFFICE Docs 10 y la transformación de DocSpace en Apps. A las mejoras en sus editores se suman nuevas funciones de inteligencia artificial y una reorganización del trabajo compartido, con opciones para utilizar…",
+      "url": "https://www.muycomputer.com/2026/11/05/onlyoffice-renueva-su-alternativa-a-microsoft-office-y-google-docs/",
+      "imagen": "https://picsum.photos/seed/293/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-05T12:27:22.000Z",
+      "fechaAgregada": "2026-11-07T11:50:22.228Z",
+      "puntosClave": [
+        "ONLYOFFICE alcanza la versión 10 integrando nuevas herramientas de IA para potenciar la automatización en sus editores.",
+        "La plataforma reestructura su ecosistema convirtiendo DocSpace en una arquitectura basada en aplicaciones para el trabajo colaborativo.",
+        "La actualización consolida una alternativa privada y ejecutable en local frente al dominio de Microsoft 365 y Google Workspace."
+      ],
+      "porQueImporta": "La llegada de capacidades avanzadas de IA a suites ofimáticas independientes y desplegables en servidores propios demuestra que las empresas ya no necesitan sacrificar el control de sus datos ni depender del ecosistema cerrado de los grandes gigantes tecnológicos.",
+      "tags": [
+        "Productividad",
+        "InteligenciaArtificial",
+        "SoftwareLibre",
+        "Enterprise"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
