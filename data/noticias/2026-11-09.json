@@ -1,0 +1,350 @@
+{
+  "fecha": "2026-11-09",
+  "generado": "2026-11-09T14:24:56.127Z",
+  "total": 14,
+  "enriquecidasConIA": 10,
+  "noticias": [
+    {
+      "id": "63e9e6c2-60da-42a5-b0aa-abb20f2c0dbc",
+      "titulo": "¿Los juegos de 2026 se ven mejor en PS5 o Xbox Series? FSR 4 vs QSSR vs PSSR 2.0",
+      "resumen": "El lanzamiento de AMD FSR 4.1.2 para la Xbox Series X y Xbox Series S ha abierto una nueva posibilidad para los desarrolladores y de paso darles una segunda vida a las consolas de Microsoft: utilizar reescalado mediante Inteligencia Artificial en lugar de utilizar técnicas tradicionales y así…",
+      "url": "https://hardzone.es/noticias/equipos/fsr-xbox-series-pssr-ps5-pro-rendimiento/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/xbox-vs-ps5.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-09T14:02:17.000Z",
+      "fechaAgregada": "2026-11-09T14:06:08.838Z",
+      "puntosClave": [
+        "La llegada de AMD FSR 4.1.2 a la familia Xbox Series introduce el reescalado por IA para sustituir las técnicas de renderizado tradicionales.",
+        "Esta actualización busca competir directamente con soluciones rivales como el PSSR 2.0 de PlayStation en la recta final de la generación.",
+        "La integración de modelos de aprendizaje profundo permite optimizar el rendimiento visual sin exigir un mayor consumo de recursos a los componentes existentes."
+      ],
+      "porQueImporta": "Esta adopción consolida a la superresolución basada en inteligencia artificial como la columna vertebral de la optimización en la industria del videojuego. Para los desarrolladores, implica mantener estándares gráficos de vanguardia y reducir costes de renderizado nativo en un hardware que entra en su fase de madurez.",
+      "tags": [
+        "Gaming",
+        "Hardware",
+        "AMD",
+        "Reescalado IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c6b5bd22-5eb3-4faa-8fdd-4bf2423e3c2b",
+      "titulo": "Dejé de escribir a ChatGPT, Claude y Gemini durante una semana y descubrí una mejor forma de usar la IA",
+      "resumen": "Escribir instrucciones para ChatGPT, Claude o Gemini se ha convertido en una costumbre para los que usan herramientas cada día, pero la cosa se complica cuando tenemos que explicar algo un poco difuso.",
+      "url": "https://www.genbeta.com/inteligencia-artificial/deje-escribir-a-chatgpt-claude-gemini-durante-semana-descubri-mejor-forma-usar-ia",
+      "imagen": "https://i.blogs.es/2ebe35/genbeta-1-hablar-ia/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-09T14:01:07.000Z",
+      "fechaAgregada": "2026-11-09T14:06:06.517Z",
+      "puntosClave": [
+        "Escribir instrucciones para ChatGPT",
+        "Claude o Gemini se ha convertido en una costumbre para los que usan herramientas cada día",
+        "pero la cosa se complica cuando tenemos que explicar algo un poco difuso."
+      ],
+      "porQueImporta": "«Dejé de escribir a ChatGPT, Claude y Gemini durante una semana y descubrí…» según Genbeta: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "Gemini"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "d38c3a3e-9007-4a50-9769-5c198d908237",
+      "titulo": "El Samsung Galaxy S26 Ultra cae de precio antes del Black Friday: así es la oferta con triple descuento que tiene la tienda oficial",
+      "resumen": "Desde la Samsung Week hace ya unas cuantas semanas, no hemos parado de encontrar el Samsung Galaxy S26 Ultra de oferta. El gama alta de la marca ha bajado varias veces de precio, y ahora lo ha vuelto a hacer: en la tienda oficial lo podemos comprar por un precio de 1.025,05 euros aprovechando varios…",
+      "url": "https://www.xataka.com/seleccion/samsung-galaxy-s26-ultra-cae-precio-antes-black-friday-asi-oferta-triple-descuento-que-tiene-tienda-oficial",
+      "imagen": "https://i.blogs.es/bfea27/samsung-galaxy-s26-ultra/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-09T12:45:06.000Z",
+      "fechaAgregada": "2026-11-09T14:06:05.788Z",
+      "puntosClave": [
+        "Samsung despliega una estrategia de triple descuento acumulable en su tienda oficial de cara al periodo pre-Black Friday.",
+        "El dispositivo insignia de la marca sitúa su coste en 1.025,05 euros tras encadenar rebajas consecutivas desde la Samsung Week.",
+        "La maniobra comercial busca asegurar cuota de mercado en la gama alta antes del pico de consumo navideño."
+      ],
+      "porQueImporta": "La acelerada reducción de precio en flagships equipados con hardware para IA local (NPU) facilita la adopción masiva de dispositivos capaces de ejecutar modelos en el borde (edge computing), acelerando la democratización de la IA generativa móvil entre los usuarios finales.",
+      "tags": [
+        "Hardware",
+        "Samsung",
+        "Smartphones",
+        "EdgeAI"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "6e9034df-fc27-43b5-b17c-7e35c62dcbfd",
+      "titulo": "Claude Code guardaba tu correo para saber quién eres. Algunas webs acabaron recibiéndolo",
+      "resumen": "Iniciar una herramienta con el correo electrónico es lo habitual, ya que, como ocurre en el caso de Claude Code, este lo necesita para identificar la cuenta.",
+      "url": "https://www.xataka.com/robotica-e-ia/claude-code-guardaba-tu-correo-para-saber-quien-eres-algunas-webs-acabaron-recibiendolo",
+      "imagen": "https://i.blogs.es/03aa66/claude-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-09T11:01:07.000Z",
+      "fechaAgregada": "2026-11-09T14:06:05.789Z",
+      "puntosClave": [
+        "Iniciar una herramienta con el correo electrónico es lo habitual",
+        "como ocurre en el caso de Claude Code",
+        "este lo necesita para identificar la cuenta."
+      ],
+      "porQueImporta": "«Claude Code guardaba tu correo para saber quién eres.» según Xataka: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Claude"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "155d4b48-5e23-4779-8050-2615aacaaffe",
+      "titulo": "Bill Gates advierte sobre la agitación económico-social durante 20 años debido a la IA",
+      "resumen": "Bill Gates cree que tendremos un periodo de 20 años en el que se presentarán muchas transformaciones. Es decir, que habrá cambios económicos y sociales. Durante este periodo pueden surgir algunos problemas.",
+      "url": "https://www.genbeta.com/actualidad/bill-gates-advierte-agitacion-economico-social-durante-20-anos-debido-a-ia",
+      "imagen": "https://i.blogs.es/510c21/bill-gates/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-09T10:01:07.000Z",
+      "fechaAgregada": "2026-11-09T14:06:06.517Z",
+      "puntosClave": [
+        "Bill Gates cree que tendremos un periodo de 20 años en el que se presentarán muchas transformaciones.",
+        "Es decir, que habrá cambios económicos y sociales.",
+        "Durante este periodo pueden surgir algunos problemas."
+      ],
+      "porQueImporta": "«Bill Gates advierte sobre la agitación económico-social durante 20 años debido…» según Genbeta: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "f33d532d-92d4-46a4-bd2a-4ad2c1e5df54",
+      "titulo": "Jon Hernández, experto en IA: \"En un plazo de dos años, el manejo fluido de la inteligencia artificial determinará quién conserva un puesto de trabajo\"",
+      "resumen": "El divulgador Jon Hernández, especializado en inteligencia artificial, puso fecha a un cambio en el mercado laboral. En una entrevista en ‘La fórmula del éxito’, el pódcast de Uri Sabat, aseguró que “en dos años, aquella persona que no sea fluida en inteligencia artificial estará fuera del mercado…",
+      "url": "https://www.genbeta.com/inteligencia-artificial/jon-hernandez-experto-ia-plazo-dos-anos-manejo-fluido-inteligencia-artificial-determinara-quien-conserva-puesto-trabajo",
+      "imagen": "https://i.blogs.es/a73104/experto-ia/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-09T08:44:14.000Z",
+      "fechaAgregada": "2026-11-09T14:06:06.517Z",
+      "puntosClave": [
+        "El divulgador Jon Hernández establece un horizonte de 24 meses para que la competencia en IA sea un requisito laboral indispensable.",
+        "La falta de destreza en el uso de herramientas generativas dejará a los profesionales obsoletos frente a perfiles optimizados.",
+        "La adopción de estas tecnologías pasará de ser una ventaja competitiva opcional a un filtro de selección definitivo en las empresas."
+      ],
+      "porQueImporta": "Esta advertencia acorta drásticamente el margen de adaptación para trabajadores y empresas: ya no basta con comprender la IA teóricamente, sino que exige su integración diaria en los flujos de trabajo para no quedar excluido del mercado técnico y operativo.",
+      "tags": [
+        "Empleo",
+        "Productividad",
+        "IA Generativa",
+        "Mercado Laboral"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "2df6d264-3168-4eef-a2d2-339e8a86e275",
+      "titulo": "\"Debo una disculpa a mi familia\": Jensen Huang confiesa su infidelidad mientras Nvidia investiga un posible espionaje chino",
+      "resumen": "Una confesión personal y una investigación por posible espionaje chino han colocado a Jensen Huang en el centro de una noticia inesperada. El cofundador y CEO de Nvidia ha reconocido públicamente su infidelidad en un mensaje a sus empleados que comienza con una disculpa a su familia.",
+      "url": "https://www.xataka.com/empresas-y-economia/debo-disculpa-a-mi-familia-jensen-huang-confiesa-su-infidelidad-nvidia-investiga-posible-espionaje-chino",
+      "imagen": "https://i.blogs.es/508ee6/jensen-huang-gtc-2024_3d4392c1-5608-4de2-b1c8-fb618602fbe5-prv/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-08T22:46:00.000Z",
+      "fechaAgregada": "2026-11-09T14:06:05.790Z",
+      "puntosClave": [
+        "Jensen Huang reconoció públicamente una infidelidad personal a través de un comunicado interno dirigido a los empleados de Nvidia.",
+        "La revelación coincide con una investigación interna de la compañía sobre un presunto caso de espionaje corporativo vinculado a China.",
+        "La coincidencia de esta crisis reputacional de su CEO con una amenaza de seguridad coloca al gigante de los chips bajo una presión mediática y corporativa inédita."
+      ],
+      "porQueImporta": "Nvidia es la columna vertebral del hardware de IA global; cualquier inestabilidad en su liderazgo o brecha en la propiedad intelectual frente a China podría desestabilizar la confianza de los inversores, afectar la cadena de suministro de GPUs y alterar la competencia geopolítica en semiconductores.",
+      "tags": [
+        "Nvidia",
+        "Hardware",
+        "Geopolítica",
+        "Seguridad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "0a8f80aa-6505-46ba-a194-2d70e339ee2f",
+      "titulo": "Mi cofundador y yo éramos rivales en hackathons. A los 21 años, he puesto la universidad en pausa para construir una startup con él",
+      "resumen": "Cuando Raymond Loong Ng participaba en concursos de programación, nunca imaginó que uno de sus principales rivales acabaría siendo su socio. Ambos competían en equipos diferentes, pero solían ser de los pocos que seguían trabajando a las dos o tres de la madrugada.",
+      "url": "https://www.genbeta.com/laboral/mi-cofundador-yo-eramos-rivales-hackathons-a-21-anos-he-puesto-universidad-pausa-para-construir-startup",
+      "imagen": "https://i.blogs.es/2185a9/genbeta-7-silicon-valley/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-08T19:01:06.000Z",
+      "fechaAgregada": "2026-11-09T14:06:06.517Z",
+      "puntosClave": [
+        "Dos competidores habituales en maratones de programación decidieron unir fuerzas al descubrir una ética de trabajo y ambición compartidas.",
+        "A los 21 años, los jóvenes talentos optaron por congelar sus estudios universitarios para dedicarse a tiempo completo a su nuevo proyecto.",
+        "Las competiciones de código se reafirman como el principal espacio de reclutamiento orgánico y validación para los futuros fundadores de la industria."
+      ],
+      "porQueImporta": "Este caso refleja cómo el ritmo de la industria tecnológica actual incentiva a los desarrolladores jóvenes a priorizar la ejecución inmediata sobre los títulos tradicionales, convirtiendo a las hackathons en el verdadero terreno de prueba para identificar socios estratégicos y construir startups de alto impacto.",
+      "tags": [
+        "Startups",
+        "Talento Tech",
+        "Hackathons",
+        "Emprendimiento"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "e52805a1-5c0c-499d-9a32-02b58458ce5e",
+      "titulo": "Roblox, acusado de descargar 145 GB de modelos 3D, incluido contenido para adultos, para entrenar IA. La empresa niega haber usado los archivos",
+      "resumen": "Según Open3DLab, el rastreador asociado a la plataforma de juegos online Roblox se llevó 145,5 GB de modelos 3D de Open3DLab y sus sitios hermanos (SFMLab y SmutBase). Asimismo, ha sido acusado de pasar por alto las restricciones de las páginas web.",
+      "url": "https://www.genbeta.com/seguridad/roblox-acusado-descargar-145-gb-modelos-3d-incluido-contenido-para-adultos-para-entrenar-ia-empresa-niega-haber-usado-archivos",
+      "imagen": "https://i.blogs.es/d6fccb/sede-de-roblox/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-08T17:01:08.000Z",
+      "fechaAgregada": "2026-11-09T14:06:06.517Z",
+      "puntosClave": [
+        "Open3DLab acusa al rastreador web de Roblox de ignorar restricciones para extraer 145,5 GB de modelos tridimensionales de sus bases de datos.",
+        "Entre el material raspado se incluye contenido explícito para adultos procedente de repositorios especializados como SmutBase.",
+        "Roblox niega rotundamente haber empleado esos archivos para el entrenamiento de sus modelos de inteligencia artificial generativa."
+      ],
+      "porQueImporta": "Este caso evidencia el alto riesgo de contaminación que enfrentan los desarrolladores al raspas datos masivamente: la filtración incontrolada de contenido explícito en datasets corporativos puede arruinar la reputación de plataformas infantiles y desatar graves litigios por infracción de barreras web.",
+      "tags": [
+        "Roblox",
+        "IA Generativa",
+        "Derechos de Autor",
+        "Datasets"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "d458093a-1254-4f83-af73-eee05ea1fef2",
+      "titulo": "El uso de agua en los centros de datos de IA crece en áreas azotadas por la sequía",
+      "resumen": "Los centros de datos de IA necesitan enormes cantidades de agua para mantener sus servidores a una temperatura adecuada, algo que preocupa especialmente en lugares como Arizona en el que la sequía lleva años poniendo en dificultades el suministro.",
+      "url": "https://www.genbeta.com/inteligencia-artificial/uso-agua-centros-datos-ia-crece-areas-azotadas-sequia",
+      "imagen": "https://i.blogs.es/73f7cd/genbeta-6-centro-de-datos/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-08T15:01:07.000Z",
+      "fechaAgregada": "2026-11-09T14:06:06.518Z",
+      "puntosClave": [
+        "La refrigeración de los servidores dedicados a la IA requiere volúmenes masivos de agua de forma constante.",
+        "La ubicación de esta infraestructura en regiones hiperáridas como Arizona intensifica la presión sobre las reservas hídricas locales.",
+        "El rápido avance de la supercomputación choca de manera directa con las crisis climáticas y de abastecimiento en zonas con sequía prolongada."
+      ],
+      "porQueImporta": "El crecimiento de la IA ya no es solo un desafío de software o silicio, sino de sostenibilidad ambiental básica. La escasez de recursos hídricos obligará a las empresas de infraestructura a afrontar regulaciones severas, mayores costes de enfriamiento y la necesidad urgente de diseñar data centers climáticamente neutros para poder escalar.",
+      "tags": [
+        "Centros de Datos",
+        "Hardware",
+        "Sostenibilidad",
+        "Infraestructura"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "d798b493-33ad-44b4-9192-27dfda65414a",
+      "titulo": "Cambios que puedes hacer en tu cuenta de Google hoy mismo para mejorar tu privacidad",
+      "resumen": "Si quieres mejorar la privacidad de tu cuenta de Google, puedes tener en cuenta algunas opciones como pausar la actividad web y de aplicaciones, desactivar el historial de servicios de búsqueda y las recomendaciones, desactivar la personalización de anuncios o la cronología y seguimiento…",
+      "url": "https://www.redeszone.net/noticias/seguridad/cambios-cuenta-google-mejorar-privacidad/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/09/imagen-google-fondo-gris.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-08T12:07:40.000Z",
+      "fechaAgregada": "2026-11-09T14:06:08.387Z",
+      "puntosClave": [
+        "Google permite limitar el rastreo continuo mediante la desactivación del historial de búsquedas y la actividad en aplicaciones.",
+        "El control sobre la cronología de ubicación y la personalización de anuncios reduce el perfilado masivo de los usuarios.",
+        "La configuración proactiva de privacidad mitiga la recolección automática de datos por parte del ecosistema de la compañía."
+      ],
+      "porQueImporta": "Para la industria tecnológica y de la IA, el cierre de grifos de datos personales por parte del usuario tensiona el modelo de entrenamiento de algoritmos publicitarios y obliga a las empresas a adoptar arquitecturas 'privacy-by-design' y estrategias de 'zero-party data'.",
+      "tags": [
+        "Privacidad",
+        "Google",
+        "Seguridad",
+        "Big Data"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "df96f9e8-1eec-425d-a824-0adf46f6686f",
+      "titulo": "El modelo de OpenAI resuelve cientos de problemas matemáticos no resueltos: \"Provoca una gran sensación de vacío\"",
+      "resumen": "OpenAI ha publicado de golpe cientos de trabajos matemáticos elaborados por uno de sus modelos de inteligencia artificial más avanzados. En total, la compañía ha compartido 719 documentos agrupados en 372 familias de resultados, muchos de ellos relacionados con problemas que llevaban años…",
+      "url": "https://www.genbeta.com/inteligencia-artificial/modelo-openai-resuelve-cientos-problemas-matematicos-no-resueltos-provoca-gran-sensacion-vacio",
+      "imagen": "https://i.blogs.es/7cc866/genbeta-3-openai-matematicas/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-08T10:01:08.000Z",
+      "fechaAgregada": "2026-11-09T14:06:06.518Z",
+      "puntosClave": [
+        "OpenAI libera 719 investigaciones derivadas de 372 familias de teoremas matemáticos resueltos por su IA.",
+        "El hito demuestra la transición de la IA desde la simple síntesis de texto hacia el razonamiento abstracto y la deducción lógica compleja.",
+        "El hallazgo genera fascinación pero también un 'vacío' ético y existencial entre la comunidad investigadora tradicional."
+      ],
+      "porQueImporta": "Este avance acelera la creación de herramientas de verificación formal y razonamiento abstracto, transformando el desarrollo de software crítico y abriendo la puerta a que las empresas deleguen el I+D científico más complejo en agentes sintéticos.",
+      "tags": [
+        "OpenAI",
+        "Ciencia",
+        "Matemáticas",
+        "Razonamiento IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "bb607e92-efd2-4948-97a7-c502dcc245e3",
+      "titulo": "Descubren el interruptor cerebral que acelera la formación de buenos y malos hábitos, abriendo la puerta al tratamiento de adicciones",
+      "resumen": "Un equipo del Centro Médico de la Universidad de Georgetown ha identificado la proteína KCC2 como el regulador que controla la velocidad con la que el cerebro asocia estímulos y recompensas, el proceso del que nacen los hábitos y las adicciones.",
+      "url": "https://www.xatakaciencia.com/salud/descubren-interruptor-cerebral-que-acelera-formacion-buenos-malos-habitos-abriendo-puerta-al-tratamiento-adicciones",
+      "imagen": "https://i.blogs.es/ce1390/gemini_generated_image_81jcyf81jcyf81jc/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-11-08T09:31:05.000Z",
+      "fechaAgregada": "2026-11-09T14:06:07.177Z",
+      "puntosClave": [
+        "Investigadores de Georgetown identifican la proteína KCC2 como la clave neurobiológica en el aprendizaje de patrones de conducta.",
+        "El hallazgo revela cómo el cerebro modula la velocidad de vinculación entre estímulos externos y recompensas químicas.",
+        "Abre una vía inédita para desarrollar terapias dirigidas a neutralizar adicciones y reconfigurar hábitos compulsivos a nivel molecular."
+      ],
+      "porQueImporta": "Este mapa biológico del aprendizaje por refuerzo ofrece la clave para optimizar la arquitectura de redes neuronales biológicamente inspiradas e impulsar interfaces cerebro-computadora (BCI) capaces de acelerar el entrenamiento humano o tratar conductas compulsivas desde el software.",
+      "tags": [
+        "Neurociencia",
+        "Biotecnología",
+        "InterfacesCerebroComputadora",
+        "IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "909b9d14-e2e4-4605-9e7d-80e259b2eed3",
+      "titulo": "Cómo usar Gemini para encontrar, analizar y comparar productos antes de comprarlos",
+      "resumen": "Aplicaciones como ChatGPT, Claude o Gemini se han convertido en imprescindibles para millones de personas que buscan responder sus preguntas, obtener una explicación sobre algo que no entienden o, simplemente, obtener mejores resultados al buscar por internet.",
+      "url": "https://hipertextual.com/guias/comprar-con-google-gemini-buscar-comparar/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Comprar-online-Carrito-Bolsas-Ordenador.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-08T08:00:00.000Z",
+      "fechaAgregada": "2026-11-09T14:06:06.041Z",
+      "puntosClave": [
+        "Aplicaciones como ChatGPT",
+        "Claude o Gemini se han convertido en imprescindibles para millones de personas que buscan responder sus preguntas",
+        "obtener una explicación sobre algo que no entienden o"
+      ],
+      "porQueImporta": "«Cómo usar Gemini para encontrar, analizar y comparar productos antes…» según Hipertextual: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "Gemini"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    }
+  ]
+}
