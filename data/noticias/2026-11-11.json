@@ -1,0 +1,354 @@
+{
+  "fecha": "2026-11-11",
+  "generado": "2026-11-11T13:05:18.375Z",
+  "total": 14,
+  "enriquecidasConIA": 13,
+  "noticias": [
+    {
+      "id": "b420816c-75f0-4561-a8f8-18749892edb7",
+      "titulo": "Lenovo Yoga Pro 9i Aura Edition: así es el mejor portátil del año para productividad y diseño",
+      "resumen": "Un portátil de 16 pulgadas combina procesadores Intel Core Ultra, aceleración de inteligencia artificial y refrigeración Lenovo X Power en una propuesta dirigida a profesionales del diseño, el vídeo y la fotografía.",
+      "url": "https://www.adslzone.net/noticias/marcas/lenovo-yoga-pro-9i-aura-edition-potencia-intel-graficos/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/11/lenovo-0.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-11T12:00:47.000Z",
+      "fechaAgregada": "2026-11-11T12:50:37.391Z",
+      "puntosClave": [
+        "Lenovo renueva su buque insignia de 16 pulgadas integrando procesadores Intel Core Ultra para ejecutar tareas de IA directamente en el dispositivo.",
+        "El equipo optimiza la disipación térmica mediante la tecnología Lenovo X Power para sostener altos niveles de rendimiento gráfico.",
+        "Está diseñado específicamente para flujos de trabajo exigentes en edición de vídeo 4K, diseño 3D y procesamiento fotográfico."
+      ],
+      "porQueImporta": "La consolidación de NPU y aceleración de IA local en portátiles profesionales transforma el flujo de trabajo creativo, permitiendo ejecutar modelos de procesamiento de imagen y renderizado sin depender de la nube ni comprometer la autonomía.",
+      "tags": [
+        "Hardware",
+        "Intel",
+        "IA Local",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "58a8e7b7-3a92-400c-a1c3-e8910be83a66",
+      "titulo": "Seagate revive los discos híbridos con el FireCuda Forge: combina un HDD de hasta 20 TB con un SSD que corre de tu cuenta",
+      "resumen": "Seagate ha lanzado una unidad externa con la particularidad de que combina un disco duro de gran capacidad con un SSD rápido que tú mismo tienes que introducir.",
+      "url": "https://www.xataka.com/componentes/seagate-firecuda-forge-ficha-tecnica-caracteristicas-fotos-precio-fecha",
+      "imagen": "https://i.blogs.es/e0254d/firecuda/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-11T11:45:49.000Z",
+      "fechaAgregada": "2026-11-11T12:50:34.567Z",
+      "puntosClave": [
+        "Seagate lanza el FireCuda Forge, una unidad externa que ofrece hasta 20 TB de almacenamiento mecánico de gran capacidad.",
+        "El dispositivo reinterpreta el concepto híbrido al permitir que el usuario instale su propio SSD NVMe para acelerar las lecturas y escrituras.",
+        "Esta arquitectura modular busca resolver la brecha entre el alto rendimiento de la tecnología estado sólido y el bajo coste por gigabyte del disco duro tradicional."
+      ],
+      "porQueImporta": "Para desarrolladores e ingenieros de IA que gestionan datasets masivos de entrenamiento localmente, este esquema híbrido ofrece una solución económica para mantener cachés ultra rápidas en el SSD mientras se archivan terabytes de datos crudos en el disco mecánico.",
+      "tags": [
+        "Hardware",
+        "Almacenamiento",
+        "Productividad",
+        "Seagate"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "7ca7bb88-c7b4-4523-8c83-89d84451b188",
+      "titulo": "Se acabó aquello de los 10.000 pasos: hay una nueva meta para proteger el corazón (y el cerebro)",
+      "resumen": "El sedentarismo propio de la rutina de la silla y el ordenador no solo perjudica el sistema cardiovascular, sino que limita la capacidad cognitiva. El simple hecho de caminar rompe esa dinámica: transforma la energía y favorece la reducción de peso.",
+      "url": "https://www.xatakaciencia.com/salud/se-acabo-aquello-10-000-pasos-hay-nueva-meta-para-proteger-corazon-cerebro",
+      "imagen": "https://i.blogs.es/074f21/gemini_generated_image_i0v0iti0v0iti0v0/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-11-11T11:45:49.000Z",
+      "fechaAgregada": "2026-11-11T12:50:36.969Z",
+      "puntosClave": [
+        "Caminar regularmente contrarresta el deterioro cognitivo y cardiovascular provocado por el sedentarismo del trabajo de oficina.",
+        "El dogma de los 10.000 pasos evoluciona hacia metas de actividad física más eficientes adaptadas a las rutinas modernas.",
+        "La interrupción del tiempo de silla activa la transformación energética del cuerpo, optimizando el rendimiento mental."
+      ],
+      "porQueImporta": "Para desarrolladores y profesionales de la IA atrapados en largas jornadas frente a la pantalla, replantear la actividad física no es solo salud, sino una estrategia para mantener la nitidez mental y evitar el 'burnout' cognitivo.",
+      "tags": [
+        "SaludTech",
+        "Productividad",
+        "Biohacking",
+        "Bienestar"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "ae70781a-113c-4ddf-b90f-d2611ed89be9",
+      "titulo": "Gemini 4 Carbon, la mejor IA de Google, cuesta 99,99 euros al mes",
+      "resumen": "Google ya tiene en la calle Gemini 4 Carbon, su modelo de IA más avanzado, y desde ayer se puede usar también en España. La mala noticia aparece al mirar la letra pequeña: solo está al alcance de quien pague Google AI Ultra, la suscripción de 99,99 euros al mes.",
+      "url": "https://www.muycomputer.com/2026/11/11/gemini-4-carbon-ya-se-puede-probar-en-espana-la-mejor-ia-de-google-solo-para-quien-pague-9999-euros-al-mes/",
+      "imagen": "https://picsum.photos/seed/333/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-11T11:06:24.000Z",
+      "fechaAgregada": "2026-11-11T12:50:40.615Z",
+      "puntosClave": [
+        "Google despliega Gemini 4 Carbon en España, posicionándolo como su modelo de lenguaje más potente hasta la fecha.",
+        "El acceso a este sistema de frontera queda restringido a la nueva suscripción 'Google AI Ultra'.",
+        "Con una tarifa de 99,99 euros al mes, la tecnológica establece un récord en el precio de suscripciones de IA de consumo."
+      ],
+      "porQueImporta": "Este movimiento confirma la transición de la IA de frontera hacia un modelo puramente 'freemium' de alto coste, obligando a profesionales y startups a justificar un ROI directo ante barreras de entrada cada vez más elevadas en el software de máxima gama.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "LLMs",
+        "Monetización"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "a074c38a-e000-40c1-a246-d94cb451034d",
+      "titulo": "Microsoft corrige más de 1000 fallos y debes actualizar cuanto antes Windows",
+      "resumen": "Microsoft ha publicado su Patch Tuesday de noviembre de 2026 con un nuevo lote masivo de actualizaciones de seguridad: 1.235 vulnerabilidades corregidas, entre ellas un zero-day de Microsoft Outlook que ya se explota en ataques reales para robar credenciales.",
+      "url": "https://www.redeszone.net/noticias/seguridad/patch-tuesday-noviembre-2026-outlook/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/imagen-edificio-microsoft.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-11T11:06:01.000Z",
+      "fechaAgregada": "2026-11-11T12:50:38.669Z",
+      "puntosClave": [
+        "Microsoft ha desplegado un parche masivo sin precedentes para subsanar 1.235 vulnerabilidades en sus sistemas.",
+        "Entre las fallas corregidas destaca un fallo 'zero-day' en Outlook que se está explotando activamente para robar credenciales.",
+        "La urgencia de actualización es crítica tanto para usuarios finales como para administradores de infraestructura corporativa."
+      ],
+      "porQueImporta": "El robo masivo de credenciales en herramientas estándar como Outlook pone en riesgo la integridad de los datos corporativos y los entornos de entrenamiento de IA, demostrando que la seguridad de los agentes autónomos e integraciones en la nube depende en primera instancia de la solidez del sistema operativo base.",
+      "tags": [
+        "Ciberseguridad",
+        "Microsoft",
+        "Windows",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "fea48fe2-9e56-4f94-b63d-54d4eca6874e",
+      "titulo": "La tecnología entra en la campaña electoral del 29-N: deepfakes en los juzgados, carteros inventados y un lector QR de 113 euros",
+      "resumen": "Quedan diecinueve días para las generales y la campaña oficial empieza este viernes 13. Antes incluso de su arranque, la precampaña ya ha acumulado varios episodios en los que la tecnología se cruza con la política: vídeos generados con IA, desinformación en redes, asistentes que recomiendan el voto…",
+      "url": "https://www.xataka.com/empresas-y-economia/tecnologia-entra-campana-electoral-29-n-deepfakes-juzgados-carteros-inventados-lector-qr-113-euros",
+      "imagen": "https://i.blogs.es/def23c/candidatos2/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-11T10:01:49.000Z",
+      "fechaAgregada": "2026-11-11T12:50:34.568Z",
+      "puntosClave": [
+        "La precampaña del 29-N arranca marcada por el uso no regulado de deepfakes y contenido generado por IA para manipular la opinión pública.",
+        "Los asistentes virtuales y algoritmos de recomendación están interviniendo activamente en la orientación del voto de los ciudadanos.",
+        "El uso de tecnología de bajo coste y la desinformación en redes ponen a prueba los límites del sistema judicial y la legislación electoral."
+      ],
+      "porQueImporta": "El uso explícito de IA generativa en procesos electorales acelera la necesidad de implementar sistemas de trazabilidad y marcas de agua en contenidos sintéticos. Para la industria y los desarrolladores, esto supone una presión urgente para crear herramientas efectivas de detección de deepfakes y garantizar la neutralidad ética en los LLMs.",
+      "tags": [
+        "Deepfakes",
+        "Ciberpolítica",
+        "Regulación IA",
+        "Seguridad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "486f29b5-d6ae-4701-a6bb-435a0e42b04d",
+      "titulo": "Controla tu casa con estas cámaras IP que están en oferta",
+      "resumen": "Amazon y PcComponentes han rebajado esta semana varias cámaras de seguridad que cubren desde la vigilancia básica de interior hasta kits completos con grabador para varias zonas de una vivienda.",
+      "url": "https://www.redeszone.net/noticias/ofertas/ofertas-camaras-seguridad-amazon-pccomponentes/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/camara-vigilancia-tp-link-tapo-instalada-pared-exterior.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-11T08:12:45.000Z",
+      "fechaAgregada": "2026-11-11T12:50:38.670Z",
+      "puntosClave": [
+        "Principales plataformas de comercio electrónico aplican descuentos temporales en dispositivos de videovigilancia IP.",
+        "La selección rebajada abarca desde cámaras de interior individuales hasta infraestructuras complejas con grabador NVR.",
+        "El ajuste de precios reduce la barrera de entrada para la modernización de la seguridad residencial y la domótica."
+      ],
+      "porQueImporta": "La proliferación de hardware IP a bajo coste amplía el parque de dispositivos 'Edge' en el hogar, ofreciendo a desarrolladores e ingenieros de IA una base instalada más accesible para desplegar y probar modelos locales de visión por computador y analítica de vídeo.",
+      "tags": [
+        "Hardware",
+        "Domótica",
+        "IoT",
+        "Visión por Computador"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "74b9cfdc-2c4f-4afa-818d-1d6796f29096",
+      "titulo": "Anthropic crea su propio Office con Claude y quiere cambiar tu forma de trabajar",
+      "resumen": "Anthropic está a nada de salir a la bolsa y, como parte de su estrategia para la oferta pública inicial, la empresa ha lanzado su versión de Office impulsada por IA. En un evento para medios, el gigante tecnológico presentó nuevas funciones que convierten a Claude en una suite ofimática.",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-claude-office-ia-herramientas-productividad/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-laptop-1.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-10T19:23:16.000Z",
+      "fechaAgregada": "2026-11-11T12:50:34.781Z",
+      "puntosClave": [
+        "Anthropic evoluciona a Claude de un simple modelo de lenguaje a una suite ofimática integral para el entorno laboral.",
+        "El lanzamiento forma parte de su estrategia clave para fortalecer la valoración de la compañía de cara a una próxima salida a bolsa.",
+        "La nueva plataforma busca desafiar el dominio de gigantes como Microsoft y Google integrando funciones de IA nativas en la gestión de tareas."
+      ],
+      "porQueImporta": "Este movimiento marca la transición de Anthropic de ser un mero proveedor de modelos a un competidor directo en el software empresarial. Al integrar su IA en flujos de trabajo completos, acelera la disrupción de las herramientas de productividad tradicionales y presiona al mercado a adoptar modelos laborales centrados en agentes inteligentes.",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Productividad",
+        "Software Empresarial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "139b48c5-7ac6-4887-976e-8048630c4322",
+      "titulo": "Nuevo tráiler de ‘GTA VI’ y ya sabemos lo que significa eso de “mejor en PS5” y cómo poder jugar en Xbox One",
+      "resumen": "Queda poco más de una semana para que podamos jugar a 'GTA VI' y Rockstar, que durante mucho tiempo se mantuvo en un perfil bajo, lleva tiempo con la maquinaria del marketing a toda potencia.",
+      "url": "https://www.xataka.com/videojuegos/nuevo-trailer-gta-vi-sabemos-que-significa-eso-mejor-ps5-como-poder-jugar-xbox-one",
+      "imagen": "https://i.blogs.es/231140/jason_lucia_lock_and_load_landscape/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-10T17:16:26.000Z",
+      "fechaAgregada": "2026-11-11T12:50:34.570Z",
+      "puntosClave": [
+        "Rockstar acelera su maquinaria publicitaria en la recta final ante el lanzamiento inminente de GTA VI.",
+        "La especificación \"mejor en PS5\" apunta al aprovechamiento de tecnologías de reescalado por IA y potencia gráfica mejorada en el ecosistema de Sony.",
+        "La compatibilidad con consolas de anterior generación como Xbox One dependerá fundamentalmente de soluciones de transmisión en la nube."
+      ],
+      "porQueImporta": "El lanzamiento de GTA VI servirá como banco de pruebas masivo para evaluar cómo la industria del videojuego combina el renderizado avanzado por hardware con el reescalado por IA y la transmisión en la nube para extender la vida útil de consolas antiguas.",
+      "tags": [
+        "Gaming",
+        "Hardware",
+        "Cloud Gaming",
+        "Optimización"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "8953db6b-5610-4c74-b732-f6207622d016",
+      "titulo": "Google lanza Gemini 4 Carbon para todos: así es su modelo más potente",
+      "resumen": "Google ha anunciado el lanzamiento de Gemini 4 Carbon, la nueva versión de su IA que ya está disponible para desarrolladores, empresas, científicos y... usuarios en general, por lo que si eres usuario de la IA de la compañía, ya puedes probarlo.",
+      "url": "https://hipertextual.com/tecnologia/gemini-4-carbon/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/GEMINI-4.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-10T16:16:37.000Z",
+      "fechaAgregada": "2026-11-11T12:50:34.782Z",
+      "puntosClave": [
+        "Google libera de forma global Gemini 4 Carbon, posicionado como la arquitectura de inteligencia artificial más avanzada de su catálogo.",
+        "El despliegue es inmediato y simultáneo para todos los perfiles: comunidad científica, desarrolladores, sector corporativo y usuarios finales.",
+        "La compañía elimina las fases tradicionales de prueba cerrada, facilitando el acceso directo a su tecnología punta desde el primer día."
+      ],
+      "porQueImporta": "Al omitir las listas de espera y democratizar al instante su modelo más capaz, Google presiona a competidores como OpenAI a acelerar sus tiempos de distribución, permitiendo a las empresas integrar capacidades de vanguardia en sus flujos de trabajo en tiempo récord.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "LLMs",
+        "Innovación"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "24009b3a-9d79-4669-b5ca-0d62f03c412a",
+      "titulo": "GTA VI estrena tráiler y confirma sus mejoras en PS5 Pro: objetivo, 30 FPS",
+      "resumen": "La precarga de GTA VI ya está disponible para todos los que realizaron la reserva digital del juego, así como para aquellos que realizaron la reserva de la versión de código en caja, quienes ya pueden activar el código y comenzar la precarga.",
+      "url": "https://hardzone.es/noticias/juegos/gta-vi-precargar-trailer-pssr-ray-tracing/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/Precarga-GTA-VI.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-10T14:46:31.000Z",
+      "fechaAgregada": "2026-11-11T12:50:39.238Z",
+      "puntosClave": [
+        "GTA VI habilita oficialmente la precarga de datos para usuarios que adquirieron preventas digitales o códigos en caja.",
+        "El juego aprovechará la potencia extra de la PS5 Pro pero mantendrá una tasa de refresco objetivo limitada a 30 FPS.",
+        "El anuncio deja al descubierto la extrema exigencia técnica del nuevo motor gráfico de Rockstar sobre la arquitectura de consolas."
+      ],
+      "porQueImporta": "El límite de 30 FPS en la consola más potente del mercado refleja cómo la complejidad de simulación y densidad gráfica actual supera al hardware tradicional. Esto obligará a los desarrolladores a depender masivamente de arquitecturas de escalado por Inteligencia Artificial (como PSSR) para sostener la próxima generación de videojuegos.",
+      "tags": [
+        "Hardware",
+        "Gaming",
+        "PS5 Pro",
+        "Optimización"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c9ae4cee-6d4b-4a1b-9c14-0737ed942492",
+      "titulo": "Seagate recupera el almacenamiento híbrido, pero el SSD lo pones tú",
+      "resumen": "Seagate ha presentado el FireCuda Forge, una unidad externa de almacenamiento que recupera una idea que popularizó Apple en el iMac bajo el nombre Fusion Drive y que abandonó en 2020, cuando el precio de los SSD de alta capacidad le había quitado el sentido al producto.",
+      "url": "https://hardzone.es/noticias/perifericos/seagate-firecuda-forge-almacenamiento-hibrido-ssd/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/seagate-firecuda.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-10T14:03:47.000Z",
+      "fechaAgregada": "2026-11-11T12:50:39.238Z",
+      "puntosClave": [
+        "Seagate lanza FireCuda Forge, un chasis externo que revive el concepto de almacenamiento híbrido similar al extinto Fusion Drive de Apple.",
+        "El dispositivo permite combinar mecánicas tradicionales con unidades sólidas, dejando a elección del usuario la instalación del SSD.",
+        "La estrategia busca optimizar costes ofreciendo gran capacidad HDD respaldada por la velocidad de caché de las memorias sólidas actuales."
+      ],
+      "porQueImporta": "Para desarrolladores y empresas que manejan grandes volúmenes de datos o modelos de IA locales, este formato ofrece una alternativa económica para alojar conjuntos de datos masivos sin renunciar a velocidades de transferencia aceptables mediante la aceleración por SSD.",
+      "tags": [
+        "Hardware",
+        "Almacenamiento",
+        "Seagate",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "06e6917d-86e2-4b02-ad41-76c578eca90c",
+      "titulo": "El creador de clones gratuitos de Adobe presenta replicaciones de Microsoft Office Excel, PowerPoint y Word de código abierto; herramientas de Autodesk y otros servicios basados en suscripción pueden ser los próximos",
+      "resumen": "Brandon Thomas llevaba unas semanas llamando la atención por desarrollar alternativas gratuitas a programas de Adobe como Photoshop, Illustrator o Premiere Pro utilizando la IA de Claude para escribir buena parte del código.",
+      "url": "https://www.genbeta.com/inteligencia-artificial/creador-clones-gratuitos-adobe-presenta-replicaciones-microsoft-office-excel-powerpoint-word-codigo-abierto-herramientas-autodesk-otros-servicios-basados-suscripcion-pueden-ser-proximos",
+      "imagen": "https://i.blogs.es/8de083/genbeta-5-microsoft-edificio/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-10T12:01:49.000Z",
+      "fechaAgregada": "2026-11-11T12:50:35.800Z",
+      "puntosClave": [
+        "El desarrollador Brandon Thomas utiliza la IA Claude para replicar software privativo mediante código abierto.",
+        "Tras clonar la suite de Adobe, ha expandido su proyecto hacia alternativas gratuitas de Microsoft Excel, Word y PowerPoint.",
+        "El plan a futuro incluye democratizar herramientas de diseño y modelado de alto coste como las de Autodesk."
+      ],
+      "porQueImporta": "Demuestra cómo la codificación asistida por LLMs está reduciendo drásticamente las barreras de desarrollo, amenazando directamente los modelos de negocio basados en suscripciones de los gigantes del software al masificar alternativas 'open source'.",
+      "tags": [
+        "OpenSource",
+        "Claude",
+        "Productividad",
+        "Software"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "ca3b1088-83f4-41df-b02f-a31f3c4d707a",
+      "titulo": "Cómo conectar la IA con tus redes sociales: así funcionan los conectores MCP",
+      "resumen": "La inteligencia artificial ya forma parte del día a día de muchos social media managers, que la usan para escribir copys, buscar ideas o resumir informes. Pero hasta hace poco tenía una limitación importante: no veía tus cuentas.",
+      "url": "https://www.muycomputer.com/2026/11/10/conectar-ia-redes-sociales-conectores-mcp/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/11/metricool-mcp-claude-analiticas.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-10T10:00:44.000Z",
+      "fechaAgregada": "2026-11-11T12:50:40.615Z",
+      "puntosClave": [
+        "La inteligencia artificial ya forma parte del día a día de muchos social media managers, que la usan para escribir copys, buscar ideas…",
+        "Pero hasta hace poco tenía una limitación importante: no veía tus cuentas."
+      ],
+      "porQueImporta": "«Cómo conectar la IA con tus redes sociales: así funcionan los conectores MCP» según MuyComputer: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    }
+  ]
+}
