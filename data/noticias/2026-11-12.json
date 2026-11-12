@@ -1,0 +1,355 @@
+{
+  "fecha": "2026-11-12",
+  "generado": "2026-11-12T14:05:48.940Z",
+  "total": 14,
+  "enriquecidasConIA": 13,
+  "noticias": [
+    {
+      "id": "b3f89f80-51c5-42d4-abf2-d85804a5f016",
+      "titulo": "Blue quiere que dejes el iPhone por un Android con un agente de IA dentro. La gran duda es cómo pagarlo",
+      "resumen": "El ecosistema de smartphones está suficientemente consolidado, es muy difícil que una nueva marca logre hacerse hueco. Pero eso no implica que los recién llegados dejen de intentarlo, sobre todo si se presentan con algo único: Blue, una startup respaldada por Y Combinator, quiere anticiparse…",
+      "url": "https://www.xataka.com/telefono-movil/blue-quiere-que-dejes-iphone-android-agente-ia-dentro-gran-duda-como-pagarlo",
+      "imagen": "https://i.blogs.es/f0fc62/blue-phone-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-12T13:31:24.000Z",
+      "fechaAgregada": "2026-11-12T13:53:07.937Z",
+      "puntosClave": [
+        "El ecosistema de smartphones está suficientemente consolidado, es muy difícil que una nueva marca logre hacerse hueco.",
+        "Pero eso no implica que los recién llegados dejen de intentarlo, sobre todo si se presentan con algo único: Blue, una startup respaldada…"
+      ],
+      "porQueImporta": "«Blue quiere que dejes el iPhone por un Android con un agente de IA dentro.» según Xataka: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "d85c2e71-62b6-4856-b2ac-eeecc312f323",
+      "titulo": "Este móvil incorpora una batería de nada menos que 25.500 mAh. Su pantalla tiene casi 7 pulgadas y está a la venta con un descuento",
+      "resumen": "Estamos viendo cómo muchos móviles incorporan batería de silicio-carbono con capacidades mucho más altas de las que veníamos viendo hasta hace un año. Pero lo cierto es que hay otros móviles que no solo superan la capacidad de estas baterías, sino que las duplican.",
+      "url": "https://www.xataka.com/seleccion/este-movil-incorpora-bateria-nada-que-25-500-mah-su-pantalla-tiene-casi-7-pulgadas-esta-a-venta-descuento",
+      "imagen": "https://i.blogs.es/51fef3/ulefone-armor-33/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-12T13:15:26.000Z",
+      "fechaAgregada": "2026-11-12T13:53:07.937Z",
+      "puntosClave": [
+        "Llegan al mercado dispositivos extremos con 25.500 mAh, duplicando la densidad energética que ofrecen las modernas baterías de silicio-carbono.",
+        "El formato se aproxima al de una tablet con un panel de casi 7 pulgadas, orientado a usuarios que priorizan la autonomía absoluta sobre la ergonomía.",
+        "Esta categoría de hardware consolida un nicho de dispositivos rugerizados capaces de funcionar durante días sin conexión a la red eléctrica."
+      ],
+      "porQueImporta": "Para la industria tecnológica y los desarrolladores, este tipo de hardware masivo elimina el cuello de botella energético al ejecutar modelos de IA locales (Edge AI) e inferencias continuas en dispositivos móviles durante trabajos prolongados en campo.",
+      "tags": [
+        "Hardware",
+        "Baterías",
+        "Edge AI",
+        "Tecnología Móvil"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c147e164-3720-419a-8f85-2d1c6af3ebd1",
+      "titulo": "En 1891, Murcia se reforestó a tiros. La idea de meter semillas en armas de fuego se ha saldado en casi 18.000 frondosas hectáreas",
+      "resumen": "El 19 de marzo de 1889, el ingeniero de montes Ricardo Codorníu y Stárico subió a pie al Morrón de Espuña, la cima de Sierra Espuña, en la Región de Murcia. El terreno estaba nevado y desnudo: \"no vi ni un pino ni una sola encina.",
+      "url": "https://www.xatakaciencia.com/biologia/1891-murcia-se-reforesto-a-tiros-idea-meter-semillas-armas-fuego-se-ha-saldado-casi-18-000-frondosas-hectareas",
+      "imagen": "https://i.blogs.es/40d67a/gemini_generated_image_6x935p6x935p6x93/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-11-12T12:31:22.000Z",
+      "fechaAgregada": "2026-11-12T13:53:09.039Z",
+      "puntosClave": [
+        "A finales del siglo XIX, el ingeniero Ricardo Codorníu ideó un método disruptivo para reforestar el desértico paisaje de Sierra Espuña.",
+        "La técnica consistió en emplear armas de fuego para disparar semillas y acelerar la siembra en áreas de difícil acceso.",
+        "El experimento fue un éxito ecológico a largo plazo que logró transformar el territorio en un bosque de casi 18.000 hectáreas."
+      ],
+      "porQueImporta": "Este antecedente histórico sirve como inspiración directa para el desarrollo actual de AgriTech, donde drones autónomos e IA replican esta dispersión masiva de semillas para acelerar la reforestación global y combatir el cambio climático.",
+      "tags": [
+        "AgriTech",
+        "Innovación",
+        "Sostenibilidad",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "1e177116-a23a-40ae-b6e0-bd7f94646feb",
+      "titulo": "Google no consigue que Gemini funcione sin errores en Home y lanza otra actualización",
+      "resumen": "Por fin llega la actualización de noviembre de la compañía para Google Home. El mes pasado se lanzaron diferentes correcciones y también mejoras. Ahora, el gigante tecnológico se centra en solucionar diferentes errores que frustran a los usuarios que intentan usar a diario Gemini en sus dispositivos…",
+      "url": "https://www.adslzone.net/noticias/tecnologia/google-home-gemini-nueva-actualizacion-1126/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/11/gemini-google-home-actualizacion.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-12T11:17:04.000Z",
+      "fechaAgregada": "2026-11-12T13:53:09.893Z",
+      "puntosClave": [
+        "Google ha desplegado el parche de noviembre para Google Home enfocado exclusivamente en corregir fallos recurrentes de estabilidad.",
+        "La integración del modelo Gemini en el ecosistema domótico continúa generando una experiencia de usuario frustrante debido a errores continuos.",
+        "Este despliegue urgente busca mitigar la brecha operativa del asistente frente a competidores directos en el hogar inteligente."
+      ],
+      "porQueImporta": "Evidencia la brecha técnica existente al migrar asistentes del hogar desde sistemas basados en reglas hacia modelos del lenguaje (LLMs); la falta de fiabilidad en la ejecución de comandos básicos pone en riesgo la adopción masiva de IA en hardware de consumo.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "Smart Home",
+        "Hardware",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "447d5451-725e-43c2-a684-dac3d25bbaf2",
+      "titulo": "PcComponentes está rebajando (solo hoy) este MacBook Air M5 con 1 TB y casi 200 euros de descuento",
+      "resumen": "Conseguir un portátil de Apple con un buen almacenamiento interno sin disparar el presupuesto (sobre todo después de la subida de precios que hizo oficial la compañía) suele ser complicado.",
+      "url": "https://www.xataka.com/seleccion/pccomponentes-esta-rebajando-solo-hoy-este-macbook-air-m5-1-tb-casi-200-euros-descuento",
+      "imagen": "https://i.blogs.es/6f878b/macbook-air-m5-1-/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-12T11:01:25.000Z",
+      "fechaAgregada": "2026-11-12T13:53:07.938Z",
+      "puntosClave": [
+        "PcComponentes ofrece un descuento puntual de cerca de 200 euros en el MacBook Air con chip M5 y 1 TB de SSD.",
+        "La oferta compensa el incremento generalizado de tarifas aplicado recientemente por Apple a su gama de portátiles.",
+        "Se trata de una oportunidad limitada de un solo día para adquirir un equipo de alta capacidad de almacenamiento a menor precio."
+      ],
+      "porQueImporta": "Para desarrolladores y profesionales que trabajan con modelos locales de IA, acceder a portátiles de alta capacidad como 1 TB a precio reducido es clave para gestionar grandes volúmenes de datos y entornos de desarrollo sin comprometer la movilidad.",
+      "tags": [
+        "Hardware",
+        "Apple",
+        "Productividad",
+        "Ofertas"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "e7120203-4078-439b-9dd8-8f0fc132124b",
+      "titulo": "Gemini llega a Apple CarPlay: cómo usar la IA de Google en el coche",
+      "resumen": "Google ha empezado a desplegar Gemini en CarPlay: su asistente de IA llega a la pantalla del coche para quienes usan iPhone, según ha anunciado la compañía en su blog oficial.",
+      "url": "https://www.muycomputer.com/2026/11/12/gemini-apple-carplay-ia-google-coche/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/11/gemini-carplay-listening.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-12T09:48:47.000Z",
+      "fechaAgregada": "2026-11-12T13:53:12.894Z",
+      "puntosClave": [
+        "Google inicia el despliegue de su asistente conversacional Gemini en la plataforma Apple CarPlay.",
+        "Los usuarios de iPhone podrán utilizar la inteligencia artificial de Google directamente desde la pantalla de su vehículo.",
+        "El anuncio se realizó de manera oficial a través del blog de novedades del gigante tecnológico."
+      ],
+      "porQueImporta": "Este movimiento evidencia cómo los grandes modelos de lenguaje están permeando el software automotriz, obligando a plataformas cerradas como Apple a permitir la entrada de asistentes de IA rivales para no perder competitividad frente a las demandas de los conductores.",
+      "tags": [
+        "Gemini",
+        "Apple",
+        "CarPlay",
+        "IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c0e1718e-d715-47b8-b6e3-f8c01cdf47b6",
+      "titulo": "Un nuevo grupo de ciberdelincuentes está explotando una función de Windows para desactivar el antivirus",
+      "resumen": "Un grupo de ransomware desconocido, bautizado como Citrus, manipula las directivas de grupo de Windows (GPO) para propagar su malware por redes corporativas completas y, antes de cifrar nada, apagar Microsoft Defender.",
+      "url": "https://www.redeszone.net/noticias/seguridad/ransomware-citrus-directivas-grupo-windows-defender/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/imagen-codigo-pantalla.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-12T09:02:13.000Z",
+      "fechaAgregada": "2026-11-12T13:53:11.656Z",
+      "puntosClave": [
+        "El nuevo grupo de ransomware Citrus utiliza las Políticas de Grupo (GPO) de Windows para propagarse masivamente por redes empresariales.",
+        "Antes de iniciar el cifrado de datos, el malware neutraliza activamente la protección de Microsoft Defender en los equipos comprometidos.",
+        "La estrategia convierte una herramienta legítima de administración del sistema en un vector de ataque automatizado a gran escala."
+      ],
+      "porQueImporta": "Este ataque evidencia los peligros del 'Living off the Land', donde herramientas nativas del sistema se vuelven en contra de la empresa. Obliga a los administradores de TI a restringir drásticamente los permisos de GPO y aplicar monitorización externa, ya que no se puede confiar únicamente en las defensas locales cuando el propio sistema operativo es manipulado para desactivarlas.",
+      "tags": [
+        "Ciberseguridad",
+        "Ransomware",
+        "Windows",
+        "Malware"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "fb6a7c53-4a8b-4783-8fcf-14c58fd042fd",
+      "titulo": "La cúpula de Nvidia se prepara para destituir a Jensen Huang tras descubrirse una segunda infidelidad, según el WSJ",
+      "resumen": "Jensen Huang ha pasado de ser quien personificaba el pegamento de la IA a convertirse en alguien que pronto podría tener que empezar a buscar un nuevo trabajo.",
+      "url": "https://www.xataka.com/empresas-y-economia/cupula-nvidia-se-prepara-para-destituir-a-jensen-huang-descubrirse-segunda-infidelidad-wsj",
+      "imagen": "https://i.blogs.es/1349d0/original/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-12T07:55:00.000Z",
+      "fechaAgregada": "2026-11-12T13:53:07.939Z",
+      "puntosClave": [
+        "La junta directiva de Nvidia sopesa la salida de Jensen Huang tras la revelación de un segundo escándalo personal según el Wall Street Journal.",
+        "El liderazgo que posicionó a Nvidia como el pilar indiscutible del hardware de IA se enfrenta a una crisis de gobernanza corporativa sin precedentes.",
+        "La eventual salida de su cofundador abre un periodo de alta incertidumbre operativa y estratégica para la empresa más valiosa del sector informático."
+      ],
+      "porQueImporta": "La repentina descabezación del líder histórico de Nvidia amenaza con desestabilizar la hoja de ruta del hardware global de IA, afectando el suministro de infraestructura crítica y reconfigurando la competencia frente a rivales como AMD, Intel o las propias Big Tech.",
+      "tags": [
+        "Nvidia",
+        "Hardware",
+        "Liderazgo",
+        "Negocios"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "8db485be-2e4e-40e1-a43f-2f9c7cf1265b",
+      "titulo": "OpenAI lo confirma oficialmente: el 11 de diciembre desaparecerán dos herramientas de ChatGPT",
+      "resumen": "Tras publicarse rumores sobre ello, OpenAI ha decidido dar un paso adelante para confirmar la información. La empresa de IA ha anunciado en su página de ayuda que dos de sus herramientas de ChatGPT desaparecerán el 11 de diciembre.",
+      "url": "https://www.adslzone.net/noticias/ia/openai-elimina-modos-voz-chatgpt-diciembre/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/11/Hombre-molesto-movil-logo-ChatGPT.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-12T06:04:59.000Z",
+      "fechaAgregada": "2026-11-12T13:53:09.894Z",
+      "puntosClave": [
+        "OpenAI confirmó oficialmente en su centro de soporte la eliminación definitiva de dos utilidades de ChatGPT para el 11 de diciembre.",
+        "La decisión valida las filtraciones recientes y marca el fin del ciclo de vida de estas funciones en la plataforma.",
+        "El movimiento refleja una limpia en la interfaz para concentrar cómputo y desarrollo en sus modelos principales."
+      ],
+      "porQueImporta": "La retirada repentina de herramientas obliga a los usuarios y empresas a reconfigurar sus flujos de trabajo diarios, demostrando cómo la dependencia de funciones específicas en plataformas de IA de terceros exige planes de contingencia operativos.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Productividad",
+        "Software"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "4dc0e037-66da-4923-9af2-23d07b481c06",
+      "titulo": "Sam Altman (OpenAI) quiere que Samsung le ayude a crear el sucesor del smartphone",
+      "resumen": "El jefe de OpenAI quiere crear el sucesor del smartphone y ha pedido ayuda a Samsung para conseguirlo. Sam Altman expresó su intención de trabajar con el fabricante surcoreano para desarrollar un dispositivo de nueva generación impulsado por IA.",
+      "url": "https://hipertextual.com/inteligencia-artificial/sam-altman-openai-quiere-que-samsung-le-ayude-a-crear-el-sucesor-del-smartphone/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/11/sam-altman-pen.jpg?fit=1024%2C609&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-11T21:49:00.000Z",
+      "fechaAgregada": "2026-11-12T13:53:08.023Z",
+      "puntosClave": [
+        "Sam Altman busca alianzas estratégicas en la industria del hardware para dar el salto definitivo del software a dispositivos físicos de consumo.",
+        "La colaboración proyectada con Samsung pretende combinar la capacidad de fabricación global con los modelos de lenguaje más avanzados de OpenAI.",
+        "El movimiento acelera la competencia tecnológica por definir la era 'post-smartphone' mediante interfaces físicas diseñadas de forma nativa para la IA."
+      ],
+      "porQueImporta": "Esta alianza marca el inicio del cambio de paradigma en la electrónica de consumo: para los desarrolladores e industria, significa que las aplicaciones del futuro dejarán de depender de las tiendas de apps tradicionales y de los sistemas operativos móviles actuales para adaptarse a interacciones nativas de IA.",
+      "tags": [
+        "OpenAI",
+        "Samsung",
+        "Hardware",
+        "IA Generativa"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c9d2874e-e702-4b9a-9277-fc23cda2400e",
+      "titulo": "Creative Cloud da el salto a los agentes de IA y abre sus herramientas a nuevas formas de trabajo",
+      "resumen": "Creative Cloud está dando un paso más allá de las funciones de inteligencia artificial que generan imágenes o automatizan retoques. En Adobe MAX 2026, la compañía ha anunciado la expansión de Adobe Creative Agent, un sistema capaz de coordinar varias operaciones dentro de un mismo proyecto mientras…",
+      "url": "https://www.muycomputer.com/2026/11/11/creative-cloud-da-el-salto-a-los-agentes-de-ia-y-abre-sus-herramientas-a-nuevas-formas-de-trabajo/",
+      "imagen": "https://picsum.photos/seed/97/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-11T17:49:10.000Z",
+      "fechaAgregada": "2026-11-12T13:53:12.894Z",
+      "puntosClave": [
+        "Adobe evoluciona su ecosistema en Adobe MAX al pasar de herramientas generativas puntuales a un modelo basado en agentes de IA autónomos.",
+        "El nuevo 'Adobe Creative Agent' coordinará flujos de trabajo complejos y múltiples operaciones en cadena dentro de un mismo proyecto.",
+        "El movimiento representa el salto definitivo del software de edición asistida hacia la automatización estratégica y la orquestación creativa."
+      ],
+      "porQueImporta": "Esta transición transforma el rol de los creadores y estudios, que pasan de ejecutar tareas manuales repetitivas a supervisar agentes capaces de gestionar proyectos complejos de extremo a extremo, acelerando drásticamente los tiempos de producción.",
+      "tags": [
+        "Adobe",
+        "Agentes de IA",
+        "Diseño",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "83e04a7c-f135-428b-9e8f-1bb18f78b136",
+      "titulo": "Este mini PC mide solo 2 cm de grosor, pero rinde como un portátil gaming",
+      "resumen": "Cuando hablamos de un mini PC, la imagen que se nos viene a la cabeza es la de un dispositivo cuadrado de unos 5 o 6 centímetros de grosor. Si bien es cierto que es el tamaño ideal para colocar en cualquier rincón, eso no significa que algunas compañías se empeñen en reducir su diseño a la mínima…",
+      "url": "https://hardzone.es/noticias/equipos/mini-pc-fevm-fnph1-dos-cm-grosor/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/mini-pc-fevm-1.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-11T17:02:47.000Z",
+      "fechaAgregada": "2026-11-12T13:53:11.858Z",
+      "puntosClave": [
+        "Redefinición del diseño compacto: El nuevo dispositivo desafía el estándar habitual de los mini PCs al reducir su grosor a tan solo 2 centímetros.",
+        "Potencia sin concesiones térmicas: A pesar de su perfil ultradelgado, logra albergar arquitectura capaz de ofrecer un rendimiento equivalente al de un portátil gaming.",
+        "Factor de forma extremo: Su diseño busca llevar la miniaturización al límite sin sacrificar la capacidad de procesamiento de tareas pesadas."
+      ],
+      "porQueImporta": "La miniaturización extrema de hardware con potencia de gama alta es clave para el futuro del 'edge computing' y las estaciones de trabajo locales; permite a ingenieros y desarrolladores ejecutar modelos de IA y tareas de renderizado complejas en entornos donde el espacio es crítico.",
+      "tags": [
+        "Hardware",
+        "Mini PC",
+        "Productividad",
+        "Innovación"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "d664ce59-9733-4df7-9ea1-d31288c26d03",
+      "titulo": "Se acabó aquello de los 10.000 pasos: hay una nueva meta para proteger el corazón (y el cerebro)",
+      "resumen": "El sedentarismo propio de la rutina de la silla y el ordenador no solo perjudica el sistema cardiovascular, sino que limita la capacidad cognitiva. El simple hecho de caminar rompe esa dinámica: transforma la energía y favorece la reducción de peso.",
+      "url": "https://www.xatakaciencia.com/salud/se-acabo-aquello-10-000-pasos-hay-nueva-meta-para-proteger-corazon-cerebro",
+      "imagen": "https://i.blogs.es/074f21/gemini_generated_image_i0v0iti0v0iti0v0/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-11-11T11:45:49.000Z",
+      "fechaAgregada": "2026-11-12T13:53:09.040Z",
+      "puntosClave": [
+        "El dogma de los 10.000 pasos evoluciona hacia metas de movimiento más precisas para combatir los efectos de las jornadas frente a la pantalla.",
+        "Romper la inmovilidad del trabajo de escritorio no solo protege la salud cardiovascular, sino que estimula directamente el rendimiento y la agilidad mental.",
+        "La actividad física breve interrumpe el impacto negativo del sedentarismo tecnológico, optimizando el metabolismo energético en rutinas de oficina."
+      ],
+      "porQueImporta": "En un sector donde programadores y perfiles técnicos pasan largas jornadas sentados, priorizar la salud física y cognitiva es clave para sostener la productividad, reducir el agotamiento mental y mitigar los riesgos laborales asociados al trabajo puramente sedentario.",
+      "tags": [
+        "Productividad",
+        "SaludTech",
+        "Biohacking",
+        "TrabajoRemoto"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "4a2ac954-aa2e-4688-8069-6229ece6d411",
+      "titulo": "Microsoft corrige más de 1000 fallos y debes actualizar cuanto antes Windows",
+      "resumen": "Microsoft ha publicado su Patch Tuesday de noviembre de 2026 con un nuevo lote masivo de actualizaciones de seguridad: 1.235 vulnerabilidades corregidas, entre ellas un zero-day de Microsoft Outlook que ya se explota en ataques reales para robar credenciales.",
+      "url": "https://www.redeszone.net/noticias/seguridad/patch-tuesday-noviembre-2026-outlook/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/imagen-edificio-microsoft.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-11T11:06:01.000Z",
+      "fechaAgregada": "2026-11-12T13:53:11.657Z",
+      "puntosClave": [
+        "Microsoft ha desplegado una actualización masiva que corrige más de 1.200 brechas de seguridad en el ecosistema Windows.",
+        "Un fallo crítico de tipo 'zero-day' en Outlook está siendo explotado activamente por cibercriminales para la extracción de credenciales.",
+        "El volumen de correcciones exige a las organizaciones una intervención e instalación inmediata para neutralizar ataques en curso."
+      ],
+      "porQueImporta": "El robo masivo de credenciales mediante esta vulnerabilidad en Outlook pone en riesgo los accesos a infraestructuras en la nube y entornos de desarrollo, obligando a los equipos de TI a priorizar el parcheo inmediato para salvaguardar la identidad corporativa.",
+      "tags": [
+        "Ciberseguridad",
+        "Microsoft",
+        "Windows",
+        "Seguridad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
