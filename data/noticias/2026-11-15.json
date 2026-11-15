@@ -1,0 +1,308 @@
+{
+  "fecha": "2026-11-15",
+  "generado": "2026-11-15T13:03:11.594Z",
+  "total": 12,
+  "enriquecidasConIA": 12,
+  "noticias": [
+    {
+      "id": "72bccd67-221c-48ac-aee5-74c77d7e9615",
+      "titulo": "La IA más rentable de 2027 no va a explicarnos nada. Solo nos dará respuestas como un 0,82 o un 0,16",
+      "resumen": "Ya hace casi cuatro años del momento ChatGPT. Ese día en que todo empezó a cambiar. En estos casi cuatro años hemos tendido a medir la IA por lo bien que habla.",
+      "url": "https://www.xataka.com/robotica-e-ia/ia-rentable-2027-no-va-a-explicarnos-nada-solo-nos-dara-respuestas-como-0-82-0-16",
+      "imagen": "https://i.blogs.es/2a4050/decisiones/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-15T10:01:25.000Z",
+      "fechaAgregada": "2026-11-15T12:52:06.257Z",
+      "puntosClave": [
+        "El valor económico de la IA está migrando de las interfaces conversacionales a modelos especializados centrados en la optimización y el análisis probabilístico.",
+        "Frente al gasto computacional de los grandes modelos de lenguaje, las arquitecturas ligeras que devuelven datos crudos ofrecen mayor eficiencia operativa.",
+        "Hacia 2027, el mercado priorizará la integración invisible de la IA en procesos de toma de decisiones automáticas sobre la capacidad de generar texto."
+      ],
+      "porQueImporta": "Para las empresas y desarrolladores, esto implica desplazar la atención desde los agentes conversacionales hacia la implementación de modelos predictivos de alto rendimiento, reduciendo drásticamente la latencia y los costes en la infraestructura cloud.",
+      "tags": [
+        "ModelosPredictivos",
+        "EficienciaIA",
+        "LLMs",
+        "NegociosTech"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "307f24d9-06ba-46f6-9002-8d21cfdd1847",
+      "titulo": "Lastbook convierte tu PC o Mac en una biblioteca de supervivencia sin internet",
+      "resumen": "Se llama Lastbook y es una propuesta tan peculiar como interesante: una biblioteca de supervivencia completa que se instala en el PC o en el Mac y funciona sin internet.",
+      "url": "https://www.muycomputer.com/2026/11/15/lastbook-convierte-tu-pc-o-mac-en-una-biblioteca-de-supervivencia-sin-internet/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/11/1-lastbook-web.png",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-15T09:00:26.000Z",
+      "fechaAgregada": "2026-11-15T12:52:12.434Z",
+      "puntosClave": [
+        "Lastbook permite transformar ordenadores PC y Mac en repositorios locales de información crítica completamente operativos offline.",
+        "El sistema centraliza conocimientos esenciales de supervivencia técnica, médica y práctica sin depender de conectividad a la red.",
+        "La propuesta refuerza la tendencia de resiliencia digital y preservación de datos frente a posibles apagones de infraestructura."
+      ],
+      "porQueImporta": "En un ecosistema dominado por modelos cloud y dependencia absoluta de APIs remotas, iniciativas como Lastbook impulsan el desarrollo de sistemas locales y edge computing capaces de garantizar soberanía informativa ante fallos críticos de conectividad.",
+      "tags": [
+        "Software",
+        "Edge Computing",
+        "Privacidad",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "d5602caa-fef7-463e-90a5-a459e86aa18e",
+      "titulo": "Este nuevo Linux con inteligencia artificial nace de una de las figuras más conocidas de Android",
+      "resumen": "Con Microsoft y otras empresas insertando IA en los sistemas operativos, era cuestión de tiempo para que comenzáramos a ver esta tendencia en Linux. Hace unas semanas, Canonical confirmó la llegada de un asistente inteligente en Ubuntu y hoy toca el turno de otra distribución.",
+      "url": "https://hipertextual.com/inteligencia-artificial/kora-os-linux-ia-creador-cyanogen/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/koraos_06.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-15T09:00:00.000Z",
+      "fechaAgregada": "2026-11-15T12:52:06.425Z",
+      "puntosClave": [
+        "El auge de la IA nativa en sistemas operativos llega al ecosistema Linux impulsado por figuras clave del desarrollo de Android.",
+        "La iniciativa busca ofrecer una alternativa de código abierto frente a las soluciones integradas de gigantes como Microsoft o Apple.",
+        "Este lanzamiento consolida la tendencia en el software libre tras los recientes pasos de Canonical integrando asistentes en Ubuntu."
+      ],
+      "porQueImporta": "La llegada de la IA nativa a Linux democratiza los sistemas operativos inteligentes, evitando el monopolio de Big Tech y ofreciendo a desarrolladores y empresas una alternativa privada, ejecutable en local y totalmente personalizable para sus entornos de trabajo.",
+      "tags": [
+        "Linux",
+        "Open Source",
+        "Android",
+        "Sistemas Operativos"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "ddabc42e-9b83-4b34-a123-ffe47a4fa8b5",
+      "titulo": "Cómo ejecutar un modelo de lenguaje (LLM) de forma local y privada en tu propio PC",
+      "resumen": "Todos usamos ChatGPT y otras IAs cuando necesitamos consultar algo, sin embargo, necesitamos internet, tienen límites y no siempre nos gusta dejar rastro de preguntas personales en la red, por lo que tener una propia podría ser lo que muchos están buscando.",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/como-ejecutar-modelo-lenguaje-llm-local-privada-pc/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2023/10/IA.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-14T13:05:36.000Z",
+      "fechaAgregada": "2026-11-15T12:52:11.054Z",
+      "puntosClave": [
+        "La ejecución de LLMs locales elimina la dependencia de conexión a internet y las restricciones de uso de las plataformas en la nube.",
+        "El procesamiento en hardware propio garantiza la privacidad absoluta de los datos al evitar el envío de información sensible a servidores externos.",
+        "La creciente viabilidad del despliegue en PC impulsa la adopción de modelos de código abierto en entornos domésticos y profesionales."
+      ],
+      "porQueImporta": "El cambio hacia la IA local ('Edge AI') es crucial para desarrolladores y empresas con estrictos requerimientos de confidencialidad, ya que permite integrar asistentes avanzados sin exponer propiedad intelectual ni depender del pago recurrente por uso de APIs.",
+      "tags": [
+        "LLMs",
+        "Privacidad",
+        "Hardware",
+        "Open Source"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "d9f083a2-b4e9-483d-a211-fe61296e3b0a",
+      "titulo": "Una verdadera pesadilla: este malware podría seguir accediendo a tu Gmail aunque cambies de contraseña",
+      "resumen": "No es novedad que el software malicioso está evolucionando a un ritmo altísimo y que la inteligencia artificial generativa está simplificando la creación y distribución de amenazas cada vez más complejas.",
+      "url": "https://hipertextual.com/seguridad/malware-remus-gmail/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/gmail-1.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-14T11:00:00.000Z",
+      "fechaAgregada": "2026-11-15T12:52:06.425Z",
+      "puntosClave": [
+        "Nuevas cepas de malware logran secuestrar tokens de sesión en Gmail, permitiendo el acceso persistente incluso tras cambiar la contraseña.",
+        "La Inteligencia Artificial generativa está acelerando el desarrollo y la sofisticación de estas amenazas, reduciendo la barrera técnica para los atacantes.",
+        "El problema deja en evidencia la vulnerabilidad de la autenticación tradicional basada únicamente en credenciales estáticas."
+      ],
+      "porQueImporta": "Para los desarrolladores y equipos de ciberseguridad, esta amenaza exige acelerar la transición hacia arquitecturas Zero Trust y autenticación mediante passkeys, demostrando que la gestión de tokens de sesión es el nuevo frente crítico frente al malware potenciado por IA.",
+      "tags": [
+        "Ciberseguridad",
+        "Malware",
+        "IA Generativa",
+        "Gmail"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "00da52f5-6254-4440-a4c1-019044b63a5d",
+      "titulo": "Por primera vez en 100 años, los físicos han confirmado la existencia de un tercer tipo de magnetismo",
+      "resumen": "Durante casi 90 años, la física del estado sólido trabajó con solo dos familias de orden magnético, los ferromagnetos y los antiferromagnetos, pero ese reparto ha cambiado con un trabajo del laboratorio SLAC, del Departamento de Energía de EE. UU.",
+      "url": "https://www.xatakaciencia.com/fisica/primera-vez-100-anos-fisicos-han-confirmado-existencia-tercer-tipo-magnetismo",
+      "imagen": "https://i.blogs.es/308589/existencia-tercer-tipo-de-magnetismo/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-11-14T10:01:23.000Z",
+      "fechaAgregada": "2026-11-15T12:52:08.284Z",
+      "puntosClave": [
+        "Investigadores del laboratorio SLAC confirmaron experimentalmente el 'altermagnetismo', rompiendo un paradigma científico de casi un siglo.",
+        "Esta nueva familia combina las elevadas propiedades de spintrónica de los ferromagnetos con la nula interferencia magnética de los antiferromagnetos.",
+        "El descubrimiento abre la puerta a una arquitectura de materiales totalmente nueva para el diseño de semiconductores de alta densidad."
+      ],
+      "porQueImporta": "Este avance fundamental en la física de materiales sentará las bases de la espintrónica moderna, permitiendo crear chips de memoria y procesadores ultrafases con un consumo energético mínimo, algo crucial para escalar el hardware que alimenta los modelos de IA del futuro.",
+      "tags": [
+        "Hardware",
+        "Física",
+        "Semiconductores",
+        "Innovación"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "5ffda0ef-acc4-4f22-bb28-09c4013165fe",
+      "titulo": "Tu PS5 mejora Spider-Man 2 con IA: Sony amplía los juegos con QSSR",
+      "resumen": "Gracias a la IA, muchos juegos han podido ver mejorada su calidad respecto al lanzamiento inicial de los mismos, algo que, antiguamente, no era posible, y si un título salía con un fallo o con gráficos malos, nos lo teníamos que comer hasta un nuevo disco.",
+      "url": "https://hardzone.es/noticias/juegos/ps5-spiderman-qssr-sony/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/04/Spiderman-2.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-13T20:00:59.000Z",
+      "fechaAgregada": "2026-11-15T12:52:11.055Z",
+      "puntosClave": [
+        "Sony integra su tecnología de superresolución por IA (QSSR) para optimizar la fidelidad visual y el rendimiento en Spider-Man 2 para PS5.",
+        "El escalado inteligente permite superar las limitaciones de hardware original mediante parches de software impulsados por aprendizaje automático.",
+        "La industria consolida la transición desde el renderizado nativo tradicional hacia arquitecturas gráficas asistidas por inteligencia artificial."
+      ],
+      "porQueImporta": "El despliegue de escalado por IA en consolas de sobremesa demuestra que el futuro del procesamiento gráfico ya no depende solo de la potencia bruta del chip, sino de algoritmos inteligentes. Esto reduce los costes y tiempos de optimización para los desarrolladores mientras extiende el ciclo de vida comercial del software AAA.",
+      "tags": [
+        "Sony",
+        "PS5",
+        "Hardware",
+        "Gaming IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "781bc5cc-b39b-49ca-957f-db67baec2bc8",
+      "titulo": "AMD: a donde queremos llegar, las gráficas no necesitan tanta DRAM",
+      "resumen": "Gracias a la inteligencia artificial podemos buscar información, modificar imágenes, hacer un trabajo, y muchas cosas más que hace unos años eran complicadas, y que con la IA en segundos las tenemos. Sin embargo, no solamente sirve para este tipo de proyectos personales.",
+      "url": "https://hardzone.es/noticias/componentes/amd-tecnologia-reduce-dram-graficas/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/AMD.jpeg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-13T18:31:46.000Z",
+      "fechaAgregada": "2026-11-15T12:52:11.055Z",
+      "puntosClave": [
+        "AMD plantea una visión donde las futuras GPU no dependerán de grandes cantidades de VRAM gracias a la optimización impulsada por IA.",
+        "Los avances en algoritmos inteligentes permitirán gestionar renderizado y modelos complejos reduciendo el uso de memoria física.",
+        "La estrategia busca abaratar costes de fabricación y hacer más eficiente el procesamiento sin escalar infinitamente en hardware."
+      ],
+      "porQueImporta": "Esta postura desafía la escalada actual de hardware costoso, sugiriendo que la eficiencia algorítmica impulsada por IA permitirá a desarrolladores y empresas ejecutar tareas avanzadas sin depender de tarjetas gráficas de precio prohibitivo.",
+      "tags": [
+        "AMD",
+        "Hardware",
+        "VRAM",
+        "Optimización"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "027667b7-e515-4ee3-9419-0759aced4008",
+      "titulo": "El oro del Premio Científico Macronix va para la estudiante que decapitaba cucarachas para grabar su comportamiento en vídeo",
+      "resumen": "Una estudiante de bachillerato del Instituto Femenino Zhongshan de Taipéi ha ganado este mes de noviembre uno de los dos oros del 25.º Premio Científico Macronix, considerado el \"Nobel de bachillerato\" en Taiwán, tras criar un centenar de cucarachas americanas en el baño de su casa, decapitar…",
+      "url": "https://www.xatakaciencia.com/biologia/oro-premio-cientifico-macronix-va-para-estudiante-que-decapitaba-cucarachas-para-grabar-su-comportamiento-video",
+      "imagen": "https://i.blogs.es/c6eecb/gemini_generated_image_ki27efki27efki27/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-11-13T15:01:24.000Z",
+      "fechaAgregada": "2026-11-15T12:52:08.285Z",
+      "puntosClave": [
+        "Una estudiante taiwanesa obtuvo el máximo galardón del Premio Científico Macronix al investigar el comportamiento motor autónomo en blatodeos.",
+        "El proyecto requirió la crianza en cautiverio y decapitación de un centenar de cucarachas para registrar en vídeo sus respuestas reflejas post-mórtem.",
+        "El trabajo analiza cómo los ganglios nerviosos periféricos mantienen patrones de movimiento funcionales sin control del cerebro central."
+      ],
+      "porQueImporta": "La comprensión de la locomoción autónoma y descentralizada en insectos es fundamental para la robótica bioinspirada y la IA en el borde (Edge AI), permitiendo diseñar micro-robots y sensores autónomos capaces de reaccionar en tiempo real sin depender de una unidad de procesamiento central.",
+      "tags": [
+        "Robótica",
+        "Neurociencia",
+        "IA Bioinspirada",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "5dec23c8-6061-4e3a-bb37-12ff18d86bbc",
+      "titulo": "ArcticRAT, el nuevo troyano de Android que usa una falsa VPN para esquivar Google Play Protect",
+      "resumen": "ArcticRAT es un troyano para Android que empezó como un spyware centrado en apps de criptomonedas y se ha convertido en una herramienta de control remoto con funciones de inteligencia artificial.",
+      "url": "https://www.redeszone.net/noticias/seguridad/arcticrat-troyano-android-falsa-vpn/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/imagen-malware.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-13T10:03:40.000Z",
+      "fechaAgregada": "2026-11-15T12:52:10.443Z",
+      "puntosClave": [
+        "ArcticRAT evolucionó de un spyware centrado en criptomonedas a una herramienta avanzada de control remoto.",
+        "Utiliza la fachada de una aplicación VPN falsa para burlar las defensas estándar de Google Play Protect.",
+        "Incorpora funciones impulsadas por inteligencia artificial para optimizar sus capacidades de control y evasión."
+      ],
+      "porQueImporta": "La integración de capacidades de IA en malware móvil marca una peligrosa evolución en las ciberamenazas, obligando a los desarrolladores de sistemas operativos a migrar de defensas estáticas hacia modelos predictivos en tiempo real.",
+      "tags": [
+        "Ciberseguridad",
+        "Android",
+        "Malware",
+        "IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "26052caf-ec74-44b5-a128-8a25413c00f8",
+      "titulo": "De la información al documento final: Office 2024 por 18 euros y seis meses de Gemini Pro por 21 euros",
+      "resumen": "Una parte importante de nuestra jornada no se dedica a tomar decisiones o crear algo nuevo, sino a ordenar todo lo que necesitamos antes de hacerlo. Revisar documentos, localizar datos, resumir información, preparar una estructura y trasladar después las conclusiones a un informe o una presentación…",
+      "url": "https://www.muycomputer.com/2026/11/13/de-la-informacion-al-documento-final-office-2024-por-18-euros-y-seis-meses-de-gemini-pro-por-21-euros/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/11/Licencias-2-1.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-13T09:01:12.000Z",
+      "fechaAgregada": "2026-11-15T12:52:12.435Z",
+      "puntosClave": [
+        "Promociones agresivas reducen significativamente el coste de entrada a herramientas clave como Office 2024 y la IA de Gemini Pro.",
+        "El enfoque principal de la oferta radica en automatizar las tareas mecánicas de gestión de datos previo al trabajo creativo.",
+        "La convergencia entre suites ofimáticas tradicionales y asistentes de IA avanzada busca redefinir la eficiencia diaria del usuario."
+      ],
+      "porQueImporta": "La drástica reducción de barreras económicas para acceder a LLMs de nivel profesional como Gemini Pro junto a suites tradicionales acelera la adopción masiva de la IA en pequeñas empresas y freelancers, transformando la productividad operativa sin requerir grandes presupuestos de TI.",
+      "tags": [
+        "Productividad",
+        "Gemini Pro",
+        "Microsoft Office",
+        "IA Generativa"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "b60763a3-d136-4f43-8f3b-8fb6a62bf4bf",
+      "titulo": "Inteligencia artificial y manipulación: nuevas claves para interpretar lo que vemos en internet",
+      "resumen": "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes. Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-10-21/inteligencia-artificial-y-manipulacion-nuevas-claves-para-interpretar-lo-que-vemos-en-internet.html",
+      "imagen": "https://picsum.photos/seed/457/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-21T15:53:30.000Z",
+      "fechaAgregada": "2026-11-15T12:52:07.594Z",
+      "puntosClave": [
+        "La inteligencia artificial ha reducido drásticamente el coste y tiempo necesarios para ejecutar ciberestafas hiperrealistas.",
+        "El factor humano se consolida como la última línea de defensa mediante la verificación activa ante contenidos sospechosos.",
+        "Los patrones tradicionales de detección quedan obsoletos frente a la sofisticación del contenido sintético generado por IA."
+      ],
+      "porQueImporta": "Para la industria tecnológica y los desarrolladores, esto exige priorizar la integración de marcas de agua digitales, protocolos de autenticación de origen y modelos de detección de deepfakes en sus ecosistemas para mitigar los riesgos de ciberseguridad.",
+      "tags": [
+        "Ciberseguridad",
+        "Deepfakes",
+        "IA Generativa",
+        "Seguridad Digital"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
