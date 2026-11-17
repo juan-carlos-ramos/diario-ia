@@ -1,0 +1,199 @@
+{
+  "fecha": "2026-11-17",
+  "generado": "2026-11-17T14:56:36.050Z",
+  "total": 9,
+  "enriquecidasConIA": 0,
+  "noticias": [
+    {
+      "id": "e427d969-a3da-4cb0-8ae6-15c1d4d663f7",
+      "titulo": "Alguien ha creado un modelo de IA que cabe en un disquete y funciona en un 486 con MS-DOS. Lo ha programado otra IA",
+      "resumen": "Lo de ejecutar modelos de lenguaje en local es una cosa; hacerlo en un hardware antiquísimo es otra completamente distinta y muchos aficionados lo han convertido prácticamente en un deporte.",
+      "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-modelo-ia-que-disquete-funciona-486-ms-dos-ha-programado-otra-ia",
+      "imagen": "https://i.blogs.es/3b0aaa/tiny-2.1/1024_2000.png",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-17T13:01:26.000Z",
+      "fechaAgregada": "2026-11-17T14:43:06.916Z",
+      "puntosClave": [
+        "Lo de ejecutar modelos de lenguaje en local es una cosa",
+        "hacerlo en un hardware antiquísimo es otra completamente distinta y muchos aficionados lo han convertido prácticamente en un deporte."
+      ],
+      "porQueImporta": "«Alguien ha creado un modelo de IA que cabe en un disquete y funciona en un 486…» según Xataka: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "61b4cf7a-98df-4f53-b589-60d5d38a3cee",
+      "titulo": "NVIDIA quiere que la IA haga mucho más que responder preguntas: esta GPU apunta directamente a la ciencia",
+      "resumen": "La Inteligencia Artificial está dejando de ser una herramienta que simplemente responde preguntas, genera imágenes o escribe código. El siguiente paso pasa por desarrollar sistemas capaces de realizar tareas complejas de forma autónoma (agentes de IA), analizar resultados complejos y ayudar…",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/nvidia-rubin-hpc-gpu-ciencia/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/gpu-rubin-hpc.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-17T07:05:09.000Z",
+      "fechaAgregada": "2026-11-17T14:43:08.248Z",
+      "puntosClave": [
+        "La Inteligencia Artificial está dejando de ser una herramienta que simplemente responde preguntas, genera imágenes o escribe código.",
+        "El siguiente paso pasa por desarrollar sistemas capaces de realizar tareas complejas de forma autónoma (agentes de IA), analizar resultados…"
+      ],
+      "porQueImporta": "«NVIDIA quiere que la IA haga mucho más que responder preguntas: esta GPU apunta…» según HardZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "NVIDIA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "d8acd220-01ef-48d7-9909-5ca8e64baf7c",
+      "titulo": "La app de Gemini se prepara para algo totalmente distinto con la aparición de Pikachu en Live",
+      "resumen": "Gemini va a tener novedades interesantes que aportarán un soplo de aire fresco al uso de su aplicación para móviles. La más llamativa va a ser la aparición de Pikachu, el Pokémon más característico y famoso, el cual se añadirá de una manera inesperada.",
+      "url": "https://www.adslzone.net/noticias/ia/gemini-live-genie-pikachu-efectos-video/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/11/Pikachus-dentro-maquina-grua.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-17T05:00:44.000Z",
+      "fechaAgregada": "2026-11-17T14:43:07.661Z",
+      "puntosClave": [
+        "Gemini va a tener novedades interesantes que aportarán un soplo de aire fresco al uso de su aplicación para móviles.",
+        "La más llamativa va a ser la aparición de Pikachu, el Pokémon más característico y famoso, el cual se añadirá de una manera inesperada."
+      ],
+      "porQueImporta": "«La app de Gemini se prepara para algo totalmente distinto con la aparición…» según ADSLZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Gemini",
+        "Llama"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "548d4232-1d58-49c1-a01b-772a3d34e46c",
+      "titulo": "Los hackers ya atacan con agentes de IA, advierte Google",
+      "resumen": "La inteligencia artificial lleva tiempo ayudando a los ciberdelincuentes a redactar mensajes de phishing, analizar código y buscar vulnerabilidades. Sin embargo, su papel está cambiando: los sistemas que antes respondían preguntas ahora pueden utilizar herramientas, ejecutar acciones y adaptar…",
+      "url": "https://www.muycomputer.com/2026/11/16/los-hackers-ya-atacan-con-agentes-de-ia-advierte-google/",
+      "imagen": "https://picsum.photos/seed/489/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-16T18:15:35.000Z",
+      "fechaAgregada": "2026-11-17T14:43:09.192Z",
+      "puntosClave": [
+        "La inteligencia artificial lleva tiempo ayudando a los ciberdelincuentes a redactar mensajes de phishing, analizar código y buscar…",
+        "Sin embargo, su papel está cambiando: los sistemas que antes respondían preguntas ahora pueden utilizar herramientas, ejecutar acciones…"
+      ],
+      "porQueImporta": "«Los hackers ya atacan con agentes de IA, advierte Google» según MuyComputer: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Google AI"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "1fd8d3ac-adcc-48d0-820e-0a0e2ece779c",
+      "titulo": "Pearl Abyss se rinde a la IA: los creadores de Crimson Desert ya la utilizan para diseñar sus videojuegos",
+      "resumen": "El uso de la Inteligencia Artificial en los videojuegos no es ningún secreto. Tanto Xbox como Epic Games han confirmado que la utilizan para ayudar en el desarrollo de sus títulos actuales como en los que están trabajando.",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/pearl-abyss-crimson-desert-uso-inteligencia-artificial/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/crimon-desert.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-16T14:02:48.000Z",
+      "fechaAgregada": "2026-11-17T14:43:08.249Z",
+      "puntosClave": [
+        "El uso de la Inteligencia Artificial en los videojuegos no es ningún secreto.",
+        "Tanto Xbox como Epic Games han confirmado que la utilizan para ayudar en el desarrollo de sus títulos actuales como en los que están…"
+      ],
+      "porQueImporta": "«Pearl Abyss se rinde a la IA: los creadores de Crimson Desert ya la utilizan…» según HardZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "78de9dc7-63f8-4ef8-b4e4-6159c8b23dba",
+      "titulo": "Microsoft tiene un plan para que la nueva consola Xbox sea más barata que la PS6",
+      "resumen": "La próxima generación de consolas se enfrenta a un problema que podría complicar bastante su llegada al mercado: el precio de los componentes. el mismo problema al que también se enfrenta Sony con la PS6.",
+      "url": "https://hardzone.es/noticias/equipos/microsoft-renderizado-neuronal-xbox-project-helix-ps6/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/07/Microsoft-Xbox-Project-Helix.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-16T11:44:09.000Z",
+      "fechaAgregada": "2026-11-17T14:43:08.249Z",
+      "puntosClave": [
+        "La próxima generación de consolas se enfrenta a un problema que podría complicar bastante su llegada al mercado: el precio…",
+        "el mismo problema al que también se enfrenta Sony con la PS6."
+      ],
+      "porQueImporta": "«Microsoft tiene un plan para que la nueva consola Xbox sea más barata que la PS6» según HardZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Microsoft"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "6e7e1f6b-3738-4200-b13a-3a4678deadc6",
+      "titulo": "Google estrena Gemini Decisions, una IA que prefiere elegir antes que hablar",
+      "resumen": "Estamos acostumbrados a medir los avances de la inteligencia artificial por su capacidad para escribir, razonar o generar contenidos cada vez más elaborados.",
+      "url": "https://www.muycomputer.com/2026/11/15/google-estrena-gemini-decisions-una-ia-que-prefiere-elegir-antes-que-hablar/",
+      "imagen": "https://picsum.photos/seed/485/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-15T19:03:15.000Z",
+      "fechaAgregada": "2026-11-17T14:43:09.192Z",
+      "puntosClave": [
+        "Estamos acostumbrados a medir los avances de la inteligencia artificial por su capacidad para escribir",
+        "razonar o generar contenidos cada vez más elaborados."
+      ],
+      "porQueImporta": "«Google estrena Gemini Decisions, una IA que prefiere elegir antes que hablar» según MuyComputer: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Gemini",
+        "Google AI"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "2b07fc38-1206-43c3-9889-a1547bcf8e61",
+      "titulo": "Bing permite quitar las respuestas de IA, pero no lo pone fácil",
+      "resumen": "Los buscadores llevan años acostumbrándonos a escribir unas palabras, revisar los resultados y elegir qué páginas queremos consultar. Sin embargo, la inteligencia artificial está cambiando esa experiencia, sustituyendo cada vez más los enlaces tradicionales por respuestas generadas automáticamente.",
+      "url": "https://www.muycomputer.com/2026/11/15/bing-permite-quitar-las-respuestas-de-ia-pero-no-lo-pone-facil/",
+      "imagen": "https://picsum.photos/seed/439/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-15T17:31:33.000Z",
+      "fechaAgregada": "2026-11-17T14:43:09.192Z",
+      "puntosClave": [
+        "Los buscadores llevan años acostumbrándonos a escribir unas palabras, revisar los resultados y elegir qué páginas queremos consultar.",
+        "Sin embargo, la inteligencia artificial está cambiando esa experiencia, sustituyendo cada vez más los enlaces tradicionales por respuestas…"
+      ],
+      "porQueImporta": "«Bing permite quitar las respuestas de IA, pero no lo pone fácil» según MuyComputer: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "12922ab8-d554-47c4-a238-ec802e114043",
+      "titulo": "Inteligencia artificial y manipulación: nuevas claves para interpretar lo que vemos en internet",
+      "resumen": "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes. Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-10-21/inteligencia-artificial-y-manipulacion-nuevas-claves-para-interpretar-lo-que-vemos-en-internet.html",
+      "imagen": "https://picsum.photos/seed/490/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-21T15:53:30.000Z",
+      "fechaAgregada": "2026-11-17T14:43:07.254Z",
+      "puntosClave": [
+        "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes.",
+        "Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar"
+      ],
+      "porQueImporta": "«Inteligencia artificial y manipulación: nuevas claves para interpretar…» según El País Tecnología: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    }
+  ]
+}
