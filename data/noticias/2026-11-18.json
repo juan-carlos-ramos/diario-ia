@@ -1,0 +1,160 @@
+{
+  "fecha": "2026-11-18",
+  "generado": "2026-11-18T14:31:02.179Z",
+  "total": 7,
+  "enriquecidasConIA": 1,
+  "noticias": [
+    {
+      "id": "e7bc0b8f-b7b8-43dd-b869-b698f5c013c9",
+      "titulo": "Windows 11 detecta qué IA usas para programar y lo manda por telemetría: así puedes desactivarlo",
+      "resumen": "Windows 11 incorpora un componente de diagnóstico, descubierto por el investigador Xusheng Li, capaz de identificar qué asistentes de inteligencia artificial y qué herramientas de desarrollo ejecutas en tu equipo.",
+      "url": "https://www.redeszone.net/noticias/seguridad/windows-11-telemetria-agentes-ia/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/ilustracion-conceptual-lineas-codigo-programacion-fluyendo-ventana.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-18T09:07:10.000Z",
+      "fechaAgregada": "2026-11-18T14:21:06.665Z",
+      "puntosClave": [
+        "Windows 11 incorpora un componente de diagnóstico",
+        "descubierto por el investigador Xusheng Li",
+        "capaz de identificar qué asistentes de inteligencia artificial y qué herramientas de desarrollo ejecutas en tu equipo."
+      ],
+      "porQueImporta": "«Windows 11 detecta qué IA usas para programar y lo manda por telemetría: así…» según RedesZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "8a067c5b-2fde-4c2d-a682-746fc979a91e",
+      "titulo": "Este nuevo SSD hace algo que hasta ahora no habíamos visto: utilizar parte de su capacidad como memoria para IA",
+      "resumen": "La Inteligencia Artificial ha acelerado las exigencias de hardware a un ritmo muy superior al que tradicionalmente marcaban los videojuegos. Cada vez se necesita más memoria RAM, más VRAM y más almacenamiento para ejecutar modelos de lenguaje de forma local sin depender de una suscripción.",
+      "url": "https://hardzone.es/noticias/componentes/orico-flashmem-fm9800-ssd-cache/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/SSD-oricon-ai-flashmem-fm9800.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-18T09:05:14.000Z",
+      "fechaAgregada": "2026-11-18T14:21:07.638Z",
+      "puntosClave": [
+        "Aparece una nueva arquitectura de almacenamiento SSD capaz de asignar dinámicamente parte de su espacio como memoria dedicada para cargas de trabajo de IA.",
+        "El avance busca mitigar el déficit crítico de VRAM y RAM física que limita la ejecución de modelos fundacionales en hardware de consumo.",
+        "Esta tecnología acerca la viabilidad de operar LLMs masivos en local sin requerir tarjetas gráficas profesionales de coste prohibitivo."
+      ],
+      "porQueImporta": "Democratiza la computación local al saltarse el costoso cuello de botella de la VRAM, permitiendo a desarrolladores e investigadores correr LLMs pesados en equipos modestos sin depender de APIs en la nube.",
+      "tags": [
+        "Hardware",
+        "Almacenamiento",
+        "LLMs",
+        "IA Local"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "9f2a834c-5fa2-4ec6-b47e-78c08998dc89",
+      "titulo": "La NSANet lleva caída desde ayer: qué es y para qué sirve esta red interna de la NSA",
+      "resumen": "La Agencia de Seguridad Nacional de Estados Unidos (NSA) sufrió el 17 de noviembre de 2026 un fallo en NSANet, la red interna que usa para sus comunicaciones clasificadas. El problema obligó a cerrar su campus para la mayoría del personal y a cambiar varias veces el nivel de alerta interno.",
+      "url": "https://www.redeszone.net/noticias/seguridad/caida-red-nsanet-nsa-eeuu/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/logo-nsa.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-18T08:06:13.000Z",
+      "fechaAgregada": "2026-11-18T14:21:06.665Z",
+      "puntosClave": [
+        "La Agencia de Seguridad Nacional de Estados Unidos (NSA) sufrió el 17 de noviembre de 2026 un fallo en NSANet, la red interna que usa…",
+        "El problema obligó a cerrar su campus para la mayoría del personal y a cambiar varias veces el nivel de alerta interno."
+      ],
+      "porQueImporta": "«La NSANet lleva caída desde ayer: qué es y para qué sirve esta red interna…» según RedesZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "6483fa6f-c10b-4d04-b77e-e95b5f81080f",
+      "titulo": "Gemini te deja guardar tus chats sin entrenar su IA… pero hay letra pequeña",
+      "resumen": "Conservar nuestras conversaciones con un asistente de inteligencia artificial puede resultar muy útil, pero no todos queremos que esos intercambios terminen convirtiéndose en material para entrenar nuevos modelos.",
+      "url": "https://www.muycomputer.com/2026/11/17/gemini-te-deja-guardar-tus-chats-sin-entrenar-su-ia-pero-hay-letra-pequena/",
+      "imagen": "https://picsum.photos/seed/261/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-17T18:41:16.000Z",
+      "fechaAgregada": "2026-11-18T14:21:08.398Z",
+      "puntosClave": [
+        "Conservar nuestras conversaciones con un asistente de inteligencia artificial puede resultar muy útil",
+        "pero no todos queremos que esos intercambios terminen convirtiéndose en material para entrenar nuevos modelos."
+      ],
+      "porQueImporta": "«Gemini te deja guardar tus chats sin entrenar su IA… pero hay letra pequeña» según MuyComputer: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Gemini"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "e3b142f6-bbdb-4a91-9f3b-b059bc7f91b8",
+      "titulo": "Windows 11 lleva la cuenta de los agentes de IA que utilizas… sin avisarte",
+      "resumen": "Los agentes de inteligencia artificial están transformando la manera de programar, y Microsoft parece especialmente interesada en saber cuáles utilizan los desarrolladores.",
+      "url": "https://www.muycomputer.com/2026/11/17/windows-11-lleva-la-cuenta-de-los-agentes-de-ia-que-utilizas-sin-avisarte/",
+      "imagen": "https://picsum.photos/seed/436/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-17T18:17:13.000Z",
+      "fechaAgregada": "2026-11-18T14:21:08.398Z",
+      "puntosClave": [
+        "Los agentes de inteligencia artificial están transformando la manera de programar",
+        "y Microsoft parece especialmente interesada en saber cuáles utilizan los desarrolladores."
+      ],
+      "porQueImporta": "«Windows 11 lleva la cuenta de los agentes de IA que utilizas… sin avisarte» según MuyComputer: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Microsoft"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "c186b48d-4c10-4428-b661-abd4e4e98b3b",
+      "titulo": "Sebastián La Rosa, experto en longevidad: \"los suplementos de magnesio ayudan a que las personas mayores concilien el sueño más rápido\"",
+      "resumen": "El cansancio matutino crónico ha convertido a los suplementos nocturnos en un recurso habitual para intentar forzar el descanso. La efectividad real de cada principio activo depende estrechamente de la edad y de las carencias previas del organismo.",
+      "url": "https://www.xatakaciencia.com/salud/sebastian-rosa-experto-longevidad-suplementos-magnesio-ayudan-a-que-personas-mayores-concilien-sueno-rapido",
+      "imagen": "https://i.blogs.es/febd63/gemini_generated_image_vv82cgvv82cgvv82/1024_2000.jpeg",
+      "fuente": "Xataka Ciencia",
+      "categoria": "investigacion",
+      "fechaPublicacion": "2026-11-17T14:45:20.000Z",
+      "fechaAgregada": "2026-11-18T14:21:04.833Z",
+      "puntosClave": [
+        "El cansancio matutino crónico ha convertido a los suplementos nocturnos en un recurso habitual para intentar forzar el descanso.",
+        "La efectividad real de cada principio activo depende estrechamente de la edad y de las carencias previas del organismo."
+      ],
+      "porQueImporta": "«Sebastián La Rosa, experto en longevidad: \"los suplementos de magnesio ayudan…» según Xataka Ciencia: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "d67a4bee-977f-492d-9ed7-36a490cc7b3a",
+      "titulo": "Inteligencia artificial y manipulación: nuevas claves para interpretar lo que vemos en internet",
+      "resumen": "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes. Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-10-21/inteligencia-artificial-y-manipulacion-nuevas-claves-para-interpretar-lo-que-vemos-en-internet.html",
+      "imagen": "https://picsum.photos/seed/259/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-21T15:53:30.000Z",
+      "fechaAgregada": "2026-11-18T14:21:04.260Z",
+      "puntosClave": [
+        "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes.",
+        "Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar"
+      ],
+      "porQueImporta": "«Inteligencia artificial y manipulación: nuevas claves para interpretar…» según El País Tecnología: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    }
+  ]
+}
