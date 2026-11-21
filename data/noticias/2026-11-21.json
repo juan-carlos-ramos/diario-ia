@@ -1,0 +1,306 @@
+{
+  "fecha": "2026-11-21",
+  "generado": "2026-11-21T13:54:11.717Z",
+  "total": 12,
+  "enriquecidasConIA": 12,
+  "noticias": [
+    {
+      "id": "23e27a54-6bef-4104-88d5-a36c7a088bf2",
+      "titulo": "Escribir un libro con IA es más fácil que nunca. Por eso las editoriales están tomando medidas antes de publicar",
+      "resumen": "¿Quién nos asegura que un libro está escrito por una persona? El debate sobre autoría ha dado un vuelco en los últimos años, o por lo menos convive con una incertidumbre más.",
+      "url": "https://www.xataka.com/literatura-comics-y-juegos/escribir-libro-ia-facil-que-nunca-eso-editoriales-estan-tomando-medidas-antes-publicar",
+      "imagen": "https://i.blogs.es/c3170f/photo-1630855856911-c485c56fcaac/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-21T12:20:24.000Z",
+      "fechaAgregada": "2026-11-21T13:36:52.147Z",
+      "puntosClave": [
+        "La democratización de los modelos de lenguaje ha provocado un alud de manuscritos generados por IA que desbordan los sistemas tradicionales de lectura editorial.",
+        "Las casas editoriales están implementando cláusulas de confidencialidad, auditorías de creación y software de detección para certificar la autoría humana.",
+        "El debate se desplaza de la capacidad creativa de la máquina hacia la protección de la propiedad intelectual y el valor comercial de la autenticidad."
+      ],
+      "porQueImporta": "Para la industria tecnológica y los desarrolladores de LLMs, este freno editorial visibiliza la urgente necesidad de crear sistemas de trazabilidad y marcas de agua digitales fiables, abriendo un nicho de mercado clave en la verificación de contenidos.",
+      "tags": [
+        "IA Generativa",
+        "LLMs",
+        "Propiedad Intelectual",
+        "Edición Digital"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "0557abd5-a44f-46d9-96b2-5ac0410cb5aa",
+      "titulo": "Alguien ha conectado quince \"minicerebros\" neuronales formando una mente colmena y ha superado a una IA",
+      "resumen": "Hace unos años, un grupo de investigadores australianos metieron un puñado de neuronas humanas en un chip y les enseñaron a jugar al Pong. La empresa que lo logró, la australiana Cortical Labs, ha dado ahora otro paso más allá en su investigación y ha conseguido enlazar quince de sus ordenadores…",
+      "url": "https://www.xataka.com/investigacion/alguien-ha-conectado-quince-minicerebros-neuronales-formando-mente-colmena-ha-superado-a-ia",
+      "imagen": "https://i.blogs.es/0328e3/ecliptic-graphic-_jg8xh2ssxq-unsplash/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-21T10:00:26.000Z",
+      "fechaAgregada": "2026-11-21T13:36:52.148Z",
+      "puntosClave": [
+        "Cortical Labs interconectó 15 organoides biológicos (minicerebros) creando una red de procesamiento híbrida.",
+        "El sistema de bio-computación superó en eficiencia y rendimiento a modelos de IA tradicionales en tareas específicas.",
+        "El logro demuestra la viabilidad de escalar la biotecnología neuronal como una alternativa real al silicio."
+      ],
+      "porQueImporta": "Abre la puerta a la computación biológica como solución a la crisis de consumo energético que enfrentan los grandes centros de datos de IA, ofreciendo a la industria un paradigma de hardware con una eficiencia cognitiva inalcanzable para los chips de silicio actuales.",
+      "tags": [
+        "Bio-computación",
+        "Hardware",
+        "Biotecnología",
+        "Investigación"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "f5e15d3c-fad6-4568-bb70-d5c2b60aa56a",
+      "titulo": "Apple perfila un agente de IA capaz de controlar el ordenador",
+      "resumen": "Apple ha descrito en una oferta de empleo un agente de inteligencia artificial capaz de navegar por la web, trabajar con aplicaciones y escribir código por encargo del usuario. La vacante, recogida por Bloomberg, buscaba un responsable de ingeniería para un equipo de IA proactiva.",
+      "url": "https://www.muycomputer.com/2026/11/21/apple-perfila-un-agente-de-ia-capaz-de-manejar-el-ordenador/",
+      "imagen": "https://picsum.photos/seed/284/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-21T08:00:52.000Z",
+      "fechaAgregada": "2026-11-21T13:36:54.287Z",
+      "puntosClave": [
+        "Una oferta de trabajo revelada por Bloomberg confirma que Apple recluta talento para liderar un equipo enfocado en 'IA proactiva'.",
+        "El proyecto busca desarrollar un agente capaz de interactuar directamente con el sistema operativo, ejecutan acciones en aplicaciones y navegadores.",
+        "La herramienta integrará capacidades para redactar código de forma autónoma a partir de las instrucciones en lenguaje natural del usuario."
+      ],
+      "porQueImporta": "Representa el salto estratégico de Apple hacia los agentes autónomos de sistema, compitiendo directamente con propuestas como Computer Use de Anthropic. Al integrar la automatización profunda a nivel de sistema operativo en macOS, Apple podría transformar radicalmente el flujo de trabajo de desarrolladores y profesionales sin depender de software de terceros.",
+      "tags": [
+        "Apple",
+        "Agentes de IA",
+        "macOS",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "6f9da56d-6071-4e57-ad59-f03f92a28534",
+      "titulo": "Esta alternativa a NotebookLM funciona en tu PC en modo local y con la IA que tú elijas",
+      "resumen": "NotebookLM, rebautizada como Gemini Notebook, es una de las aplicaciones más acertadas de Google en los últimos años. A diferencia de Gemini, Notebook está pensado para utilizar tus propias fuentes para entrenar a la IA.",
+      "url": "https://hipertextual.com/guias/surfsense-alternativa-modelos-ia-gemini-notebook-notebooklm/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Surfsense-Local-Gemini-Notebook.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-21T08:00:00.000Z",
+      "fechaAgregada": "2026-11-21T13:36:52.201Z",
+      "puntosClave": [
+        "Surge una alternativa de código abierto a NotebookLM capaz de ejecutarse completamente en el hardware del usuario.",
+        "A diferencia del servicio de Google, este sistema permite integrar cualquier LLM local o comercial según las necesidades del proyecto.",
+        "La herramienta replica el procesamiento de documentos propios (RAG), garantizando la soberanía de los datos sin depender de la nube."
+      ],
+      "porQueImporta": "Desbloquea el análisis de información confidencial para empresas y profesionales que no pueden subir sus documentos a servidores de terceros por normativas de privacidad, impulsando la adopción de arquitecturas de IA 100% locales.",
+      "tags": [
+        "LLMs",
+        "Privacidad",
+        "Productividad",
+        "Software Libre"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "864d10c3-7c40-4ecd-bc02-3b9789975be2",
+      "titulo": "Google anuncia por sorpresa que Gemini sustituirá a dos de los servicios que más usamos en casa: ya tienen fecha de caducidad",
+      "resumen": "Google ha puesto fecha al final de dos piezas que llevan años en el salón de casa. La app Nest dejará de funcionar el 25 de enero de 2027 y el Asistente de Google se apagará en los altavoces y en las pantallas inteligentes el 2 de agosto del mismo año.",
+      "url": "https://www.adslzone.net/noticias/ia/google-cierra-nest-app-assistant-altavoces/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/11/gemini-pcpal-1212-az.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-20T18:43:13.000Z",
+      "fechaAgregada": "2026-11-21T13:36:52.952Z",
+      "puntosClave": [
+        "Google ha fijado la fecha de apagado definitivo de la app Nest (enero de 2027) y del Asistente de Google en altavoces y pantallas (agosto de 2027).",
+        "La compañía culmina así el reemplazo total de sus sistemas de voz tradicionales por las capacidades avanzadas de Gemini.",
+        "El movimiento obligará a renovar la interacción domótica actual hacia un modelo impulsado por Inteligencia Artificial generativa."
+      ],
+      "porQueImporta": "Representa el salto definitivo del IoT clásico hacia el AIoT, donde los comandos de voz rígidos son sustituidos por modelos del lenguaje. Esto obliga a la industria domótica a migrar sus arquitecturas de integración hacia ecosistemas basados en LLMs capaces de entender contexto complejo en el hogar.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "IoT",
+        "Domótica"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "5acef7d9-75df-448f-b5c2-5a9d6396ee3d",
+      "titulo": "Si buscas un portátil con buena pantalla, ligero y buen rendimiento, ASUS lo ha puesto en bandeja en su Black Friday",
+      "resumen": "Encontrar un portátil que se ajuste a todas nuestras pretensiones no siempre es fácil. Aunque hay veces que las características pueden encajar, el precio muchas veces no lo hace.",
+      "url": "https://www.xataka.com/seleccion/buscas-portatil-buena-pantalla-ligero-buen-rendimiento-asus-ha-puesto-bandeja-su-black-friday",
+      "imagen": "https://i.blogs.es/87745d/asus-zenbook-14/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-20T17:46:21.000Z",
+      "fechaAgregada": "2026-11-21T13:36:52.150Z",
+      "puntosClave": [
+        "ASUS aplica descuentos estratégicos en su gama de portátiles durante el Black Friday para hacer accesibles sus modelos de mayores prestaciones.",
+        "La oferta resuelve la brecha habitual entre exigencias técnicas (pantalla de calidad, peso liviano y potencia) y limitaciones de presupuesto.",
+        "La rebaja facilita la renovación de equipamiento técnico antes de finalizar el año con opciones orientadas a la movilidad."
+      ],
+      "porQueImporta": "La bajada de precios en portátiles con buen rendimiento de cómputo y eficiencia energética permite a desarrolladores y profesionales ejecutar modelos de IA locales y herramientas de productividad exigentes sin depender exclusivamente de servidores en la nube.",
+      "tags": [
+        "Hardware",
+        "Productividad",
+        "Portátiles"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "c5427b41-98a2-4cc9-8cb1-65a6799e48d2",
+      "titulo": "ChatGPT abre sus espacios colaborativos a los usuarios Plus",
+      "resumen": "ChatGPT lleva tiempo intentando convertirse en algo más que un asistente al que recurrimos para resolver dudas o generar contenidos. La inteligencia artificial también puede participar en proyectos compartidos, ayudar a organizar información y mantener documentos actualizados mientras varias…",
+      "url": "https://www.muycomputer.com/2026/11/20/chatgpt-abre-sus-espacios-colaborativos-a-los-usuarios-plus/",
+      "imagen": "https://picsum.photos/seed/263/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-20T17:43:14.000Z",
+      "fechaAgregada": "2026-11-21T13:36:54.288Z",
+      "puntosClave": [
+        "OpenAI amplía el acceso a los espacios de trabajo compartidos en ChatGPT para sus suscriptores del plan Plus.",
+        "La plataforma permite ahora la edición, organización y mantenimiento colaborativo de documentos en tiempo real entre varios usuarios.",
+        "El movimiento busca transformar la herramienta de un simple chatbot unidireccional a un centro operativo de trabajo en equipo."
+      ],
+      "porQueImporta": "Esta actualización escala el valor de la suscripción Plus al competir directamente con entornos como Notion o Google Workspace, permitiendo a startups y pequeñas empresas integrar la IA en el núcleo de sus flujos de trabajo compartidos sin pagar planes corporativos costosos.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "1993df09-95b5-40e9-a6ae-5b6f4f52aeaf",
+      "titulo": "La IA de OpenAI mete mano en los chips de AMD y consigue una mejora del 14 %",
+      "resumen": "La llegada de las IA no solo ha servido al usuario medio para hacer trabajos, buscar información, o pedirle cosas absurdas a un asistente, sino que también trae otro tipo de mejoras y usos que podrían acelerar la evolución de la tecnología, como el caso que veremos hoy.",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/openai-mejora-chips-amd/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/06/graficas-amd-radeon.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-20T15:00:04.000Z",
+      "fechaAgregada": "2026-11-21T13:36:53.573Z",
+      "puntosClave": [
+        "OpenAI aplicó algoritmos de inteligencia artificial para optimizar la arquitectura de cómputo en procesadores AMD.",
+        "La intervención directa de la IA logró incrementar el rendimiento de los chips en un 14 %.",
+        "El avance consolida el uso de modelos de aprendizaje automático en el diseño acelerado de hardware de última generación."
+      ],
+      "porQueImporta": "Esta colaboración inaugura un bucle de retroalimentación clave: la IA empieza a optimizar el propio hardware sobre el que se ejecuta, lo que reducirá costos energéticos y acelerará los tiempos de entrenamiento para la próxima generación de LLMs.",
+      "tags": [
+        "OpenAI",
+        "AMD",
+        "Hardware",
+        "Semiconductores"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "f6043d48-45f5-45b6-adb4-9f75acfe090a",
+      "titulo": "Haz que tu PC suba de nivel y trabaje por ti: consigue Office 2024 por solo 18 euros y Windows 11 por solo 19 euros",
+      "resumen": "La inteligencia artificial se ha convertido en parte de nuestro día a día. Hay muchas maneras de utilizarla, pero si quieres sacarle el máximo partido, y acceder a sus funciones y capacidades más avanzadas, la opción más asequible y más sencilla es recurrir a servicios en la nube que ofrece Windows…",
+      "url": "https://www.muycomputer.com/2026/11/20/haz-que-tu-pc-suba-de-nivel-y-trabaje-por-ti-consigue-office-2024-por-solo-18-euros-y-windows-11-por-solo-19-euros/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/11/ofertas-Windows-11.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-20T08:58:12.000Z",
+      "fechaAgregada": "2026-11-21T13:36:54.288Z",
+      "puntosClave": [
+        "Ofertas promocionales reducen el coste de licencias clave como Windows 11 y Office 2024 a un rango de entre 18 y 19 euros.",
+        "El software actualizado actúa como el requisito base para ejecutar capacidades nativas y asistentes de IA integrados.",
+        "La migración a sistemas modernos facilita el acceso masivo a infraestructura en la nube sin grandes inversiones en hardware."
+      ],
+      "porQueImporta": "La reducción de costes en licencias base acelera la adopción masiva de entornos compatibles con IA como Copilot, permitiendo a PYMEs y desarrolladores independientes modernizar su infraestructura y automatizar flujos de trabajo sin comprometer su presupuesto.",
+      "tags": [
+        "Windows 11",
+        "Productividad",
+        "Software",
+        "IA en la Nube"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "bb74cb57-2117-4cfc-974a-d89386e531af",
+      "titulo": "Llamadas para comprar una bici, mangos o un tratamiento para la vagina: qué pasa si la IA distribuye tu número de teléfono",
+      "resumen": "Un hombre cuenta cómo recibe llamadas con quejas y dudas de clientes de clínicas estéticas, tiendas de persianas o farmacias online después de que Gemini y ChatGPT ofrecieran su móvil por error",
+      "url": "https://elpais.com/tecnologia/2026-11-20/llamadas-para-comprar-una-bici-mangos-o-un-tratamiento-para-la-vagina-que-pasa-si-la-ia-distribuye-tu-numero-de-telefono.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ANI4MBLTO5AG7AKHBGSFSSIRSU.jpg?auth=30338ac70ce95e3ee755c14f091c7a240aed8ec3f635fdf4835966958aa0b1e0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-20T04:30:01.000Z",
+      "fechaAgregada": "2026-11-21T13:36:52.518Z",
+      "puntosClave": [
+        "Modelos principales como ChatGPT y Gemini confabulan y asignan números de teléfono de particulares a negocios reales o inexistentes.",
+        "El afectado sufre un acoso involuntario e interrupciones constantes debido a las alucinaciones de datos de contacto por parte de las IA.",
+        "El problema evidencia la falta de mecanismos de validación en tiempo real cuando los LLM intentan actuar como motores de búsqueda factuales."
+      ],
+      "porQueImporta": "Este caso expone los riesgos de responsabilidad civil y vulneración de la privacidad a los que se enfrentan los desarrolladores de IA, obligando a la industria a implementar filtros estrictos de verificación factual para evitar que las alucinaciones de los modelos expongan datos personales de terceros.",
+      "tags": [
+        "Privacidad",
+        "LLMs",
+        "Alucinaciones",
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "2e731022-0194-4522-87b7-bf8aaf2c7432",
+      "titulo": "Así está el mercado laboral de tecnología: una de cada seis ofertas pide IA, solo uno de cada 60 programadores la pone en su currículum",
+      "resumen": "Los puestos de trabajo en España para desarrolladores muestran el crecimiento rápido de la inteligencia artificial y las dificultades para encontrar puestos júnior",
+      "url": "https://elpais.com/tecnologia/2026-11-19/asi-esta-el-mercado-laboral-de-tecnologia-una-de-cada-seis-ofertas-pide-ia-solo-uno-de-cada-60-programadores-la-pone-en-su-curriculum.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XM365A7D2ZC3FIAX4YOTKWKBFI.jpg?auth=7ea229e234f7cf0f523a0bf6297c0f6328f2d7b2a85eab6241dba231b37703e4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-19T06:00:00.000Z",
+      "fechaAgregada": "2026-11-21T13:36:52.518Z",
+      "puntosClave": [
+        "Existe un profundo desbalance en España entre la alta demanda corporativa de habilidades en IA y la escasa oferta de perfiles que lo reflejan en sus currículums.",
+        "Las ofertas laborales que exigen competencias en inteligencia artificial se han multiplicado, representando ya el 16% del total del sector tecnológico.",
+        "El auge de la IA está reestructurando el mercado, cerrando el grifo a las posiciones júnior tradicionales mientras busca talento altamente especializado."
+      ],
+      "porQueImporta": "Este descalce revela que los desarrolladores están tardando en certificar o visibilizar sus competencias en IA frente a una industria que ya la exige como requisito básico. Para las empresas implica un cuello de botella en la contratación, mientras que para los júniores supone la urgente necesidad de reconvertirse para no quedar excluidos del mercado.",
+      "tags": [
+        "MercadoLaboral",
+        "DesarrolloDeSoftware",
+        "EmpleoIA",
+        "España"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "6188b018-1b00-429b-a027-ab63a4c78d36",
+      "titulo": "Inteligencia artificial y manipulación: nuevas claves para interpretar lo que vemos en internet",
+      "resumen": "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes. Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-10-21/inteligencia-artificial-y-manipulacion-nuevas-claves-para-interpretar-lo-que-vemos-en-internet.html",
+      "imagen": "https://picsum.photos/seed/128/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-21T15:53:30.000Z",
+      "fechaAgregada": "2026-11-21T13:36:52.518Z",
+      "puntosClave": [
+        "La sofisticación de la IA generativa permite a los ciberdelincuentes escalar fraudes digitales hiperrealistas a una velocidad sin precedentes.",
+        "La primera línea de defensa actual no radica en el software, sino en la adopción de un filtro crítico mediante la verificación pausada del usuario.",
+        "El auge del contenido sintético obliga a redefinir los criterios de confianza digital en cualquier interacción o información en línea."
+      ],
+      "porQueImporta": "Este escenario presiona a los desarrolladores a crear herramientas de autenticación de contenido y detección de 'deepfakes' más precisas, mientras que las empresas deben blindar su identidad de marca frente a ataques de suplantación ejecutados con ingeniería social automatizada.",
+      "tags": [
+        "Ciberseguridad",
+        "IA Generativa",
+        "Deepfakes",
+        "Fraude Digital"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
