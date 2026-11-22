@@ -1,0 +1,339 @@
+{
+  "fecha": "2026-11-22",
+  "generado": "2026-11-22T13:49:10.048Z",
+  "total": 14,
+  "enriquecidasConIA": 9,
+  "noticias": [
+    {
+      "id": "e5c8e0c7-353f-4bb8-93b5-a20550e9b1be",
+      "titulo": "Cómo hacer música con IA gratis: Suno vs Udio vs Riffusion comparadas",
+      "resumen": "Gracias a la Inteligencia Artificial, no solo podemos generar textos, imágenes y vídeos. También podemos dar rienda suelta a nuestra imaginación para crear música de todo tipo.",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/utilizar-ia-crear-musica-suno-udio-riffusion/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/09/crear-musica-ia.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-22T12:56:22.000Z",
+      "fechaAgregada": "2026-11-22T13:29:25.792Z",
+      "puntosClave": [
+        "La democratización del audio generativo permite a usuarios sin formación musical previa componer temas completos mediante modelos de IA gratuitos.",
+        "Suno, Udio y Riffusion lideran la carrera tecnológica ofreciendo diferentes enfoques, desde la fidelidad vocal hasta la generación basada en espectrogramas.",
+        "El sector del software musical experimenta una disrupción hacia la creación directa a partir de peticiones de texto (text-to-music)."
+      ],
+      "porQueImporta": "La maduración del audio sintético reduce drásticamente los costes de producción sonora para creadores de contenido y desarrolladores de videojuegos, al tiempo que desafía los modelos tradicionales de licencias y derechos de autor en la industria discográfica.",
+      "tags": [
+        "IA Generativa",
+        "Audio por IA",
+        "Suno",
+        "Udio"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "ccbf594d-8792-4ed1-b10c-8994f4fb432b",
+      "titulo": "Europa confirma un ciberataque con IA contra la Comisión",
+      "resumen": "La inteligencia artificial empieza a ocupar un papel cada vez más activo en los ciberataques, y las instituciones europeas no están al margen de esa evolución.",
+      "url": "https://www.muycomputer.com/2026/11/22/europa-confirma-un-ciberataque-con-ia-contra-la-comision/",
+      "imagen": "https://picsum.photos/seed/63/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-22T12:03:21.000Z",
+      "fechaAgregada": "2026-11-22T13:29:26.786Z",
+      "puntosClave": [
+        "La Comisión Europea se ha convertido en el blanco de una ofensiva digital que utilizó herramientas de inteligencia artificial.",
+        "El incidente confirma la transición de ciberataques convencionales hacia operaciones automatizadas de mayor escala y precisión.",
+        "Las instituciones continentales admiten que las defensas tradicionales están siendo superadas por la rápida evolución de la IA maliciosa."
+      ],
+      "porQueImporta": "Este ataque marca un punto de inflexión para la industria: la ciberseguridad corporativa e institucional ya no puede depender de revisiones humanas o reglas estáticas, obligando a los desarrolladores a integrar modelos defensivos autónomos capaces de responder en tiempo real a vectores de amenaza que mutan mediante IA.",
+      "tags": [
+        "Ciberseguridad",
+        "Unión Europea",
+        "IA Maliciosa",
+        "Seguridad Informática"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "68808598-eef4-4fac-8455-8f0f73f8f542",
+      "titulo": "Lossless Scaling: cómo usar Frame Generation en juegos que no lo soportan",
+      "resumen": "El frame generation es una tecnología que usa inteligencia artificial para crear imágenes intermedias en un videojuego. Esto hace que el movimiento se vea más fluido y que parezca que el juego funciona a más FPS, pese a que realmente el hardware no esté forzándose para ello.",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/lossless-scaling-como-usar-frame-generation/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2025/06/lossless2.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-22T10:31:49.000Z",
+      "fechaAgregada": "2026-11-22T13:29:25.792Z",
+      "puntosClave": [
+        "El frame generation es una tecnología que usa inteligencia artificial para crear imágenes intermedias en un videojuego.",
+        "Esto hace que el movimiento se vea más fluido y que parezca que el juego funciona a más FPS, pese a que realmente el hardware no esté…"
+      ],
+      "porQueImporta": "«Lossless Scaling: cómo usar Frame Generation en juegos que no lo soportan» según HardZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "26f22140-c377-43df-a0a8-2086ce1c442c",
+      "titulo": "La IA destapa 35 vulnerabilidades en el ecosistema Apple",
+      "resumen": "La seguridad siempre ha sido uno de los grandes argumentos de Apple para diferenciar sus productos, pero ningún sistema está completamente a salvo de los fallos de software.",
+      "url": "https://www.muycomputer.com/2026/11/22/la-ia-destapa-35-vulnerabilidades-en-el-ecosistema-apple/",
+      "imagen": "https://picsum.photos/seed/284/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-22T10:11:03.000Z",
+      "fechaAgregada": "2026-11-22T13:29:26.786Z",
+      "puntosClave": [
+        "Herramientas de IA han auditado el código de Apple, identificando 35 fallos de seguridad hasta ahora inadvertidos.",
+        "El hallazgo cuestiona el histórico mito de invulnerabilidad del ecosistema de software cerrado de Cupertino.",
+        "El caso evidencia la eficacia de los modelos avanzados para el descubrimiento masivo y automatizado de brechas de seguridad."
+      ],
+      "porQueImporta": "Este hito evidencia un cambio de paradigma en la ciberseguridad: el uso de IA para auditar código a gran escala permitirá a los desarrolladores sellar brechas críticas antes de que sean explotadas, obligando a las Big Tech a integrar defensas automatizadas en sus cadenas de producción.",
+      "tags": [
+        "Ciberseguridad",
+        "Apple",
+        "Auditoría de Código",
+        "IA Defensiva"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "fba33184-1a08-455d-925d-68bfcf9facd9",
+      "titulo": "Cómo bloquear conversaciones en ChatGPT para que nadie pueda leerlas aunque compartas dispositivo o cuenta",
+      "resumen": "A nadie le gusta que le toquen sus cosas o que curioseen en sus teléfonos móviles o aplicaciones como WhatsApp, Gmail o ChatGPT. Son algunas de las apps más utilizadas y en ellas acabamos dejando parte de nosotros en forma de mensajes y conversaciones que no queremos compartir con nadie más.",
+      "url": "https://hipertextual.com/tecnologia/bloquear-conversaciones-chatgpt-chats-bloqueados/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/OpenAI-ChatGPT-Chats-Bloqueados-Candado.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-22T09:00:00.000Z",
+      "fechaAgregada": "2026-11-22T13:29:21.879Z",
+      "puntosClave": [
+        "Crecen los métodos para blindar el acceso al historial de ChatGPT mediante capas de seguridad adicionales en dispositivos compartidos.",
+        "La interacción con la IA procesa cada vez más información personal y confidencial, igualando su nivel de sensibilidad al del correo o la mensajería.",
+        "La adopción de controles de privacidad locales evita la exposición inadvertida de consultas y datos ante terceros."
+      ],
+      "porQueImporta": "A medida que ChatGPT se consolida como herramienta de trabajo y gestión personal, la privacidad local se vuelve crítica. Proteger las sesiones evita la fuga inadvertida de código, secretos comerciales o datos sensibles en empresas que comparten terminales o cuentas corporativas.",
+      "tags": [
+        "ChatGPT",
+        "Privacidad",
+        "Seguridad",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "f3c988c9-b52f-4522-9e0d-9cf25a631bad",
+      "titulo": "Begoña Villacís: \"Es una prohibición de facto\". La patronal de los centros de datos, en pie de guerra contra el Gobierno",
+      "resumen": "El pasado 20 noviembre, a nueve días de las elecciones generales y tras una tramitación por urgencia con más de 600 alegaciones, el Consejo de Ministros de España aprobaba el Real Decreto 1032/2026 que regula la sostenibilidad y la soberanía digital de los centros de datos.",
+      "url": "https://www.xataka.com/empresas-y-economia/begona-villacis-prohibicion-facto-patronal-centros-datos-pie-guerra-gobierno",
+      "imagen": "https://i.blogs.es/5368b5/centro/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-22T08:30:00.000Z",
+      "fechaAgregada": "2026-11-22T13:29:21.733Z",
+      "puntosClave": [
+        "El pasado 20 noviembre",
+        "a nueve días de las elecciones generales y tras una tramitación por urgencia con más de 600 alegaciones",
+        "el Consejo de Ministros de España aprobaba el Real Decreto 1032/2026 que regula la sostenibilidad y la soberanía digital de los centros…"
+      ],
+      "porQueImporta": "«Begoña Villacís: \"Es una prohibición de facto\".» según Xataka: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "76d5adda-781e-459c-af8d-2f8361eff99b",
+      "titulo": "Black Friday en portátiles: 5 modelos con 16 GB de RAM y 512 GB SSD por menos de 600 euros",
+      "resumen": "Aunque oficialmente todavía quedan unos días para que dé comienzo el Black Friday, la mayoría de las tiendas ofrecen desde principios de noviembre. Si no quieres esperar al 27 de noviembre y necesitas un portátil, en HardZone hemos recopilado las 5 mejores ofertas en equipos con 16 GB de RAM y 512…",
+      "url": "https://hardzone.es/ofertas/mix/portatiles-menos-600-euros-1126/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/portailtes-asus.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-21T17:55:07.000Z",
+      "fechaAgregada": "2026-11-22T13:29:25.793Z",
+      "puntosClave": [
+        "Las promociones de Black Friday se han adelantado semanas, ofreciendo descuentos agresivos antes del evento oficial.",
+        "El estándar técnico mínimo para productividad se sitúa en 16 GB de RAM y 512 GB de almacenamiento SSD.",
+        "Los portátiles con esta especificación básica alcanzan precios de entrada por debajo de la barrera de los 600 euros."
+      ],
+      "porQueImporta": "La democratización de equipos con 16 GB de RAM por debajo de los 600 euros reduce la barrera de entrada para que desarrolladores y estudiantes ejecuten entornos de desarrollo modernos y modelos de IA locales ligeros sin depender totalmente de la nube.",
+      "tags": [
+        "Hardware",
+        "Productividad",
+        "Portátiles",
+        "Ofertas"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "78a92e6d-2893-4b62-87e4-0602d0442fbb",
+      "titulo": "Apple perfila un agente de IA capaz de controlar el ordenador",
+      "resumen": "Apple ha descrito en una oferta de empleo un agente de inteligencia artificial capaz de navegar por la web, trabajar con aplicaciones y escribir código por encargo del usuario. La vacante, recogida por Bloomberg, buscaba un responsable de ingeniería para un equipo de IA proactiva.",
+      "url": "https://www.muycomputer.com/2026/11/21/apple-perfila-un-agente-de-ia-capaz-de-manejar-el-ordenador/",
+      "imagen": "https://picsum.photos/seed/33/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-21T08:00:52.000Z",
+      "fechaAgregada": "2026-11-22T13:29:26.786Z",
+      "puntosClave": [
+        "Apple planea un agente autónomo capaz de interactuar directamente con la interfaz del sistema operativo y aplicaciones de terceros.",
+        "Una oferta de empleo revelada por Bloomberg confirma la creación de un equipo enfocado en IA proactiva y automatización de código.",
+        "El movimiento sitúa a Cupertino en la carrera por los agentes digitales capaces de ejecutar workflows complejos sin supervisión continua."
+      ],
+      "porQueImporta": "Marca el salto crucial de Apple hacia los agentes de IA con control directo del sistema (Computer-Using Agents), amenazando el ecosistema tradicional de herramientas de productividad y redefiniendo el futuro de la interacción usuario-macOS.",
+      "tags": [
+        "Apple",
+        "Agentes de IA",
+        "macOS",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "302e7fea-d012-4eb6-9072-1c71d136d045",
+      "titulo": "ChatGPT abre sus espacios colaborativos a los usuarios Plus",
+      "resumen": "ChatGPT lleva tiempo intentando convertirse en algo más que un asistente al que recurrimos para resolver dudas o generar contenidos. La inteligencia artificial también puede participar en proyectos compartidos, ayudar a organizar información y mantener documentos actualizados mientras varias…",
+      "url": "https://www.muycomputer.com/2026/11/20/chatgpt-abre-sus-espacios-colaborativos-a-los-usuarios-plus/",
+      "imagen": "https://picsum.photos/seed/248/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-20T17:43:14.000Z",
+      "fechaAgregada": "2026-11-22T13:29:26.786Z",
+      "puntosClave": [
+        "ChatGPT lleva tiempo intentando convertirse en algo más que un asistente al que recurrimos para resolver dudas o generar contenidos.",
+        "La inteligencia artificial también puede participar en proyectos compartidos, ayudar a organizar información y mantener documentos…"
+      ],
+      "porQueImporta": "«ChatGPT abre sus espacios colaborativos a los usuarios Plus» según MuyComputer: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "ChatGPT"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "f41cf706-2bce-4319-ae1e-33199ebabfe5",
+      "titulo": "La IA de OpenAI mete mano en los chips de AMD y consigue una mejora del 14 %",
+      "resumen": "La llegada de las IA no solo ha servido al usuario medio para hacer trabajos, buscar información, o pedirle cosas absurdas a un asistente, sino que también trae otro tipo de mejoras y usos que podrían acelerar la evolución de la tecnología, como el caso que veremos hoy.",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/openai-mejora-chips-amd/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/06/graficas-amd-radeon.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-20T15:00:04.000Z",
+      "fechaAgregada": "2026-11-22T13:29:25.793Z",
+      "puntosClave": [
+        "La llegada de las IA no solo ha servido al usuario medio para hacer trabajos",
+        "buscar información",
+        "o pedirle cosas absurdas a un asistente"
+      ],
+      "porQueImporta": "«La IA de OpenAI mete mano en los chips de AMD y consigue una mejora del 14 %» según HardZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "OpenAI"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "d67bdede-ff0b-41e3-9564-9d09e6b4e9d1",
+      "titulo": "Haz que tu PC suba de nivel y trabaje por ti: consigue Office 2024 por solo 18 euros y Windows 11 por solo 19 euros",
+      "resumen": "La inteligencia artificial se ha convertido en parte de nuestro día a día. Hay muchas maneras de utilizarla, pero si quieres sacarle el máximo partido, y acceder a sus funciones y capacidades más avanzadas, la opción más asequible y más sencilla es recurrir a servicios en la nube que ofrece Windows…",
+      "url": "https://www.muycomputer.com/2026/11/20/haz-que-tu-pc-suba-de-nivel-y-trabaje-por-ti-consigue-office-2024-por-solo-18-euros-y-windows-11-por-solo-19-euros/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/11/ofertas-Windows-11.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-20T08:58:12.000Z",
+      "fechaAgregada": "2026-11-22T13:29:26.786Z",
+      "puntosClave": [
+        "Las licencias de software como Windows 11 y Office 2024 reducen drásticamente su coste de entrada para facilitar la modernización de equipos.",
+        "Microsoft posiciona la actualización de su sistema operativo como la vía más accesible para integrar capacidades de IA en la nube en el entorno personal y profesional.",
+        "La adopción de software actualizado se presenta como el requisito fundamental para aprovechar las nuevas herramientas de productividad asistida por algoritmos."
+      ],
+      "porQueImporta": "La reducción de costes en licencias clave acelera la migración masiva hacia sistemas operativos preparados para IA, permitiendo que freelancers y pequeñas empresas adopten flujos de trabajo potenciados por asistentes integrados como Copilot sin realizar grandes inversiones en infraestructura.",
+      "tags": [
+        "Microsoft",
+        "Windows 11",
+        "Copilot",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "703b9144-3697-4c32-9a44-aafeb5f912df",
+      "titulo": "Llamadas para comprar una bici, mangos o un tratamiento para la vagina: qué pasa si la IA distribuye tu número de teléfono",
+      "resumen": "Un hombre cuenta cómo recibe llamadas con quejas y dudas de clientes de clínicas estéticas, tiendas de persianas o farmacias online después de que Gemini y ChatGPT ofrecieran su móvil por error",
+      "url": "https://elpais.com/tecnologia/2026-11-20/llamadas-para-comprar-una-bici-mangos-o-un-tratamiento-para-la-vagina-que-pasa-si-la-ia-distribuye-tu-numero-de-telefono.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ANI4MBLTO5AG7AKHBGSFSSIRSU.jpg?auth=30338ac70ce95e3ee755c14f091c7a240aed8ec3f635fdf4835966958aa0b1e0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-20T04:30:01.000Z",
+      "fechaAgregada": "2026-11-22T13:29:22.482Z",
+      "puntosClave": [
+        "Un usuario privado sufre acoso telefónico diario debido a que varios LLMs asignan erróneamente su número a diversos comercios.",
+        "El incidente expone la incapacidad de los modelos actuales para verificar datos de contacto reales durante la generación de texto.",
+        "Tanto ChatGPT como Gemini mostraron dificultades para corregir el fallo de forma inmediata tras ser reportado el problema."
+      ],
+      "porQueImporta": "Evidencia el peligro de alucinaciones en datos sensibles y presiona a los desarrolladores a implementar filtros de privacidad y verificación de alucinaciones más estrictos antes de desplegar modelos al público.",
+      "tags": [
+        "LLMs",
+        "Privacidad",
+        "OpenAI",
+        "Google Gemini"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "3ffa07f4-65dc-4a9e-bdc2-e890893e493c",
+      "titulo": "Así está el mercado laboral de tecnología: una de cada seis ofertas pide IA, solo uno de cada 60 programadores la pone en su currículum",
+      "resumen": "Los puestos de trabajo en España para desarrolladores muestran el crecimiento rápido de la inteligencia artificial y las dificultades para encontrar puestos júnior",
+      "url": "https://elpais.com/tecnologia/2026-11-19/asi-esta-el-mercado-laboral-de-tecnologia-una-de-cada-seis-ofertas-pide-ia-solo-uno-de-cada-60-programadores-la-pone-en-su-curriculum.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XM365A7D2ZC3FIAX4YOTKWKBFI.jpg?auth=7ea229e234f7cf0f523a0bf6297c0f6328f2d7b2a85eab6241dba231b37703e4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-19T06:00:00.000Z",
+      "fechaAgregada": "2026-11-22T13:29:22.482Z",
+      "puntosClave": [
+        "Los puestos de trabajo en España para desarrolladores muestran el crecimiento rápido de la inteligencia artificial y las dificultades…"
+      ],
+      "porQueImporta": "«Así está el mercado laboral de tecnología: una de cada seis ofertas pide IA…» según El País Tecnología: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "c2091bf2-feb0-4d74-810a-aa631a5c09e7",
+      "titulo": "Inteligencia artificial y manipulación: nuevas claves para interpretar lo que vemos en internet",
+      "resumen": "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes. Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-10-21/inteligencia-artificial-y-manipulacion-nuevas-claves-para-interpretar-lo-que-vemos-en-internet.html",
+      "imagen": "https://picsum.photos/seed/295/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-21T15:53:30.000Z",
+      "fechaAgregada": "2026-11-22T13:29:22.483Z",
+      "puntosClave": [
+        "La democratización de la IA generativa ha reducido a cero la barrera técnica para crear campañas de ciberfraude altamente hiperrealistas.",
+        "El sesgo de inmediatez en el consumo de contenidos se convierte en el vector de ataque más vulnerable frente a la manipulación digital.",
+        "La respuesta inmediata no es solo tecnológica, sino procedimental: implantar un protocolo de verificación previa antes de interactuar con contenido sospechoso."
+      ],
+      "porQueImporta": "Para la industria tecnológica, esta ola de fraudes hiperrealistas acelera la necesidad de implementar estándares de procedencia de contenido (como C2PA) e integrar herramientas de detección de sintéticos directamente en las plataformas y navegadores.",
+      "tags": [
+        "Ciberseguridad",
+        "IA Generativa",
+        "Deepfakes",
+        "Ética IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
