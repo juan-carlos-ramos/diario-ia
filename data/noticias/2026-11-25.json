@@ -1,0 +1,354 @@
+{
+  "fecha": "2026-11-25",
+  "generado": "2026-11-25T15:56:18.134Z",
+  "total": 14,
+  "enriquecidasConIA": 13,
+  "noticias": [
+    {
+      "id": "a415aa7b-a9fd-4b5f-883e-05b88dbbe912",
+      "titulo": "Cuenta atrás para el gran cambio de ChatGPT: OpenAI ya avisa de que algunos recibirán antes sus nuevos límites",
+      "resumen": "A principios de noviembre ya lo avisamos: como usuario de ChatGPT que paga por uno de sus planes, deberías estar muy atento al cambio que llega en diciembre.",
+      "url": "https://www.adslzone.net/noticias/ia/cuenta-atras-gran-cambio-chatgpt-openai-limites/",
+      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/11/chatgpt-cambio-limites-openai.jpg",
+      "fuente": "ADSLZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-25T13:32:16.000Z",
+      "fechaAgregada": "2026-11-25T15:50:46.104Z",
+      "puntosClave": [
+        "OpenAI prepara un ajuste significativo en las cuotas y restricciones de uso para sus suscriptores de pago a partir de diciembre.",
+        "El despliegue de las nuevas métricas no será masivo e inmediato; diversos usuarios empezarán a ver los cambios de forma anticipada.",
+        "La medida busca reequilibrar la carga de infraestructura de la compañía ante la alta demanda y la integración de nuevos modelos."
+      ],
+      "porQueImporta": "El recalibrado de límites afecta directamente la productividad de profesionales y empresas que integran ChatGPT en sus operaciones diarias. Este movimiento obliga a los equipos a optimizar sus cuotas de uso y podría acelerar la migración hacia el consumo por API para garantizar la continuidad de sus flujos de trabajo.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "LLMs",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "f591ef7b-13c2-409d-8eac-8deec316ac4d",
+      "titulo": "Europa prepara 50.000 millones de euros para sus empresas de tecnología. La pregunta es si es suficiente para competir con EEUU y China",
+      "resumen": "La Unión Europea está decidida a evitar que las empresas tecnológicas europeas terminen desarrollándose bajo el control de capital procedente de EEUU o China.",
+      "url": "https://www.xataka.com/empresas-y-economia/europa-prepara-50-000-millones-euros-para-sus-empresas-tecnologia-pregunta-suficiente-para-competir-eeuu-china",
+      "imagen": "https://i.blogs.es/7b55a4/asml_berlin_cleanroom_007/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-25T13:17:00.000Z",
+      "fechaAgregada": "2026-11-25T15:50:44.583Z",
+      "puntosClave": [
+        "La UE movilizará 50.000 millones de euros para reforzar la soberanía tecnológica y retener el talento local.",
+        "El plan busca evitar que las empresas tecnológicas emergentes dependan del capital de riesgo de EEUU y China.",
+        "Existe incertidumbre en la industria sobre si esta cifra podrá acortar la brecha financiera con Silicon Valley y Pekín."
+      ],
+      "porQueImporta": "Esta inyección de capital es crucial para evitar el éxodo de startups europeas hacia mercados extranjeros, permitiendo a los desarrolladores y fundadores locales escalar soluciones avanzadas de IA bajo el marco regulatorio europeo y sin perder el control de su propiedad intelectual.",
+      "tags": [
+        "Unión Europea",
+        "Inversión IA",
+        "Soberanía Tecnológica",
+        "Startups"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "43292b38-be47-4565-a1bd-29177f93cbe8",
+      "titulo": "Italia impone una multa a Meta de 805 millones de euros por acceder sin consentimiento específico a las fotografías de 20 millones de usuarios",
+      "resumen": "La Autoridad italiana de Protección de Datos, conocida como el Garante, ha multado a Meta con 805 millones de euros. Según el comunicado del propio Garante, la aplicación de Facebook para Android accedía a las fotos, los vídeos y los metadatos guardados en los teléfonos de unos 20 millones…",
+      "url": "https://www.genbeta.com/redes-sociales-y-comunidades/italia-impone-multa-a-meta-805-millones-euros-acceder-consentimiento-especifico-a-fotografias-20-millones-usuarios",
+      "imagen": "https://i.blogs.es/5c1b5b/retrato-de-estudio-de-mark-zuckerberg/1024_2000.png",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-25T13:00:25.000Z",
+      "fechaAgregada": "2026-11-25T15:50:45.205Z",
+      "puntosClave": [
+        "La Autoridad italiana de Protección de Datos, conocida como el Garante, ha multado a Meta con 805 millones de euros.",
+        "Según el comunicado del propio Garante, la aplicación de Facebook para Android accedía a las fotos, los vídeos y los metadatos guardados…"
+      ],
+      "porQueImporta": "«Italia impone una multa a Meta de 805 millones de euros por acceder…» según Genbeta: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Meta IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "efd47fba-441b-44d3-ba68-6fac481a37e6",
+      "titulo": "NVIDIA podría retrasar las futuras RTX 60 hasta 2028 y recortar la producción de las actuales RTX 50",
+      "resumen": "Si estabas esperando que en las campañas de Black Friday o Navidad las GeForce RTX 50 bajaran de precio para renovar la gráfica de tu PC, nos tememos que vas a tener que seguir esperando.",
+      "url": "https://hardzone.es/noticias/tarjetas-graficas/nvidia-recorte-suministro-rtx-50-demanda-ia/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/RTX-5090-FE.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-25T12:31:04.000Z",
+      "fechaAgregada": "2026-11-25T15:50:47.007Z",
+      "puntosClave": [
+        "NVIDIA prevé extender el ciclo de vida de su arquitectura actual, aplazando el lanzamiento de la generación RTX 60 hasta 2028.",
+        "Se planea una reducción en el volumen de producción de las GPU RTX 50 para mantener la presión en la oferta y controlar el stock.",
+        "La menor oferta evitará que se produzcan caídas de precio significativas en las tarjetas gráficas durante las campañas de Black Friday y Navidad."
+      ],
+      "porQueImporta": "El desvío de capacidad fabril hacia aceleradores de IA de centro de datos restringe la oferta de hardware de consumo, encareciendo y dificultando el acceso a GPUs potentes para desarrolladores que necesitan ejecutar y probar modelos de Inteligencia Artificial en local.",
+      "tags": [
+        "NVIDIA",
+        "Hardware",
+        "Semiconductores",
+        "Mercado de IA"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "005f8307-e8ea-42af-85eb-99ed655f940e",
+      "titulo": "Estas cámaras IP te permiten controlar tu vivienda desde cualquier lugar y están en oferta",
+      "resumen": "Las cámaras de seguridad para el hogar bajan de precio en una selección que incluye modelos de TP-Link Tapo, EZVIZ y Nivian. Los cinco modelos permiten vigilar la vivienda desde el móvil, incorporan detección de movimiento con inteligencia artificial y mantienen precios que van de los 24,99…",
+      "url": "https://www.redeszone.net/noticias/ofertas/camaras-ip-oferta-tapo-ezviz/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/camara-vigilancia-circular-color-blanco-situada-mueble.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-25T12:07:52.000Z",
+      "fechaAgregada": "2026-11-25T15:50:46.746Z",
+      "puntosClave": [
+        "Principales marcas de videovigilancia como TP-Link, EZVIZ y Nivian rebajan sus modelos de cámaras IP para el entorno doméstico.",
+        "Los dispositivos integran algoritmos de visión artificial para clasificar movimientos y enviar alertas precisas directamente al smartphone.",
+        "El punto de entrada económico se sitúa desde los 24,99 euros, masificando el acceso al ecosistema de la domótica inteligente."
+      ],
+      "porQueImporta": "La proliferación de hardware asequible con IA integrada acelera la adopción de la computación en el borde ('Edge AI'). Esto impulsa a los desarrolladores a optimizar modelos de detección visual extremadamente ligeros que procesan datos de forma local, reduciendo la latencia y la dependencia de la nube.",
+      "tags": [
+        "Edge AI",
+        "Hardware",
+        "IoT",
+        "Domótica"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "3b87cd62-aa1b-48f1-a715-2f7fea43e84f",
+      "titulo": "Hemos pasado 57 años buscando el 'santo grial' de las multiplicaciones de matices. Ahora una IA dice que la descubrimos en octubre y no lo sabíamos",
+      "resumen": "En 1969, Volker Strassen se dio cuenta de que dos matrices de 2 × 2 se podían multiplicar con siete productos en lugar de ocho. Parece poca cosa, pero algo hizo clic en su cabeza cuando lo descubrió: igual el método que se llevaba décadas enseñando no era tan bueno como se creía. Y no, no lo era.",
+      "url": "https://www.xataka.com/investigacion/hemos-pasado-57-anos-buscando-santo-grial-multiplicaciones-matices-ahora-ia-dice-que-descubrimos-octubre-no-sabiamos",
+      "imagen": "https://i.blogs.es/c2ced7/gemini_generated_image_hyy7mkhyy7mkhyy7/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-25T12:07:05.000Z",
+      "fechaAgregada": "2026-11-25T15:50:44.584Z",
+      "puntosClave": [
+        "Volker Strassen revolucionó la computación en 1969 al demostrar que el método tradicional para multiplicar matrices 2x2 podía reducirse de ocho a siete operaciones.",
+        "Tras 57 años buscando el algoritmo perfecto, la inteligencia artificial reveló que la fórmula óptima ya había sido descubierta recientemente sin que la comunidad científica lo notara.",
+        "El hallazgo rompe un paradigma matemático histórico y demuestra la capacidad de la IA para auditar y optimizar la propia investigación humana."
+      ],
+      "porQueImporta": "La multiplicación de matrices es el corazón computacional de la IA y los gráficos por ordenador. Reducir sus operaciones teóricas permite acelerar el entrenamiento de LLMs y la ejecución de software sin necesidad de fabricar chips más potentes, ahorrando billones de cálculos a nivel global.",
+      "tags": [
+        "Inteligencia Artificial",
+        "Algoritmos",
+        "Matemáticas",
+        "Hardware"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "b34d2a66-22fd-400e-9372-e9baad3a9988",
+      "titulo": "Claude permite convertir sus artefactos en aplicaciones de Mac y Windows",
+      "resumen": "Anthropic ha activado en beta la función «Install as app» en Claude para Mac y Windows. Permite convertir un artefacto, la pequeña herramienta o página que Claude genera durante una conversación, en una aplicación de escritorio con su propio icono y su propia ventana.",
+      "url": "https://www.muycomputer.com/2026/11/25/claude-install-as-app-artefactos-aplicaciones-mac-windows/",
+      "imagen": "https://picsum.photos/seed/24/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-25T11:00:00.000Z",
+      "fechaAgregada": "2026-11-25T15:50:47.901Z",
+      "puntosClave": [
+        "Anthropic despliega en fase beta la función «Install as app» en sus clientes de escritorio para macOS y Windows.",
+        "La herramienta transforma los artefactos (código, interfaces o pequeñas webs) en programas independientes.",
+        "Cada micro-aplicación se ejecuta de forma aislada, ofreciendo ventana propia e icono de acceso directo en el sistema."
+      ],
+      "porQueImporta": "Este movimiento acelera la democratización del software a medida, permitiendo a usuarios y creadores pasar del prototipado conversacional a herramientas de escritorio funcionales en segundos, sin depender del flujo continuo del chat.",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Desarrollo de Software",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "af51ac77-b048-4a9a-888d-f47f763e2339",
+      "titulo": "OpenAI eliminará la versión más popular de ChatGPT y los usuarios ya protestan por su reemplazo",
+      "resumen": "Todo lo bueno termina tarde o temprano y esto está a punto de ocurrir con GPT-5.6. OpenAI confirmó que discontinuará el uso de este modelo en ChatGPT, por lo que los usuarios ya no podrán usarlo a partir del próximo mes.",
+      "url": "https://hipertextual.com/inteligencia-artificial/open-ai-retira-gpt-5-6-diciembre-gpt-6-2-sol/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/chatgpt.jpg?fit=1024%2C675&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-24T23:26:39.000Z",
+      "fechaAgregada": "2026-11-25T15:50:44.712Z",
+      "puntosClave": [
+        "OpenAI programa el apagón oficial del modelo GPT-5.6 dentro de la plataforma ChatGPT para el próximo mes.",
+        "La decisión ha desatado una ola de críticas y descontento entre la comunidad de usuarios habituales.",
+        "La transición forzada hacia el nuevo modelo de reemplazo genera dudas sobre su rendimiento en tareas cotidianas."
+      ],
+      "porQueImporta": "El retiro de GPT-5.6 demuestra cómo las decisiones unilaterales de deprecación en los modelos de lenguaje afectan directamente los flujos de trabajo de empresas y desarrolladores, quienes deben adaptar rápidamente sus integraciones para evitar interrupciones operativas.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "LLMs",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "dd085c4a-2d54-4d4c-b1cd-d1cab833cc23",
+      "titulo": "Tidal dice basta: eliminará millones de canciones hechas con IA",
+      "resumen": "Crear canciones con inteligencia artificial es cada vez más sencillo, pero su producción masiva está planteando un problema a las plataformas musicales.",
+      "url": "https://www.muycomputer.com/2026/11/24/tidal-dice-basta-eliminara-millones-de-canciones-hechas-con-ia/",
+      "imagen": "https://picsum.photos/seed/127/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-24T18:58:09.000Z",
+      "fechaAgregada": "2026-11-25T15:50:47.901Z",
+      "puntosClave": [
+        "Tidal inicia una purga masiva en su catálogo para erradicar millones de pistas generadas mediante herramientas de inteligencia artificial.",
+        "La automatización extrema en la creación de audio ha provocado una saturación de contenido sintético que compromete la infraestructura de la plataforma.",
+        "La decisión busca proteger los ingresos de los creadores humanos frente al 'spam' musical que explota el sistema de royalties."
+      ],
+      "porQueImporta": "Establece un precedente crucial en la moderación de contenido sintético masivo, obligando a las empresas del sector a desplegar detectores de IA más rigurosos y redefinir los límites éticos y económicos entre la asistencia algorítmica y la sustitución del artista.",
+      "tags": [
+        "Música e IA",
+        "Streaming",
+        "Copyright",
+        "Contenido Sintético"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "5636fe37-7b19-44be-84da-24aa96dcf406",
+      "titulo": "A medida que Xbox cumple 25 años, la CEO Asha Sharma dice: 'Pronto una sola persona podrá ejercer capacidades que antes requerían naciones enteras'.",
+      "resumen": "Cuando Microsoft lanzó Microsoft Adventure en 1979, la empresa apenas tenía 13 empleados y uno de ellos, Gordon Letwin, se encargó de adaptar aquel juego de aventuras de texto.",
+      "url": "https://www.genbeta.com/actualidad/a-medida-que-xbox-cumple-25-anos-ceo-asha-sharma-dice-pronto-sola-persona-podra-ejercer-capacidades-que-antes-requerian-naciones-enteras",
+      "imagen": "https://i.blogs.es/42c5e4/asha-sharma/1024_2000.jpeg",
+      "fuente": "Genbeta",
+      "categoria": "productividad",
+      "fechaPublicacion": "2026-11-24T17:01:03.000Z",
+      "fechaAgregada": "2026-11-25T15:50:45.205Z",
+      "puntosClave": [
+        "Asha Sharma, directiva de Xbox, reflexiona sobre la evolución del desarrollo de videojuegos desde los inicios de Microsoft hasta el 25º aniversario de la consola.",
+        "La IA promete democratizar la creación de software masivo, reduciendo la brecha entre desarrolladores independientes y grandes estudios.",
+        "Se proyecta un cambio de paradigma donde creadores individuales tendrán una capacidad de producción equivalente a la de organizaciones completas."
+      ],
+      "porQueImporta": "Esta visión anticipa una disrupción radical en el desarrollo de software y videojuegos, donde la IA generativa actuará como multiplicador de fuerza, permitiendo a pequeños equipos competir directamente contra los presupuestos y personal de producciones Triple-A.",
+      "tags": [
+        "Xbox",
+        "IA Generativa",
+        "Desarrollo de Software",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "f4f4f6cd-c5d1-4bf6-9ac4-7f6de20752d2",
+      "titulo": "La Comisión Europea bloquea la Academia de la UE tras un ciberataque que expone datos de usuarios",
+      "resumen": "La Comisión Europea ha cerrado el acceso público a la Academia de la UE después de confirmar que un ciberataque más amplio ha expuesto datos personales de sus usuarios.",
+      "url": "https://www.redeszone.net/noticias/seguridad/comision-europea-academia-ue-ciberataque/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/comision-europea.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-24T09:58:46.000Z",
+      "fechaAgregada": "2026-11-25T15:50:46.747Z",
+      "puntosClave": [
+        "La Comisión Europea ha suspendido de forma preventiva el acceso público a su plataforma formativa 'Academia de la UE'.",
+        "El cierre responde a un incidente de seguridad de mayor escala que ha filtrado información personal de los usuarios.",
+        "El organismo comunitario mantiene fuera de servicio la infraestructura mientras evalúa la magnitud total de la brecha."
+      ],
+      "porQueImporta": "El compromiso de datos en una plataforma oficial de la UE evidencia las vulnerabilidades en la infraestructura digital pública, lo que forzará un endurecimiento de los requisitos de cumplimiento, auditorías de seguridad y adopción de tecnologías de protección más rigurosas para proveedores y desarrolladores del sector público.",
+      "tags": [
+        "Ciberseguridad",
+        "Comisión Europea",
+        "Privacidad",
+        "EdTech"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "33e49d95-8dec-4ddf-8083-d0202ec31235",
+      "titulo": "Llamadas para comprar una bici, mangos o un tratamiento para la vagina: qué pasa si la IA distribuye tu número de teléfono",
+      "resumen": "Un hombre cuenta cómo recibe llamadas con quejas y dudas de clientes de clínicas estéticas, tiendas de persianas o farmacias online después de que Gemini y ChatGPT ofrecieran su móvil por error",
+      "url": "https://elpais.com/tecnologia/2026-11-20/llamadas-para-comprar-una-bici-mangos-o-un-tratamiento-para-la-vagina-que-pasa-si-la-ia-distribuye-tu-numero-de-telefono.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ANI4MBLTO5AG7AKHBGSFSSIRSU.jpg?auth=30338ac70ce95e3ee755c14f091c7a240aed8ec3f635fdf4835966958aa0b1e0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-20T04:30:01.000Z",
+      "fechaAgregada": "2026-11-25T15:50:45.310Z",
+      "puntosClave": [
+        "Un usuario privado sufre un acoso telefónico continuo tras ser víctima de la invención de datos (alucinaciones) por parte de Gemini y ChatGPT.",
+        "Los modelos de IA asociados erróneamente su número personal a múltiples negocios diversos, desde clínicas estéticas hasta tiendas agrícolas.",
+        "El incidente expone la indefensión de los ciudadanos ante la propagación de datos falsos e imprecisos en la infraestructura actual de los LLMs."
+      ],
+      "porQueImporta": "Este caso evidencia los severos riesgos de responsabilidad legal y reputacional para los desarrolladores de LLMs, demostrando que las 'alucinaciones' no solo generan errores de software, sino violaciones reales de privacidad y sesgos de datos que exigen auditar urgentemente las fuentes de entrenamiento.",
+      "tags": [
+        "LLMs",
+        "Privacidad",
+        "ChatGPT",
+        "Gemini"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "e41fe84d-746d-4f33-9c87-24a9e80ec0a4",
+      "titulo": "Así está el mercado laboral de tecnología: una de cada seis ofertas pide IA, solo uno de cada 60 programadores la pone en su currículum",
+      "resumen": "Los puestos de trabajo en España para desarrolladores muestran el crecimiento rápido de la inteligencia artificial y las dificultades para encontrar puestos júnior",
+      "url": "https://elpais.com/tecnologia/2026-11-19/asi-esta-el-mercado-laboral-de-tecnologia-una-de-cada-seis-ofertas-pide-ia-solo-uno-de-cada-60-programadores-la-pone-en-su-curriculum.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XM365A7D2ZC3FIAX4YOTKWKBFI.jpg?auth=7ea229e234f7cf0f523a0bf6297c0f6328f2d7b2a85eab6241dba231b37703e4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-19T06:00:00.000Z",
+      "fechaAgregada": "2026-11-25T15:50:45.310Z",
+      "puntosClave": [
+        "Existe un grave desacople en España: el 16.6% de las ofertas exige habilidades en IA, pero solo el 1.6% de los desarrolladores las refleja en su perfil.",
+        "El auge de la inteligencia artificial está reconfigurando las exigencias del mercado, aumentando la brecha de empleabilidad.",
+        "Los perfiles júnior son los más perjudicados, al enfrentar un entorno de contratación cada vez más restrictivo y especializado."
+      ],
+      "porQueImporta": "Este desajuste evidencia que saber programar ya no es suficiente: la IA ha pasado de ser una ventaja competitiva a un requisito estructural. Para los desarrolladores, no actualizar su perfil implica la invisibilidad laboral, mientras que para la industria española representa un cuello de botella crítico que frena la innovación.",
+      "tags": [
+        "Mercado Laboral",
+        "Empleo IA",
+        "Desarrollo de Software",
+        "España"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "ad9ba850-f2a9-4881-b44d-68bc041a9491",
+      "titulo": "Inteligencia artificial y manipulación: nuevas claves para interpretar lo que vemos en internet",
+      "resumen": "El avance de la tecnología permite a los estafadores generar fraudes digitales con mayor rapidez y, sobre todo, más convincentes. Frente a esta nueva generación de engaños hay hábitos sencillos que pueden ayudarnos a no caer: parar, pensar y verificar",
+      "url": "https://elpais.com/tecnologia/branded/seguridad-dia-a-dia/2026-10-21/inteligencia-artificial-y-manipulacion-nuevas-claves-para-interpretar-lo-que-vemos-en-internet.html",
+      "imagen": "https://picsum.photos/seed/139/800/450",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-10-21T15:53:30.000Z",
+      "fechaAgregada": "2026-11-25T15:50:45.310Z",
+      "puntosClave": [
+        "La inteligencia artificial ha reducido drásticamente el costo y el tiempo necesarios para crear ciberestafas hiperrealistas a gran escala.",
+        "Los vectores de ataque actuales explotan la suplantación de identidad avanzada, haciendo obsoletas las señales tradicionales de detección de fraude.",
+        "La primera línea de defensa se desplaza hacia la alfabetización digital y la pausa táctica antes de interactuar con contenido sospechoso."
+      ],
+      "porQueImporta": "Para los desarrolladores de ciberseguridad y empresas de software, este escenario exige integrar autenticación sintética y marcas de agua criptográficas en sus plataformas, pasando de la simple filtración de spam al análisis contextual en tiempo real.",
+      "tags": [
+        "Ciberseguridad",
+        "Deepfakes",
+        "IA Generativa",
+        "Fraude Digital"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
