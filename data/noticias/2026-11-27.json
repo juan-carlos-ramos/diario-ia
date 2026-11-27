@@ -1,0 +1,360 @@
+{
+  "fecha": "2026-11-27",
+  "generado": "2026-11-27T15:38:05.800Z",
+  "total": 14,
+  "enriquecidasConIA": 14,
+  "noticias": [
+    {
+      "id": "1bd9252b-ae84-4f6a-9154-819d57d7da61",
+      "titulo": "No es país para centros de datos",
+      "resumen": "En un raro momento de pausa propositiva, Santiago Abascal tomó las riendas del debate entre los cuatro principales candidatos a la Presidencia del Gobierno y mencionó dos palabras: \"inteligencia artificial\".",
+      "url": "https://www.xataka.com/opinion/no-pais-para-centros-datos",
+      "imagen": "https://i.blogs.es/cf3933/xataka-opinion-no-es-pais-para-centros-de-datos/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T14:02:21.000Z",
+      "fechaAgregada": "2026-11-27T15:23:08.732Z",
+      "puntosClave": [
+        "La inteligencia artificial y los centros de datos irrumpen por primera vez en la agenda del debate político al más alto nivel en España.",
+        "Se pone de manifiesto la urgencia de discutir la infraestructura tecnológica estratégica necesaria para sostener la economía digital del país.",
+        "El sector observa con lupa cómo el discurso político empieza a integrar la soberanía tecnológica y el despliegue de cómputo."
+      ],
+      "porQueImporta": "Que la infraestructura de IA entre en la arena política anticipa posibles regulaciones, incentivos o trabas burocráticas que afectarán directamente la llegada de hyperscalers a España, determinando la latencia, costes de cómputo y soberanía de datos para la industria local.",
+      "tags": [
+        "Infraestructura",
+        "Política Tecnológica",
+        "Centros de Datos",
+        "España"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "84463ab9-c868-44e9-8f66-38210de513db",
+      "titulo": "Rebelión científica tras el anuncio de un colaborador de OpenAI que asegura haber resuelto el gran problema de la física",
+      "resumen": "Ven Chandrasekaran, de Stanford, propone una descripción de la gravedad cuántica, difundida y aplaudida por Sam Altman en redes. La élite del campo la cuestiona y la tacha de operación de márketing",
+      "url": "https://elpais.com/ciencia/2026-11-27/rebelion-cientifica-tras-el-anuncio-de-un-colaborador-de-openai-que-asegura-haber-resuelto-el-gran-problema-de-la-fisica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YXJZEQE34NOFNCUR5MNHWRCHZQ.jpg?auth=e940f0e0ef664419ee56d2ddbfa1c80a825c13b78e2fc14b72fea9df740b3e45",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T13:26:32.000Z",
+      "fechaAgregada": "2026-11-27T15:23:09.626Z",
+      "puntosClave": [
+        "Un investigador de Stanford vinculado a OpenAI afirma haber hallado la teoría unificada de la gravedad cuántica.",
+        "Sam Altman amplificó el supuesto hallazgo en redes sociales, desatando la atención pública e inversora.",
+        "Físicos teóricos de primer nivel rechazan el estudio y lo atribuyen a una campaña de imagen de la industria tecnológica."
+      ],
+      "porQueImporta": "Este episodio evidencia el riesgo de usar el prestigio y la tracción mediática de la IA para validar avances científicos sin revisión previa por pares, tensión que cuestiona la credibilidad del sector tech al adentrarse en la ciencia fundamental.",
+      "tags": [
+        "OpenAI",
+        "Ciencia",
+        "SamAltman",
+        "ReputaciónTech"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "6d3344ba-b2ab-4872-aa9c-a8c94f83f490",
+      "titulo": "GPTZero y Pangram se pelean por ser el mejor detector de textos hechos con IA. Los he probado y basta cambiar unas frases para engañarlos",
+      "resumen": "Mejores modelos cada día, herramientas de programación tan buenas que te crean un proyecto de cero... La IA se ha vuelto casi imparable en cuestión de capacidades. Pero ¿quién se encarga de comprobar qué es lo que hace esa IA?",
+      "url": "https://www.xataka.com/robotica-e-ia/gptzero-pangram-se-pelean-ser-mejor-detector-textos-hechos-ia-he-probado-basta-cambiar-unas-frases-para-enganarlos",
+      "imagen": "https://i.blogs.es/6176a8/gptzero-portada/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T12:00:22.000Z",
+      "fechaAgregada": "2026-11-27T15:23:08.733Z",
+      "puntosClave": [
+        "GPTZero y Pangram compiten por el liderazgo en la detección de texto sintético, pero sufren de graves vulnerabilidades estructurales.",
+        "Pruebas reales demuestran que basta con alterar ligeramente la estructura de algunas oraciones para burlar sus algoritmos por completo.",
+        "La fragilidad de estos sistemas pone en evidencia la falta de herramientas fiables para auditar el contenido generado por IA."
+      ],
+      "porQueImporta": "La ineficacia de los detectores demuestra que la capacidad de generación de la IA avanza más rápido que sus auditorías. Esto deja desprotegidas a instituciones educativas y sectores editoriales, impidiendo el uso de filtros automáticos confiables para certificar la autoría humana.",
+      "tags": [
+        "Detectores de IA",
+        "LLMs",
+        "Generación de Texto",
+        "GPTZero"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "b3f6cc3a-7a5d-4c60-aced-9abc0ba51d6b",
+      "titulo": "WhatsApp es una de las apps que más usamos en el extranjero. Ahora quiere sacar tajada de ello vendiendo su propia eSIM",
+      "resumen": "La ambición de WhatsApp no tiene límites. Ya sabemos cuál será su nuevo negocio: comercializar eSIM de datos para que puedas comprarlas e instalarlas desde la propia app. Y será a corto plazo porque la compañía ya está en conversaciones con algunos operadores para ponerlo en marcha.",
+      "url": "https://www.xataka.com/aplicaciones/whatsapp-apps-que-usamos-extranjero-ahora-quiere-sacar-tajada-ello-vendiendo-su-propia-esim",
+      "imagen": "https://i.blogs.es/345b6f/mapa-mundi-whatsapp/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T11:33:15.000Z",
+      "fechaAgregada": "2026-11-27T15:23:08.733Z",
+      "puntosClave": [
+        "Meta planea convertir WhatsApp en un distribuidor global de conectividad mediante la venta e instalación directa de eSIMs dentro de la aplicación.",
+        "La compañía ya mantiene conversaciones avanzadas con operadores de telecomunicaciones para desplegar este servicio en el corto plazo.",
+        "El movimiento busca monetizar el uso intensivo de la app en roaming, consolidando su transición hacia una 'super-app' multifuncional."
+      ],
+      "porQueImporta": "Este paso acelera la evolución de WhatsApp hacia una 'super-app' al estilo asiático, amenazando la intermediación de las operadoras tradicionales y sentando las bases para integrar pagos, identidad digital y servicios contextuales impulsados por IA en un único ecosistema global.",
+      "tags": [
+        "Meta",
+        "WhatsApp",
+        "eSIM",
+        "Telecomunicaciones"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "2e11cff9-1ed4-4d25-b8d8-98fe346afa9c",
+      "titulo": "Huawei acelera su plan para diseñar chips sin depender de Occidente mientras Nvidia limita envíos en Asia",
+      "resumen": "Huawei ha anunciado avances en una cadena de diseño de chips construida alrededor de su Ley de escalado Tau, una de sus apuestas por reducir la dependencia de las herramientas estadounidenses y europeas en un momento en el que las restricciones podrían endurecerse.",
+      "url": "https://www.xataka.com/empresas-y-economia/huawei-acelera-su-plan-para-disenar-chips-depender-occidente-nvidia-limita-envios-asia",
+      "imagen": "https://i.blogs.es/4edf78/huawei-logo/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T11:11:14.000Z",
+      "fechaAgregada": "2026-11-27T15:23:08.734Z",
+      "puntosClave": [
+        "Huawei impulsa la Ley de escalado Tau para crear una metodología propia de diseño de semiconductores.",
+        "La estrategia busca desacoplarse por completo del software y herramientas de origen estadounidense y europeo.",
+        "El movimiento coincide con el incremento de los bloqueos a los envíos de chips de Nvidia en el mercado asiático."
+      ],
+      "porQueImporta": "Este intento de autosuficiencia china podría fragmentar definitivamente el ecosistema global de hardware de IA, obligando a las empresas a elegir entre arquitecturas occidentales o chinas y alterando la cadena de suministro tecnológica global.",
+      "tags": [
+        "Hardware",
+        "Semiconductores",
+        "Geopolítica",
+        "Huawei"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "60ebc889-872a-4af5-9f63-1e38ab387def",
+      "titulo": "El Black Friday de Carrefour nos permite comprar esta enorme tele MiniLED de 85 pulgadas a precio de outlet",
+      "resumen": "Si hay un tipo dispositivo que suele estar entre los más vendidos en el Black Friday (puedes seguir nuestro directo para ver todas las ofertas del momento), esos son sin dudas los televisores.",
+      "url": "https://www.xataka.com/seleccion/black-friday-carrefour-nos-permite-comprar-esta-enorme-tele-miniled-85-pulgadas-a-precio-outlet",
+      "imagen": "https://i.blogs.es/129a3a/teles-carrefour-28-/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T11:00:30.000Z",
+      "fechaAgregada": "2026-11-27T15:23:08.734Z",
+      "puntosClave": [
+        "Carrefour despliega agresivas reducciones de precio en televisores de gran formato durante la campaña del Black Friday.",
+        "El modelo ofertado destaca por su panel con tecnología MiniLED y una diagonal de 85 pulgadas a coste reducido.",
+        "La categoría de imagen y sonido vuelve a posicionarse como el motor principal de ventas del comercio electrónico de consumo."
+      ],
+      "porQueImporta": "El desplome de precios en paneles MiniLED de gran tamaño democratiza el hardware de alta resolución, facilitando a desarrolladores de visualización de datos e industrias creativas el acceso a monitores masivos de altísima fidelidad sin costes corporativos.",
+      "tags": [
+        "Hardware",
+        "Tecnología",
+        "Consumo",
+        "Pantallas"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "88887155-cf6c-4072-b916-982e93a79c6c",
+      "titulo": "NVIDIA prueba una nueva forma de ampliar la capacidad de sus GPU utilizando unidades SSD NVMe",
+      "resumen": "La memoria de las tarjetas gráficas se ha convertido en uno de los grandes cuellos de botella para el desarrollo de la Inteligencia Artificial. Los modelos son cada vez más grandes, necesitan manejar conjuntos de datos gigantescos y dependen de memorias HBM cuyo coste y capacidad disponible empiezan…",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/nvidia-kioxia-144-ssd-gpu-inteligencia-artificial/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/centro-datos-ssd-kioxia.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T10:25:03.000Z",
+      "fechaAgregada": "2026-11-27T15:23:12.631Z",
+      "puntosClave": [
+        "NVIDIA experimenta con el uso de almacenamiento SSD NVMe como extensión directa de la memoria VRAM en sus tarjetas gráficas.",
+        "La iniciativa busca sortear la escasez crítica y los elevados costes de producción de las memorias ultra rápidas HBM.",
+        "Esta técnica permitiría procesar modelos de lenguaje masivos reduciendo la dependencia del hardware de memoria tradicional."
+      ],
+      "porQueImporta": "Superar el límite físico de la VRAM mediante SSDs abarataría drásticamente la infraestructura necesaria para la IA. Esto permitirá a empresas y desarrolladores ejecutar modelos de gran tamaño en hardware más accesible, aliviando la crisis global de suministro de memoria HBM.",
+      "tags": [
+        "NVIDIA",
+        "Hardware",
+        "VRAM",
+        "Semiconductores"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "954bbc13-fff0-4ae4-9dc7-849dfd47a0ee",
+      "titulo": "Van a intentar robar tu cuenta de Google con estas entrevistas falsas",
+      "resumen": "Una campaña de phishing activa desde el 13 de octubre suplanta a grandes marcas para robar credenciales corporativas de Google y Okta a través de falsas invitaciones a entrevistas pagadas.",
+      "url": "https://www.redeszone.net/noticias/seguridad/campana-goodguys-entrevistas-falsas-google/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/imagen-representa-malware.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T09:06:32.000Z",
+      "fechaAgregada": "2026-11-27T15:23:11.702Z",
+      "puntosClave": [
+        "Ciberdelincuentes suplantan a grandes empresas tecnológicas ofreciendo falsas entrevistas de trabajo remuneradas como gancho.",
+        "La campaña busca comprometer la seguridad corporativa mediante la sustracción directa de credenciales de acceso en Google y Okta.",
+        "El ataque, activo desde mediados de octubre, aprovecha la ingeniería social orientada al perfil profesional para eludir barreras tradicionales."
+      ],
+      "porQueImporta": "El uso de la búsqueda de empleo como vector de ataque amenaza directamente a profesionales y desarrolladores, poniendo en riesgo la infraestructura crítica de las empresas al vulnerar gestores de identidad clave como Okta y Google Workspace.",
+      "tags": [
+        "Ciberseguridad",
+        "Phishing",
+        "SeguridadCorporativa",
+        "IngenieríaSocial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "e119fa3a-2c7e-4e08-bf15-f40fa4d96660",
+      "titulo": "Después de meses de subidas, la memoria RAM DDR4 empieza a dar señales de estabilización de cara a 2027",
+      "resumen": "Después de meses de subidas que han disparado el coste de la memoria RAM, empiezan a aparecer las primeras señales de que el mercado podría estar perdiendo fuerza: los precios de la memoria DDR4 han comenzado a retroceder en el mercado al contado (spot) y las previsiones para 2027 son más…",
+      "url": "https://hardzone.es/noticias/componentes/precio-memoria-ram-ddr4-baja-previsiones-2027/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/memoria-ddr4.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T06:58:42.000Z",
+      "fechaAgregada": "2026-11-27T15:23:12.631Z",
+      "puntosClave": [
+        "Los precios de la memoria DDR4 en el mercado al contado (spot) inician una tendencia a la baja tras meses de encarecimiento continuo.",
+        "La desaceleración del mercado indica un agotamiento en la racha alcista de los costes de producción y distribución de memoria.",
+        "Las proyecciones apuntan a un escenario de precios estabilizados y más accesibles con la mirada puesta en 2027."
+      ],
+      "porQueImporta": "El alivio en los costes de la DDR4 permite a startups y centros de datos optimizar presupuestos al renovar o escalar servidores locales e infraestructura heredada, facilitando el despliegue de cargas de trabajo e IA a menor coste.",
+      "tags": [
+        "Hardware",
+        "RAM",
+        "Infraestructura",
+        "Componentes"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "1e21fbdb-acfb-446c-9eb6-9c43ceed837f",
+      "titulo": "Cómo usar la IA para buscar una foto en tu colección describiendo lo que aparece en ella",
+      "resumen": "Actualmente, mucha gente usa la IA prácticamente para todo, y es que es muy curioso preguntarle algo y que nos responda en segundos, pese a que no siempre todo lo que nos dice es completamente cierto. Lleva existiendo mucho tiempo, aunque a día de hoy esté desarrollándose más rápido.",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/como-usar-ia-buscar-foto-coleccion-describiendo/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/10/busqueda-fotos.jpeg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-26T19:55:27.000Z",
+      "fechaAgregada": "2026-11-27T15:23:12.632Z",
+      "puntosClave": [
+        "La IA evoluciona hacia la búsqueda semántica de imágenes, permitiendo localizar archivos mediante descripciones en lenguaje natural sin depender de metadatos.",
+        "El procesamiento multimodal (texto e imagen) reemplaza el etiquetado manual tradicional, simplificando la gestión de grandes volúmenes de datos multimedia.",
+        "Aunque la precisión de los modelos actuales aún presenta margen de error, la velocidad de adopción e integración en software de consumo se ha acelerado."
+      ],
+      "porQueImporta": "Esta capacidad marca la transición hacia la indexación semántica universal, obligando a los desarrolladores a integrar modelos multimodales y embeddings en aplicaciones de almacenamiento para ofrecer búsquedas intuitivas de alto valor añadido.",
+      "tags": [
+        "Visión por Computador",
+        "Búsqueda Semántica",
+        "IA Multimodal",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "7d513147-0fbe-4cac-90f2-83276b874107",
+      "titulo": "Gemini Notebook quiere que estudies mejor, y ahora también te recuerda cuándo toca",
+      "resumen": "Hay una diferencia importante entre entender algo mientras lo estamos leyendo y ser capaces de recordarlo unos días después. Podemos preparar unos apuntes excelentes, organizar toda la información y generar resúmenes muy completos, pero aprender también exige practicar, comprobar qué recordamos…",
+      "url": "https://www.muycomputer.com/2026/11/26/gemini-notebook-quiere-que-estudies-mejor-y-ahora-tambien-te-recuerda-cuando-toca/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/11/Gemini-Notebook-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-26T18:05:58.000Z",
+      "fechaAgregada": "2026-11-27T15:23:14.115Z",
+      "puntosClave": [
+        "Google amplía las capacidades de Gemini Notebook integrando un sistema activo de recordatorios y repaso intermitente.",
+        "La herramienta evoluciona de ser un simple organizador de notas a un tutor interactivo enfocado en la retención a largo plazo.",
+        "La actualización busca cerrar la brecha entre la comprensión inmediata de un texto y la consolidación del aprendizaje con el tiempo."
+      ],
+      "porQueImporta": "Esta actualización consolida la transición de las herramientas de IA desde asistentes pasivos hacia sistemas proactivos de gestión del conocimiento. Para la industria EdTech y los profesionales en aprendizaje continuo, sienta un precedente sobre cómo los LLMs integrarán metodologías de ciencia cognitiva directamente en el flujo de trabajo.",
+      "tags": [
+        "Gemini",
+        "Google",
+        "EdTech",
+        "Productividad",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "1d82ea66-7569-435f-9b1b-6f56e4eae653",
+      "titulo": "Gemini Notebook (NotebookLM) lanza una función que ayuda a recordar información sin  tanto esfuerzo",
+      "resumen": "Google ha lanzado un cúmulo de funciones para Gemini Notebook que ayudarán a las personas que estudian o necesitan memorizar las cosas. La actualización más reciente añade soporte para imágenes en las tarjetas didácticas (flashcards).",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-notebook-mejora-flashcards-imagenes-recordatorios/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/gemini-notebook.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "fuente": "Hipertextual",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-26T17:48:32.000Z",
+      "fechaAgregada": "2026-11-27T15:23:08.930Z",
+      "puntosClave": [
+        "NotebookLM integra soporte visual en su generador automático de fichas de estudio (flashcards).",
+        "La herramienta potencia la memorización activa combinando la síntesis de texto por IA con estímulos visuales.",
+        "Google busca afianzar a Gemini en el sector educativo mediante funcionalidades de productividad personalizada."
+      ],
+      "porQueImporta": "Esta actualización consolida a NotebookLM como un entorno de trabajo cognitivo donde la IA no solo sintetiza información, sino que optimiza el aprendizaje activo, ofreciendo un caso de uso práctico y directo en la retención de conocimiento para estudiantes y profesionales.",
+      "tags": [
+        "Google",
+        "NotebookLM",
+        "Gemini",
+        "Productividad",
+        "EdTech"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "75e2ceca-5f8a-4be6-8361-bf389695c109",
+      "titulo": "Llamadas para comprar una bici, mangos o un tratamiento para la vagina: qué pasa si la IA distribuye tu número de teléfono",
+      "resumen": "Un hombre cuenta cómo recibe llamadas con quejas y dudas de clientes de clínicas estéticas, tiendas de persianas o farmacias online después de que Gemini y ChatGPT ofrecieran su móvil por error",
+      "url": "https://elpais.com/tecnologia/2026-11-20/llamadas-para-comprar-una-bici-mangos-o-un-tratamiento-para-la-vagina-que-pasa-si-la-ia-distribuye-tu-numero-de-telefono.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ANI4MBLTO5AG7AKHBGSFSSIRSU.jpg?auth=30338ac70ce95e3ee755c14f091c7a240aed8ec3f635fdf4835966958aa0b1e0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-20T04:30:01.000Z",
+      "fechaAgregada": "2026-11-27T15:23:09.626Z",
+      "puntosClave": [
+        "Un usuario privado sufre acoso telefónico diario debido a que varios LLMs asignan erróneamente su número a diversos comercios.",
+        "El fenómeno expone fallos críticos en la verificación de datos reales y alucinaciones recurrentes tanto en ChatGPT como en Gemini.",
+        "Las víctimas quedan indefensas ante la dificultad de rectificar información inexacta alojada en la memoria o indexación de las IAs."
+      ],
+      "porQueImporta": "Evidencia una vulnerabilidad legal e industrial masiva: si los desarrolladores no implementan filtros rigurosos para validar datos de contacto reales, las empresas de IA enfrentarán graves sanciones de privacidad y demandas por daños a terceros.",
+      "tags": [
+        "LLMs",
+        "Privacidad",
+        "ChatGPT",
+        "Gemini"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "db08bf39-2eca-4295-a044-fd20cb010d3e",
+      "titulo": "Así está el mercado laboral de tecnología: una de cada seis ofertas pide IA, solo uno de cada 60 programadores la pone en su currículum",
+      "resumen": "Los puestos de trabajo en España para desarrolladores muestran el crecimiento rápido de la inteligencia artificial y las dificultades para encontrar puestos júnior",
+      "url": "https://elpais.com/tecnologia/2026-11-19/asi-esta-el-mercado-laboral-de-tecnologia-una-de-cada-seis-ofertas-pide-ia-solo-uno-de-cada-60-programadores-la-pone-en-su-curriculum.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XM365A7D2ZC3FIAX4YOTKWKBFI.jpg?auth=7ea229e234f7cf0f523a0bf6297c0f6328f2d7b2a85eab6241dba231b37703e4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-19T06:00:00.000Z",
+      "fechaAgregada": "2026-11-27T15:23:09.627Z",
+      "puntosClave": [
+        "Existe un desajuste crítico en España: el 16.6% de las ofertas exige competencias en IA, pero solo el 1.6% de los desarrolladores las visibiliza en su perfil.",
+        "El auge de la inteligencia artificial está reconfigurando el perfil técnico demandado, elevando la barra de entrada para el talento novato.",
+        "La dificultad para encajar perfiles júnior se acentúa por la brecha entre la adopción real de herramientas de IA y su certificación formal en el currículum."
+      ],
+      "porQueImporta": "Esta asimetría demuestra que el mercado no padece falta de programadores, sino una acelerada mutación de requisitos que la formación tradicional no liquida a tiempo. Para los perfiles júnior, la fluidez en herramientas de IA deja de ser un valor añadido opcional para convertirse en el único salvoconducto frente al filtro de contratación automatizado.",
+      "tags": [
+        "MercadoLaboral",
+        "EmpleoIA",
+        "DesarrolloDeSoftware",
+        "TalentoTech"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
