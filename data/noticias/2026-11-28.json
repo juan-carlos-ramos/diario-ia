@@ -1,0 +1,273 @@
+{
+  "fecha": "2026-11-28",
+  "generado": "2026-11-28T14:39:27.449Z",
+  "total": 11,
+  "enriquecidasConIA": 8,
+  "noticias": [
+    {
+      "id": "a96c311e-904f-4466-840e-3b6484f2f6ad",
+      "titulo": "China ya fabrica casi una de cada once memorias DRAM del mundo y la IA le está pagando la fábrica",
+      "resumen": "Es la época dorada para las memorias... para fabricarlas, quiero decir. Si te dedicas a la manufactura de componentes, gracias a la IA vas a vender todo lo que produzcas y más.",
+      "url": "https://www.xataka.com/componentes/china-fabrica-casi-cada-once-memorias-dram-mundo-ia-le-esta-pagando-fabrica",
+      "imagen": "https://i.blogs.es/9c0646/chiiii/1024_2000.jpeg",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-28T11:00:26.000Z",
+      "fechaAgregada": "2026-11-28T14:23:16.832Z",
+      "puntosClave": [
+        "Es la época dorada para las memorias...",
+        "para fabricarlas, quiero decir.",
+        "Si te dedicas a la manufactura de componentes, gracias a la IA vas a vender todo lo que produzcas y más."
+      ],
+      "porQueImporta": "«China ya fabrica casi una de cada once memorias DRAM del mundo y la IA le está…» según Xataka: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "15c3d766-6314-41c0-bb56-27587ff97084",
+      "titulo": "Tras arrasar en matemáticas y ciberseguridad, la IA tiene nuevo objetivo: liberar las funciones capadas de tu cámara de fotos",
+      "resumen": "El firmware es el software interno que decide lo que puedes y no puedes hacer con tu dispositivo. Es algo que los fabricantes siempre han controlado con celo, pero la inteligencia artificial está facilitando destriparlo.",
+      "url": "https://www.xataka.com/robotica-e-ia/arrasar-matematicas-ciberseguridad-ia-tiene-nuevo-objetivo-liberar-funciones-capadas-tu-camara-fotos",
+      "imagen": "https://i.blogs.es/13b9b5/primer-plano-de-camara-mirrorless-negra/1024_2000.png",
+      "fuente": "Xataka",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-28T09:30:31.000Z",
+      "fechaAgregada": "2026-11-28T14:23:16.832Z",
+      "puntosClave": [
+        "La IA escala hacia la ingeniería inversa, facilitando el análisis y la modificación del código interno de los dispositivos.",
+        "Investigadores aplican modelos avanzados para desbloquear funciones de hardware limitadas intencionadamente por los fabricantes.",
+        "Esta democratización del hacking de firmware pone en riesgo el modelo de negocio basado en capar prestaciones por software."
+      ],
+      "porQueImporta": "Esta tendencia transforma la relación con el hardware: la IA democratiza el acceso al código embebido, obligando a los fabricantes a reconsiderar cómo monetizan sus dispositivos y a reforzar la ciberseguridad frente a modificaciones no autorizadas.",
+      "tags": [
+        "Hardware",
+        "Firmware",
+        "Ingeniería Inversa",
+        "Ciberseguridad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "ab0b30f5-2f53-4b69-b949-d08f4d1bb519",
+      "titulo": "Rebelión científica tras el anuncio de un colaborador de OpenAI que asegura haber resuelto el gran problema de la física",
+      "resumen": "Ven Chandrasekaran, de Stanford, propone una descripción de la gravedad cuántica, difundida y aplaudida por Sam Altman en redes. La élite del campo la cuestiona y la tacha de operación de márketing",
+      "url": "https://elpais.com/ciencia/2026-11-27/rebelion-cientifica-tras-el-anuncio-de-un-colaborador-de-openai-que-asegura-haber-resuelto-el-gran-problema-de-la-fisica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YXJZEQE34NOFNCUR5MNHWRCHZQ.jpg?auth=e940f0e0ef664419ee56d2ddbfa1c80a825c13b78e2fc14b72fea9df740b3e45",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T21:13:06.000Z",
+      "fechaAgregada": "2026-11-28T14:23:17.401Z",
+      "puntosClave": [
+        "Un investigador afiliado a Stanford y OpenAI asegura haber formulado una solución teórica a la gravedad cuántica.",
+        "El respaldo público e inmediato de Sam Altman catapultó la visibilidad del paper esquivando los cauces tradicionales.",
+        "La comunidad de físicos teóricos denuncia una maniobra de autopromoción y exige un proceso de revisión por pares riguroso."
+      ],
+      "porQueImporta": "El incidente evidencia la creciente tensión entre el 'hype' desmedido del ecosistema tech de Silicon Valley y el método científico estricto, alertando a investigadores sobre el riesgo de usar el altavoz de la IA para validar avances no contrastados.",
+      "tags": [
+        "OpenAI",
+        "Comunidad Científica",
+        "Sam Altman",
+        "Investigación"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "a0dfa73c-09e9-4288-9d26-a9eb89835af7",
+      "titulo": "Atari suspende sus premios de videojuegos tras verse desbordada por títulos generados con IA",
+      "resumen": "Desarrollar un juego para la consola Atari era uno de esos momentos que muchos desarrolladores tenían en mente pensando en los premios de la propia compañía.",
+      "url": "https://hardzone.es/noticias/juegos/atari-suspende-homebrew-awards-inteligencia-artificial/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/Atari-Homebrew-Awards.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T18:33:04.000Z",
+      "fechaAgregada": "2026-11-28T14:23:19.808Z",
+      "puntosClave": [
+        "Desarrollar un juego para la consola Atari era uno de esos momentos que muchos desarrolladores tenían en mente pensando en los premios…"
+      ],
+      "porQueImporta": "«Atari suspende sus premios de videojuegos tras verse desbordada por títulos…» según HardZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "677379f5-31b1-4df6-b51f-da4becd87518",
+      "titulo": "OpenAI hará que ChatGPT y Codex compartan sus límites de uso",
+      "resumen": "La evolución de ChatGPT está difuminando las fronteras entre conversar con una inteligencia artificial y encargarle tareas completas. OpenAI quiere que sus herramientas funcionen cada vez más como un único entorno de trabajo, y esa integración traerá un cambio importante para quienes pagan…",
+      "url": "https://www.muycomputer.com/2026/11/27/openai-hara-que-chatgpt-y-codex-compartan-sus-limites-de-uso/",
+      "imagen": "https://picsum.photos/seed/131/800/450",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T18:02:56.000Z",
+      "fechaAgregada": "2026-11-28T14:23:20.958Z",
+      "puntosClave": [
+        "OpenAI unificará la cuota de consumo entre ChatGPT y Codex, consolidándolos bajo un mismo límite de uso.",
+        "La estrategia busca transformar sus servicios independientes en un ecosistema de trabajo integrado y fluido.",
+        "Los usuarios de pago deberán optimizar la distribución de sus recursos entre la interacción conversacional y la generación de código."
+      ],
+      "porQueImporta": "Esta unificación fuerza a los desarrolladores y empresas a gestionar estratégicamente su consumo de tokens, señalando un cambio de modelo hacia suscripciones unificadas donde el valor reside en el ecosistema global y no en herramientas aisladas.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Codex",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "11abc2b7-7f88-4993-86bd-2c884f7ce4e0",
+      "titulo": "NVIDIA prueba una nueva forma de ampliar la capacidad de sus GPU utilizando unidades SSD NVMe",
+      "resumen": "La memoria de las tarjetas gráficas se ha convertido en uno de los grandes cuellos de botella para el desarrollo de la Inteligencia Artificial. Los modelos son cada vez más grandes, necesitan manejar conjuntos de datos gigantescos y dependen de memorias HBM cuyo coste y capacidad disponible empiezan…",
+      "url": "https://hardzone.es/noticias/inteligencia-artificial/nvidia-kioxia-144-ssd-gpu-inteligencia-artificial/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/centro-datos-ssd-kioxia.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T10:25:03.000Z",
+      "fechaAgregada": "2026-11-28T14:23:19.809Z",
+      "puntosClave": [
+        "NVIDIA busca mitigar el cuello de botella de la memoria HBM integrando unidades SSD NVMe como extensión directa de la GPU.",
+        "La técnica persigue almacenar y gestionar conjuntos de datos masivos sin disparar los costes de fabricación de hardware especializado.",
+        "De tener éxito, esta arquitectura optimizará el rendimiento en cargas de trabajo de IA sin depender exclusivamente de VRAM ultracostosa."
+      ],
+      "porQueImporta": "El coste y la escasez de memoria HBM suponen hoy el mayor freno para escalar la infraestructura de IA. Permitir que las GPUs aprovechen el almacenamiento NVMe reducirá drásticamente las barreras económicas para que startups y desarrolladores entrenen modelos más complejos con menor presupuesto.",
+      "tags": [
+        "NVIDIA",
+        "Hardware",
+        "VRAM",
+        "LLMs"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "5531c453-682a-4ddb-bb24-7470320583f1",
+      "titulo": "Van a intentar robar tu cuenta de Google con estas entrevistas falsas",
+      "resumen": "Una campaña de phishing activa desde el 13 de octubre suplanta a grandes marcas para robar credenciales corporativas de Google y Okta a través de falsas invitaciones a entrevistas pagadas.",
+      "url": "https://www.redeszone.net/noticias/seguridad/campana-goodguys-entrevistas-falsas-google/",
+      "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/11/imagen-representa-malware.jpg",
+      "fuente": "RedesZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T09:06:32.000Z",
+      "fechaAgregada": "2026-11-28T14:23:18.999Z",
+      "puntosClave": [
+        "Campaña de phishing activa desde mediados de octubre suplanta a gigantes tecnológicos mediante falsas ofertas de empleo remuneradas.",
+        "El objetivo principal es el robo de credenciales corporativas de alto nivel en plataformas críticas como Okta y Google Workspace.",
+        "El ataque utiliza técnicas avanzadas de ingeniería social orientadas a profesionales para eludir los filtros de seguridad habituales."
+      ],
+      "porQueImporta": "Esta amenaza pone en jaque la gestión de identidades corporativas (IAM) al vulnerar el factor humano. Al comprometer accesos de Okta y Google, los atacantes logran entrada directa a la infraestructura, código fuente y datos confidenciales de las empresas sin activar alarmas perimetrales.",
+      "tags": [
+        "Ciberseguridad",
+        "Phishing",
+        "SeguridadCorporativa",
+        "Okta"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "4f037e61-09de-4c6f-aa92-139be35abf3b",
+      "titulo": "Después de meses de subidas, la memoria RAM DDR4 empieza a dar señales de estabilización de cara a 2027",
+      "resumen": "Después de meses de subidas que han disparado el coste de la memoria RAM, empiezan a aparecer las primeras señales de que el mercado podría estar perdiendo fuerza: los precios de la memoria DDR4 han comenzado a retroceder en el mercado al contado (spot) y las previsiones para 2027 son más…",
+      "url": "https://hardzone.es/noticias/componentes/precio-memoria-ram-ddr4-baja-previsiones-2027/",
+      "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/11/memoria-ddr4.jpg",
+      "fuente": "HardZone",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-27T06:58:42.000Z",
+      "fechaAgregada": "2026-11-28T14:23:19.809Z",
+      "puntosClave": [
+        "Después de meses de subidas que han disparado el coste de la memoria RAM",
+        "empiezan a aparecer las primeras señales de que el mercado podría estar perdiendo fuerza",
+        "los precios de la memoria DDR4 han comenzado a retroceder en el mercado al contado (spot) y las previsiones para 2027 son más…"
+      ],
+      "porQueImporta": "«Después de meses de subidas, la memoria RAM DDR4 empieza a dar señales…» según HardZone: análisis en profundidad pendiente de síntesis editorial.",
+      "tags": [
+        "Inteligencia Artificial"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": false
+    },
+    {
+      "id": "cfe349e4-7b45-48d0-b30e-895bcf0424c5",
+      "titulo": "Gemini Notebook quiere que estudies mejor, y ahora también te recuerda cuándo toca",
+      "resumen": "Hay una diferencia importante entre entender algo mientras lo estamos leyendo y ser capaces de recordarlo unos días después. Podemos preparar unos apuntes excelentes, organizar toda la información y generar resúmenes muy completos, pero aprender también exige practicar, comprobar qué recordamos…",
+      "url": "https://www.muycomputer.com/2026/11/26/gemini-notebook-quiere-que-estudies-mejor-y-ahora-tambien-te-recuerda-cuando-toca/",
+      "imagen": "https://www.muycomputer.com/wp-content/uploads/2026/11/Gemini-Notebook-2.jpg",
+      "fuente": "MuyComputer",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-26T18:05:58.000Z",
+      "fechaAgregada": "2026-11-28T14:23:20.958Z",
+      "puntosClave": [
+        "Google evoluciona su libreta inteligente integrando recordatorios y mecánicas de repaso programado basadas en la retención cognitiva.",
+        "La herramienta pasa de ser un sintetizador pasivo de documentos a un tutor activo que gestiona la curva del olvido del usuario.",
+        "La actualización busca cerrar la brecha entre la comprensión inmediata de un texto y la consolidación del aprendizaje a largo plazo."
+      ],
+      "porQueImporta": "Esta función marca la transición del software de productividad tradicional hacia sistemas EdTech verdaderamente proactivos, donde la IA no solo organiza la información, sino que optimiza directamente los procesos neurocognitivos de aprendizaje y gestión del conocimiento.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "EdTech",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "63fe3d5f-8128-46db-9cef-6a0be76d309e",
+      "titulo": "Llamadas para comprar una bici, mangos o un tratamiento para la vagina: qué pasa si la IA distribuye tu número de teléfono",
+      "resumen": "Un hombre cuenta cómo recibe llamadas con quejas y dudas de clientes de clínicas estéticas, tiendas de persianas o farmacias online después de que Gemini y ChatGPT ofrecieran su móvil por error",
+      "url": "https://elpais.com/tecnologia/2026-11-20/llamadas-para-comprar-una-bici-mangos-o-un-tratamiento-para-la-vagina-que-pasa-si-la-ia-distribuye-tu-numero-de-telefono.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ANI4MBLTO5AG7AKHBGSFSSIRSU.jpg?auth=30338ac70ce95e3ee755c14f091c7a240aed8ec3f635fdf4835966958aa0b1e0",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-20T04:30:01.000Z",
+      "fechaAgregada": "2026-11-28T14:23:17.401Z",
+      "puntosClave": [
+        "Gemini y ChatGPT han comenzado a inventar o alucinar números de teléfono reales al responder consultas comerciales de los usuarios.",
+        "Un afectado reporta recibir llamadas continuas dirigidas a negocios tan diversos como clínicas estéticas, frutaderías o tiendas de persianas.",
+        "El incidente expone la vulnerabilidad de la reputación personal y el acoso involuntario derivado de la falta de verificación de datos en los LLM."
+      ],
+      "porQueImporta": "Este caso evidencia que las alucinaciones de los LLM ya no son fallos inofensivos, sino un riesgo de privacidad y spam para ciudadanos reales, lo que obligará a los desarrolladores a implementar filtros de validación de datos personales más estrictos.",
+      "tags": [
+        "Privacidad",
+        "LLMs",
+        "ChatGPT",
+        "Gemini",
+        "Ciberseguridad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    },
+    {
+      "id": "8a23b39f-0621-4ae3-be37-a649ad4ee7c2",
+      "titulo": "Así está el mercado laboral de tecnología: una de cada seis ofertas pide IA, solo uno de cada 60 programadores la pone en su currículum",
+      "resumen": "Los puestos de trabajo en España para desarrolladores muestran el crecimiento rápido de la inteligencia artificial y las dificultades para encontrar puestos júnior",
+      "url": "https://elpais.com/tecnologia/2026-11-19/asi-esta-el-mercado-laboral-de-tecnologia-una-de-cada-seis-ofertas-pide-ia-solo-uno-de-cada-60-programadores-la-pone-en-su-curriculum.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XM365A7D2ZC3FIAX4YOTKWKBFI.jpg?auth=7ea229e234f7cf0f523a0bf6297c0f6328f2d7b2a85eab6241dba231b37703e4",
+      "fuente": "El País Tecnología",
+      "categoria": "tecnologia",
+      "fechaPublicacion": "2026-11-19T06:00:00.000Z",
+      "fechaAgregada": "2026-11-28T14:23:17.401Z",
+      "puntosClave": [
+        "Existe un profundo desfase entre la demanda corporativa y el talento disponible: el 16% de las vacantes exige conocimientos de IA.",
+        "Apenas el 1,6% de los profesionales de la programación refleja habilidades en inteligencia artificial en sus perfiles profesionales.",
+        "El auge de las herramientas generativas está elevando las exigencias de entrada, complicando la inserción del talento júnior en el sector."
+      ],
+      "porQueImporta": "Este desequilibrio evidencia que la industria avanza más rápido que la formación de sus profesionales, forzando a los desarrolladores a reciclarse a marchas forzadas y a las empresas a competir agresivamente por un nicho de talento extremadamente reducido.",
+      "tags": [
+        "MercadoLaboral",
+        "DesarrolloDeSoftware",
+        "EmpleoIA",
+        "Productividad"
+      ],
+      "tiempoLecturaMin": 1,
+      "enriquecidoConIA": true
+    }
+  ]
+}
